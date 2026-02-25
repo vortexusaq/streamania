@@ -3,10 +3,10 @@
 // ========================================
 
 const DiscordSystem = {
-    // 🔽 REMPLACE AVEC TON VRAI CLIENT ID
+    //  REMPLACE AVEC TON VRAI CLIENT ID
     CLIENT_ID: '1253780703296880711',
     
-    // 🔽 URL de redirection - METS LA MÊME QUE DANS DISCORD
+    //  URL de redirection - METS LA MÊME QUE DANS DISCORD
     REDIRECT_URI: 'http://localhost:3000',
     
     init() {
