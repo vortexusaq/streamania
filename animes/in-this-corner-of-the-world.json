@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "in-this-corner-of-the-world",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/in-this-corner-of-the-world.jpg",
+    "desc": "Suzu Urano est une fille d'Hiroshima. Lorsqu'elle se marie avec le fils de la famille Hojo, elle part vivre chez lui, à Kure, une ville où l'aspect militaire est particulièrement présent puisqu'elle dispose entre autres d'une base navale. Alors que leur quotidien se met en place, la jeune femme découvre les déceptions de la vie de couple : quelques souvenirs du passé refont surface... Petit à petit, la vie que Suzu avait pourtant rêvé empire et la guerre n'arrange pas les choses. En 1945, un bombardement va littéralement bouleverser son existence...",
+    "genres": "Drame, Historique, Romance, Slice-of-Life, Famille, Guerre, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-7ndah8m1k6bx.html"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "deadman-wonderland",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/deadman-wonderland.jpg",
+    "desc": "Il y a 10 ans, un tremblement de terre a plongé Tokyo dans le chaos. 70% de la ville a alors été submergée par les eaux. Un collégien de 14 ans, se nommant Ganta Igarashi, s'avère être un survivant de cette terrible catastrophe, mais ne s'en souvient visiblement pas.\n\nUn jour comme tous les autres dans la salle de classe du jeune garçon, un homme rouge ayant l'air très énigmatique débarque sans prévenir, et, en arrivant par la fenêtre, il détruit en un rien de temps le lieu, puis tous ceux se trouvant dans celui-ci. A part Ganta, qui, une fois de plus, a survécu. Ce dernier est à présent tout seul... Et comme cela ne suffisait pas, lorsqu'il se réveille dans sa chambre d'hôpital, il se retrouve tout à coup accusé, sans qu'il ne sache pourquoi, et condamné à mort. Lui prétend pourtant n'avoir commis aucun meurtre, cela le bouleverse donc beaucoup, en plus de la perte de tous ses amis.\n\nSuite à cela, on finit par emmener Ganta à la prison privée Deadman Wonderland, une prison où les règles se révèlent peu ordinaires, ce qui en fait un endroit assez angoissant.\nLà-bas, il fera l'étrange rencontre de Shiro, une jeune fille qui a l'air de le connaître depuis longtemps et qui le considère comme un ami. Il découvrira également que depuis la disparition de tous ses proches, il possède un pouvoir inhabituel...",
+    "genres": "Action, Drame, Horreur, Épouvante, Mystère, Science-fiction, Shônen, Surnaturel, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-ndcys5qq3ugx.html",
+            "https://vidmoly.to/embed-tnl8l6vqbr6n.html",
+            "https://video.sibnet.ru/shell.php?videoid=4765465",
+            "https://vidmoly.to/embed-48phdejq850z.html",
+            "https://vidmoly.to/embed-3olzifx0zzj3.html",
+            "https://vidmoly.to/embed-iqgyvl0blm96.html",
+            "https://vidmoly.to/embed-fy01gwyttb6q.html",
+            "https://vidmoly.to/embed-p0swzqgez3wo.html",
+            "https://vidmoly.to/embed-47zwnp55dmda.html",
+            "https://vidmoly.to/embed-gegltnz29x0k.html",
+            "https://vidmoly.to/embed-5kf194vvga85.html",
+            "https://vidmoly.to/embed-xbdn705uugwj.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4765461",
+            "https://video.sibnet.ru/shell.php?videoid=4765464",
+            "https://video.sibnet.ru/shell.php?videoid=4765465",
+            "https://video.sibnet.ru/shell.php?videoid=4765468",
+            "https://video.sibnet.ru/shell.php?videoid=4765472",
+            "https://video.sibnet.ru/shell.php?videoid=4765476",
+            "https://video.sibnet.ru/shell.php?videoid=4765478",
+            "https://video.sibnet.ru/shell.php?videoid=4765479",
+            "https://video.sibnet.ru/shell.php?videoid=4765482",
+            "https://video.sibnet.ru/shell.php?videoid=4765485",
+            "https://video.sibnet.ru/shell.php?videoid=4765487",
+            "https://video.sibnet.ru/shell.php?videoid=4765491"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/1nau5zis",
+            "https://sendvid.com/embed/54k6pwnz",
+            "https://sendvid.com/embed/8h4qkr7p",
+            "https://sendvid.com/embed/ip3rkw7v",
+            "https://sendvid.com/embed/28vh9xhy",
+            "https://sendvid.com/embed/gxccpmzx",
+            "https://sendvid.com/embed/46kgx319",
+            "https://sendvid.com/embed/6efivv3a",
+            "https://sendvid.com/embed/jphvpmj6",
+            "https://sendvid.com/embed/fw6kn4qk",
+            "https://sendvid.com/embed/eznrdsa1",
+            "https://sendvid.com/embed/zezi5vpd"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4765493"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/ua8r8q4x"
+          ]
+        }
+      }
+    }
+  }
+}

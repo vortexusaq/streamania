@@ -1,0 +1,165 @@
+{
+  "data": {
+    "name": "castlevania",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/castlevania.jpg",
+    "desc": "L'histoire retrace les aventures de Trevor Belmont qui combat le vampire Vlad Dracula Tepes. Ce vampire, après la mise à mort de sa femme au bûcher, décide pour se venger d'exterminer l'espèce humaine.",
+    "genres": "Action, Drame, Fantasy, Horreur, Épouvante, Science-fiction, Combats, Gore, Vampires",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 5,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/bbo6efqhoy8rjg4xuu8woup5sa",
+            "https://www.myvi.tv/embed/97drfzmmpdrwpghcfuztt8mf3c",
+            "https://www.myvi.tv/embed/539ceyj63euw5kd31e7krue56y",
+            "https://www.myvi.tv/embed/t5zosgdddemrmnfaktdrpc8duc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5244621",
+            "https://video.sibnet.ru/shell.php?videoid=5244623",
+            "https://video.sibnet.ru/shell.php?videoid=5244624",
+            "https://video.sibnet.ru/shell.php?videoid=5244627"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/lbbzexpm",
+            "https://sendvid.com/embed/8ud247cn",
+            "https://sendvid.com/embed/2il59re7",
+            "https://sendvid.com/embed/8au09e94"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/bdsh9bks6wtrmcsh5m3hhrfr3e",
+            "https://www.myvi.tv/embed/nmwigay6gxar3d6n58xtcungxo",
+            "https://www.myvi.tv/embed/o3119xz9aqmwfeo1tumcfzharo",
+            "https://www.myvi.tv/embed/kac9a5tfwx7wmdzkf1iq7dkaay",
+            "https://www.myvi.tv/embed/sg1ka43zk8ar5rufx14sat5cah",
+            "https://www.myvi.tv/embed/g7j6naeh6nywdkp1573wu9bzqy",
+            "https://www.myvi.tv/embed/sx8dhgke3hqw8be5tewj45gimw",
+            "https://www.myvi.tv/embed/wki64xmrdwmwzpgnjs4j41okhc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5244628",
+            "https://video.sibnet.ru/shell.php?videoid=5244629",
+            "https://video.sibnet.ru/shell.php?videoid=5244631",
+            "https://video.sibnet.ru/shell.php?videoid=5244633",
+            "https://video.sibnet.ru/shell.php?videoid=5244635",
+            "https://video.sibnet.ru/shell.php?videoid=5244637",
+            "https://video.sibnet.ru/shell.php?videoid=5244640",
+            "https://video.sibnet.ru/shell.php?videoid=5244642"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/k3iefvq6",
+            "https://sendvid.com/embed/8x3odqv1",
+            "https://sendvid.com/embed/5coibdq9",
+            "https://sendvid.com/embed/336camat",
+            "https://sendvid.com/embed/m5w0qcv0",
+            "https://sendvid.com/embed/1ahukw8u",
+            "https://sendvid.com/embed/hbnftzbe",
+            "https://sendvid.com/embed/m7ihiyza"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/o5erdkgu9wsrzx34apticx4p9a",
+            "https://www.myvi.tv/embed/qrhwzjb1fxfrmnhtd5swbhx1gc",
+            "https://www.myvi.tv/embed/5ufiihpc3nqw5gt15ihfiifa5y",
+            "https://www.myvi.tv/embed/9dpfpkjr8rzwxq7wn7ucp36tir",
+            "https://www.myvi.tv/embed/dme1urshxa8w8macq3pj4we95a",
+            "https://www.myvi.tv/embed/gdrqrn5pqkhriqoj1yt8xjc3oh",
+            "https://www.myvi.tv/embed/uqn87f6bs7srfnzmqfc16go3zr",
+            "https://www.myvi.tv/embed/hr47o379d63rzj3dfhgmds8ccw",
+            "https://www.myvi.tv/embed/me4br58isdtwtros4jzdsijx4e",
+            "https://www.myvi.tv/embed/xn75ttrc79yrtk1cyr91b158eo"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5244643",
+            "https://video.sibnet.ru/shell.php?videoid=5244645",
+            "https://video.sibnet.ru/shell.php?videoid=5244646",
+            "https://video.sibnet.ru/shell.php?videoid=5244648",
+            "https://video.sibnet.ru/shell.php?videoid=5244649",
+            "https://video.sibnet.ru/shell.php?videoid=5244651",
+            "https://video.sibnet.ru/shell.php?videoid=5244653",
+            "https://video.sibnet.ru/shell.php?videoid=5244656",
+            "https://video.sibnet.ru/shell.php?videoid=5244659",
+            "https://video.sibnet.ru/shell.php?videoid=5244660"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/bv53b77b",
+            "https://sendvid.com/embed/t6757mgz",
+            "https://sendvid.com/embed/rbme1ibt",
+            "https://sendvid.com/embed/7rmiu0wj",
+            "https://sendvid.com/embed/q9kockza",
+            "https://sendvid.com/embed/m0xtiina",
+            "https://sendvid.com/embed/ix8ign3n",
+            "https://sendvid.com/embed/orob9nbm",
+            "https://sendvid.com/embed/kz8gtzgm",
+            "https://sendvid.com/embed/e3114t7t"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5358760",
+            "https://video.sibnet.ru/shell.php?videoid=5358762",
+            "https://video.sibnet.ru/shell.php?videoid=5358763",
+            "https://video.sibnet.ru/shell.php?videoid=5358764",
+            "https://video.sibnet.ru/shell.php?videoid=5358765",
+            "https://video.sibnet.ru/shell.php?videoid=5358766",
+            "https://video.sibnet.ru/shell.php?videoid=5358767",
+            "https://video.sibnet.ru/shell.php?videoid=5358768",
+            "https://video.sibnet.ru/shell.php?videoid=5358769",
+            "https://video.sibnet.ru/shell.php?videoid=5358771"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/jc2b95yh",
+            "https://sendvid.com/embed/ulcgxl0o",
+            "https://sendvid.com/embed/zhue48rh",
+            "https://sendvid.com/embed/7zaoao2w",
+            "https://sendvid.com/embed/fqe9ryfg",
+            "https://sendvid.com/embed/x5c7ostm",
+            "https://sendvid.com/embed/xqd2e0tr",
+            "https://sendvid.com/embed/gk9dhjm6",
+            "https://sendvid.com/embed/vklrfsx2",
+            "https://sendvid.com/embed/s5vanv7h"
+          ]
+        }
+      },
+      "Nocturne": {
+        "url": "saison5/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/yllzoasp",
+            "https://sendvid.com/embed/5st9th8d",
+            "https://sendvid.com/embed/n79jmkey",
+            "https://sendvid.com/embed/z5pcflt5",
+            "https://sendvid.com/embed/zhlomvnk",
+            "https://sendvid.com/embed/7k63joe6",
+            "https://sendvid.com/embed/0rzr2m9q",
+            "https://sendvid.com/embed/ds7g3dwe"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-zt706o7bvpq5.html",
+            "https://vidmoly.to/embed-pu8eapj0s69d.html",
+            "https://vidmoly.to/embed-4lkq9l8npf9t.html",
+            "https://vidmoly.to/embed-l62jm4bg67lx.html",
+            "https://vidmoly.to/embed-tgx1nsm7v262.html",
+            "https://vidmoly.to/embed-qsqka2sv1odb.html",
+            "https://vidmoly.to/embed-u3oqajmom67b.html",
+            "https://vidmoly.to/embed-ccquwpamzk86.html"
+          ]
+        }
+      }
+    }
+  }
+}

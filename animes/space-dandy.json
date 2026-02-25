@@ -1,0 +1,82 @@
+{
+  "data": {
+    "name": "space-dandy",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/space-dandy.jpg",
+    "desc": "Dandy exerce un drôle de métier : il est chasseur d'aliens ! En effet, le jeune homme parcourt l'espace, de mondes inconnus en mondes inconnus, afin de découvrir de nouvelles espèces d'aliens et, s'il le peut, les apprivoiser. Chaque nouvelle espèce découverte lui apporte prestige et richesse, mais attention, malgré son air désinvolte, Dandy doit rester sur ses gardes car il n'est pas le seul à parcourir l'espace. Au cours de son voyage, il est accompagné de QT, son assistant robot, et de Meow, un chat-alien.",
+    "genres": "Aventure, Comédie, Fantasy, Science-fiction, Aliens, Extra-terrestres, Espace, Parodie, Robots",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/0oo9ro8z",
+            "https://sendvid.com/embed/zxuiryne",
+            "https://sendvid.com/embed/28wuhx17",
+            "https://sendvid.com/embed/jdh00cuy",
+            "https://sendvid.com/embed/msgel2m7",
+            "https://sendvid.com/embed/oh7jw73t",
+            "https://sendvid.com/embed/kovzbv5n",
+            "https://sendvid.com/embed/hmdq380v",
+            "https://sendvid.com/embed/m5f7ycci",
+            "https://sendvid.com/embed/16zpctyz",
+            "https://sendvid.com/embed/c2n8fc2u",
+            "https://sendvid.com/embed/blibopnm",
+            "https://sendvid.com/embed/3oa1pykf"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5455743",
+            "https://video.sibnet.ru/shell.php?videoid=5455746",
+            "https://video.sibnet.ru/shell.php?videoid=5455750",
+            "https://video.sibnet.ru/shell.php?videoid=5455754",
+            "https://video.sibnet.ru/shell.php?videoid=5455756",
+            "https://video.sibnet.ru/shell.php?videoid=5455758",
+            "https://video.sibnet.ru/shell.php?videoid=5455760",
+            "https://video.sibnet.ru/shell.php?videoid=5455762",
+            "https://video.sibnet.ru/shell.php?videoid=5455764",
+            "https://video.sibnet.ru/shell.php?videoid=5455766",
+            "https://video.sibnet.ru/shell.php?videoid=5455768",
+            "https://video.sibnet.ru/shell.php?videoid=5455771",
+            "https://video.sibnet.ru/shell.php?videoid=5455774"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/4y9c9msm",
+            "https://sendvid.com/embed/fkubvdxp",
+            "https://sendvid.com/embed/w1iyro0s",
+            "https://sendvid.com/embed/1niuoyvb",
+            "https://sendvid.com/embed/g1y5yy6t",
+            "https://sendvid.com/embed/uscicn9y",
+            "https://sendvid.com/embed/0gehhxg3",
+            "https://sendvid.com/embed/p1os35zr",
+            "https://sendvid.com/embed/lwi21kx6",
+            "https://sendvid.com/embed/kpgbfozs",
+            "https://sendvid.com/embed/gik22d4y",
+            "https://sendvid.com/embed/vyxuoj2x",
+            "https://sendvid.com/embed/ograr761"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5455777",
+            "https://video.sibnet.ru/shell.php?videoid=5455779",
+            "https://video.sibnet.ru/shell.php?videoid=5455782",
+            "https://video.sibnet.ru/shell.php?videoid=5455783",
+            "https://video.sibnet.ru/shell.php?videoid=5455786",
+            "https://video.sibnet.ru/shell.php?videoid=5455787",
+            "https://video.sibnet.ru/shell.php?videoid=5455790",
+            "https://video.sibnet.ru/shell.php?videoid=5455794",
+            "https://video.sibnet.ru/shell.php?videoid=5455795",
+            "https://video.sibnet.ru/shell.php?videoid=5455798",
+            "https://video.sibnet.ru/shell.php?videoid=5455805",
+            "https://video.sibnet.ru/shell.php?videoid=5455808",
+            "https://video.sibnet.ru/shell.php?videoid=5455810"
+          ]
+        }
+      }
+    }
+  }
+}

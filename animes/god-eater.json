@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "god-eater",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/god-eater.jpg",
+    "desc": "L'histoire se déroule dans un univers post-apocalyptique où la population a presque été anéantie par de puissantes créatures démoniaques appelée Aragami. Pour sauver l'humanité, un groupe pharmaceutique a créé une arme organique, les Jinki, qui tire sa force en dévorant les Aragami. Ces armes ont pour particularité de fusionner avec quelques humains et représentent l'unique moyen d'éliminer ces monstres. On suit les membres de l'organisation Fenrir à travers différentes missions, qui combatstent les Aragami en utilisant les Jinki.",
+    "genres": "Action, Drame, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/zldgm9du",
+            "https://sendvid.com/embed/cwlo9yej",
+            "https://sendvid.com/embed/7flejf3s",
+            "https://sendvid.com/embed/mof7kkdh",
+            "https://sendvid.com/embed/7z6byvvz",
+            "https://sendvid.com/embed/fuon0jew",
+            "https://sendvid.com/embed/tzto1nkm",
+            "https://sendvid.com/embed/79h21jlp",
+            "https://sendvid.com/embed/2wjenkvy",
+            "https://sendvid.com/embed/ej9q5it6",
+            "https://sendvid.com/embed/t38ta58s",
+            "https://sendvid.com/embed/v4l2zblq",
+            "https://sendvid.com/embed/ixx613h6"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4944911",
+            "https://video.sibnet.ru/shell.php?videoid=4944918",
+            "https://video.sibnet.ru/shell.php?videoid=4944920",
+            "https://video.sibnet.ru/shell.php?videoid=4944928",
+            "https://video.sibnet.ru/shell.php?videoid=4944929",
+            "https://video.sibnet.ru/shell.php?videoid=4944940",
+            "https://video.sibnet.ru/shell.php?videoid=4944941",
+            "https://video.sibnet.ru/shell.php?videoid=4944943",
+            "https://video.sibnet.ru/shell.php?videoid=4944944",
+            "https://video.sibnet.ru/shell.php?videoid=5205259",
+            "https://video.sibnet.ru/shell.php?videoid=4944949",
+            "https://video.sibnet.ru/shell.php?videoid=4944950",
+            "https://video.sibnet.ru/shell.php?videoid=4944951"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/77o1xkiwopwrzq11g3p3yymqpy",
+            "https://www.myvi.top/embed/gnutzow5nkor8ydo8xhczxzx1o",
+            "https://www.myvi.top/embed/dp9js8e7afkrjfsr3wqbawihuw",
+            "https://www.myvi.top/embed/zibqy4w7xqyrfjmuaqpofbo6ze",
+            "https://www.myvi.top/embed/bxfn69xiyjordpe7r9ak7zpemy",
+            "https://www.myvi.top/embed/g4wsaiqa169rdj8n9y963mad8c",
+            "https://www.myvi.top/embed/51jtqgsajwxrzq4xng9whaboie",
+            "https://www.myvi.top/embed/g3jwq5bg9mwrxnthsyzuc8xpih",
+            "https://www.myvi.top/embed/b78fm7g9d34wjj56shueezktuy",
+            "https://www.myvi.tv/embed/83q1em7sjybrigwmqjon6rgmpy",
+            "https://www.myvi.top/embed/itqtrdmxejgrmdpyykxm8co53w",
+            "https://www.myvi.top/embed/pjr8wae3rchrpbfciysu9681ca",
+            "https://www.myvi.top/embed/k8r47tt357wr9ytdxx1a8q6uke"
+          ]
+        }
+      }
+    }
+  }
+}

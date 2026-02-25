@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "gimai-seikatsu",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gimai-seikatsu.jpg",
+    "desc": "Lorsque ses parents se remarient, Yuta Asamura, un lycéen, se retrouve sous le même toit que la plus belle fille de sa classe, Saki Ayase. Ayant été témoins des désaccords de leurs parents, ils ont des valeurs prudentes en matière de relations entre hommes et femmes, et promettent de garder une distance modérée entre eux, sans être trop proches ou conflictuels. Saki, qui est privée de l'amour de sa famille et qui demeure dans la solitude, ne sait pas comment agir avec les autres, tandis que Yuta est troublé par l'attitude de sa sœur à son égard. Les deux, qui se ressemblent un peu, trouvent peu à peu du réconfort dans la présence de l'autre.",
+    "genres": "Comédie, Romance, Slice-of-Life, Famille, Quotidien, Société",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5585374",
+            "https://video.sibnet.ru/shell.php?videoid=5593068",
+            "https://video.sibnet.ru/shell.php?videoid=5600642",
+            "https://video.sibnet.ru/shell.php?videoid=5609207",
+            "https://video.sibnet.ru/shell.php?videoid=5616990",
+            "https://video.sibnet.ru/shell.php?videoid=5626919",
+            "https://video.sibnet.ru/shell.php?videoid=5637577",
+            "https://video.sibnet.ru/shell.php?videoid=5648268",
+            "https://video.sibnet.ru/shell.php?videoid=5655940",
+            "https://video.sibnet.ru/shell.php?videoid=5663966",
+            "https://video.sibnet.ru/shell.php?videoid=5673821",
+            "https://video.sibnet.ru/shell.php?videoid=5682556"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-9sij94yo1vte.html",
+            "https://vidmoly.to/embed-zrcg6y3mjbny.html",
+            "https://vidmoly.to/embed-7wu6m6mwpu0z.html",
+            "https://vidmoly.to/embed-ghx7ui5fatgd.html",
+            "https://vidmoly.to/embed-q1dipoljq0tg.html",
+            "https://vidmoly.to/embed-h5ujj1rn5mua.html",
+            "https://vidmoly.to/embed-fg2rfnd3uhsl.html",
+            "https://vidmoly.to/embed-16gbn0hdj6vw.html",
+            "https://vidmoly.to/embed-b7c615675r4f.html",
+            "https://vidmoly.to/embed-ibov5qzwuagi.html",
+            "https://vidmoly.to/embed-gbhuqy3knuoa.html",
+            "https://vidmoly.to/embed-g74o2fevh62y.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/veytom1n",
+            "https://sendvid.com/embed/vv9b2i41",
+            "https://sendvid.com/embed/gj3c5suo",
+            "https://sendvid.com/embed/k2wj7nwm",
+            "https://sendvid.com/embed/saqrn6ou",
+            "https://sendvid.com/embed/iqor512j",
+            "https://sendvid.com/embed/enz3futa",
+            "https://sendvid.com/embed/3ihk2os3",
+            "https://sendvid.com/embed/9bos1w8q",
+            "https://sendvid.com/embed/xbb1ofnp",
+            "https://sendvid.com/embed/hgh0kd52",
+            "https://sendvid.com/embed/1ao4dncd"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239886&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239929&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239974&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240020&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240060&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240097&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240143&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240195&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240240&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240292&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240345&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240397&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "data": {
+    "name": "we-have-always-been-10-cm-apart",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/we-have-always-been-10-cm-apart.jpg",
+    "desc": "Cette série animée va se baser sur les musiques \"Hatsukoi no Ehon\" (The Picture Book of the First Love) et \"Ippun Ichibyō Kimi to Boku no\" (Yours and My One Minute and One Second) de HoneyWorks.",
+    "genres": "Comédie, Drame, Romance, School-Life, Slice-of-Life, Ecole, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/gejakcx4",
+            "https://sendvid.com/embed/o40jhvbs",
+            "https://sendvid.com/embed/64nyp93s",
+            "https://sendvid.com/embed/bpra55yr",
+            "https://sendvid.com/embed/jfp3gtxy",
+            "https://sendvid.com/embed/fh0dd161"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5407115",
+            "https://video.sibnet.ru/shell.php?videoid=5407116",
+            "https://video.sibnet.ru/shell.php?videoid=5407117",
+            "https://video.sibnet.ru/shell.php?videoid=5407120",
+            "https://video.sibnet.ru/shell.php?videoid=5407122",
+            "https://video.sibnet.ru/shell.php?videoid=5407123"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "kakushigoto",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kakushigoto.jpg",
+    "desc": "Goto Kakushi est auteur de manga et père célibataire d'une petite jeune fille, Hime. Dès le début de l'aventure, la jeune Hime découvre fortuitement le métier de son père, auteur de manga populaires bas de gamme. Problème, Goto n'assume pas du tout son métier, peu considéré par ailleurs au Japon.\n\nEt ce dernier cherche par tous les moyens à le cacher à sa fille, alors qu'il travaille chez lui. S'ensuit un jeu de cache cache permanent où le père qui se fait passer pour un salaryman basique, mène quasiment une double vie. Problèmes : ses amis, ses fans, l'administration, son éditeur... tous savent qu'il est auteur de manga. Tout cela sous l'œil circonspect de la jeune Hime, qui ne comprend pas les gesticulations de son père, mais décide de respecter son besoin de secret.",
+    "genres": "Comédie, Shônen, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/ody4tfk1i94w9gbajs15n55f6e",
+            "https://www.myvi.top/embed/ttufyz7d45uwzxymjxatqgcnzr",
+            "https://www.myvi.top/embed/8917mq7stthw7qzc8fr3enkkeo",
+            "https://www.myvi.top/embed/933ak7ysnpbwibq17ggetfhk7w",
+            "https://www.myvi.top/embed/qqeeysq8edhrmc4fmofq3cgs5y",
+            "https://www.myvi.top/embed/hzs5pxa5yzrr8pjh8nyn4eequh",
+            "https://www.myvi.top/embed/96q3ikjtmo9w38zca147o81r8o",
+            "https://www.myvi.top/embed/tsp9c594y57w5e1d6o4tefptor",
+            "https://www.myvi.top/embed/dkeo9uef816rxmcjbghbdp89sh",
+            "https://www.myvi.top/embed/dudpfnkygp4rzjnmuf8cctq6qw",
+            "https://www.myvi.top/embed/gxxu1qfpbb4r3cmtgjkyteia3h",
+            "https://www.myvi.top/embed/k1aj5tkhqb7r7g7oiykkjddmwh"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4691354",
+            "https://video.sibnet.ru/shell.php?videoid=4691363",
+            "https://video.sibnet.ru/shell.php?videoid=3908993",
+            "https://video.sibnet.ru/shell.php?videoid=3923290",
+            "https://video.sibnet.ru/shell.php?videoid=3934179",
+            "https://video.sibnet.ru/shell.php?videoid=4691373",
+            "https://video.sibnet.ru/shell.php?videoid=4691384",
+            "https://video.sibnet.ru/shell.php?videoid=4691397",
+            "https://video.sibnet.ru/shell.php?videoid=4691403",
+            "https://video.sibnet.ru/shell.php?videoid=4691411",
+            "https://video.sibnet.ru/shell.php?videoid=3983067",
+            "https://video.sibnet.ru/shell.php?videoid=3986873"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/iigli0uq",
+            "https://sendvid.com/embed/sxfjbbqr",
+            "https://sendvid.com/embed/s8az7l4k",
+            "https://sendvid.com/embed/vktsjz0o",
+            "https://sendvid.com/embed/rl2uyzae",
+            "https://sendvid.com/embed/65fa3dz1",
+            "https://sendvid.com/embed/gd34rsce",
+            "https://sendvid.com/embed/0tgq1emt",
+            "https://sendvid.com/embed/q63bf5yj",
+            "https://sendvid.com/embed/81u2oc98",
+            "https://sendvid.com/embed/rdw63wgs",
+            "https://sendvid.com/embed/xunejzmc"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/pucij1ze1uwr5nhy5nrmgwk6jo"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4691421"
+          ]
+        }
+      }
+    }
+  }
+}

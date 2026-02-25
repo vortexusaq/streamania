@@ -1,0 +1,35 @@
+{
+  "data": {
+    "name": "corpse-party",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/corpse-party.jpg",
+    "desc": "Lors d'une nuit pluvieuse après la fête de l'école, un groupe d'étudiants de la Kisaragi Académie décide de réaliser le charme du \"Sachiko\" charme, qui les unira pour toujours comme des amis. Leur professeur ainsi que Yuka, la petite sœur de Satoshi se joignent à eux pour réaliser ce rituel trouvé sur internet par Ayumi.\n\nUne fois le rituel terminé un tremblement de terre les transportse soudainement vers une autre dimension, ils se retrouvent dans une vieille école élémentaire.\n\nLe passé horrible qui se cache derrière les murs de cette école semblent cacher une horrible malédiction, nos protagonistes devront trouver un moyen de rentrer tous sains et saufs chez eux!",
+    "genres": "Ecchi, Horreur, Épouvante, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/487v8oov",
+            "https://sendvid.com/embed/e2sfn0cc",
+            "https://sendvid.com/embed/ekh2zeyc",
+            "https://sendvid.com/embed/nyhhsacw"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4942976",
+            "https://video.sibnet.ru/shell.php?videoid=4942978",
+            "https://video.sibnet.ru/shell.php?videoid=4942980",
+            "https://video.sibnet.ru/shell.php?videoid=4942981"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/6mweyh9y7u4rueyead8jgpdk3o",
+            "https://www.myvi.top/embed/q5yudofr167wbfpu1is95w3igy",
+            "https://www.myvi.top/embed/o378o55ez5zr9qnyxxjpsfi6jo",
+            "https://www.myvi.top/embed/bned48fyueawbx3mzybeiu6z1c"
+          ]
+        }
+      }
+    }
+  }
+}

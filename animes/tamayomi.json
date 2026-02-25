@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "tamayomi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tamayomi.jpg",
+    "desc": "Au collège, Yomi Takeda excellait littéralement au baseball. Au poste de lanceur, elle était même connue dans son établissement scolaire pour être à l'origine d'une technique spéciale nommée la « balle miracle ». Cependant, dans son équipe, personne ne parvenait à égaler son niveau, si bien que, frustrée, elle ne pouvait jamais mettre en branle sa stratégie... Quelques années après une lourde défaite, Yomi, désormais inscrite au lycée Shin Koshigaya, retrouve son amie d'enfance avec qui elle avait perdu tout contact, Tamaki Yamazaki. Elle décide alors de renouer avec le baseball : en effet, Tamaki, également passionnée de ce sports et évoluant au poste de receveur, est la seule qui puisse attraper la balle miracle de Yomi ! Les deux jeunes filles, qui s'étaient autrefois fait la promesse de briller au baseball, vont pouvoir se lancer à la conquête de la gloire ensemble.",
+    "genres": "Action, School-Life, Seinen, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/2ust7jdt",
+            "https://sendvid.com/embed/631jlf1f",
+            "https://sendvid.com/embed/ntbwq70q",
+            "https://sendvid.com/embed/advhc5nl",
+            "https://sendvid.com/embed/n0vgigd3",
+            "https://sendvid.com/embed/4rf3bndv",
+            "https://sendvid.com/embed/umt1ngy3",
+            "https://sendvid.com/embed/noqryo0c",
+            "https://sendvid.com/embed/pazbo31z",
+            "https://sendvid.com/embed/jg5n84an",
+            "https://sendvid.com/embed/yfu32igl",
+            "https://sendvid.com/embed/83omm115\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4813335",
+            "https://video.sibnet.ru/shell.php?videoid=4813336",
+            "https://video.sibnet.ru/shell.php?videoid=4813337",
+            "https://video.sibnet.ru/shell.php?videoid=4813339",
+            "https://video.sibnet.ru/shell.php?videoid=4813341",
+            "https://video.sibnet.ru/shell.php?videoid=4813342",
+            "https://video.sibnet.ru/shell.php?videoid=4813346",
+            "https://video.sibnet.ru/shell.php?videoid=4813348",
+            "https://video.sibnet.ru/shell.php?videoid=4813350",
+            "https://video.sibnet.ru/shell.php?videoid=4813353",
+            "https://video.sibnet.ru/shell.php?videoid=4813357",
+            "https://video.sibnet.ru/shell.php?videoid=4813360"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/xpz8imfyxjsr9kkmnqxiptwwtr",
+            "https://www.myvi.tv/embed/d8h8jz9j7iyrj86a7k3wai94gw",
+            "https://www.myvi.tv/embed/9unpjszrwfzw5xpxxb4a4xkkbe",
+            "https://www.myvi.tv/embed/ted6dwjjktfw7m7o34edz8cmdo",
+            "https://www.myvi.tv/embed/5nbhwzc1yr7r8emw75mkuz7i7r",
+            "https://www.myvi.tv/embed/yuohdnaok6trppmqnswddch4xa",
+            "https://www.myvi.tv/embed/dtwugybw4nswfder8gci87348c",
+            "https://www.myvi.tv/embed/tqtc34deorhrxcrbz4pw837euo",
+            "https://www.myvi.tv/embed/sgny6tpt8nar5dt81ewn3bcnbw",
+            "https://www.myvi.tv/embed/acxzg5zjsp7wfde9g1u4dgbysw",
+            "https://www.myvi.tv/embed/wronmnuuyk5r9q7ebuqe6jrchr",
+            "https://www.myvi.tv/embed/oobd14oy9j6wmba94m9pak3cbh"
+          ]
+        }
+      }
+    }
+  }
+}

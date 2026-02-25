@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "handa-kun",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/handa-kun.jpg",
+    "desc": "Prequel de Barakamon, on y suit Seishû Handa, le héros de la série principale lorsqu'il est au lycée. C'est ainsi que l'on s'intéresse à sa jeunesse, en constatant la difficulté de la vie quotidienne de celui-ci, même si ce n'est pas sensé être le cas.\n\nEn effet, Handa a toujours l'impression d'être détesté de tous et critiqué à longueur de journée. Seulement, il ne se rend pas compte qu'il est, en réalité, un modèle d'admiration par rapport à son talent de calligraphe ainsi que grâce à ses actions parfois involontaires. Handa a bien souvent tendance à aider son prochain, même si ce n'est pas vraiment dans son intention. C'est ainsi que plusieurs autres de ses camarades vont commencer à lui vouer une grande admiration, le conduisant ainsi à se sentir de nouveau persécuté.",
+    "genres": "Comédie, School-Life, Shônen, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/qh9sasa3",
+            "https://sendvid.com/embed/1gzzpyiq",
+            "https://sendvid.com/embed/35ewmdis",
+            "https://sendvid.com/embed/xc0rt270",
+            "https://sendvid.com/embed/6nt3dqis",
+            "https://sendvid.com/embed/noh8g1av",
+            "https://sendvid.com/embed/fbmk275z",
+            "https://sendvid.com/embed/v7qtphs1",
+            "https://sendvid.com/embed/0q2gvoij",
+            "https://sendvid.com/embed/1qm78mih",
+            "https://sendvid.com/embed/krgzarrz",
+            "https://sendvid.com/embed/9nro3qp6"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4946480",
+            "https://video.sibnet.ru/shell.php?videoid=4946483",
+            "https://video.sibnet.ru/shell.php?videoid=4946485",
+            "https://video.sibnet.ru/shell.php?videoid=4946491",
+            "https://video.sibnet.ru/shell.php?videoid=4946507",
+            "https://video.sibnet.ru/shell.php?videoid=4946531",
+            "https://video.sibnet.ru/shell.php?videoid=4946538",
+            "https://video.sibnet.ru/shell.php?videoid=4946540",
+            "https://video.sibnet.ru/shell.php?videoid=4946544",
+            "https://video.sibnet.ru/shell.php?videoid=4946548",
+            "https://video.sibnet.ru/shell.php?videoid=4946552",
+            "https://video.sibnet.ru/shell.php?videoid=4946561"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/d3rsfcpiym5rt8apbhcwentw4w",
+            "https://www.myvi.top/embed/t35cc36tnfzwzeufnqrjpfzfne",
+            "https://www.myvi.top/embed/dso5exuo1btw38zdhnyudxxgeh",
+            "https://www.myvi.top/embed/qh97hr3fcftrmru7715ijhm3mr",
+            "https://www.myvi.top/embed/493mmhdx4szrdyitxwcgm39cre",
+            "https://www.myvi.top/embed/8co9juqmk7hw9fxqeaz8jwp5br",
+            "https://www.myvi.top/embed/y1w5mygw1s9wuqeoa6e3xs3hmc",
+            "https://www.myvi.top/embed/nub3wri3q4drij8pggc8mr9jky",
+            "https://www.myvi.top/embed/gy1djz18zokr3du8hw7r6d7z4h",
+            "https://www.myvi.top/embed/cauw4fdwzu8rxr4izay5bhpt7w",
+            "https://www.myvi.top/embed/wzeebbimejmrxk4afqhoazygyw",
+            "https://www.myvi.top/embed/c3ew5ir6b7xwdb7a1hy7znu45a"
+          ]
+        }
+      }
+    }
+  }
+}

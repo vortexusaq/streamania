@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "isekai-shikkaku",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/isekai-shikkaku.jpg",
+    "desc": "Après son suicide de 1948, Osamu Dazai se trouve projeté dans un monde fantastique qui pourrait incarner le rêve de nombreux otakus. Oui mais voilà, tout cela est à l'opposé de l'aura de mélancolie qui entoure encore le célèbre écrivain. Mais le pire, c'est qu'il lui semble impossible de s'échapper de ce nouveau monde, puisque tout ce qu'il entreprend se conclut irrémédiablement de manière positive.",
+    "genres": "Comédie, Drame, Fantastique, Isekai, Slice-of-Life, Autre-monde, Réincarnation / Transmigration, Suicide",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5590618",
+            "https://video.sibnet.ru/shell.php?videoid=5598599",
+            "https://video.sibnet.ru/shell.php?videoid=5607283",
+            "https://video.sibnet.ru/shell.php?videoid=5615033",
+            "https://video.sibnet.ru/shell.php?videoid=5624049",
+            "https://video.sibnet.ru/shell.php?videoid=5635662",
+            "https://video.sibnet.ru/shell.php?videoid=5645567",
+            "https://video.sibnet.ru/shell.php?videoid=5653821",
+            "https://video.sibnet.ru/shell.php?videoid=5662021",
+            "https://video.sibnet.ru/shell.php?videoid=5671250",
+            "https://video.sibnet.ru/shell.php?videoid=5680028",
+            "https://video.sibnet.ru/shell.php?videoid=5689896"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-b7xc88lux21i.html",
+            "https://vidmoly.to/embed-q2jm2kwhzptl.html",
+            "https://vidmoly.to/embed-fw26z2k3eonj.html",
+            "https://vidmoly.to/embed-cw6rvqijh78p.html",
+            "https://vidmoly.to/embed-4prtrc2ifcao.html",
+            "https://vidmoly.to/embed-svntvu6pdq9d.html",
+            "https://vidmoly.to/embed-9yejthoxqxda.html",
+            "https://vidmoly.to/embed-04fluu4k03mj.html",
+            "https://vidmoly.to/embed-6wi4tnevi8ar.html",
+            "https://vidmoly.to/embed-sg9a16iq4vkh.html",
+            "https://vidmoly.to/embed-r8g0igzq1msq.html",
+            "https://vidmoly.to/embed-xjuvlae5s7tw.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/noxf597k",
+            "https://sendvid.com/embed/gggwkq6t",
+            "https://sendvid.com/embed/7itrxsiq",
+            "https://sendvid.com/embed/enb8jo5q",
+            "https://sendvid.com/embed/a76u9yn5",
+            "https://sendvid.com/embed/ozfpwfuw",
+            "https://sendvid.com/embed/jm7rrri0",
+            "https://sendvid.com/embed/1a2ap0nu",
+            "https://sendvid.com/embed/fqqkxb1h",
+            "https://sendvid.com/embed/v4pfx2qt",
+            "https://sendvid.com/embed/p7llix9f",
+            "https://sendvid.com/embed/xzyjphm7"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239921&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239965&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240009&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240052&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240088&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240135&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240184&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240231&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240282&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240332&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240390&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239093&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

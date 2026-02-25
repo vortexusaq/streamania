@@ -1,0 +1,53 @@
+{
+  "data": {
+    "name": "over-the-garden-wall",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/over-the-garden-wall.jpg",
+    "desc": "Aidés par un vieux bûcheron et un oiseau bleu, les demi-frères Wirt et Greg errent dans une forêt étrange baptisée L'Inconnu...",
+    "genres": "Animation",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5730311",
+            "https://video.sibnet.ru/shell.php?videoid=5730312",
+            "https://video.sibnet.ru/shell.php?videoid=5730314",
+            "https://video.sibnet.ru/shell.php?videoid=5730316",
+            "https://video.sibnet.ru/shell.php?videoid=5730319",
+            "https://video.sibnet.ru/shell.php?videoid=5730322",
+            "https://video.sibnet.ru/shell.php?videoid=5730323",
+            "https://video.sibnet.ru/shell.php?videoid=5730325",
+            "https://video.sibnet.ru/shell.php?videoid=5730326",
+            "https://video.sibnet.ru/shell.php?videoid=5730328"
+          ],
+          "lec2": [
+            "https://oneupload.to/embed-2l9y85y03qzt.html",
+            "https://oneupload.to/embed-exq1i3q2wj64.html",
+            "https://oneupload.to/embed-zh6ndrc97qij.html",
+            "https://oneupload.to/embed-lq3ese6vwhsb.html",
+            "https://oneupload.to/embed-r6d0iha9n1s8.html",
+            "https://oneupload.to/embed-7dww1dnmhx24.html",
+            "https://oneupload.to/embed-682azzvhs5bi.html",
+            "https://oneupload.to/embed-k4v7v35ft4q5.html",
+            "https://oneupload.to/embed-qycozvxnxj7e.html",
+            "https://oneupload.to/embed-mtn6z24bvg3r.html"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-bd9spa95zh2u.html",
+            "https://vidmoly.to/embed-jdz57yvg53p8.html",
+            "https://vidmoly.to/embed-ry8kyy3glk6k.html",
+            "https://vidmoly.to/embed-zvm94ly4k9dt.html",
+            "https://vidmoly.to/embed-acupe70rycz4.html",
+            "https://vidmoly.to/embed-z66g587dmpyw.html",
+            "https://vidmoly.to/embed-32475b9n8ii3.html",
+            "https://vidmoly.to/embed-vfjppfoy4a7x.html",
+            "https://vidmoly.to/embed-v1uqpi3x3alh.html",
+            "https://vidmoly.to/embed-brwo0wdoy8o4.html"
+          ]
+        }
+      }
+    }
+  }
+}

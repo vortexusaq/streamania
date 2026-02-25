@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "outbreak-company",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/outbreak-company.jpg",
+    "desc": "Difficile de ne pas être un otaku, si, comme Kanou Shinichi, on a un père qui écrit des Light Novels et une mère qui illustre des Visuals Novels. Par contre cela ne lui confère pas de super pouvoirs : il a uniquement une connaissance énorme et impeccable du Moe. Un jour il se retrouve transportsé dans un monde où vivent des elfes et volent des dragons. Contrairement à ce qu'on pourrait attendre, il ne se trouve pas investi d'une quête, comme tuer un monstre ou autre. Pas du tout. On lui demande de devenir un ambassadeur de la culture de ce monde, un 'missionnaire moé' ! Lui vient alors l'idée de construire une école. Au début, tout se passe de façon plutôt agréable et amusante. Mais il devra faire face à de plus en plus de problèmes sérieux : la discrimination, les conflits entre les pays frontaliers, des problèmes de classe sociale, du sabotage par des éléments opposés à son action, le gouvernement japonais inclus ! Pourra-t-il faire face à tous ces obstacles et inculquer la culture moé dans ce monde ? Voire aider sa population ?",
+    "genres": "Comédie, Fantasy, Romance, Slice-of-Life, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/886q3d8c",
+            "https://sendvid.com/embed/bajvdo9g",
+            "https://sendvid.com/embed/cxilrvc3",
+            "https://sendvid.com/embed/ru5paakz",
+            "https://sendvid.com/embed/gib6wr7y",
+            "https://sendvid.com/embed/k2n2et0s",
+            "https://sendvid.com/embed/if7ek1qy",
+            "https://sendvid.com/embed/pdd5pyo4",
+            "https://sendvid.com/embed/ilphalp5",
+            "https://sendvid.com/embed/wijnk9p9",
+            "https://sendvid.com/embed/yue8q80r",
+            "https://sendvid.com/embed/iv7ubt0u\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4857070",
+            "https://video.sibnet.ru/shell.php?videoid=4857072",
+            "https://video.sibnet.ru/shell.php?videoid=4857076",
+            "https://video.sibnet.ru/shell.php?videoid=4857078",
+            "https://video.sibnet.ru/shell.php?videoid=4857081",
+            "https://video.sibnet.ru/shell.php?videoid=4857083",
+            "https://video.sibnet.ru/shell.php?videoid=4857088",
+            "https://video.sibnet.ru/shell.php?videoid=4857091",
+            "https://video.sibnet.ru/shell.php?videoid=4857095",
+            "https://video.sibnet.ru/shell.php?videoid=4857099",
+            "https://video.sibnet.ru/shell.php?videoid=4857101",
+            "https://video.sibnet.ru/shell.php?videoid=4857105"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/eze7amufncwrdk7qbhmex6zfpy",
+            "https://www.myvi.tv/embed/qa8ejbdxyemrpmdux6euroou5r",
+            "https://www.myvi.tv/embed/fw9isufg5sjrzxrk5zom399kxr",
+            "https://www.myvi.tv/embed/pejxtid9z4fwb8479gjntizfio",
+            "https://www.myvi.tv/embed/6f5sehthj9krfkz3xmwrgk6qzo",
+            "https://www.myvi.tv/embed/dfyk4dbid9ir3gr5cu3yq1eg5a",
+            "https://www.myvi.tv/embed/xn1ybm7meqhwtf7zfkd591rasr",
+            "https://www.myvi.tv/embed/xdtrkrrdc6gr5m1p45grybmjeh",
+            "https://www.myvi.tv/embed/oxt15zdnm43r3y68uxiqezo4ae",
+            "https://www.myvi.tv/embed/37x87pxhnthrucg8biddwtfhaw",
+            "https://www.myvi.tv/embed/pw8okog5g3ow5rxq6uofsu1foy",
+            "https://www.myvi.tv/embed/cgxryrpqhf5rt8f1p7qtdznkba"
+          ]
+        }
+      }
+    }
+  }
+}

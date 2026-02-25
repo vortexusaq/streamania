@@ -1,0 +1,88 @@
+{
+  "data": {
+    "name": "princess-principal",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/princess-principal.jpg",
+    "desc": "L'histoire prend place dans la ville de Londres dans un 19e siècle uchronique. Cette capitale appartenant au Royaume d'Albion est divisée en deux parties, l'Est et l'Ouest, par un mur. Cinq jeunes étudiantes de la prestigieuse école Queens May Fair sont impliquées dans des activités d'espionnage incluant l'art du déguisement, l'infiltration, des poursuites de voitures et diverses autres missions. Ces jeunes femmes prennent avantage de leurs capacités spéciales pour pouvoir s'infiltrer et voyager dans l'ombre de ce monde.",
+    "genres": "Action, Aventure, Historique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/p6otkk75",
+            "https://sendvid.com/embed/9i4xpvgs",
+            "https://sendvid.com/embed/fjjltqk5",
+            "https://sendvid.com/embed/27kqc0v2",
+            "https://sendvid.com/embed/w70rxzn5",
+            "https://sendvid.com/embed/bkqvepxp",
+            "https://sendvid.com/embed/8kq9okfe",
+            "https://sendvid.com/embed/rpw8w7q4",
+            "https://sendvid.com/embed/a6uyff3h",
+            "https://sendvid.com/embed/gg9nktdz",
+            "https://sendvid.com/embed/iv0vsfor",
+            "https://sendvid.com/embed/jec02bey\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4813176",
+            "https://video.sibnet.ru/shell.php?videoid=4813179",
+            "https://video.sibnet.ru/shell.php?videoid=4813182",
+            "https://video.sibnet.ru/shell.php?videoid=4813187",
+            "https://video.sibnet.ru/shell.php?videoid=4813202",
+            "https://video.sibnet.ru/shell.php?videoid=4813224",
+            "https://video.sibnet.ru/shell.php?videoid=4813225",
+            "https://video.sibnet.ru/shell.php?videoid=4813228",
+            "https://video.sibnet.ru/shell.php?videoid=4813229",
+            "https://video.sibnet.ru/shell.php?videoid=4813230",
+            "https://video.sibnet.ru/shell.php?videoid=4813233",
+            "https://video.sibnet.ru/shell.php?videoid=4813239"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/fcbjbief3qcwdnmisyoxdpm6py",
+            "https://www.myvi.tv/embed/hw14h1grmjdrfkj4mwjhyx6skc",
+            "https://www.myvi.tv/embed/ogbagujpj7br8ejfq6y7ng3iaa",
+            "https://www.myvi.tv/embed/b4boe5owpkmwfk33iazjoo91qw",
+            "https://www.myvi.tv/embed/xhhkyf1x6mywfesxn8jacpx83a",
+            "https://www.myvi.tv/embed/ncr4qkrm6krwfxa3f5umz6u9to",
+            "https://www.myvi.tv/embed/3te35zn7jr9rdk59d7qb9kqt4c",
+            "https://www.myvi.tv/embed/rberbywso6er7co9uwihtp3hpo",
+            "https://www.myvi.tv/embed/gztcysmya7gw9eda5a8a4igd6r",
+            "https://www.myvi.tv/embed/hng8dz4ub94w3ftg9edac8sowa",
+            "https://www.myvi.tv/embed/m3wg9nfnf8crpd9rg6roixtiuc",
+            "https://www.myvi.tv/embed/dgg3yi4igmrwjjhyq9woihwa5h"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/oxnfsmro",
+            "https://sendvid.com/embed/fq6tj4xn",
+            "https://sendvid.com/embed/jerg4zs8",
+            "https://sendvid.com/embed/oa7zfbjd",
+            "https://sendvid.com/embed/47vw8yhj",
+            "https://sendvid.com/embed/i8od8d3o\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4813240",
+            "https://video.sibnet.ru/shell.php?videoid=4813242",
+            "https://video.sibnet.ru/shell.php?videoid=4813243",
+            "https://video.sibnet.ru/shell.php?videoid=4813244",
+            "https://video.sibnet.ru/shell.php?videoid=4813246",
+            "https://video.sibnet.ru/shell.php?videoid=4813247"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/8ttpgohgqizwjgnk51hxe9hiqr",
+            "https://www.myvi.tv/embed/excnpucz46iwdr3zysbjccuw4y",
+            "https://www.myvi.tv/embed/phjok77n5rwr9d6k4xscofsuiw",
+            "https://www.myvi.tv/embed/4cmino4m3qqrpxsdyyhdx9iqko",
+            "https://www.myvi.tv/embed/z6hgigqbix8rbn8ro6458pt9ay",
+            "https://www.myvi.tv/embed/4ew7kodhx6rrt8k6eytryfxn6a"
+          ]
+        }
+      }
+    }
+  }
+}

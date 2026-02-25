@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "family-business",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/family-business.jpg",
+    "desc": "Joseph, 35 ans, fourmille d’idées de business... même s'il bosse toujours malgré lui dans la boucherie casher de son père Gérard. Lorsqu'il apprend de source \"sûre\" que le cannabis va être légalisé, c’est la révélation. Son idée de génie : transformer, à l’aide de sa famille et de ses potes, la boucherie familiale en \"Beucherie\"...",
+    "genres": "Comédie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vf",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/c638cmke4d5w3mycra85q91mzw",
+            "https://www.myvi.top/embed/9k1ukpejpb3rud5ksrpsfybxpo",
+            "https://www.myvi.top/embed/1zfpyr4zy4grjc98gayaei8tie",
+            "https://www.myvi.top/embed/wy5dfkyk8eswunc3ap3zggiqqw",
+            "https://www.myvi.top/embed/emejqmxq9i5ruddds1c1p1r1xc",
+            "https://www.myvi.top/embed/r7hq19d3di5rf8wcamg74dw9ge"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/60ayq55c",
+            "https://sendvid.com/embed/z799f1i5",
+            "https://sendvid.com/embed/tm5f2r0q",
+            "https://sendvid.com/embed/jb9hlaa8",
+            "https://sendvid.com/embed/uu7zzm6v",
+            "https://sendvid.com/embed/76tlo3kg"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vf",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/bgkvmok6",
+            "https://sendvid.com/embed/5gzs0pnr",
+            "https://video.sibnet.ru/shell.php?videoid=5318839",
+            "https://sendvid.com/embed/k4k5gr9f",
+            "https://sendvid.com/embed/t84415d2",
+            "https://sendvid.com/embed/7xvpa5pa"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vf",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/3226yc17",
+            "https://sendvid.com/embed/7olb0m3s",
+            "https://sendvid.com/embed/zfnv3q8r",
+            "https://sendvid.com/embed/mhh26xg8",
+            "https://video.sibnet.ru/shell.php?videoid=5318836",
+            "https://sendvid.com/embed/jv3fnaoe"
+          ]
+        }
+      }
+    }
+  }
+}

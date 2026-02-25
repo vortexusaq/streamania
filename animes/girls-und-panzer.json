@@ -1,0 +1,84 @@
+{
+  "data": {
+    "name": "girls-und-panzer",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/girls-und-panzer.jpg",
+    "desc": "Dans un monde où le \"Sensha-do\", l'art militaire de la conduite de tank est naturel, Nishizumi Miho est une lycéenne maladroite qui cherche par-dessus tout à fuir cette discipline dont sa famille s'est illustrée auparavant. Cependant, elle sera convoquée par la présidente du conseil des étudiants qui l'inscrira de force dans l'équipe. Malgré sa réticence Miho prend part à l'aventure avec ses nouvelles coéquipières : Saori, Hana, Yukari et Mako. Elles auront pour objectif ultime de remporter le tournoi national de \"Sensha-do\".",
+    "genres": "Action, Comédie, Slice-of-Life, Ecole, Militaire, Tournois",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/1ek2ye2h",
+            "https://sendvid.com/embed/uk9dqf7y",
+            "https://sendvid.com/embed/9umx6jfz",
+            "https://sendvid.com/embed/aqo5tbar",
+            "https://sendvid.com/embed/5wkzqn77",
+            "https://sendvid.com/embed/7b6g8vp4",
+            "https://sendvid.com/embed/qnb2lnt0",
+            "https://sendvid.com/embed/wbpfjeeq",
+            "https://sendvid.com/embed/4gltznws",
+            "https://sendvid.com/embed/m0yiytzk",
+            "https://sendvid.com/embed/qw6z49ws",
+            "https://sendvid.com/embed/40gkeatc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4956004",
+            "https://video.sibnet.ru/shell.php?videoid=4956005",
+            "https://video.sibnet.ru/shell.php?videoid=4956007",
+            "https://video.sibnet.ru/shell.php?videoid=4956008",
+            "https://video.sibnet.ru/shell.php?videoid=4956010",
+            "https://video.sibnet.ru/shell.php?videoid=4956011",
+            "https://video.sibnet.ru/shell.php?videoid=4956012",
+            "https://video.sibnet.ru/shell.php?videoid=4956013",
+            "https://video.sibnet.ru/shell.php?videoid=4956014",
+            "https://video.sibnet.ru/shell.php?videoid=4956015",
+            "https://video.sibnet.ru/shell.php?videoid=4956017",
+            "https://video.sibnet.ru/shell.php?videoid=4956018"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/49atnwpgkjfwzxpqjxzub8rfcy",
+            "https://www.myvi.tv/embed/6gzznx7z95hrtcecmbkbiexqcc",
+            "https://www.myvi.tv/embed/ee95dag5ax1wfjaifgxscbmdfe",
+            "https://www.myvi.tv/embed/ojds619ienwwxnfopdbnn38why",
+            "https://www.myvi.tv/embed/86d9ybs44worir5owhtrpza6rc",
+            "https://www.myvi.tv/embed/bnqdg3z37o9rzbqqsg7pkdjm9h",
+            "https://www.myvi.tv/embed/baoqyhpw3pawzdab8jscbpshoa",
+            "https://www.myvi.tv/embed/j5a8hgx48ruwp89keeinjdgofr",
+            "https://www.myvi.tv/embed/fksczw5hg83rdekuiq4setuwzr",
+            "https://www.myvi.tv/embed/rqpmot9unjtw3pecd5s9ui6s6r",
+            "https://www.myvi.tv/embed/ezhg5hgzpxtwpektyjwrn9duco",
+            "https://www.myvi.tv/embed/e9cehkom98zwjqf4inqs5545fa"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5292749"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/gnx68gmn",
+            "https://sendvid.com/embed/2lwk6i8c"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4956020",
+            "https://video.sibnet.ru/shell.php?videoid=5044826"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/m31bctj848gwxddtm8w87rktye",
+            "https://www.myvi.tv/embed/oicgr7d4fu9rdq144w33y6djhw"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "kemono-jihen",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kemono-jihen.jpg",
+    "desc": "Depuis l'aube des temps, des créatures légendaires nommées Kemono vivent cachées des humains. Mais dans l'ombre, les deux espèces se sont mélangées donnant naissance à des hybrides de sang-mêlé. Parfois monstrueux, parfois innocents, ils sont chassés, détestés par ceux qui connaissent leur existence. Dans un petit village au fin fond des montagnes, Kabane est un jeune garçon orphelin pour qui la vie n'est pas toute rose : surnommé « le bouseux », considéré comme un moins-que-rien, il est maltraité, méprisé et rejeté par tous. Jusqu'au jour où Inugami, un détective tokyoïte, arrive pour enquêter sur la mort mystérieuse d'animaux en décomposition...",
+    "genres": "Action, Drame, Fantastique, Horreur, Épouvante, Mystère, Shônen, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/9n3177om",
+            "https://sendvid.com/embed/u8owwpat",
+            "https://sendvid.com/embed/5fdg9gxe",
+            "https://sendvid.com/embed/5ccp15rn",
+            "https://sendvid.com/embed/4nq0k2cs",
+            "https://sendvid.com/embed/vsg6jkjx",
+            "https://sendvid.com/embed/44gnw6vv",
+            "https://sendvid.com/embed/d3ledi35",
+            "https://sendvid.com/embed/ixxhmftr",
+            "https://sendvid.com/embed/9xpfxfds",
+            "https://sendvid.com/embed/sh442600",
+            "https://sendvid.com/embed/pe8s928s"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4211721",
+            "https://video.sibnet.ru/shell.php?videoid=4211722",
+            "https://video.sibnet.ru/shell.php?videoid=4215821",
+            "https://video.sibnet.ru/shell.php?videoid=4221958",
+            "https://video.sibnet.ru/shell.php?videoid=4227576",
+            "https://video.sibnet.ru/shell.php?videoid=4232814",
+            "https://video.sibnet.ru/shell.php?videoid=4241855",
+            "https://video.sibnet.ru/shell.php?videoid=4248758",
+            "https://video.sibnet.ru/shell.php?videoid=4255210",
+            "https://video.sibnet.ru/shell.php?videoid=4261155",
+            "https://video.sibnet.ru/shell.php?videoid=4266460",
+            "https://video.sibnet.ru/shell.php?videoid=4278399"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/ag7mn7nuiocw7nre4izjg39x6c",
+            "https://www.myvi.top/embed/ff6ia6yfjgowtdrf7jc485n7qh",
+            "https://www.myvi.top/embed/7559pegf4norzp46kg5ku3rymr",
+            "https://www.myvi.top/embed/n9yugcncxbcr7xqdgbx4iux9sc",
+            "https://www.myvi.top/embed/xu9bax3tcz8w88jwwq4xisnkfe",
+            "https://www.myvi.top/embed/psg4zwf9p11r5jfpxqzrr665ao",
+            "https://www.myvi.top/embed/o4bdib5kk76wiq1iecrf63bthy",
+            "https://www.myvi.top/embed/8m17esdqtqirupd5hxbj3fjc7a",
+            "https://www.myvi.top/embed/4oog41ohgpur8r9ned53si7hrw",
+            "https://www.myvi.top/embed/bb1u95ypt5uwzyyiaqqxe6n4he",
+            "https://www.myvi.top/embed/ydb7t37n4njrmxxo4s9ktc6iua",
+            "https://www.myvi.top/embed/ewrzg6rw94ur5jmc8ixrqp6hcw"
+          ]
+        }
+      }
+    }
+  }
+}

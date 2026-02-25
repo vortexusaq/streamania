@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "highspeed-etoile",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/highspeed-etoile.jpg",
+    "desc": "Dans un futur proche, la technologie automobile est si avancée qu'il est désormais possible de conduire à plus de 500 km/h en toute sécurité. Les automobiles les plus récentes et les plus puissances s'affrontent ainsi à l'occasion d'une toute nouvelle course baptisée NEX Race. Enfant, Rin Rindô rêvait de devenir ballerine mais, malheureusement, une blessure mit fin à son rêve. Depuis, elle est devenue une NEET occupant une chambre chez sa grand-mère. Jusqu'au jour où elle se trouve projetée dans l'univers de NEX Race.",
+    "genres": "Science-fiction, Sports-mécaniques, Technologies",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5502881",
+            "https://video.sibnet.ru/shell.php?videoid=5503047",
+            "https://video.sibnet.ru/shell.php?videoid=5510688",
+            "https://video.sibnet.ru/shell.php?videoid=5516935",
+            "https://video.sibnet.ru/shell.php?videoid=5524522",
+            "https://video.sibnet.ru/shell.php?videoid=5531349",
+            "https://video.sibnet.ru/shell.php?videoid=5538116",
+            "https://video.sibnet.ru/shell.php?videoid=5544691",
+            "https://video.sibnet.ru/shell.php?videoid=5550780",
+            "https://video.sibnet.ru/shell.php?videoid=5556476",
+            "https://video.sibnet.ru/shell.php?videoid=5563090",
+            "https://video.sibnet.ru/shell.php?videoid=5571481"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-fg2y1xm2y8gr.html",
+            "https://vidmoly.to/embed-s0oernjjbfs7.html",
+            "https://vidmoly.to/embed-intems0cspw9.html",
+            "https://vidmoly.to/embed-tyl2lrtwtg2j.html",
+            "https://vidmoly.to/embed-c96a1vagda9b.html",
+            "https://vidmoly.to/embed-imt4l3q3mm0z.html",
+            "https://vidmoly.to/embed-dusnu21lvdt0.html",
+            "https://vidmoly.to/embed-v8k0kg2co2q0.html",
+            "https://vidmoly.to/embed-yqp15o6o5sl8.html",
+            "https://vidmoly.to/embed-9yuvmscb8z59.html",
+            "https://vidmoly.to/embed-y76ikh4hseje.html",
+            "https://vidmoly.to/embed-jaczzi8gkhhz.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/lfq7q0kg",
+            "https://sendvid.com/embed/v5c345bi",
+            "https://sendvid.com/embed/vzksgp0q",
+            "https://sendvid.com/embed/vifc1kk8",
+            "https://sendvid.com/embed/j9fftc0t",
+            "https://sendvid.com/embed/9rbxgsxn",
+            "https://sendvid.com/embed/xgoga96f",
+            "https://sendvid.com/embed/jks8s06w",
+            "https://sendvid.com/embed/bf628znk",
+            "https://sendvid.com/embed/02lcul4f",
+            "https://sendvid.com/embed/lasaqvoe",
+            "https://sendvid.com/embed/spiqjik4"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239452&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239460&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239508&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239549&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239577&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239617&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239659&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239675&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239715&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239759&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239798&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239835&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

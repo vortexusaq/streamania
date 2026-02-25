@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "azumanga-daioh",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/azumanga-daioh.jpg",
+    "desc": "Azumanga Daioh traite de la tranche de vie dans un lycée depuis les yeux de six jeunes filles aux personalités plutôt inhabituelles : Chiyo (une génie de 10 ans à peine), Osaka en fait Ayumu mais qui vient d'Osaka (la mignonne légérement léthargique et bizarre ), Sakaki (la timide et distante sujette aux morsures de chat), Koyomi dite Yomi (la courte de mèche, voix de la raison), Kagura (la bout-en-train)et Tomo (l'énergique trop sûre d'elle).",
+    "genres": "Comédie, School-Life, Slice-of-Life, Amitié, Ecole, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/se66bti7",
+            "https://sendvid.com/embed/a1kz2mfw",
+            "https://sendvid.com/embed/vchhnhxr",
+            "https://sendvid.com/embed/bnazpgtn",
+            "https://sendvid.com/embed/aqjsdhva",
+            "https://sendvid.com/embed/s4n1iqnr",
+            "https://sendvid.com/embed/8j81z2tv",
+            "https://sendvid.com/embed/6uv3ghpj",
+            "https://sendvid.com/embed/2eur1j1v",
+            "https://sendvid.com/embed/iyorse6p",
+            "https://sendvid.com/embed/fsc7zs9f",
+            "https://sendvid.com/embed/zjpgcvhy",
+            "https://sendvid.com/embed/g43znpex",
+            "https://sendvid.com/embed/x29h915m",
+            "https://sendvid.com/embed/aa4fa0oi",
+            "https://sendvid.com/embed/2wc8wy66",
+            "https://sendvid.com/embed/c3l91ulo",
+            "https://sendvid.com/embed/uzkumsop",
+            "https://sendvid.com/embed/cluvric9",
+            "https://sendvid.com/embed/1x49qich",
+            "https://sendvid.com/embed/l5kpvhsx",
+            "https://sendvid.com/embed/w9zgbrxq",
+            "https://sendvid.com/embed/t7qey90r",
+            "https://sendvid.com/embed/bui0omt9",
+            "https://sendvid.com/embed/oyfppapb",
+            "https://sendvid.com/embed/9zvyhbh1"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5308888",
+            "https://video.sibnet.ru/shell.php?videoid=5308889",
+            "https://video.sibnet.ru/shell.php?videoid=5308890",
+            "https://video.sibnet.ru/shell.php?videoid=5308891",
+            "https://video.sibnet.ru/shell.php?videoid=5308892",
+            "https://video.sibnet.ru/shell.php?videoid=5308894",
+            "https://video.sibnet.ru/shell.php?videoid=5308895",
+            "https://video.sibnet.ru/shell.php?videoid=5308896",
+            "https://video.sibnet.ru/shell.php?videoid=5308897",
+            "https://video.sibnet.ru/shell.php?videoid=5308898",
+            "https://video.sibnet.ru/shell.php?videoid=5308900",
+            "https://video.sibnet.ru/shell.php?videoid=5308901",
+            "https://video.sibnet.ru/shell.php?videoid=5308902",
+            "https://video.sibnet.ru/shell.php?videoid=5308903",
+            "https://video.sibnet.ru/shell.php?videoid=5308905",
+            "https://video.sibnet.ru/shell.php?videoid=5308906",
+            "https://video.sibnet.ru/shell.php?videoid=5308907",
+            "https://video.sibnet.ru/shell.php?videoid=5308908",
+            "https://video.sibnet.ru/shell.php?videoid=5308909",
+            "https://video.sibnet.ru/shell.php?videoid=5308911",
+            "https://video.sibnet.ru/shell.php?videoid=5308912",
+            "https://video.sibnet.ru/shell.php?videoid=5308913",
+            "https://video.sibnet.ru/shell.php?videoid=5308914",
+            "https://video.sibnet.ru/shell.php?videoid=5308915",
+            "https://video.sibnet.ru/shell.php?videoid=5308917",
+            "https://video.sibnet.ru/shell.php?videoid=5308918"
+          ]
+        }
+      }
+    }
+  }
+}

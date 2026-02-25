@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "asagao-to-kase-san",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/asagao-to-kase-san.jpg",
+    "desc": "Yui Yamada, jeune fille discrète passionnée par le jardinage, sort avec Kase-san, la meilleure coureuse du club d'athlétisme. Mais elle va vite se rendre compte que ce n'est pas si facile de sortir avec une personne populaire.",
+    "genres": "Comédie, Romance, School-Life, Yuri",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5313934"
+          ]
+        }
+      }
+    }
+  }
+}

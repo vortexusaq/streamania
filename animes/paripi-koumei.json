@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "paripi-koumei",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/paripi-koumei.jpg",
+    "desc": "Zhuge Liang, célèbre stratège chinois de l'époque des Trois Royaumes, a lutté toute sa vie, faisant face à d'innombrables batailles qui ont fait de lui le stratège accompli qu'il était. Sur son lit de mort, il a souhaité renaître dans un monde pacifique. C'est ainsi que ce dernier se retrouve réincarné dans le Japon moderne !",
+    "genres": "Comédie, Fantasy, Historique, Seinen, Slice-of-Life, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/gaf08woq",
+            "https://sendvid.com/embed/kpuk9tg0",
+            "https://sendvid.com/embed/r1gd7y2a",
+            "https://sendvid.com/embed/vary8ad0",
+            "https://sendvid.com/embed/ucluzg0j",
+            "https://sendvid.com/embed/x28wxtgz",
+            "https://sendvid.com/embed/b0xjvdbn",
+            "https://sendvid.com/embed/12gjroy7",
+            "https://sendvid.com/embed/1nhb5gc6",
+            "https://sendvid.com/embed/59l3havx",
+            "https://sendvid.com/embed/jh7y99f8",
+            "https://sendvid.com/embed/xy21y96z"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4666216",
+            "https://video.sibnet.ru/shell.php?videoid=4672973",
+            "https://video.sibnet.ru/shell.php?videoid=4680616",
+            "https://video.sibnet.ru/shell.php?videoid=4693115",
+            "https://video.sibnet.ru/shell.php?videoid=4703828",
+            "https://video.sibnet.ru/shell.php?videoid=4711757",
+            "https://video.sibnet.ru/shell.php?videoid=4719653",
+            "https://video.sibnet.ru/shell.php?videoid=4729191",
+            "https://video.sibnet.ru/shell.php?videoid=4736793",
+            "https://video.sibnet.ru/shell.php?videoid=4745070",
+            "https://video.sibnet.ru/shell.php?videoid=4754491",
+            "https://video.sibnet.ru/shell.php?videoid=4762648"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/z8womgsbbxwrmf7iudbufnfn9e",
+            "https://www.myvi.tv/embed/jm1cq9aszotwmdi6h4kmdxkpdo",
+            "https://www.myvi.tv/embed/rn9zjz6pk57rbjwtdnfd7w491o",
+            "https://www.myvi.tv/embed/kqh19f8n8z1r7dddnw9bd39k4r",
+            "https://www.myvi.tv/embed/foniuw6yg1nrfcsjip6n3p6x5o",
+            "https://www.myvi.tv/embed/3jw7wnhi8k6w7errw79pjkzpno",
+            "https://www.myvi.tv/embed/ubb4qsoosmbwxr89xx9iab8s3w",
+            "https://www.myvi.tv/embed/4fsu5zu3srerznzdej3bec9uhy",
+            "https://www.myvi.tv/embed/azodmh5m5amw3yb5d1mkz5pgma",
+            "https://www.myvi.tv/embed/b7nrw97nborwtko9ijzy3cf5hr",
+            "https://www.myvi.tv/embed/hpkex9yxj5aw9bky9w1dds57yh",
+            "https://www.myvi.tv/embed/zakz99yej1xrzkmkcocenenheh"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "prima-doll",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/prima-doll.jpg",
+    "desc": "L'histoire se centre sur 5 poupées autonomes initialement conçues comme des armes de guerre. Mais le conflit étant terminé, elle travaillent désormais dans un café à la mode : Kuronekotei.",
+    "genres": "Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/a96h393u",
+            "https://sendvid.com/embed/kuhf679f",
+            "https://sendvid.com/embed/g2stp89e",
+            "https://sendvid.com/embed/5koo586b",
+            "https://sendvid.com/embed/swgjo9sz",
+            "https://sendvid.com/embed/f0jflkxv",
+            "https://sendvid.com/embed/93lfm8lh",
+            "https://sendvid.com/embed/7tpv868l",
+            "https://sendvid.com/embed/v9uoe7jg",
+            "https://sendvid.com/embed/ja1d32km",
+            "https://sendvid.com/embed/od00gscx",
+            "https://sendvid.com/embed/wng4wgum"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4783425",
+            "https://video.sibnet.ru/shell.php?videoid=4796402",
+            "https://video.sibnet.ru/shell.php?videoid=4797162",
+            "https://video.sibnet.ru/shell.php?videoid=4805771",
+            "https://video.sibnet.ru/shell.php?videoid=4815280",
+            "https://video.sibnet.ru/shell.php?videoid=4835684",
+            "https://video.sibnet.ru/shell.php?videoid=4848780",
+            "https://video.sibnet.ru/shell.php?videoid=4848759",
+            "https://video.sibnet.ru/shell.php?videoid=4858340",
+            "https://video.sibnet.ru/shell.php?videoid=4866653",
+            "https://video.sibnet.ru/shell.php?videoid=4876216",
+            "https://video.sibnet.ru/shell.php?videoid=4884461"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/hjf6rmgw55hwjkmh1xszde4kgo",
+            "https://www.myvi.tv/embed/ytt4eida78rr7ru1gj1bzb9pdy",
+            "https://www.myvi.tv/embed/xwhjasuj8jdwdcbtbig64zgggw",
+            "https://www.myvi.tv/embed/uxhrahot71tr5cou1uwub8kp5r",
+            "https://www.myvi.tv/embed/wskw7hy88wnrir11z1b87zkbxa",
+            "https://www.myvi.tv/embed/1xqqn6fphoww3c6pck5ehjf8ja",
+            "https://www.myvi.tv/embed/seum8z4j1swrxcg8yj7zs6gboe",
+            "https://www.myvi.tv/embed/msiujunq4wzrup5cscejc6zmre",
+            "https://www.myvi.tv/embed/rz6wmktf1tuwbx5q35qr647kue",
+            "https://www.myvi.tv/embed/u3k7jgo9z5zwtgkow9t6zhftfc",
+            "https://www.myvi.tv/embed/jz4opz5yhzww8xg6bwcdwhbwsh",
+            "https://www.myvi.tv/embed/f5ezk84qos6rtndba8i989fn7c"
+          ]
+        }
+      }
+    }
+  }
+}

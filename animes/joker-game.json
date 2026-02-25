@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "joker-game",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/joker-game.jpg",
+    "desc": "1937. Alors que le Japon est déjà en guerre contre la Chine et se prépare à des offensives majeures au Sud et à l'Est du pays, le lieutenant-colonel Yûki crée la toute première agence d'espionnage nippone. Il forme alors 8 jeunes gens, recrutés hors des cercles militaires, pour en faire de parfaits espions qui suivront sans hésiter la devise de l'Agence : \"ne pas mourir, ne pas tuer\".\n\nÀ l'issue de leur formation, les 8 agents sur-entraînés sont envoyés aux quatre coins du monde pour accomplir leurs missions, mais aussi pour prouver aux militaires l'importance stratégique qu'ils représentent, car ces derniers n'apprécient pas leurs méthodes et leur \"manque d'honneur\".",
+    "genres": "Action, Historique, Mystère, Seinen, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4705830",
+            "https://video.sibnet.ru/shell.php?videoid=4705831",
+            "https://video.sibnet.ru/shell.php?videoid=4705832",
+            "https://video.sibnet.ru/shell.php?videoid=4705833",
+            "https://video.sibnet.ru/shell.php?videoid=4705836",
+            "https://video.sibnet.ru/shell.php?videoid=4705837",
+            "https://video.sibnet.ru/shell.php?videoid=4705839",
+            "https://video.sibnet.ru/shell.php?videoid=4705840",
+            "https://video.sibnet.ru/shell.php?videoid=4705841",
+            "https://video.sibnet.ru/shell.php?videoid=4705844",
+            "https://video.sibnet.ru/shell.php?videoid=4705846",
+            "https://video.sibnet.ru/shell.php?videoid=4705847"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/j94no7cx",
+            "https://sendvid.com/embed/0mg8e458",
+            "https://sendvid.com/embed/aeyzl7w0",
+            "https://sendvid.com/embed/vdwh378m",
+            "https://sendvid.com/embed/svv1qj9u",
+            "https://sendvid.com/embed/qs8jzbg5",
+            "https://sendvid.com/embed/egeder5c",
+            "https://sendvid.com/embed/miza201a",
+            "https://sendvid.com/embed/mtk9xwfy",
+            "https://sendvid.com/embed/mpfebjn1",
+            "https://sendvid.com/embed/tz3txkez",
+            "https://sendvid.com/embed/a6j9d90o"
+          ]
+        }
+      }
+    }
+  }
+}

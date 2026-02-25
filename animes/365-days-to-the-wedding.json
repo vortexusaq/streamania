@@ -1,0 +1,117 @@
+{
+  "data": {
+    "name": "365-days-to-the-wedding",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/365-days-to-the-wedding.jpg",
+    "desc": "Takuya et Rika travaillent ensemble dans une agence de voyage à Tokyo. Ils sont tous deux célibataires mais cela ne les dérange pas car ils sont introvertis et ont une vie épanouie seuls chez eux. Malheureusement, leur employeur cherche à recruter du personnel pour un bureau en Sibérie et les employés non mariés sont les premiers à être sollicités. Rika veut à tout prix éviter la mutation et propose à Takuya une idée : s'ils font semblant de se marier dans un an, ils pourront rester à Tokyo. Le seul problème, c'est qu'ils se connaissent à peine ! Est-ce que la relation entre ces deux collègues discrets se transformera en quelque chose de réel ?",
+    "genres": "Romance, Slice-of-Life, Mariage, Travail",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5700596",
+            "https://video.sibnet.ru/shell.php?videoid=5710638",
+            "https://video.sibnet.ru/shell.php?videoid=5719128",
+            "https://video.sibnet.ru/shell.php?videoid=5728305",
+            "https://video.sibnet.ru/shell.php?videoid=5736945",
+            "https://video.sibnet.ru/shell.php?videoid=5744184",
+            "https://video.sibnet.ru/shell.php?videoid=5751487",
+            "https://video.sibnet.ru/shell.php?videoid=5758265",
+            "https://video.sibnet.ru/shell.php?videoid=5764402",
+            "https://video.sibnet.ru/shell.php?videoid=5768565",
+            "https://video.sibnet.ru/shell.php?videoid=5772512",
+            "https://video.sibnet.ru/shell.php?videoid=5777938"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-bxuk8718bdw8.html",
+            "https://vidmoly.to/embed-dnzz1t5xid3g.html",
+            "https://vidmoly.to/embed-kudt4dkn2a3b.html",
+            "https://vidmoly.to/embed-pvftjhxpcm4e.html",
+            "https://vidmoly.to/embed-m8c9jsh3myky.html",
+            "https://vidmoly.to/embed-jpsren4aceom.html",
+            "https://vidmoly.to/embed-ugjqlgvxai8m.html",
+            "https://vidmoly.to/embed-zo324otqeq1n.html",
+            "https://vidmoly.to/embed-ay8xx0ir25r2.html",
+            "https://vidmoly.to/embed-2dc88k7xe13d.html",
+            "https://vidmoly.to/embed-85i3aak962zx.html",
+            "https://vidmoly.to/embed-u5pvm66vp450.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-fa3bfw24qud9.html",
+            "https://oneupload.to/embed-zak7bl61o30i.html",
+            "https://oneupload.to/embed-dzj22bv8calm.html",
+            "https://oneupload.to/embed-dmaxphli9jhm.html",
+            "https://oneupload.to/embed-9bn9umhb4a3r.html",
+            "https://oneupload.to/embed-nmga9bpefqeg.html",
+            "https://oneupload.to/embed-fzik8jlowvib.html",
+            "https://oneupload.to/embed-swvffxgqao24.html",
+            "https://oneupload.to/embed-ejkw0dlbh4qo.html",
+            "https://oneupload.to/embed-uhq3war6owsg.html",
+            "https://oneupload.to/embed-hlkpe40w7lwy.html",
+            "https://oneupload.to/embed-df2c8c0qnvcl.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/4dhdt75q",
+            "https://sendvid.com/embed/cb3yya8t",
+            "https://sendvid.com/embed/lzm4fhnv",
+            "https://sendvid.com/embed/trkum1zk",
+            "https://sendvid.com/embed/d0oi4cdt",
+            "https://sendvid.com/embed/jipa83g5",
+            "https://sendvid.com/embed/48lp8hvj",
+            "https://sendvid.com/embed/xxoafs4s",
+            "https://sendvid.com/embed/cmvj760i",
+            "https://sendvid.com/embed/0gu6ks40",
+            "https://sendvid.com/embed/z9wb248v",
+            "https://sendvid.com/embed/o98ftvtv"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {}
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {}
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {}
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

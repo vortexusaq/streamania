@@ -1,0 +1,50 @@
+{
+  "data": {
+    "name": "la-flamme",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-flamme.jpg",
+    "desc": "Après avoir ouvert son coeur à 13 prétendantes dans une somptueuse villa, Marc, pilote de ligne, se lance dans une nouvelle aventure, aux côtés des aventuriers de Chupacabra. Les 15 autres candidats et lui vont devoir s’affronter et survivre sur une île déserte. Épreuves physiques, manipulations mentales et trahisons émotionnelles seront les ingrédients de ce cocktail tropical.",
+    "genres": "Comédie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vf",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/5j9hbnd9uydrfryunwkw9fm83r",
+            "https://www.myvi.tv/embed/9yeeswiumb6w3pstw47nh5jugy",
+            "https://www.myvi.tv/embed/6zmhieo6qmgwxxro3gf661hscc",
+            "https://www.myvi.tv/embed/t34n18afiqqwmcpggcytgffi4r",
+            "https://www.myvi.tv/embed/zbhfqryxondw8jqirnj8mxnxro",
+            "https://www.myvi.tv/embed/178f3jsxm4rw7g3qcou3ufr5qa",
+            "https://www.myvi.tv/embed/tyj7kfodpp9rfckfo3csmnoysa",
+            "https://www.myvi.tv/embed/fhj76cidt7swidhiox8njfn6gc",
+            "https://www.myvi.tv/embed/hci84dopzirrtg6fof7bsyjqmh\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4741296",
+            "https://video.sibnet.ru/shell.php?videoid=4741303",
+            "https://video.sibnet.ru/shell.php?videoid=4741310",
+            "https://video.sibnet.ru/shell.php?videoid=4741317",
+            "https://video.sibnet.ru/shell.php?videoid=4741321",
+            "https://video.sibnet.ru/shell.php?videoid=4741328",
+            "https://video.sibnet.ru/shell.php?videoid=4741333",
+            "https://video.sibnet.ru/shell.php?videoid=4741340",
+            "https://video.sibnet.ru/shell.php?videoid=4741344"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/a5z0z1kf",
+            "https://sendvid.com/embed/shck9zl0",
+            "https://sendvid.com/embed/q7dwf4mm",
+            "https://sendvid.com/embed/8qrqb2ba",
+            "https://sendvid.com/embed/k4wzmn36",
+            "https://sendvid.com/embed/5r9ce7qw",
+            "https://sendvid.com/embed/e8bic8od",
+            "https://sendvid.com/embed/6fcd9m8f",
+            "https://sendvid.com/embed/nue8rcy6"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "arata-kangatari",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arata-kangatari.jpg",
+    "desc": "Dans un monde parallèle, aucune fille n'est née au sein du clan Hime depuis de nombreuses années, ce qui devient un vrai problème lorsqu'il faut remplacer la princesse du clan. Le jeune Arata se trouve alors contraint de se déguiser en femme afin de pouvoir devenir la nouvelle princesse de son clan et éviter ainsi sa destruction. Pendant la cérémonie où Arata devient la nouvelle \"princesse\", il assiste à l'assassinat de sa prédécesseure! Il est alors accusé injustement du meurtre de cette dernière et se voit obligé de fuir et de se réfugier dans une étrange forêt... Les choses se compliquent d'autant plus qu'au même moment, dans le Japon moderne de notre monde, un jeune lycéen du même nom que lui (Arata), se retrouve propulsé dans cet autre-monde qu'il ne connaît pas, s'incarnant dans le corps de l'autre Arata qui est pourchassé par les gardes du clan Hime.",
+    "genres": "Action, Aventure, Fantasy, Shônen, Autre-monde, Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/2j215p4t",
+            "https://sendvid.com/embed/kk50fsxy",
+            "https://sendvid.com/embed/er7tdfn1",
+            "https://sendvid.com/embed/0e0on6hs",
+            "https://sendvid.com/embed/hbmf3qdl",
+            "https://sendvid.com/embed/j1wqim6a",
+            "https://sendvid.com/embed/fzw4bg5b",
+            "https://sendvid.com/embed/fy1rrmmd",
+            "https://sendvid.com/embed/ds977vut",
+            "https://sendvid.com/embed/fuoqbodg",
+            "https://sendvid.com/embed/x4h2px5k",
+            "https://sendvid.com/embed/12zlf6t6"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5407022",
+            "https://video.sibnet.ru/shell.php?videoid=5407024",
+            "https://video.sibnet.ru/shell.php?videoid=5407026",
+            "https://video.sibnet.ru/shell.php?videoid=5407027",
+            "https://video.sibnet.ru/shell.php?videoid=5407028",
+            "https://video.sibnet.ru/shell.php?videoid=5407029",
+            "https://video.sibnet.ru/shell.php?videoid=5407031",
+            "https://video.sibnet.ru/shell.php?videoid=5407032",
+            "https://video.sibnet.ru/shell.php?videoid=5407034",
+            "https://video.sibnet.ru/shell.php?videoid=5407035",
+            "https://video.sibnet.ru/shell.php?videoid=5407037",
+            "https://video.sibnet.ru/shell.php?videoid=5407039"
+          ]
+        }
+      }
+    }
+  }
+}

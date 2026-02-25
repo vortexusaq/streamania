@@ -1,0 +1,56 @@
+{
+  "data": {
+    "name": "taiso-samurai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/taiso-samurai.jpg",
+    "desc": "En l'an 2002, Shōtarō Aragaki, un ancien très talentueux membre de l'équipe japonaise de gymnastique masculine, n'est plus en mesure de concourir. Bien qu'il se soit entraîné quotidiennement et avec acharnement, son entraîneur le pousse à prendre sa retraite. Cependant, une certaine rencontre va bouleverser le destin d'Aragaki.",
+    "genres": "Drame, Slice-of-Life, Sports, Tournois",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/22b43m22",
+            "https://sendvid.com/embed/7p8l02q4",
+            "https://sendvid.com/embed/4fnycr5k",
+            "https://sendvid.com/embed/ckpses7u",
+            "https://sendvid.com/embed/k3fvyuic",
+            "https://sendvid.com/embed/j899jtjh",
+            "https://sendvid.com/embed/gx904oz1",
+            "https://sendvid.com/embed/506tx6uz",
+            "https://sendvid.com/embed/no2gygd3",
+            "https://sendvid.com/embed/yeone18h",
+            "https://sendvid.com/embed/qnsouq0u\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4877988",
+            "https://video.sibnet.ru/shell.php?videoid=4877990",
+            "https://video.sibnet.ru/shell.php?videoid=4877991",
+            "https://video.sibnet.ru/shell.php?videoid=4877992",
+            "https://video.sibnet.ru/shell.php?videoid=4877994",
+            "https://video.sibnet.ru/shell.php?videoid=4877996",
+            "https://video.sibnet.ru/shell.php?videoid=4877998",
+            "https://video.sibnet.ru/shell.php?videoid=4877999",
+            "https://video.sibnet.ru/shell.php?videoid=4878000",
+            "https://video.sibnet.ru/shell.php?videoid=4878002",
+            "https://video.sibnet.ru/shell.php?videoid=4878010"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/wt5zmeft7y4w8cwcor7wihg3hr",
+            "https://www.myvi.tv/embed/etumdegdmc3wfcp7ekgjq4b41r",
+            "https://www.myvi.tv/embed/5xp3a3af4dfwtxjbk3nhrrt8xo",
+            "https://www.myvi.tv/embed/sop9rt8ziccrbnbeubw4pb5zxy",
+            "https://www.myvi.tv/embed/7kzi98ny75tw3poj91sc8tgxdo",
+            "https://www.myvi.tv/embed/h4nm4du38tjwugqtkpopy481ic",
+            "https://www.myvi.tv/embed/4yizdjf5d8rw3kar87mqafpxth",
+            "https://www.myvi.tv/embed/9e74hnhzmsgr88h59d9cfne3rc",
+            "https://www.myvi.tv/embed/gqngy5j7d33rxbawo5fonpy69y",
+            "https://www.myvi.tv/embed/433j4z8fqhfwpfc4xopmztf8de",
+            "https://www.myvi.tv/embed/cqxwaz33uyjwfqoqdaoho3usia"
+          ]
+        }
+      }
+    }
+  }
+}

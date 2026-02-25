@@ -1,0 +1,120 @@
+{
+  "data": {
+    "name": "medalist",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/medalist.jpg",
+    "desc": "Plus jeune, Tsukasa Akeuraji rêvait de patiner dans des compétitions mondiales mais ses ambitions furent rapidement enterrées par son entourage, qui jugeait qu'il avait commencé sa carrière trop tard. Quelques années plus tard, il fait la connaissance d'Inori Yuitsuka, en laquelle il voit le reflet de celui qu'il était autrefois. Convaincu par le potentiel de la jeune patineuse, il décide de l'entrainer et de faire d'elle une médaillée !",
+    "genres": "Drame, Seinen, Patinage artistique, Sport",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5790519",
+            "https://video.sibnet.ru/shell.php?videoid=5795959",
+            "https://video.sibnet.ru/shell.php?videoid=5801401"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-f9pa9wd22o98.html",
+            "https://vidmoly.to/embed-wnau7w0hfq17.html",
+            "https://vidmoly.to/embed-vad6brt1il8h.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-k9ftur2h8k07.html",
+            "https://oneupload.to/embed-5ed058elnbvp.html",
+            "https://oneupload.to/embed-ncxy5jona8mc.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/7uci6h8s",
+            "https://sendvid.com/embed/gb64mmb0",
+            "https://sendvid.com/embed/yoo0j47w"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

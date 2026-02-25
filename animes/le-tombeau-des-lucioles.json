@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "le-tombeau-des-lucioles",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-tombeau-des-lucioles.jpg",
+    "desc": "L'histoire débute au cours de l'été 1945, au Japon, durant la Seconde Guerre mondiale. Seita est un adolescent de quatorze ans et sa jeune sœur, Setsuko, en a quatre. Leur père est un officier supérieur de la marine impériale japonaise, enrôlé dans les forces navales depuis plusieurs années. Ils vivent donc avec leur mère dans la ville de Kōbe. Lorsque les forces armées américaines mènent une attaque à la bombe incendiaire sur cette ville portuaire, la famille est obligée de fuir. Seita et Setsuko, séparés de leur mère, fuient vers la mer et assistent de loin aux bombardements de la ville.",
+    "genres": "Drame, Historique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4740157"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/7fuq8zg1"
+          ]
+        }
+      }
+    }
+  }
+}

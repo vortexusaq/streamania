@@ -1,0 +1,69 @@
+{
+  "data": {
+    "name": "jiisan-baasan-wakagaeru",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/jiisan-baasan-wakagaeru.jpg",
+    "desc": "Nous suivons Ine et Shôzô, deux retraités dans la quatre-vingtaine qui, une nuit, sont mystérieusement retournés dans la vingtaine.",
+    "genres": "Comédie, Romance, Surnaturel, Jeunesse, Voyage-temporel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5496923",
+            "https://video.sibnet.ru/shell.php?videoid=5504573",
+            "https://video.sibnet.ru/shell.php?videoid=5511988",
+            "https://video.sibnet.ru/shell.php?videoid=5518655",
+            "https://video.sibnet.ru/shell.php?videoid=5526358",
+            "https://video.sibnet.ru/shell.php?videoid=5533411",
+            "https://video.sibnet.ru/shell.php?videoid=5540081",
+            "https://video.sibnet.ru/shell.php?videoid=5546142",
+            "https://video.sibnet.ru/shell.php?videoid=5552334",
+            "https://video.sibnet.ru/shell.php?videoid=5557968",
+            "https://video.sibnet.ru/shell.php?videoid=5565006"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-8p4o3aljovr4.html",
+            "https://vidmoly.to/embed-znrt9cik1xqs.html",
+            "https://vidmoly.to/embed-kd936bnmrv1h.html",
+            "https://vidmoly.to/embed-lr8td13uy7gv.html",
+            "https://vidmoly.to/embed-o6jdwbj4zpaa.html",
+            "https://vidmoly.to/embed-n3wxn8goyg92.html",
+            "https://vidmoly.to/embed-q7b7xwnfzjy4.html",
+            "https://vidmoly.to/embed-2x92u5czb8pb.html",
+            "https://vidmoly.to/embed-yw9cc10y16vs.html",
+            "https://vidmoly.to/embed-6eeawdrmdqav.html",
+            "https://vidmoly.to/embed-aownri2fugpn.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/qi79juyq",
+            "https://sendvid.com/embed/ss81morw",
+            "https://sendvid.com/embed/383ynb8a",
+            "https://sendvid.com/embed/ecwl9h1u",
+            "https://sendvid.com/embed/cgl7pdd4",
+            "https://sendvid.com/embed/hbynz8cc",
+            "https://sendvid.com/embed/k5mfw0vw",
+            "https://sendvid.com/embed/4w1wo28c",
+            "https://sendvid.com/embed/c59506es",
+            "https://sendvid.com/embed/1riwmcne",
+            "https://sendvid.com/embed/bjd2f28m"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239426&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239478&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239520&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239060&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239590&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239632&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239672&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239689&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239729&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239770&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239810&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "otherside-picnic",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/otherside-picnic.jpg",
+    "desc": "L'histoire prend place dans le monde moderne où il existe de mystérieuses portes permettant à ceux qui la traverse de voyager de \"l'autre côté\". Dans ce monde parallèle, les légendes urbaines et autres histoires circulant sur internet prennent vie. Sorawo Kamikoshi, une universitaire, se retrouve à explorer l'autre côté mais frôle la mort avant d'être secourue par une fille nommée Toriko Nishina. Toriko est une mystérieuse femme très expérimentée avec les armes qui semble être à la recherche d'une personne dans ce monde. Ensemble, elles vont commencer à explorer les différentes portes pour découvrir ce qu'elles cachent.",
+    "genres": "Action, Aventure, Fantasy, Mystère, Science-fiction, Shôjo-Ai, Shônen, Autre monde, Filles et pistolets, Survie, Univers alternatif, Isekai, Shôjo",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/x5l7smbo",
+            "https://sendvid.com/embed/n1cept1d",
+            "https://sendvid.com/embed/20czz3ld",
+            "https://sendvid.com/embed/re6rireo",
+            "https://sendvid.com/embed/03i8hrxh",
+            "https://sendvid.com/embed/7z3wpqhd",
+            "https://sendvid.com/embed/tias89a0",
+            "https://sendvid.com/embed/5ih6j68s",
+            "https://sendvid.com/embed/kuom6beg",
+            "https://sendvid.com/embed/zcczv2zx",
+            "https://sendvid.com/embed/kdfa2y2h",
+            "https://sendvid.com/embed/j8gao39h"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4997857",
+            "https://video.sibnet.ru/shell.php?videoid=4997858",
+            "https://video.sibnet.ru/shell.php?videoid=4997860",
+            "https://video.sibnet.ru/shell.php?videoid=4997861",
+            "https://video.sibnet.ru/shell.php?videoid=4997862",
+            "https://video.sibnet.ru/shell.php?videoid=4997863",
+            "https://video.sibnet.ru/shell.php?videoid=4997864",
+            "https://video.sibnet.ru/shell.php?videoid=4997865",
+            "https://video.sibnet.ru/shell.php?videoid=4997866",
+            "https://video.sibnet.ru/shell.php?videoid=4997867",
+            "https://video.sibnet.ru/shell.php?videoid=4997868",
+            "https://video.sibnet.ru/shell.php?videoid=4997869"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/9apxtzww7r8w8fzjnxnrdy63ae",
+            "https://www.myvi.tv/embed/fjhzn95bg1zrmgg9kuuc3pwwrh",
+            "https://www.myvi.tv/embed/dcqsjztiakiwzxnrutweq1gnua",
+            "https://www.myvi.tv/embed/1kwcpuh5amrwuczxqu369c57jw",
+            "https://www.myvi.tv/embed/g95rqgbdn6nw9jwwm8izt57uje",
+            "https://www.myvi.tv/embed/4z38sabeomgr3y4kw6h8g9b4gw",
+            "https://www.myvi.tv/embed/r6bwxz46zrmrjyi3q78iwcsjma",
+            "https://www.myvi.tv/embed/97insbrhxqyrfrmw6weppr5ute",
+            "https://www.myvi.tv/embed/y6uu4djznejrxkgw3jjzejj68r",
+            "https://www.myvi.tv/embed/u91jaensppxwdjkimxqn4d85yc",
+            "https://www.myvi.tv/embed/xu936t5kb96rbbuyj1crrs9o3y",
+            "https://www.myvi.tv/embed/d551yroobrcrjeebx7wp63g3cr"
+          ]
+        }
+      }
+    }
+  }
+}

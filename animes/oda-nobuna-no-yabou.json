@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "oda-nobuna-no-yabou",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/oda-nobuna-no-yabou.jpg",
+    "desc": "Yoshiharu Sagara, jeune lycéen banal, se retrouve téléporté dans le passé, durant l'époque Sengoku (époque des provinces en guerre). Quel choc pour lui lorsqu'il découvre que les grands généraux qu'il adule sont en fait... des femmes ! Il va alors faire la connaissance de Oda Nobuna (personnage inspiré de Oda Nobunaga) qui est fascinée par le fait que le jeune homme vienne du futur. Elle décide de le prendre avec lui, dans l'espoir que ses \"connaissances futuristes\" lui soient utiles...",
+    "genres": "Action, Comédie, Drame, Historique, Romance, Harem, Magie, Samouraïs, Voyage temporel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/lma76i8x",
+            "https://sendvid.com/embed/z6v91x3s",
+            "https://sendvid.com/embed/43px2fcj",
+            "https://sendvid.com/embed/xsb514o7",
+            "https://sendvid.com/embed/xwon5hvt",
+            "https://sendvid.com/embed/d72jyckc",
+            "https://sendvid.com/embed/m2edqubq",
+            "https://sendvid.com/embed/9fw0zl6i",
+            "https://sendvid.com/embed/ttk04ffm",
+            "https://sendvid.com/embed/agym7spq",
+            "https://sendvid.com/embed/d50jctvj",
+            "https://sendvid.com/embed/36808n2h"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5259444",
+            "https://video.sibnet.ru/shell.php?videoid=5259445",
+            "https://video.sibnet.ru/shell.php?videoid=5259446",
+            "https://video.sibnet.ru/shell.php?videoid=5259447",
+            "https://video.sibnet.ru/shell.php?videoid=5259448",
+            "https://video.sibnet.ru/shell.php?videoid=5259449",
+            "https://video.sibnet.ru/shell.php?videoid=5259450",
+            "https://video.sibnet.ru/shell.php?videoid=5259451",
+            "https://video.sibnet.ru/shell.php?videoid=5259452",
+            "https://video.sibnet.ru/shell.php?videoid=5259453",
+            "https://video.sibnet.ru/shell.php?videoid=5259454",
+            "https://video.sibnet.ru/shell.php?videoid=5259455"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/4iugws6b4mwrffn3ifmbdn1gzr",
+            "https://www.myvi.tv/embed/jduafujchgzrjpnk8httue3g7c",
+            "https://www.myvi.tv/embed/aq4cbq33yogrdpdh8uquey5rne",
+            "https://www.myvi.tv/embed/3jfmegzgh4nwpfz3bhfcr4q6xr",
+            "https://www.myvi.tv/embed/19m3zip3ncywpgo6xu7mzpym1y",
+            "https://www.myvi.tv/embed/3wkdttxpot1wpccim3fihuh6ja",
+            "https://www.myvi.tv/embed/hxacbryz7g4rxjqq44sjw8zkby",
+            "https://www.myvi.tv/embed/85hfm5w8q68r7pqy7a79xppgac",
+            "https://www.myvi.tv/embed/fjrhgbri364wtm1mfdbe6ammnw",
+            "https://www.myvi.tv/embed/minc6o7df1nw9qhbry1dti3jsa",
+            "https://www.myvi.tv/embed/tqbzd97ax3hwbmou3onnsfza7c",
+            "https://www.myvi.tv/embed/u1yin9z54wor3mwj1s51a7jigr"
+          ]
+        }
+      }
+    }
+  }
+}

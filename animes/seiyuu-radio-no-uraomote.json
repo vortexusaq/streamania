@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "seiyuu-radio-no-uraomote",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/seiyuu-radio-no-uraomote.jpg",
+    "desc": "Yasumi Utatane et Yûhi Yûgure, deux idols aux personnalités totalement opposées, entrent par hasard au même lycée et se voient présenter toutes les deux l'émission de radio de celui-ci. Bonnes amies à première vue, c'est tout le contraire lorsqu'elles ont terminé d'animer le programme du lycée et il est impossible pour leur duo de travailler ensemble. Pourtant, l'émission de radio ne va pas les attendre...",
+    "genres": "Comédie, Romance, School-Life, Shôjo-Ai, Adolescence, Amour, Club, Ecole, Homosexualité, LGBT+",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5500241",
+            "https://video.sibnet.ru/shell.php?videoid=5508094",
+            "https://video.sibnet.ru/shell.php?videoid=5514460",
+            "https://video.sibnet.ru/shell.php?videoid=5521849",
+            "https://video.sibnet.ru/shell.php?videoid=5529656",
+            "https://video.sibnet.ru/shell.php?videoid=5536432",
+            "https://video.sibnet.ru/shell.php?videoid=5542743",
+            "https://video.sibnet.ru/shell.php?videoid=5548863",
+            "https://video.sibnet.ru/shell.php?videoid=5554892",
+            "https://video.sibnet.ru/shell.php?videoid=5561023",
+            "https://video.sibnet.ru/shell.php?videoid=5568514",
+            "https://video.sibnet.ru/shell.php?videoid=5576009"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-3zjlkhfke6g8.html",
+            "https://vidmoly.to/embed-52jcx5ytdo7r.html",
+            "https://vidmoly.to/embed-p3eheu6up6vo.html",
+            "https://vidmoly.to/embed-2jry3fhua99l.html",
+            "https://vidmoly.to/embed-nu6zjemcu4z6.html",
+            "https://vidmoly.to/embed-pii6kuzry3ug.html",
+            "https://vidmoly.to/embed-bbads02ts90n.html",
+            "https://vidmoly.to/embed-anmquz04pdel.html",
+            "https://vidmoly.to/embed-0t6v1qne98x0.html",
+            "https://vidmoly.to/embed-2gn7sw4a5ilf.html",
+            "https://vidmoly.to/embed-c9j5pwwcsm31.html",
+            "https://vidmoly.to/embed-42mjid0rwmb1.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/x2z0qfgt",
+            "https://sendvid.com/embed/hu4giq1m",
+            "https://sendvid.com/embed/j2qeau82",
+            "https://sendvid.com/embed/cvbaua4t",
+            "https://sendvid.com/embed/o4czg9a2",
+            "https://sendvid.com/embed/0bd445mm",
+            "https://sendvid.com/embed/l3tthf1r",
+            "https://sendvid.com/embed/s9y4rymd",
+            "https://sendvid.com/embed/kd5kucvq",
+            "https://sendvid.com/embed/gpo434dl",
+            "https://sendvid.com/embed/dbwswb27",
+            "https://sendvid.com/embed/ws1f73x2"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239440&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239494&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239536&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239562&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239605&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239648&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239072&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239705&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239742&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239783&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239822&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239854&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

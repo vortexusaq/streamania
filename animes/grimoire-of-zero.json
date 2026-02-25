@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "grimoire-of-zero",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/grimoire-of-zero.jpg",
+    "desc": "An 526. Les humains ont désormais conscience que la magie existe et que certaines personnes la pratiquent, mais ils ignorent comment elles procèdent. Un jeune mercenaire mi-humain, mi-bête croise un jour la route d'une talentueuse sorcière prénommée Zero. Cette dernière lui promet de réaliser son rêve, redevenir humain, à la condition qu'il l'aide à retrouver un puissant grimoire dont elle avait la garde et qui lui a été dérobé.",
+    "genres": "Action, Aventure, Drame, Fantasy",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/keq0xqx9",
+            "https://sendvid.com/embed/mz84w7t2",
+            "https://sendvid.com/embed/75ybl9da",
+            "https://sendvid.com/embed/di7dmj6t",
+            "https://sendvid.com/embed/aavb2vw5",
+            "https://sendvid.com/embed/8l5m550m",
+            "https://sendvid.com/embed/cbwg2fjz",
+            "https://sendvid.com/embed/lnr22dim",
+            "https://sendvid.com/embed/baw08cd1",
+            "https://sendvid.com/embed/xh67p9jv",
+            "https://sendvid.com/embed/gfhb26ad",
+            "https://sendvid.com/embed/734miyyf\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4841266",
+            "https://video.sibnet.ru/shell.php?videoid=4841267",
+            "https://video.sibnet.ru/shell.php?videoid=4841269",
+            "https://video.sibnet.ru/shell.php?videoid=4841270",
+            "https://video.sibnet.ru/shell.php?videoid=4841271",
+            "https://video.sibnet.ru/shell.php?videoid=4841272",
+            "https://video.sibnet.ru/shell.php?videoid=4841273",
+            "https://video.sibnet.ru/shell.php?videoid=4841275",
+            "https://video.sibnet.ru/shell.php?videoid=4841282",
+            "https://video.sibnet.ru/shell.php?videoid=4841284",
+            "https://video.sibnet.ru/shell.php?videoid=4841286",
+            "https://video.sibnet.ru/shell.php?videoid=4841290"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/58pzwzt66ier8gzh8s5ig7rimr",
+            "https://www.myvi.tv/embed/hgfu7fd5aa8w9yfqs14nc4qnec",
+            "https://www.myvi.tv/embed/6pmomzwmmiswjnmrbz5qz84hko",
+            "https://www.myvi.tv/embed/jbihbbqs4qqwbmdp3zxxth8uyw",
+            "https://www.myvi.tv/embed/68oz6d4f667wpck8czmbhtr5jo",
+            "https://www.myvi.tv/embed/1zy6u8xomswr3fr4dknkc41ejc",
+            "https://www.myvi.tv/embed/rx6cp6qebrir3d7sfncy5ohfne",
+            "https://www.myvi.tv/embed/19ycuq6r994w7mo7qgjc1uydza",
+            "https://www.myvi.tv/embed/4jgz9msw3dfrbex6qpfndhaway",
+            "https://www.myvi.tv/embed/j97d98popphw3mkunrxhfqfyfr",
+            "https://www.myvi.tv/embed/gsfrf8f6jezr9chrmtwgkt3sgy",
+            "https://www.myvi.tv/embed/edbf5bf9xtgriew3kigcjejuco"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "data": {
+    "name": "nichijou",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nichijou.jpg",
+    "desc": "Alors que le titre nous suggère une simple histoire à propos de la vie scolaire de tous les jours, le contenu est tout autre. L'intrigue se passe dans une école étrange où l'on peut voir le principal lutter contre un chevreuil ou un robot dont le bras contient un cake roulé. Nichijou reste cependant une histoire classique, où les personnages créent des châteaux de cartes ou passent des examens sans avoir révisé. L'anime s'inscrit dans un style mignon tout en conservant des scènes d'action et d'humour décalé.",
+    "genres": "Comédie, Fantasy, Psychologique, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/jxigr5sc",
+            "https://sendvid.com/embed/k716eq8c",
+            "https://sendvid.com/embed/6p140qlh",
+            "https://vidmoly.to/embed-8den88jp4300.html",
+            "https://sendvid.com/embed/67r7t9tc",
+            "https://sendvid.com/embed/p2twlsme",
+            "https://sendvid.com/embed/kp4x3ew1",
+            "https://sendvid.com/embed/sl4ovudg",
+            "https://sendvid.com/embed/fhxms3qh",
+            "https://sendvid.com/embed/le37j537",
+            "https://sendvid.com/embed/tmlzekqo",
+            "https://sendvid.com/embed/19u2jiru",
+            "https://sendvid.com/embed/9qj7eibx",
+            "https://sendvid.com/embed/3djskrd8",
+            "https://sendvid.com/embed/63ybfkc8",
+            "https://sendvid.com/embed/xx9kr2gr",
+            "https://sendvid.com/embed/9bks7we0",
+            "https://sendvid.com/embed/0q2ny1dg",
+            "https://sendvid.com/embed/apc8m0j0",
+            "https://sendvid.com/embed/w7q8laf3",
+            "https://sendvid.com/embed/v41qclv3",
+            "https://sendvid.com/embed/g20e79ps",
+            "https://sendvid.com/embed/w9vdb31o",
+            "https://sendvid.com/embed/lwtmht0x",
+            "https://sendvid.com/embed/3edhlfzl",
+            "https://sendvid.com/embed/e5qrlwii"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-27sj97b7s2g8.html",
+            "https://vidmoly.to/embed-mqzvopr36hy6.html",
+            "https://vidmoly.to/embed-fm9dto9lgxon.html",
+            "https://vidmoly.to/embed-kncc0bqc04m3.html",
+            "https://vidmoly.to/embed-cjcus5ylf327.html",
+            "https://vidmoly.to/embed-k2bqn37fx4cu.html",
+            "https://vidmoly.to/embed-pxzly1xom73s.html",
+            "https://vidmoly.to/embed-h2axhtkeuqee.html",
+            "https://vidmoly.to/embed-rhcb1idp1qeb.html",
+            "https://vidmoly.to/embed-7cjovny6buwp.html",
+            "https://vidmoly.to/embed-56lvashj0d3o.html",
+            "https://vidmoly.to/embed-qmfoh6mc2lab.html",
+            "https://vidmoly.to/embed-m75e8mp4o2u2.html",
+            "https://vidmoly.to/embed-aclvn739sbb5.html",
+            "https://vidmoly.to/embed-ko2c5lrw1xy5.html",
+            "https://vidmoly.to/embed-7d13th3csvx3.html",
+            "https://vidmoly.to/embed-mc4ouq2iweij.html",
+            "https://vidmoly.to/embed-ri6s6kdp9di1.html",
+            "https://vidmoly.to/embed-3jbhy22rutjw.html",
+            "https://vidmoly.to/embed-d8826azddkx4.html",
+            "https://vidmoly.to/embed-py968g830lsi.html",
+            "https://vidmoly.to/embed-58alylcxts5h.html",
+            "https://vidmoly.to/embed-kweecjho5c6c.html",
+            "https://vidmoly.to/embed-m0ac8iu6rmrv.html",
+            "https://vidmoly.to/embed-rpa1rnyox993.html",
+            "https://vidmoly.to/embed-3pbao2c6phdf.html"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-osodjzzlq33s.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/443hdbie"
+          ]
+        }
+      }
+    }
+  }
+}

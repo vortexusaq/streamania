@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "grimgar",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/grimgar.jpg",
+    "desc": "L'histoire se déroule à Grimgar, un monde de fantasy où la lune est couleur rouge sang. Douze adolescents se réveillent un jour en ce monde sans aucun souvenir de leur vie antérieure en dehors de leurs noms. Ils sont alors conduits auprès de Britney, qui les incite à rejoindre l'Armée des Volontaires en tant qu'apprentis. N'ayant pas vraiment le choix, les adolescents décident de s'adapter à leur nouvelle vie et acceptent sa proposition. Le groupe se scinde alors en deux et chacun s'inscrit dans une guilde. Manato, Haruhiro, Yume, Moguzo, Shihoru et Ranta décident de rester groupés et d'évoluer à leur rythme. Mais ce monde leur réserve bien des surprises, bonnes comme mauvaises.",
+    "genres": "Action, Aventure, Comédie, Drame, Fantasy, Romance, Shônen, Slice-of-Life, Isekai, Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/owdjwon4gkqrixyxf3uu88jwxc",
+            "https://www.myvi.tv/embed/uh4bkx1shf7rppwqddqog67iey",
+            "https://www.myvi.tv/embed/3uroa963ruewfeaqfkegads4to",
+            "https://www.myvi.tv/embed/zodc6hnpt15r7cy1r9kmf4m1mh",
+            "https://www.myvi.tv/embed/e37bmxznug5rxm7ddufiufraqh",
+            "https://www.myvi.tv/embed/pxuh547fadewxqn4a6mmakczfr",
+            "https://www.myvi.tv/embed/zcifsexzpaarpe8a9qtexqtkur",
+            "https://www.myvi.tv/embed/rfynurdcsgmwdcui7paosgyr4o",
+            "https://www.myvi.tv/embed/yo3533xqontrjkof9wjc1ajhcw",
+            "https://www.myvi.tv/embed/nyiitw3xuizw3jayo3gtn74gfa",
+            "https://www.myvi.tv/embed/ao3rt9cah3kw3ndx98949rhk3c",
+            "https://www.myvi.tv/embed/pnwyn7cnrdew9qs3xrpmei6qbe\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4714534",
+            "https://video.sibnet.ru/shell.php?videoid=4714535",
+            "https://video.sibnet.ru/shell.php?videoid=4714537",
+            "https://video.sibnet.ru/shell.php?videoid=4714539",
+            "https://video.sibnet.ru/shell.php?videoid=4714540",
+            "https://video.sibnet.ru/shell.php?videoid=4714543",
+            "https://video.sibnet.ru/shell.php?videoid=4714544",
+            "https://video.sibnet.ru/shell.php?videoid=4714545",
+            "https://video.sibnet.ru/shell.php?videoid=4714547",
+            "https://video.sibnet.ru/shell.php?videoid=4714549",
+            "https://video.sibnet.ru/shell.php?videoid=4714550",
+            "https://video.sibnet.ru/shell.php?videoid=4714552"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/dbe5tqau",
+            "https://sendvid.com/embed/fko2zd10",
+            "https://sendvid.com/embed/gbg4m4is",
+            "https://sendvid.com/embed/dnj898hk",
+            "https://sendvid.com/embed/vjdb9i52",
+            "https://sendvid.com/embed/psrtg4ak",
+            "https://sendvid.com/embed/h5ilpf20",
+            "https://sendvid.com/embed/xv8qneqr",
+            "https://sendvid.com/embed/y3c6hlub",
+            "https://sendvid.com/embed/gdgqnlpi",
+            "https://sendvid.com/embed/anzc5367",
+            "https://sendvid.com/embed/k2r60jc1"
+          ]
+        }
+      }
+    }
+  }
+}

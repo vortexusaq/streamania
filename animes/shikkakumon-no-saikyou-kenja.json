@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "shikkakumon-no-saikyou-kenja",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shikkakumon-no-saikyou-kenja.jpg",
+    "desc": "Dans un autre monde, il y avait une personne qui excellait dans les combats magiques, un être que l'on appelait \"Sage\". Cette personne étant à la recherche de la plus puissante forme de combats, il consacra toute sa vie à l'étude de tous les arts magiques et de combats existants. La conclusion à laquelle il arriva fut très cruelle : son propre corps n'était pas apte au combats magique.\nCependant, il n'abandonna pas et scella sa propre âme avec un art magique pour ensuite renaître dans un futur lointain. A son réveil, le monde avait complètement changé et la théorie magique était d'un niveau incroyablement bas...",
+    "genres": "Action, Aventure, Comédie, Fantasy, School-Life, Shônen, Harem, Magie, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/3jod881c",
+            "https://sendvid.com/embed/k8emgcsl",
+            "https://sendvid.com/embed/ipevy72s",
+            "https://sendvid.com/embed/2zwzuejh",
+            "https://sendvid.com/embed/hmfina0v",
+            "https://sendvid.com/embed/zsw6e4e4",
+            "https://sendvid.com/embed/ddrfd91f",
+            "https://sendvid.com/embed/pnhkfhr9",
+            "https://sendvid.com/embed/i8idln9w",
+            "https://sendvid.com/embed/37db8qig",
+            "https://sendvid.com/embed/347lt64u",
+            "https://sendvid.com/embed/8azm7h9l"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4668394",
+            "https://video.sibnet.ru/shell.php?videoid=4668396",
+            "https://video.sibnet.ru/shell.php?videoid=4668397",
+            "https://video.sibnet.ru/shell.php?videoid=4668398",
+            "https://video.sibnet.ru/shell.php?videoid=4596849",
+            "https://video.sibnet.ru/shell.php?videoid=4668400",
+            "https://video.sibnet.ru/shell.php?videoid=4668401",
+            "https://video.sibnet.ru/shell.php?videoid=4668402",
+            "https://video.sibnet.ru/shell.php?videoid=4668404",
+            "https://video.sibnet.ru/shell.php?videoid=4668405",
+            "https://video.sibnet.ru/shell.php?videoid=4668406",
+            "https://video.sibnet.ru/shell.php?videoid=4668408"
+          ]
+        }
+      }
+    }
+  }
+}

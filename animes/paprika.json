@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "paprika",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/paprika.jpg",
+    "desc": "Dans le futur, un nouveau traitement psychothérapeutique nommé PT a été inventé. Grâce à une machine, le DC Mini, il est possible de rentrer dans les rêves des patients, et de les enregistrer afin de sonder les tréfonds de la pensée et de l'inconscient. Alors que le processus est toujours dans sa phase de test, l'un des prototypes du DC Mini est volé, créant un vent de panique au sein des scientifiques ayant développé cette petite révolution. Dans de mauvaises mains, une telle invention pourrait effectivement avoir des résultats dévastateurs. Le Dr. Atsuko Chiba, collègue de l'inventeur du DC Mini, le Dr. Tokita, décide, sous l'apparence de sa délurée alter-ego Paprika, de s'aventurer dans le monde des rêves pour découvrir qui s'est emparé du DC Mini et pour quelle raison. Elle découvre que l'assistant du Dr. Tokita, Himuro, a disparu...",
+    "genres": "Fantasy - Horreur - Épouvante - Mystère - Psychologique - Science-fiction - Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/nwtchszzwtnw8rz3dowgewkt3r"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5093217"
+          ]
+        }
+      }
+    }
+  }
+}

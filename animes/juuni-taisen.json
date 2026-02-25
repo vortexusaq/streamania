@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "juuni-taisen",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/juuni-taisen.jpg",
+    "desc": "Dans un monde temporairement vide de toute population, douze guerriers portants les noms des douze signes astrologiques chinois s'affrontent pour réaliser un seul souhait.\n\nLeur objectif : être le seul survivant à la fin de cette guerre.",
+    "genres": "Action, Fantastique, Fantasy, Surnaturel, Tournois",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-we4g7uyphlj0.html",
+            "https://vidmoly.to/embed-jupdznm1kreh.html",
+            "https://vidmoly.to/embed-e8064m6714ew.html",
+            "https://vidmoly.to/embed-5fqxhp0ngo2q.html",
+            "https://vidmoly.to/embed-7gcbs4wlhcmi.html",
+            "https://vidmoly.to/embed-0ve3f52q158q.html",
+            "https://vidmoly.to/embed-4sg5lsg7mcn8.html",
+            "https://vidmoly.to/embed-3hly9ufs8o4t.html",
+            "https://vidmoly.to/embed-7u3wchf5uwrv.html",
+            "https://vidmoly.to/embed-jqkn0w9fa6x6.html",
+            "https://vidmoly.to/embed-tmoraw5k7488.html",
+            "https://vidmoly.to/embed-2godi2lqugop.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3413933",
+            "https://video.sibnet.ru/shell.php?videoid=3413937",
+            "https://video.sibnet.ru/shell.php?videoid=3413942",
+            "https://video.sibnet.ru/shell.php?videoid=3413946",
+            "https://video.sibnet.ru/shell.php?videoid=3413953",
+            "https://video.sibnet.ru/shell.php?videoid=3413957",
+            "https://video.sibnet.ru/shell.php?videoid=3413963",
+            "https://video.sibnet.ru/shell.php?videoid=3413967",
+            "https://video.sibnet.ru/shell.php?videoid=3413970",
+            "https://video.sibnet.ru/shell.php?videoid=3413972",
+            "https://video.sibnet.ru/shell.php?videoid=3413974",
+            "https://video.sibnet.ru/shell.php?videoid=3413975"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/7j6uzjs1",
+            "https://sendvid.com/embed/x3gh43l6",
+            "https://sendvid.com/embed/qnk5lz5t",
+            "https://sendvid.com/embed/wjo560w6",
+            "https://sendvid.com/embed/cm1x23ay",
+            "https://sendvid.com/embed/eqkv71r1",
+            "https://sendvid.com/embed/0lheo2jr",
+            "https://sendvid.com/embed/ys9y9pkr",
+            "https://sendvid.com/embed/nu0jy7ef",
+            "https://sendvid.com/embed/48eqlamy",
+            "https://sendvid.com/embed/eg2j5hxp",
+            "https://sendvid.com/embed/whpf5roa"
+          ]
+        }
+      }
+    }
+  }
+}

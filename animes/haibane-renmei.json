@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "haibane-renmei",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/haibane-renmei.jpg",
+    "desc": "Une jeune fille tombe du ciel... Lorsqu'elle se réveille, elle se retrouve dans une sorte de cocon, dont elle émerge finalement pour se retrouver face à petit groupe de filles dotées d'ailes et d'une auréole. C'est ainsi que Rakka rejoint la communauté des Ailes-Grises, des êtres à l'apparence angélique qui vivent en harmonie avec les humains dans une ville oubliée du temps, entourée de hautes murailles. Petit à petit, Rakka va découvrir son nouvel environnement. Mais des questions continuent à la hanter. Qui sont vraiment les Ailes-Grises ? D'où viennent-ils ? Et surtout, qu'est-ce qui se trouve au-delà des murailles, là où seuls les oiseaux peuvent aller ?",
+    "genres": "Drame, Fantasy, Mystère, Psychologique, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/9eary8m1",
+            "https://sendvid.com/embed/algudx4v",
+            "https://sendvid.com/embed/io50yfil",
+            "https://sendvid.com/embed/32667s6s",
+            "https://sendvid.com/embed/dy8d0dyo",
+            "https://sendvid.com/embed/65ehf49p",
+            "https://sendvid.com/embed/f7the41m",
+            "https://sendvid.com/embed/v5w7i6ld",
+            "https://sendvid.com/embed/ipz1b7ts",
+            "https://sendvid.com/embed/1fuf0qlb",
+            "https://sendvid.com/embed/uudvzpl0",
+            "https://sendvid.com/embed/hp07wy9z",
+            "https://sendvid.com/embed/b22na421\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4812307",
+            "https://video.sibnet.ru/shell.php?videoid=4812310",
+            "https://video.sibnet.ru/shell.php?videoid=4812312",
+            "https://video.sibnet.ru/shell.php?videoid=4812314",
+            "https://video.sibnet.ru/shell.php?videoid=4812315",
+            "https://video.sibnet.ru/shell.php?videoid=4812317",
+            "https://video.sibnet.ru/shell.php?videoid=4812320",
+            "https://video.sibnet.ru/shell.php?videoid=4812321",
+            "https://video.sibnet.ru/shell.php?videoid=4812322",
+            "https://video.sibnet.ru/shell.php?videoid=4812323",
+            "https://video.sibnet.ru/shell.php?videoid=4812326",
+            "https://video.sibnet.ru/shell.php?videoid=4812327",
+            "https://video.sibnet.ru/shell.php?videoid=4812328"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ipkdf3kids6w38m96j6ag39kfr",
+            "https://www.myvi.tv/embed/c1cfhsqzdabr5jn4ykmyuwhyky",
+            "https://www.myvi.tv/embed/ohk6dss5joaw5xgto3111kbjsr",
+            "https://www.myvi.tv/embed/jn1qos59ef3w7ecu8ekjweeb6o",
+            "https://www.myvi.tv/embed/kjawj83zbgow9gcj94pdo9ghec",
+            "https://www.myvi.tv/embed/rfiyn6p43shw8ctsi135ukitca",
+            "https://www.myvi.tv/embed/suc7qe3b9otr9jc8ikey7m6b1r",
+            "https://www.myvi.tv/embed/agx36ek9mpgwjy6d3aoiqdkqgc",
+            "https://www.myvi.tv/embed/fto4qa18mbyrfb45oywymg79mw",
+            "https://www.myvi.tv/embed/np8p9aupo98rtgt73tx95snjch",
+            "https://www.myvi.tv/embed/98yxh876kkrrbxr6bzdbdxtska",
+            "https://www.myvi.tv/embed/op4sdn3aozbrzyhb18od5j6i7y",
+            "https://www.myvi.tv/embed/g588xnkfptpwdnbw7uwhgf7mae"
+          ]
+        }
+      }
+    }
+  }
+}

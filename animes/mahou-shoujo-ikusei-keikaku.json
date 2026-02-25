@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "mahou-shoujo-ikusei-keikaku",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mahou-shoujo-ikusei-keikaku.jpg",
+    "desc": "L'histoire se passe dans un monde où un jeu en ligne nommé Magical Girl Raising Project offre des pouvoirs spéciaux dans le monde réel. Seulement, ces pouvoirs ne peuvent être obtenus qu'avec de la chance : en effet, seule une personne sur dix-mille peut espérer en avoir. Pour Koyuki Himekawa, joueuse assidue qui fait partie des heureuses élues, c'est ainsi le rêve d'une vie qui prend enfin forme. Mais ce qui s'apparente à la chance d'une vie va vite se révéler bien plus nébuleux. Un jour, Fav, la mascotte du jeu qui attribue les pouvoirs, décide de réduire de moitié les Magical Girls pour les faire passer de 16 à 8, instaurant le principe d'une élimination 'au mérite', mais dont l'interprétation des règles floues semble permettre bien des largesses. Ainsi, le véritable but du jeu se dévoile et devient un jeu de survie impitoyable. Ces 16 Magical Girls vont devoir s'entretuer pour faire partie des 8 survivantes.",
+    "genres": "Action, Drame, Fantasy, Mystère, Psychologique, Surnaturel, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/icgmn0sa",
+            "https://sendvid.com/embed/c398s6hm",
+            "https://sendvid.com/embed/0752h4ow",
+            "https://sendvid.com/embed/yg1knw2a",
+            "https://sendvid.com/embed/0d0fzmso",
+            "https://sendvid.com/embed/qewutit0",
+            "https://sendvid.com/embed/5kw1x46e",
+            "https://sendvid.com/embed/duq2226j",
+            "https://sendvid.com/embed/bhgi12m1",
+            "https://sendvid.com/embed/syluixux",
+            "https://sendvid.com/embed/uo9d9tai",
+            "https://sendvid.com/embed/457gz273\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4813156",
+            "https://video.sibnet.ru/shell.php?videoid=4813152",
+            "https://video.sibnet.ru/shell.php?videoid=4813150",
+            "https://video.sibnet.ru/shell.php?videoid=4813148",
+            "https://video.sibnet.ru/shell.php?videoid=4813146",
+            "https://video.sibnet.ru/shell.php?videoid=4813143",
+            "https://video.sibnet.ru/shell.php?videoid=4813142",
+            "https://video.sibnet.ru/shell.php?videoid=4813141",
+            "https://video.sibnet.ru/shell.php?videoid=4813138",
+            "https://video.sibnet.ru/shell.php?videoid=4813136",
+            "https://video.sibnet.ru/shell.php?videoid=4813133",
+            "https://video.sibnet.ru/shell.php?videoid=4813131"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/hn6z5ikh8y6w7q6dyeu1rpxx8h",
+            "https://www.myvi.tv/embed/ryxf3yfs31qwxpxtyk5d5s4ose",
+            "https://www.myvi.tv/embed/np9cw7zzskfwmbsghsqzb1ncne",
+            "https://www.myvi.tv/embed/14ne4hbp4h8wmr39xgdos96mzh",
+            "https://www.myvi.tv/embed/ouek5eyo6h3r5jqfp8w7we5mnw",
+            "https://www.myvi.tv/embed/pftj56t7y8urbdmws7qsywpamr",
+            "https://www.myvi.tv/embed/gmp94oaq7njrx8zn5khko5xtnc",
+            "https://www.myvi.tv/embed/gzw35yf61okwigbbo8qi6g8e5e",
+            "https://www.myvi.tv/embed/eti9zojp8eow5fspty5utbx4ca",
+            "https://www.myvi.tv/embed/bsa1btxq6e4wub5eupcb85sc7r",
+            "https://www.myvi.tv/embed/ga7t1myf7eor7psix5tewgkxxh",
+            "https://www.myvi.tv/embed/w53u11br1tqw9bhoeiy5oxrx8w"
+          ]
+        }
+      }
+    }
+  }
+}

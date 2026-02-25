@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "oreshura",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/oreshura.jpg",
+    "desc": "Eita est un jeune lycéen ambitieux qui a pour objectif d'intégrer la prestigieuse école de médecine de l'université nationale. Pris par le divorce de ses parents et son projet d'étude, il exclut la possibilité d'avoir une petite amie. Cependant, un jour, la beauté de l'école aux cheveux d'argent, Masuzu Natsukawa, lui déclare sa flamme. Chiwa, son amie d'enfance depuis l'école primaire, voit cette déclaration d'un très mauvais œil et décide de lutter contre Masuzu.",
+    "genres": "Comédie, Romance, School-Life, Ecole, Harem, Triangle amoureux",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/d6b5z0nc",
+            "https://sendvid.com/embed/8u9weu8z",
+            "https://sendvid.com/embed/w9eecblm",
+            "https://sendvid.com/embed/szc1niri",
+            "https://sendvid.com/embed/jk0zbkcw",
+            "https://sendvid.com/embed/i1o5icsa",
+            "https://sendvid.com/embed/zeefxstv",
+            "https://sendvid.com/embed/jgvgjwfj",
+            "https://sendvid.com/embed/e34qekm3",
+            "https://sendvid.com/embed/59v2sx9p",
+            "https://sendvid.com/embed/t9z5ekyy",
+            "https://sendvid.com/embed/sdvi02yh",
+            "https://sendvid.com/embed/c41ya0wp"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4975937",
+            "https://video.sibnet.ru/shell.php?videoid=4975939",
+            "https://video.sibnet.ru/shell.php?videoid=4975943",
+            "https://video.sibnet.ru/shell.php?videoid=4975946",
+            "https://sendvid.com/embed/jk0zbkcw",
+            "https://video.sibnet.ru/shell.php?videoid=4975950",
+            "https://video.sibnet.ru/shell.php?videoid=4975951",
+            "https://video.sibnet.ru/shell.php?videoid=4975953",
+            "https://video.sibnet.ru/shell.php?videoid=4975955",
+            "https://video.sibnet.ru/shell.php?videoid=4975957",
+            "https://video.sibnet.ru/shell.php?videoid=4975959",
+            "https://video.sibnet.ru/shell.php?videoid=4975963",
+            "https://video.sibnet.ru/shell.php?videoid=4975965"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/brx36w9bdufw7dkbgsgpnkkiya",
+            "https://www.myvi.tv/embed/bbeszxuqgz8wxbm9akoweg8ucr",
+            "https://www.myvi.tv/embed/e5o7s5cjr8hwtmzgqw7iadpyoe",
+            "https://www.myvi.tv/embed/3xwhxueqwkaruk44nsfok11obh",
+            "https://www.myvi.tv/embed/kjcrxx9zskww8y6ztgzijp7n3o",
+            "https://www.myvi.tv/embed/3wz55k6ugypwjqo3q9i7fjnc7r",
+            "https://www.myvi.tv/embed/1w51rc6tutfrubiof4mzm7skto",
+            "https://www.myvi.tv/embed/7as7raqknx4r3newrpr68iceer",
+            "https://www.myvi.tv/embed/b8rww187kijrfq4ypjbusz13gw",
+            "https://video.sibnet.ru/shell.php?videoid=4973721",
+            "https://www.myvi.tv/embed/5imbgi36a1arxdwiqtgb3rdxjc",
+            "https://www.myvi.tv/embed/8j9paw75mnjw7dgrs96485brpy",
+            "https://www.myvi.tv/embed/mhdqun6csgyrtrymuqfagaw6go"
+          ]
+        }
+      }
+    }
+  }
+}

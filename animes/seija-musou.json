@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "seija-musou",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/seija-musou.jpg",
+    "desc": "Un jour, le Dieu du Destin de la Terre et le Dieu Chef de Galdardia firent un pari. Le Dieu du Destin perdit et dû choisir dix âmes communes à remettre au vainqueur. À ces dix âmes, le Dieu Chef de Galdardia leur offrit une nouvelle capacité. Parmi elles se trouvait un salarié qui luttait contre son destin mortel. Quel sera son avenir ? Les dieux et l'auteur lui-même ne le savent pas.",
+    "genres": "Aventure, Comédie, Fantasy, Autre-monde, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5190530",
+            "https://video.sibnet.ru/shell.php?videoid=5196998",
+            "https://video.sibnet.ru/shell.php?videoid=5203214",
+            "https://video.sibnet.ru/shell.php?videoid=5209415",
+            "https://video.sibnet.ru/shell.php?videoid=5217486",
+            "https://video.sibnet.ru/shell.php?videoid=5223213",
+            "https://video.sibnet.ru/shell.php?videoid=5233801",
+            "https://video.sibnet.ru/shell.php?videoid=5233831",
+            "https://video.sibnet.ru/shell.php?videoid=5238884",
+            "https://video.sibnet.ru/shell.php?videoid=5246803",
+            "https://video.sibnet.ru/shell.php?videoid=5253091",
+            "https://video.sibnet.ru/shell.php?videoid=5258130"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-ln87x8mw9nsm.html",
+            "https://vidmoly.to/embed-to4m6m2gfbsp.html",
+            "https://vidmoly.to/embed-u5mai71zrqey.html",
+            "https://vidmoly.to/embed-bwaxzmibmk8f.html",
+            "https://vidmoly.to/embed-aa3gwfbqjj4d.html",
+            "https://vidmoly.to/embed-jcidcyhdn5jl.html",
+            "https://vidmoly.to/embed-qml0ey4lsfrj.html",
+            "https://vidmoly.to/embed-q5v5ehcpwdvy.html",
+            "https://vidmoly.to/embed-5fg518hx0je3.html",
+            "https://vidmoly.to/embed-48261mvj674e.html",
+            "https://vidmoly.to/embed-i5zrehcxvkbw.html",
+            "https://vidmoly.to/embed-egqqb8faf8ds.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/f0h1tund",
+            "https://sendvid.com/embed/bfkiymyv",
+            "https://sendvid.com/embed/7rd9idzp",
+            "https://sendvid.com/embed/t6aseuy4",
+            "https://sendvid.com/embed/em2t1ime",
+            "https://sendvid.com/embed/tbuiwppm",
+            "https://sendvid.com/embed/yj2auizr",
+            "https://sendvid.com/embed/q2m6kpdb",
+            "https://sendvid.com/embed/0329v6no",
+            "https://sendvid.com/embed/pjrpxltq",
+            "https://sendvid.com/embed/qwfinuph",
+            "https://sendvid.com/embed/01hzrgk1"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Seija%20Musou/Seija_Musou_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

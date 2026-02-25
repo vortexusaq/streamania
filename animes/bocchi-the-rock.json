@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "bocchi-the-rock",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bocchi-the-rock.jpg",
+    "desc": "L'histoire suit le quotidien de Gotou Hitori, une lycéenne qui a commencé à apprendre à jouer de la guitare pour réaliser son rêve : faire partie d'un groupe. Malheureusement, la jeune musicienne est bien trop timide et n'a donc pas réussi à se faire un seul ami. Cependant, sa rencontre avec Ijichi Nijika pourrait bien tout changer. En effet, cette dernière est une batteuse et elle est à la recherche d'une guitariste pour son groupe.",
+    "genres": "Comédie, Seinen, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456239136&hash=5960c50173ddbbfd&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239137&hash=c865011733fa392f&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239138&hash=7b844beab551fc43&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239139&hash=7ea5487954f68605&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239140&hash=5223699087f8e176&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239141&hash=b5b61fc4be88a666&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239142&hash=74ea6dfadb8d5628&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239160&hash=55413f6e0643d365&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239164&hash=febebb3a76c53b5c&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239098&hash=5800d78b29b6d4f5&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239108&hash=29f7a8ef64cb57b1&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239121&hash=dba550d6b49c12c6&hd=3"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-chqhbt76683w.html",
+            "https://vidmoly.to/embed-yl75spzb7gka.html",
+            "https://vidmoly.to/embed-m0d0fupuc9v5.html",
+            "https://vidmoly.to/embed-djfjlawnxzf7.html",
+            "https://vidmoly.to/embed-coisigagrqs4.html",
+            "https://vidmoly.to/embed-tjdmr26t2bvx.html",
+            "https://vidmoly.to/embed-8zt77y7eso4s.html",
+            "https://vidmoly.to/embed-j3lpkq4bi5tm.html",
+            "https://vidmoly.to/embed-1t0s69xf82oy.html",
+            "https://vidmoly.to/embed-ldga3r269ni1.html",
+            "https://vidmoly.to/embed-yat00ywhizyq.html",
+            "https://vidmoly.to/embed-gv0yns6ykxun.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4911400",
+            "https://video.sibnet.ru/shell.php?videoid=4919226",
+            "https://video.sibnet.ru/shell.php?videoid=4926995",
+            "https://video.sibnet.ru/shell.php?videoid=4934026",
+            "https://video.sibnet.ru/shell.php?videoid=4942411",
+            "https://video.sibnet.ru/shell.php?videoid=4949936",
+            "https://video.sibnet.ru/shell.php?videoid=4957223",
+            "https://video.sibnet.ru/shell.php?videoid=4969281",
+            "https://video.sibnet.ru/shell.php?videoid=4969417",
+            "https://video.sibnet.ru/shell.php?videoid=4975061",
+            "https://video.sibnet.ru/shell.php?videoid=4981228",
+            "https://video.sibnet.ru/shell.php?videoid=4989303"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/a3dxzfsf",
+            "https://sendvid.com/embed/odtjnder",
+            "https://sendvid.com/embed/cncjcg2l",
+            "https://sendvid.com/embed/ksy9uvpz",
+            "https://sendvid.com/embed/v2vtsou7",
+            "https://sendvid.com/embed/usaqy26y",
+            "https://sendvid.com/embed/olvjedfc",
+            "https://sendvid.com/embed/kwy0f7wo",
+            "https://sendvid.com/embed/3rrc6o0x",
+            "https://sendvid.com/embed/maltr0ek",
+            "https://sendvid.com/embed/dbdrco08",
+            "https://sendvid.com/embed/f03xj67y"
+          ]
+        }
+      }
+    }
+  }
+}

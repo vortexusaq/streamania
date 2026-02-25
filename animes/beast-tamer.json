@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "beast-tamer",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/beast-tamer.jpg",
+    "desc": "Rein est un aventurier travaillant comme dompteur de monstre. Depuis qu'il a rejoint le groupe du Héros, un fossé se creuse entre lui et les autres membres du groupe : il est trop faible. Un jour, il se fait exclure du groupe à cause de son niveau et de sa puissance trop faible. Mais cela ne l'a pas empêché de continuer à être un aventurier, même s'il n'appartient plus au groupe du Héros. Rein reprend donc une vie banale de faible aventurier en accomplissant de petites quêtes. Mais un jour, il rencontre une fille chat, une des races les plus forte dans le monde.",
+    "genres": "Comédie, Fantasy",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4901084",
+            "https://video.sibnet.ru/shell.php?videoid=4911262",
+            "https://video.sibnet.ru/shell.php?videoid=4919062",
+            "https://video.sibnet.ru/shell.php?videoid=4926912",
+            "https://video.sibnet.ru/shell.php?videoid=4933874",
+            "https://video.sibnet.ru/shell.php?videoid=4942301",
+            "https://video.sibnet.ru/shell.php?videoid=4949768",
+            "https://video.sibnet.ru/shell.php?videoid=4957153",
+            "https://video.sibnet.ru/shell.php?videoid=4963674",
+            "https://video.sibnet.ru/shell.php?videoid=4969348",
+            "https://video.sibnet.ru/shell.php?videoid=4974879",
+            "https://video.sibnet.ru/shell.php?videoid=4981097",
+            "https://video.sibnet.ru/shell.php?videoid=4989210"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/khb6ruul",
+            "https://sendvid.com/embed/mjazf45i",
+            "https://sendvid.com/embed/y81t5wtk",
+            "https://sendvid.com/embed/076x6g6c",
+            "https://sendvid.com/embed/b7cx4tac",
+            "https://sendvid.com/embed/86hdrs92",
+            "https://sendvid.com/embed/trex10sc",
+            "https://sendvid.com/embed/a8ng61dz",
+            "https://sendvid.com/embed/x2co6ldr",
+            "https://sendvid.com/embed/j41u4v1r",
+            "https://sendvid.com/embed/jq01o8u9",
+            "https://sendvid.com/embed/4xkvp00y",
+            "https://sendvid.com/embed/s531og1i"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/sksfn9ftweuw98f3pi9ar8o9uy",
+            "https://www.myvi.tv/embed/qfr76x6r863rim8xs66n4wujyy",
+            "https://www.myvi.tv/embed/e1n1ddsqcfird8pbbj9m13omeo",
+            "https://www.myvi.tv/embed/jp7n55qxjrfrmcwbi3yb6ega1h",
+            "https://www.myvi.tv/embed/mkum4ipwuthrzbqyt6retjm3ma",
+            "https://www.myvi.tv/embed/ftdbj5rifm7wueb8jsuqnftq5a",
+            "https://www.myvi.tv/embed/zjxq9fnjbcnr7cstj8t3n68tjh",
+            "https://www.myvi.tv/embed/rrrq338tpemw3yz5jgwfnkanbh",
+            "https://www.myvi.tv/embed/aybqogo9gfrr5digtd1snnm4tw",
+            "https://www.myvi.tv/embed/bfj7jcybbydwzf9n1smpmjafto",
+            "https://www.myvi.tv/embed/r4cyz9f81sdrpnbiukadziit1r",
+            "https://www.myvi.tv/embed/nii36qzo3n4r9qxaoaw4tstokh",
+            "https://www.myvi.tv/embed/i3uo3k3psegw5ewgfs6krqgg7o"
+          ]
+        }
+      }
+    }
+  }
+}

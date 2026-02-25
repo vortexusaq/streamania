@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "arte",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arte.jpg",
+    "desc": "Florence, début du XVIe siècle.\n\nDans ce berceau de la Renaissance, qui vit l'art s'épanouir dans toute sa splendeur, une jeune aristocrate prénommée Arte rêve de devenir artiste peintre et aspire à entrer en apprentissage dans un des nombreux ateliers de la ville...\nHélas ! Cette époque de foisonnement culturel était aussi celle de la misogynie, et il n'était pas concevable qu'une jeune femme ambitionne de vivre de son art et de son travail. Les nombreux obstacles qui se dresseront sur le chemin d'Arte auront-ils raison de la folle énergie de cette aristo déjantée ?",
+    "genres": "Historique, Seinen, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/iihv476h",
+            "https://sendvid.com/embed/bwvir26u",
+            "https://sendvid.com/embed/iy605zke",
+            "https://sendvid.com/embed/kievdgly",
+            "https://sendvid.com/embed/x2bygxan",
+            "https://sendvid.com/embed/aicprpol",
+            "https://sendvid.com/embed/wzfmuc2m",
+            "https://sendvid.com/embed/jahnejr3",
+            "https://sendvid.com/embed/1iy1abm6",
+            "https://sendvid.com/embed/091shbgs",
+            "https://sendvid.com/embed/s70rqq5o",
+            "https://sendvid.com/embed/6jt4kijz"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4681010",
+            "https://video.sibnet.ru/shell.php?videoid=4681011",
+            "https://video.sibnet.ru/shell.php?videoid=4681014",
+            "https://video.sibnet.ru/shell.php?videoid=4681016",
+            "https://video.sibnet.ru/shell.php?videoid=4681018",
+            "https://video.sibnet.ru/shell.php?videoid=4681019",
+            "https://video.sibnet.ru/shell.php?videoid=4681021",
+            "https://video.sibnet.ru/shell.php?videoid=4681023",
+            "https://video.sibnet.ru/shell.php?videoid=4681025",
+            "https://video.sibnet.ru/shell.php?videoid=4681027",
+            "https://video.sibnet.ru/shell.php?videoid=4681028",
+            "https://video.sibnet.ru/shell.php?videoid=4681030"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/kjrgo4nn5zhw98j9ky68w9taxy",
+            "https://www.myvi.top/embed/weu4ritq44armnrdcma1r9xhjc",
+            "https://www.myvi.top/embed/83nmdgx5mf9wpj75deetp6q9th",
+            "https://www.myvi.top/embed/58sp3tqg1enried74eibzf9g6c",
+            "https://www.myvi.top/embed/p8urcc7towswukswaaz7w4nsrw",
+            "https://www.myvi.top/embed/jpn8xockkefwdjbuhx1nwmpzbc",
+            "https://www.myvi.top/embed/m8yra8tedniwxmf1ycqfg63auh",
+            "https://www.myvi.top/embed/xcmozcbw9nmr9rc7dtwae5skyw",
+            "https://www.myvi.top/embed/d967wkwygtnrbr3stefbzsczbr",
+            "https://www.myvi.top/embed/mt7b4wk1yxjrupcauxie4wzxsw",
+            "https://www.myvi.top/embed/87n4xiztdzawurhwzyaukkkbqe",
+            "https://www.myvi.top/embed/f98wywai57krtqqs5wayswcpdo"
+          ]
+        }
+      }
+    }
+  }
+}

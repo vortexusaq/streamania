@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "lookism",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lookism.jpg",
+    "desc": "Gros, laid et impopulaire, Hyeong-Seok Park est méprisé par les autres lycéens et est victime de violence ainsi que de harcèlement. Sa vie va toutefois changer du jour au lendemain, non pas parce qu'il change de lycée, mais parce qu'il va se réveiller dans un autre corps, celui d'un garçon beau, grand et musclé. Comment réussira-t-il à s'adapter dans ce nouveau corps tout en acceptant la réalité qu'il a décidé de fuir ?",
+    "genres": "Action, Comédie, Drame, Psychologique, Romance, School-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/b6mg7shc",
+            "https://sendvid.com/embed/ftdhynxk",
+            "https://sendvid.com/embed/0z2el5wn",
+            "https://sendvid.com/embed/wynyx51b",
+            "https://sendvid.com/embed/d0o6eijq",
+            "https://sendvid.com/embed/rljr8wmi",
+            "https://sendvid.com/embed/h7uxbeka",
+            "https://sendvid.com/embed/0tnrld2j"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4972957",
+            "https://video.sibnet.ru/shell.php?videoid=4972967",
+            "https://video.sibnet.ru/shell.php?videoid=4972970",
+            "https://video.sibnet.ru/shell.php?videoid=4972973",
+            "https://video.sibnet.ru/shell.php?videoid=4972974",
+            "https://video.sibnet.ru/shell.php?videoid=4972977",
+            "https://video.sibnet.ru/shell.php?videoid=4972980",
+            "https://video.sibnet.ru/shell.php?videoid=4972983"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/gmkdjc5obkfrm8h1xts6hbi9na",
+            "https://www.myvi.tv/embed/pwcfxjpsgzqr8gw4kcd4qb4duh",
+            "https://www.myvi.tv/embed/qbdr9z3nk8drtdf5157e3q9wcw",
+            "https://www.myvi.tv/embed/ynx44wdusq1rx84n91yj1eep6a",
+            "https://www.myvi.tv/embed/tc9ofkjizx7wjctyqph61z3fgw",
+            "https://www.myvi.tv/embed/4z5mtyyhrjgrpx4c16jodst8eh",
+            "https://www.myvi.tv/embed/ca3ore8x646wpd8673j79wqrjr",
+            "https://www.myvi.tv/embed/mun8wrgxd5prdjxtpebc3hne9r"
+          ]
+        }
+      }
+    }
+  }
+}

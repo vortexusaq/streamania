@@ -1,0 +1,32 @@
+{
+  "data": {
+    "name": "the-girl-from-the-other-side",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-girl-from-the-other-side.jpg",
+    "desc": "Il y a très longtemps, dans une contrée lointaine, existaient deux pays... « L'intérieur » où vivaient les humains, et « l'extérieur », où habitaient des créatures monstrueuses qu'il ne fallait surtout pas toucher, sous peine de subir la malédiction. Cette histoire commence le jour où se sont rencontrés deux êtres qui n'auraient jamais dû se croiser... Ils sont aussi différents que le jour et la nuit... Et malgré tout ce qui les sépare, malgré les ténèbres qui les entourent, ils vont écrire petit à petit une fable tous les deux...",
+    "genres": "Drame, Fantastique, Mystère",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ew2fhrfz",
+            "https://sendvid.com/embed/r1bj1imx",
+            "https://sendvid.com/embed/anzfcbk7\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4815707",
+            "https://video.sibnet.ru/shell.php?videoid=4815708",
+            "https://video.sibnet.ru/shell.php?videoid=4815709"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/urwjkx39snfrxrkppcy9tbw8dw",
+            "https://www.myvi.tv/embed/gfp1aogq3biribeiwkc8edjfyo",
+            "https://www.myvi.tv/embed/8swp5ubi7xgrxd7rzqbt5ej3tw"
+          ]
+        }
+      }
+    }
+  }
+}

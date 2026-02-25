@@ -1,0 +1,38 @@
+{
+  "data": {
+    "name": "sasuke-retsuden",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sasuke-retsuden.jpg",
+    "desc": "Alors que Sasuke Uchiwa se rend dans un lieu très éloigné du pays du Feu : l’institut de recherches en astronomie, Sakura le rejoint sur cette mission d’infiltration. Leur but : enquêter sur les traces de l’Ermite Rikudô ! Un plan qui transcende la vie et la mort est en marche…Quelle sera l’issue de l’enquête menée par ce duo époux et coéquipiers ?!",
+    "genres": "Action, Aventure, Fantasy, Drame",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/y6i7910b",
+            "https://sendvid.com/embed/kdb9f4fu",
+            "https://sendvid.com/embed/t1e733vh",
+            "https://sendvid.com/embed/7c234j2h",
+            "https://sendvid.com/embed/aowu0d6b"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5002585",
+            "https://video.sibnet.ru/shell.php?videoid=5009949",
+            "https://video.sibnet.ru/shell.php?videoid=5016724",
+            "https://video.sibnet.ru/shell.php?videoid=5025156",
+            "https://video.sibnet.ru/shell.php?videoid=5032089"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/mq8xhwjmorermjpczof4rxun4c",
+            "https://www.myvi.tv/embed/o8875zknztnw9qjnfszdrfrrqw",
+            "https://www.myvi.tv/embed/yf8wt9q7pqxwjnboeyojzk4asa",
+            "https://www.myvi.tv/embed/3qge87i35jiwjejh1dejdjs97w",
+            "https://www.myvi.tv/embed/cc1hzfkfgswwpnqueu79bprynw"
+          ]
+        }
+      }
+    }
+  }
+}

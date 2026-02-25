@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "trinity-seven",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/trinity-seven.jpg",
+    "desc": "L'histoire se centre sur Arata Kasuga, un adolescent vivant avec sa cousine, Hijiri Kasuga. Un jour, il remarque que le soleil et la lune sont devenus noirs et qu'il est le seul à trouver cela étrange.\n\nIl rencontre alors une étrange jeune fille se nommant Lilith, qui lui explique que son monde a été détruit. Elle lui explique aussi qu'il est dans un monde virtuel qu'il a lui même crée à l'aide d'un Grimoire que lui a laissé sa cousine avant d'être absorbée par le soleil noir.\n\nLilith est une professeur de l'Académie Magicus, qui a été envoyée pour retrouver le Grimoire. Ainsi elle lui propose deux choix : remettre le grimoire ou mourir, Kasuga n'a d'autre choix que de choisir la troisième option et rejoindre l'Académie afin d'apprendre la magie et tenter de retrouver sa cousine.",
+    "genres": "Action, Comédie, Ecchi, Fantasy, Romance, School-Life, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4721346",
+            "https://video.sibnet.ru/shell.php?videoid=4721351",
+            "https://video.sibnet.ru/shell.php?videoid=4721355",
+            "https://video.sibnet.ru/shell.php?videoid=4721357",
+            "https://video.sibnet.ru/shell.php?videoid=4721359",
+            "https://video.sibnet.ru/shell.php?videoid=4721362",
+            "https://video.sibnet.ru/shell.php?videoid=4721364",
+            "https://video.sibnet.ru/shell.php?videoid=4721368",
+            "https://video.sibnet.ru/shell.php?videoid=4721371",
+            "https://video.sibnet.ru/shell.php?videoid=4721372",
+            "https://video.sibnet.ru/shell.php?videoid=4721375",
+            "https://video.sibnet.ru/shell.php?videoid=4721377"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/scdm33pg",
+            "https://sendvid.com/embed/rlo4du4e",
+            "https://sendvid.com/embed/j37ln357",
+            "https://sendvid.com/embed/2q54dygz",
+            "https://sendvid.com/embed/hglnvgro",
+            "https://sendvid.com/embed/yqccafpw",
+            "https://sendvid.com/embed/m2lyuyj4",
+            "https://sendvid.com/embed/romclrw7",
+            "https://sendvid.com/embed/c6tupvf2",
+            "https://sendvid.com/embed/x5pnlnw4",
+            "https://sendvid.com/embed/fo1ja4hy",
+            "https://sendvid.com/embed/9bih01wm"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/4w8hkrjxyyarxfmk8f3ykmwpjr",
+            "https://www.myvi.top/embed/spczgoihei4rmnyhkgq8bj38xe"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/b4ql9lj0",
+            "https://sendvid.com/embed/vg96lnqp"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4721380",
+            "https://video.sibnet.ru/shell.php?videoid=4721385"
+          ]
+        }
+      }
+    }
+  }
+}

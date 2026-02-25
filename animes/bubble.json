@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "bubble",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bubble.jpg",
+    "desc": "Dans un Tokyo où la gravité n'existe plus, un garçon et une fille se voient attirés l'un par l'autre... L'histoire se situe à Tokyo, après que des bulles ayant brisé la loi de la gravité se sont déversées sur le monde. Désormais coupée du monde extérieur, Tokyo n'est plus la capitale qu'elle était : la voici devenue un terrain de jeu pour tout un groupe de jeunes ayant perdu leur famille, qui se divertissent en formant des équipes de parkour, sautant d'immeubles en immeubles. Hibiki, un jeune as connu pour son style de jeu dangereux, commet une maladresse et bascule dans la mer qui pèse sur la gravité. Il est sauvé par Uta, une fille possédant de mystérieux pouvoirs. Ces deux-là entendent alors un son qui n'est audible que par eux. Pour quelle raison Uta est-elle apparue devant Hibiki ? Leur rencontre va conduire à une révélation qui pourrait bien changer le monde...",
+    "genres": "Mystère, Romance, Adolescence, Amitié, Catastrophe naturelle",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/yj54kjtga67wzrwyxwyk8fgash\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4691294"
+          ]
+        }
+      }
+    }
+  }
+}

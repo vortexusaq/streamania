@@ -1,0 +1,81 @@
+{
+  "data": {
+    "name": "youjo-senki",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/youjo-senki.jpg",
+    "desc": "L'histoire suit Tanya Degurechov, une jeune fille aux commandes d'une armée de sorciers dans une Europe d'un monde parallèle, en plein cœur de l'équivalent de la Première Guerre mondiale. Malgré son jeune âge et son allure frêle, elle est capable d'anéantir à elle seule une armée entière.\nAutrefois banal salarié dans la ville de Tokyo, il a été assassiné en 2013 puis réincarné en jeune fille dans cet autre monde pour avoir mit en colère un Dieu.\nAvec ses nouveaux pouvoirs en poche, Tanya va devenir l'entité la plus dangereuse et la plus crainte de l'armée.",
+    "genres": "Action, Drame, Fantasy, Isekai, Surnaturel, Magie, Militaire, Guerre, Seinen",
+    "update": "Une saison 2 est prévue",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-83kzst1pqxij.html",
+            "https://vidmoly.to/embed-vygd7nt88rky.html",
+            "https://vidmoly.to/embed-4w8mg3k4eohs.html",
+            "https://vidmoly.to/embed-8pyzcmrdr6bc.html",
+            "https://vidmoly.to/embed-48wp2eo31utp.html",
+            "https://vidmoly.to/embed-fvrcctkg74i7.html",
+            "https://vidmoly.to/embed-qnz946rrt2qt.html",
+            "https://vidmoly.to/embed-o7ak5pja427k.html",
+            "https://vidmoly.to/embed-a40bjdvc3hlo.html",
+            "https://vidmoly.to/embed-a2soyl4fg5ru.html",
+            "https://vidmoly.to/embed-2v2sgl42rxoh.html",
+            "https://vidmoly.to/embed-qwnx8w1q90qg.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4692676",
+            "https://video.sibnet.ru/shell.php?videoid=4692680",
+            "https://video.sibnet.ru/shell.php?videoid=4692686",
+            "https://video.sibnet.ru/shell.php?videoid=4692693",
+            "https://video.sibnet.ru/shell.php?videoid=4692697",
+            "https://video.sibnet.ru/shell.php?videoid=4692705",
+            "https://www.myvi.top/embed/gcsixh87rn1wde3ihxjos3gemr",
+            "https://video.sibnet.ru/shell.php?videoid=4692717",
+            "https://video.sibnet.ru/shell.php?videoid=4692721",
+            "https://video.sibnet.ru/shell.php?videoid=4692727",
+            "https://video.sibnet.ru/shell.php?videoid=4692736",
+            "https://video.sibnet.ru/shell.php?videoid=4692747"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/ke03mlof",
+            "https://sendvid.com/embed/68myrt4i",
+            "https://sendvid.com/embed/y42h35ic",
+            "https://sendvid.com/embed/corbhgzx",
+            "https://sendvid.com/embed/lx5bhe6p",
+            "https://sendvid.com/embed/rfh7qk77",
+            "https://sendvid.com/embed/2nl2jmvs",
+            "https://sendvid.com/embed/dcqdov4s",
+            "https://sendvid.com/embed/ogybt8a4",
+            "https://sendvid.com/embed/w3ivhdmm",
+            "https://sendvid.com/embed/6wdsqgfz",
+            "https://sendvid.com/embed/zrplcjgu"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5191970"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/7q1d7669b51wpqzpgswo7n3foh"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/oupevngr"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=5192343"
+          ]
+        }
+      }
+    }
+  }
+}

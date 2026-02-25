@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "asura",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/asura.jpg",
+    "desc": "Au milieu du 15ème siècle, dans un Kyoto ravagé par la famine et la sécheresse, Asura est un enfant qui a été abandonné par tous depuis le jour où sa mère a tenté de le manger. Pour survivre, il a du grandir en se nourrissant de la chair qu'il trouve, qu'elle vienne d'animaux ou d'humains...",
+    "genres": "Drame, Historique, Horreur, Épouvante",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/3s0rbk8s"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-15j6e9fftgcx.html"
+          ]
+        }
+      }
+    }
+  }
+}

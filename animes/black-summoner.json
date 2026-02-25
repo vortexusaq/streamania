@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "black-summoner",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/black-summoner.jpg",
+    "desc": "Après avoir remporté un tirage au sort inconnu, Kelvin se réveille dans un monde fantaisiste ressemblant à un RPG, avec tous ses souvenirs effacés. Rejoint par son guide invisible, Melfina, qui l'informe de ses nouveaux pouvoirs d'invocateur, Kelvin voyage maintenant dans ce nouveau monde pour monter en niveau, former une équipe et devenir le plus puissant invocateur !",
+    "genres": "Aventure, Fantasy, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/zd7ypozt",
+            "https://sendvid.com/embed/uhjusapg",
+            "https://sendvid.com/embed/d3pn7wdl",
+            "https://sendvid.com/embed/0w2uu1mp",
+            "https://sendvid.com/embed/mjthsnm6",
+            "https://sendvid.com/embed/tuorq9qp",
+            "https://sendvid.com/embed/ry7hc585",
+            "https://sendvid.com/embed/6e3kr167",
+            "https://sendvid.com/embed/putfypek",
+            "https://sendvid.com/embed/2459p7t6",
+            "https://sendvid.com/embed/5gadnl1i",
+            "https://sendvid.com/embed/4j2jko72"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4784158",
+            "https://video.sibnet.ru/shell.php?videoid=4796391",
+            "https://video.sibnet.ru/shell.php?videoid=4798929",
+            "https://video.sibnet.ru/shell.php?videoid=4806374",
+            "https://video.sibnet.ru/shell.php?videoid=4815779",
+            "https://video.sibnet.ru/shell.php?videoid=4824793",
+            "https://video.sibnet.ru/shell.php?videoid=4836731",
+            "https://video.sibnet.ru/shell.php?videoid=4847372",
+            "https://video.sibnet.ru/shell.php?videoid=4855888",
+            "https://video.sibnet.ru/shell.php?videoid=4865142",
+            "https://video.sibnet.ru/shell.php?videoid=4874476",
+            "https://video.sibnet.ru/shell.php?videoid=4883394"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-9ait6dlbhrub.html",
+            "https://vidmoly.to/embed-3hpn07g5gy25.html",
+            "https://vidmoly.to/embed-avn9frt001se.html",
+            "https://vidmoly.to/embed-evjzxkiewmus.html",
+            "https://vidmoly.to/embed-442je2rlxaqc.html",
+            "https://vidmoly.to/embed-96iehneqgozw.html",
+            "https://vidmoly.to/embed-6231rb6hbsqw.html",
+            "https://vidmoly.to/embed-i3v165ve0an0.html",
+            "https://vidmoly.to/embed-rwzy70kf87g7.html",
+            "https://vidmoly.to/embed-nz4i0busxjip.html",
+            "https://vidmoly.to/embed-pm2hf5fqkps2.html",
+            "https://vidmoly.to/embed-5mtfhi5lcik7.html"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "le-haut-du-panier",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-haut-du-panier.jpg",
+    "desc": "Lorsqu'un dénicheur de talents du basket en perte de vitesse repère un joueur prometteur en Espagne, il compte bien prouver qu'ils peuvent tous deux réussir dans la NBA.",
+    "genres": "Drame, Sports",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4757733\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/9hgy4gxyiysr8dzjy6xbzopuba"
+          ]
+        }
+      }
+    }
+  }
+}

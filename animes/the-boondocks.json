@@ -1,0 +1,141 @@
+{
+  "data": {
+    "name": "the-boondocks",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-boondocks.jpg",
+    "desc": "Huey et Riley Freeman, deux frères afro-américains, vivent avec leur grand-père Robert Freeman. Devenu riche, Robert Freeman décide de quitter Chicago pour une ville du Sud des États-Unis nommée Woodcrest. Ainsi Huey et Riley, vivant avec leur grand-père, quittent le ghetto de Chicago pour se retrouver dans une banlieue majoritairement blanche, riche et paisible.",
+    "genres": "Comédie, Action, Animation",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 4,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/8hf7ds1z",
+            "https://sendvid.com/embed/qcji4psv",
+            "https://sendvid.com/embed/yab16arc",
+            "https://sendvid.com/embed/s4r8tx2u",
+            "https://sendvid.com/embed/t2v214l0",
+            "https://sendvid.com/embed/ilqw5a5v",
+            "https://sendvid.com/embed/vg909ig5",
+            "https://sendvid.com/embed/047ve9lb",
+            "https://sendvid.com/embed/hb56cyze",
+            "https://sendvid.com/embed/7i0h1drf",
+            "https://sendvid.com/embed/zx8pe52g",
+            "https://sendvid.com/embed/pblhjpc8",
+            "https://sendvid.com/embed/l7unmi89",
+            "https://sendvid.com/embed/x2rzq5qi",
+            "https://sendvid.com/embed/8ns8nmm7"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4903664",
+            "https://video.sibnet.ru/shell.php?videoid=4903665",
+            "https://video.sibnet.ru/shell.php?videoid=4903669",
+            "https://video.sibnet.ru/shell.php?videoid=4903672",
+            "https://video.sibnet.ru/shell.php?videoid=4903674",
+            "https://video.sibnet.ru/shell.php?videoid=4903676",
+            "https://video.sibnet.ru/shell.php?videoid=4903679",
+            "https://video.sibnet.ru/shell.php?videoid=4903681",
+            "https://video.sibnet.ru/shell.php?videoid=4903683",
+            "https://video.sibnet.ru/shell.php?videoid=4903684",
+            "https://video.sibnet.ru/shell.php?videoid=4903687",
+            "https://video.sibnet.ru/shell.php?videoid=4903690",
+            "https://video.sibnet.ru/shell.php?videoid=4903692",
+            "https://video.sibnet.ru/shell.php?videoid=4903694",
+            "https://video.sibnet.ru/shell.php?videoid=4903697"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-u85lyxg58u6y.html",
+            "https://vidmoly.to/embed-44frj76dkbbl.html",
+            "https://vidmoly.to/embed-w7nd6un2c6va.html",
+            "https://vidmoly.to/embed-rusf3flfcehy.html",
+            "https://vidmoly.to/embed-y8ez7wyzdxjy.html",
+            "https://vidmoly.to/embed-ugd3jir863o7.html",
+            "https://vidmoly.to/embed-agmrx5aeynrj.html",
+            "https://vidmoly.to/embed-p6e2mj05zc3s.html",
+            "https://vidmoly.to/embed-ts6190bfp50j.html",
+            "https://vidmoly.to/embed-jkkssbetky94.html",
+            "https://vidmoly.to/embed-5p17jjsu2bj9.html",
+            "https://vidmoly.to/embed-vksq3qv27m6m.html",
+            "https://vidmoly.to/embed-6opr8c6cx6zw.html",
+            "https://vidmoly.to/embed-xyibinuf6riv.html",
+            "https://vidmoly.to/embed-mjj6m4gtclhc.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4903666",
+            "https://video.sibnet.ru/shell.php?videoid=4903668",
+            "https://video.sibnet.ru/shell.php?videoid=4903671",
+            "https://video.sibnet.ru/shell.php?videoid=4903673",
+            "https://video.sibnet.ru/shell.php?videoid=4903675",
+            "https://video.sibnet.ru/shell.php?videoid=4903677",
+            "https://video.sibnet.ru/shell.php?videoid=4903680",
+            "https://video.sibnet.ru/shell.php?videoid=4903682",
+            "https://video.sibnet.ru/shell.php?videoid=4903686",
+            "https://video.sibnet.ru/shell.php?videoid=4903689",
+            "https://video.sibnet.ru/shell.php?videoid=4903691",
+            "https://video.sibnet.ru/shell.php?videoid=4903693",
+            "https://video.sibnet.ru/shell.php?videoid=4903695",
+            "https://video.sibnet.ru/shell.php?videoid=4903696",
+            "https://video.sibnet.ru/shell.php?videoid=4903699"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4903780",
+            "https://video.sibnet.ru/shell.php?videoid=4903782",
+            "https://video.sibnet.ru/shell.php?videoid=4903784",
+            "https://video.sibnet.ru/shell.php?videoid=4903787",
+            "https://video.sibnet.ru/shell.php?videoid=4903790",
+            "https://video.sibnet.ru/shell.php?videoid=4903794",
+            "https://video.sibnet.ru/shell.php?videoid=4903798",
+            "https://video.sibnet.ru/shell.php?videoid=4903800",
+            "https://video.sibnet.ru/shell.php?videoid=4903801",
+            "https://video.sibnet.ru/shell.php?videoid=4903806",
+            "https://video.sibnet.ru/shell.php?videoid=4903809",
+            "https://video.sibnet.ru/shell.php?videoid=4903812",
+            "https://video.sibnet.ru/shell.php?videoid=4903813",
+            "https://video.sibnet.ru/shell.php?videoid=4903815",
+            "https://video.sibnet.ru/shell.php?videoid=4903817"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4903781",
+            "https://video.sibnet.ru/shell.php?videoid=4903783",
+            "https://video.sibnet.ru/shell.php?videoid=4903788",
+            "https://video.sibnet.ru/shell.php?videoid=4903795",
+            "https://video.sibnet.ru/shell.php?videoid=4903797",
+            "https://video.sibnet.ru/shell.php?videoid=4903804",
+            "https://video.sibnet.ru/shell.php?videoid=4903808",
+            "https://video.sibnet.ru/shell.php?videoid=4903810",
+            "https://video.sibnet.ru/shell.php?videoid=4903814",
+            "https://video.sibnet.ru/shell.php?videoid=4903816"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-uj4dqrxsmxhw.html",
+            "https://vidmoly.to/embed-ph0hjrekdhel.html",
+            "https://vidmoly.to/embed-v4m38xdtreko.html",
+            "https://vidmoly.to/embed-ueoozcjphhxf.html",
+            "https://vidmoly.to/embed-exnxd9r5pyfb.html",
+            "https://vidmoly.to/embed-cbvum1hg0p54.html",
+            "https://vidmoly.to/embed-riqf6xvcjxjn.html",
+            "https://vidmoly.to/embed-jlh63hysjyix.html",
+            "https://vidmoly.to/embed-xmr50z8p7rfm.html",
+            "https://vidmoly.to/embed-7brqvkynpm7d.html"
+          ]
+        }
+      }
+    }
+  }
+}

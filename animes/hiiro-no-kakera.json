@@ -1,0 +1,82 @@
+{
+  "data": {
+    "name": "hiiro-no-kakera",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hiiro-no-kakera.jpg",
+    "desc": "L'histoire principale se focalise sur une jeune lycéenne de 17 ans : Kasuga Tamaki. Après le départ de ses parents à l'étranger, Tamaki se rend alors dans le village de sa grand-mère pour lui rendre visite. Arrivée au village, pendant que Tamaki se rendait en forêt, elle rencontre soudainement de mystérieuses créatures appelées les Dieux, la jeune fille terrifiée prend la fuite mais un mystérieux garçon apparait pour venir l'aider. Ce jeune homme appelé Onizaki Takuma est un membre des 5 gardiens de la Tamayori hime. Ces 5 gardiens possédant des pouvoirs surnaturels de différents éléments ont pour mission de protéger la jeune fille qui sera la prochaine Tamayori hime, Tamaki a alors pour objectif de protéger une épée nommée Onikimaru.",
+    "genres": "Action, Aventure, Comédie, Drame, Romance, Surnaturel, Harem-inversé, Magie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/3u1ep6wl",
+            "https://sendvid.com/embed/rkoai5w3",
+            "https://sendvid.com/embed/l7pljt4a",
+            "https://sendvid.com/embed/iv9abq87",
+            "https://sendvid.com/embed/cpb7dr6j",
+            "https://sendvid.com/embed/tr4ffh9q",
+            "https://sendvid.com/embed/bt8pdfoe",
+            "https://sendvid.com/embed/wzyex7dr",
+            "https://sendvid.com/embed/amqa56it",
+            "https://sendvid.com/embed/90597grc",
+            "https://sendvid.com/embed/c4n9h32b",
+            "https://sendvid.com/embed/5w7usgz3",
+            "https://sendvid.com/embed/y33kw73q"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5455676",
+            "https://video.sibnet.ru/shell.php?videoid=5455678",
+            "https://video.sibnet.ru/shell.php?videoid=5455679",
+            "https://video.sibnet.ru/shell.php?videoid=5455680",
+            "https://video.sibnet.ru/shell.php?videoid=5455683",
+            "https://video.sibnet.ru/shell.php?videoid=5455684",
+            "https://video.sibnet.ru/shell.php?videoid=5455687",
+            "https://video.sibnet.ru/shell.php?videoid=5455688",
+            "https://video.sibnet.ru/shell.php?videoid=5455689",
+            "https://video.sibnet.ru/shell.php?videoid=5455691",
+            "https://sendvid.com/embed/c4n9h32b",
+            "https://video.sibnet.ru/shell.php?videoid=5455694",
+            "https://video.sibnet.ru/shell.php?videoid=5455696"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/19ncurgi",
+            "https://sendvid.com/embed/7wzi5nz8",
+            "https://sendvid.com/embed/2uo4iw1b",
+            "https://sendvid.com/embed/znigzwr8",
+            "https://sendvid.com/embed/8vovhevs",
+            "https://sendvid.com/embed/63osq4e4",
+            "https://sendvid.com/embed/7utfxtqq",
+            "https://sendvid.com/embed/5e2j2udr",
+            "https://sendvid.com/embed/lzqts5d1",
+            "https://sendvid.com/embed/q3zasmeb",
+            "https://sendvid.com/embed/3uz37fa6",
+            "https://sendvid.com/embed/nbsus9wk",
+            "https://sendvid.com/embed/qabfq7cl"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5455702",
+            "https://video.sibnet.ru/shell.php?videoid=5455704",
+            "https://video.sibnet.ru/shell.php?videoid=5455707",
+            "https://video.sibnet.ru/shell.php?videoid=5455709",
+            "https://video.sibnet.ru/shell.php?videoid=5455711",
+            "https://video.sibnet.ru/shell.php?videoid=5455713",
+            "https://video.sibnet.ru/shell.php?videoid=5455716",
+            "https://video.sibnet.ru/shell.php?videoid=5455720",
+            "https://video.sibnet.ru/shell.php?videoid=5455724",
+            "https://video.sibnet.ru/shell.php?videoid=5455727",
+            "https://video.sibnet.ru/shell.php?videoid=5455729",
+            "https://video.sibnet.ru/shell.php?videoid=5455733",
+            "https://video.sibnet.ru/shell.php?videoid=5455738"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "mieruko-chan",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mieruko-chan.jpg",
+    "desc": "Un jour hasardeux, une lycéenne tout à fait banale commence soudainement à voir des fantômes. Elle n'essaie pas de leur échapper et encore moins de les affronter, elle fait juste de son mieux pour les ignorer et ainsi continuer à mener une vie paisible.",
+    "genres": "Comédie, Drame, Horreur, Épouvante, School-Life, Slice-of-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/t5hl40je",
+            "https://sendvid.com/embed/pzx4bb5o",
+            "https://sendvid.com/embed/vc0plxx0",
+            "https://sendvid.com/embed/uu0xfln0",
+            "https://sendvid.com/embed/9bv5cik8",
+            "https://sendvid.com/embed/odc6ndsc",
+            "https://sendvid.com/embed/np326qed",
+            "https://sendvid.com/embed/7idtlh9f",
+            "https://sendvid.com/embed/iavcrcyn",
+            "https://sendvid.com/embed/23ce5hma",
+            "https://sendvid.com/embed/8rz6pdk4",
+            "https://sendvid.com/embed/609hy8db"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4671254",
+            "https://video.sibnet.ru/shell.php?videoid=4671257",
+            "https://video.sibnet.ru/shell.php?videoid=4671260",
+            "https://video.sibnet.ru/shell.php?videoid=4671264",
+            "https://video.sibnet.ru/shell.php?videoid=4671266",
+            "https://video.sibnet.ru/shell.php?videoid=4671271",
+            "https://video.sibnet.ru/shell.php?videoid=4671273",
+            "https://video.sibnet.ru/shell.php?videoid=4671281",
+            "https://video.sibnet.ru/shell.php?videoid=4671283",
+            "https://video.sibnet.ru/shell.php?videoid=4671286",
+            "https://video.sibnet.ru/shell.php?videoid=4671291",
+            "https://video.sibnet.ru/shell.php?videoid=4671294"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-axlu8ixtnoym.html",
+            "https://vidmoly.to/embed-u4o70a8euyu1.html",
+            "https://vidmoly.to/embed-4wjrjnw2woeb.html",
+            "https://vidmoly.to/embed-thhxizezgixn.html",
+            "https://vidmoly.to/embed-tzq3dmgxid97.html",
+            "https://vidmoly.to/embed-p6stsdhwhrx9.html",
+            "https://vidmoly.to/embed-mod9vadpagpr.html",
+            "https://vidmoly.to/embed-2b2qohmdhzbu.html",
+            "https://vidmoly.to/embed-3a03htpfbz7b.html",
+            "https://vidmoly.to/embed-l0vhhyxucm5p.html",
+            "https://vidmoly.to/embed-pvpqsbl7oo2f.html",
+            "https://vidmoly.to/embed-kxuzqi8kc4h8.html"
+          ]
+        }
+      }
+    }
+  }
+}

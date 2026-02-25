@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "tsuritama",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tsuritama.jpg",
+    "desc": "Sanada Yuki, lycéen ayant beaucoup de problèmes pour communiquer déménage avec sa grand mère sur l'île d'Enoshima, une fois sur place il va faire la rencontre de Haru un garçon étrange qui se dit extra terrestre et qui va s'installer chez lui.\n\nHaru veut apprendre à pêcher avec Yuki afin de \"sauver le monde\", ils feront vite la connaissance de Natsuki, pêcheur amateur et de l'étrange Akira et son ami à plumes. Cet anime relate de cette amitié naissante entre ces jeunes en se basant sur le thème central la pêche",
+    "genres": "Comédie, Drame, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/5rc3nxbpdppwiqnz3mt9rdeqhc",
+            "https://www.myvi.top/embed/bg7zxg5rep8r5pne6d4zxgtksa",
+            "https://www.myvi.top/embed/wcetwwh4a87wzd95cs7gg1wamc",
+            "https://www.myvi.top/embed/ds86oq1ugaar38ac4ggmjfgo5o",
+            "https://www.myvi.top/embed/5xqb9yr5fjdrfj6ic7sy335msa",
+            "https://www.myvi.top/embed/cmrdw63pkagwuyec8mgednu4nh",
+            "https://www.myvi.top/embed/19yr7ogzjcjwpdwhazpj794qzo",
+            "https://www.myvi.top/embed/61azxnria48rxk4p7hbuat375a",
+            "https://www.myvi.top/embed/na35otdzufurtbx4yn7ch47rpo",
+            "https://www.myvi.top/embed/3st8hpnr3r3rzduerjq454bkgy",
+            "https://www.myvi.top/embed/zpottj366khwbmyh9r3e65prse",
+            "https://www.myvi.top/embed/babbgo9z3dywzywrdfn1o7ph4o"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/dwrn0r5z",
+            "https://sendvid.com/embed/4249e4c3",
+            "https://sendvid.com/embed/tm42oz4k",
+            "https://sendvid.com/embed/kw2rhh6s",
+            "https://sendvid.com/embed/rz1r5w9q",
+            "https://sendvid.com/embed/me3bf8e7",
+            "https://sendvid.com/embed/in5asjnh",
+            "https://sendvid.com/embed/qpjps8s9",
+            "https://sendvid.com/embed/2v3ttl21",
+            "https://sendvid.com/embed/s7ztswgy",
+            "https://sendvid.com/embed/iog2hqyz",
+            "https://sendvid.com/embed/hqjuponz"
+          ]
+        }
+      }
+    }
+  }
+}

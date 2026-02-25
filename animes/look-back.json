@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "look-back",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/look-back0.jpg",
+    "desc": "Fujino, adolescente surdouée, a une confiance absolue en son talent. Kyômoto, elle, se terre dans sa chambre et pratique sans relâche. Deux jeunes filles d'une même ville de province, qu'une passion fervente pour le dessin va rapprocher et unir par un lien indéfectible...",
+    "genres": "Drame, School-Life, Slice-of-Life, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5744202"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-r9ty1l2w0r31.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/ydsc2ltk"
+          ]
+        }
+      }
+    }
+  }
+}

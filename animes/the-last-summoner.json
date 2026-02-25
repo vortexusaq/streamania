@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "the-last-summoner",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-last-summoner.jpg",
+    "desc": "Nous suivons les combats de Shou Wang Zhe, un groupe d'invocateur dont le leader, A Jie, a un jour invoqué la déesse Dora.",
+    "genres": "Action, Combats, Dieux, Déesses, Démons, Magie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/15uuhztd",
+            "https://sendvid.com/embed/bpn4zltr",
+            "https://sendvid.com/embed/sw2cp8nn",
+            "https://sendvid.com/embed/01dzwoe3",
+            "https://sendvid.com/embed/bvw9tf4h",
+            "https://sendvid.com/embed/vh0awmmp",
+            "https://sendvid.com/embed/ul2d8vvz",
+            "https://sendvid.com/embed/4knemwi3",
+            "https://sendvid.com/embed/zwxsuoup",
+            "https://sendvid.com/embed/swznn9d8",
+            "https://sendvid.com/embed/mjoh5ci4",
+            "https://sendvid.com/embed/nax6h4uk"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4700072",
+            "https://video.sibnet.ru/shell.php?videoid=4700073",
+            "https://video.sibnet.ru/shell.php?videoid=4700471",
+            "https://video.sibnet.ru/shell.php?videoid=4707588",
+            "https://video.sibnet.ru/shell.php?videoid=4716229",
+            "https://video.sibnet.ru/shell.php?videoid=4726484",
+            "https://video.sibnet.ru/shell.php?videoid=4734176",
+            "https://video.sibnet.ru/shell.php?videoid=4742054",
+            "https://video.sibnet.ru/shell.php?videoid=4751434",
+            "https://video.sibnet.ru/shell.php?videoid=4759257",
+            "https://video.sibnet.ru/shell.php?videoid=4769631",
+            "https://video.sibnet.ru/shell.php?videoid=4778299"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/u9xt45awt3irp8c1f4qd81xgwr",
+            "https://www.myvi.tv/embed/p6joyepz47qrmpn8o9iwdi6pio",
+            "https://www.myvi.tv/embed/j3wi4esp48trie639g7tmyut3w",
+            "https://www.myvi.tv/embed/aixdnxnb685wzxkab4w7muieyy",
+            "https://www.myvi.tv/embed/tyzgna3e64grxk8dk4siawk8by",
+            "https://www.myvi.tv/embed/bkd7pi4nykxwf8jb4rx8iwbzsc",
+            "https://www.myvi.tv/embed/dhfjzozqqg7wfkiwktuerd71pe",
+            "https://www.myvi.tv/embed/5iqc1amd5irrtn37m7iw9znf3c",
+            "https://www.myvi.tv/embed/msxdcxhwrsowtrprwdgwahesse",
+            "https://www.myvi.tv/embed/shttg4mh1yfrb8gpmoue8jwsrw",
+            "https://www.myvi.tv/embed/ehiyepkg7nxru86854szkexztr",
+            "https://www.myvi.tv/embed/dm3dm6bcb94wfb6q8r3tk7j7bw"
+          ]
+        }
+      }
+    }
+  }
+}

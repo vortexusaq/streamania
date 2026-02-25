@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "nekopara",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nekopara.jpg",
+    "desc": "Kashou Minaduki est un jeune pâtissier qui a déménagé de chez ses parents pour ouvrir sa propre pâtisserie. En ouvrant ses cartons dans son nouveau magasin, il découvre que deux Neko de sa famille, Chocola et Vanilla, l'ont suivi en se cachant dans des cartons. Après avoir convaincu Kashou de les laisser vivre avec lui, ils vont tous les trois travailler pour faire vivre ce fameux magasin : \"La Soleil\". Tout au long de l'histoire, Kashou sera fréquemment visité par sa sœur Shigure et différentes Neko de sa famille.",
+    "genres": "Comédie - Moe - Slice-of-Life - Homme-Bête - Quotidien - Travail",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/6qa4267k",
+            "https://sendvid.com/embed/tfx9v7r3",
+            "https://sendvid.com/embed/h11z3j32",
+            "https://sendvid.com/embed/n1xo80vs",
+            "https://sendvid.com/embed/1y802isb",
+            "https://sendvid.com/embed/4k0yidde",
+            "https://sendvid.com/embed/vatag1un",
+            "https://sendvid.com/embed/znqjfqnd",
+            "https://sendvid.com/embed/fvizh0n8",
+            "https://sendvid.com/embed/nqsrjmnf",
+            "https://sendvid.com/embed/k40nvfcb",
+            "https://sendvid.com/embed/8zy0410u"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5091471",
+            "https://video.sibnet.ru/shell.php?videoid=5091472",
+            "https://video.sibnet.ru/shell.php?videoid=5091473",
+            "https://video.sibnet.ru/shell.php?videoid=5091474",
+            "https://video.sibnet.ru/shell.php?videoid=5091475",
+            "https://video.sibnet.ru/shell.php?videoid=5091476",
+            "https://video.sibnet.ru/shell.php?videoid=5091477",
+            "https://video.sibnet.ru/shell.php?videoid=5091479",
+            "https://video.sibnet.ru/shell.php?videoid=5091480",
+            "https://video.sibnet.ru/shell.php?videoid=5091482",
+            "https://video.sibnet.ru/shell.php?videoid=5091484",
+            "https://video.sibnet.ru/shell.php?videoid=5091485"
+          ]
+        }
+      }
+    }
+  }
+}

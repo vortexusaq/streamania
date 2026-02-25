@@ -1,0 +1,41 @@
+{
+  "data": {
+    "name": "obi-wan-kenobi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/obi-wan-kenobi.jpg",
+    "desc": "L’action se déroule dix ans après la fin tragique de STAR WARS : LA REVANCHE DES SITH. Obi-Wan y avait subi sa plus grande défaite et assisté à la déchéance de son meilleur ami, l’apprenti Jedi Anakin Skywalker, qui avait rejoint le Côté Obscur en devenant le seigneur Sith Dark Vador.",
+    "genres": "Aventure, Science-fiction, Action",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/43cp961ni1eruj5ampuqobn5ie",
+            "https://www.myvi.tv/embed/oeuqiop8t8mrzxrto75kkunqye",
+            "https://www.myvi.tv/embed/z33xat7ioh9r78jhzunmnp7jte",
+            "https://www.myvi.tv/embed/x4nz6xwpq8eripxz6gx7rab8ir",
+            "https://www.myvi.tv/embed/qify8g3buqsruptih1ey9j3x9r",
+            "https://www.myvi.tv/embed/731118y1c5yrmk11816188zu9o"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4742921",
+            "https://video.sibnet.ru/shell.php?videoid=4742924",
+            "https://video.sibnet.ru/shell.php?videoid=4742934",
+            "https://video.sibnet.ru/shell.php?videoid=4743982",
+            "https://video.sibnet.ru/shell.php?videoid=4753017",
+            "https://video.sibnet.ru/shell.php?videoid=4761116"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/tulr4ly4",
+            "https://sendvid.com/embed/judxmhb9",
+            "https://sendvid.com/embed/weu18524",
+            "https://sendvid.com/embed/hc4extra",
+            "https://sendvid.com/embed/ktdmu2sv",
+            "https://sendvid.com/embed/m152kad5"
+          ]
+        }
+      }
+    }
+  }
+}

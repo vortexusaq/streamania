@@ -1,0 +1,105 @@
+{
+  "data": {
+    "name": "stranger-things",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/stranger-things.jpg",
+    "desc": "A Hawkins, en 1983 dans l'Indiana. Lorsque Will Byers disparaît de son domicile, ses amis se lancent dans une recherche semée d'embûches pour le retrouver. Dans leur quête de réponses, les garçons rencontrent une étrange jeune fille en fuite. Les garçons se lient d'amitié avec la demoiselle tatouée du chiffre '11' sur son poignet et au crâne rasé et découvrent petit à petit les détails sur son inquiétante situation. Elle est peut-être la clé de tous les mystères qui se cachent dans cette petite ville en apparence tranquille…",
+    "genres": "Drame, Fantastique, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 4,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/bwpunpjmpnxw5fps3s9ujbqxgc",
+            "https://www.myvi.tv/embed/p3kzre7wxpjr9g65tj5yy8iemr",
+            "https://www.myvi.top/embed/nt9a4hk8xqrwpe36ou3pmsrxnh",
+            "https://www.myvi.top/embed/snpqpdbes55w5npf61gqchmejy",
+            "https://www.myvi.top/embed/drmi5dszhmcr7jjuozqoifuc4e",
+            "https://www.myvi.top/embed/oxcyg3wwh3cr5dhun3w5htzdky",
+            "https://www.myvi.top/embed/473o5kjcc9dri8ixdu5yd5i5ar",
+            "https://www.myvi.top/embed/5gc3sxqs4amr5by5itpiwiemcw"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5010811",
+            "https://video.sibnet.ru/shell.php?videoid=4899640",
+            "https://video.sibnet.ru/shell.php?videoid=4899652",
+            "https://video.sibnet.ru/shell.php?videoid=4899662",
+            "https://video.sibnet.ru/shell.php?videoid=4899670",
+            "https://video.sibnet.ru/shell.php?videoid=4899677",
+            "https://video.sibnet.ru/shell.php?videoid=4899686",
+            "https://video.sibnet.ru/shell.php?videoid=4899692"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/54exur9cjkuruk6h19qdufkqer",
+            "https://www.myvi.tv/embed/wguqyourzoowpbbb9wwkffkako",
+            "https://www.myvi.top/embed/9xoqwbuusqjrjk8mtmi84kxido",
+            "https://www.myvi.top/embed/ocpz3fbs73qrxf4hmkdwaiqerc",
+            "https://www.myvi.top/embed/p9nf59rjfk4ruypxokp3qdf3cc",
+            "https://www.myvi.top/embed/mga7qr4unntwuxwo1eayie3wne",
+            "https://www.myvi.top/embed/5p7xptuxkc1rmpmxin3xh9631w",
+            "https://www.myvi.top/embed/y1oprognzkor8czq9ifieyhahw",
+            "https://www.myvi.tv/embed/hxys7gqywmkrip5bc4fn7p6nne"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4899698",
+            "https://video.sibnet.ru/shell.php?videoid=4899703",
+            "https://video.sibnet.ru/shell.php?videoid=4899708",
+            "https://video.sibnet.ru/shell.php?videoid=4899717",
+            "https://video.sibnet.ru/shell.php?videoid=4899722",
+            "https://video.sibnet.ru/shell.php?videoid=4899630",
+            "https://video.sibnet.ru/shell.php?videoid=4899643",
+            "https://video.sibnet.ru/shell.php?videoid=4899655",
+            "https://video.sibnet.ru/shell.php?videoid=4899664"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/rag4yu7wjd9rxdaqce8f1qngcc",
+            "https://www.myvi.top/embed/a6xumq8rdbqwdp5y1eq97myz9w",
+            "https://www.myvi.top/embed/87epiiwixoawzdhaiem37aawpr",
+            "https://www.myvi.tv/embed/u1codt1coo9wdr4uibfre43m3y",
+            "https://www.myvi.tv/embed/ugbe9g9ubsur8edfiyt3qxxi5y",
+            "https://www.myvi.tv/embed/t6u8rnoy9wiwjj5t7osykfw9oe",
+            "https://www.myvi.tv/embed/omx6c6esoj4wz8un6odhcdd3ne",
+            "https://www.myvi.top/embed/pk9ymo6y1sprm8zssxo16g3dqy"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4899673",
+            "https://video.sibnet.ru/shell.php?videoid=4899684",
+            "https://video.sibnet.ru/shell.php?videoid=4899694",
+            "https://video.sibnet.ru/shell.php?videoid=4899700",
+            "https://video.sibnet.ru/shell.php?videoid=4899746",
+            "https://video.sibnet.ru/shell.php?videoid=4899707",
+            "https://video.sibnet.ru/shell.php?videoid=4899715",
+            "https://video.sibnet.ru/shell.php?videoid=4899719"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/gys6z88gc5ur3bqomsn1sgx93c",
+            "https://www.myvi.tv/embed/368ohrgjzojr9n4ugjg6ge8t9c",
+            "https://www.myvi.tv/embed/99tpig1mo3srjqcb3mh4z97p5c",
+            "https://www.myvi.tv/embed/7pjuuro5aefr3f7ip98yzr6eac",
+            "https://www.myvi.tv/embed/9qh5r6ktqkhruxm8qofkaijqae",
+            "https://www.myvi.tv/embed/z8558tbbg4yr3gpwweu1r1zx6e",
+            "https://www.myvi.tv/embed/61dhyqhcn8grtqhuak5kroiuew",
+            "https://www.myvi.tv/embed/xnmurhqakj5r5kmgr7fajnyzzy",
+            "https://www.myvi.tv/embed/mj1ph4976jqr7gummwfe98hnsh"
+          ]
+        }
+      }
+    }
+  }
+}

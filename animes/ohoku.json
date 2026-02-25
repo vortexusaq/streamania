@@ -1,0 +1,53 @@
+{
+  "data": {
+    "name": "ohoku",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ohoku.jpg",
+    "desc": "Une maladie toucha les hommes durant la période Edo, ce qui fit diminuer considérablement la population masculine. Les femmes obtinrent ainsi une position dominante dans la société. Le Shôgun, désormais une femme, garde jalousement les huit cent plus beaux hommes rassemblés dans un pavillon. Mizumo Yûnoshin est un homme qui rejoint ce pavillon en 1716 pour échapper à un mariage arrangé. Il va découvrir la hiérarchie entre les hommes qu'il y a en ce lieu.",
+    "genres": "Drame, Historique, Romance, Amour, Histoire, Maladie, Politique, Univers alternatif",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/xv9ogl2p",
+            "https://sendvid.com/embed/r51tfxxl",
+            "https://sendvid.com/embed/otwjyitn",
+            "https://sendvid.com/embed/j3uad0tq",
+            "https://sendvid.com/embed/fk355eu4",
+            "https://sendvid.com/embed/frgvgy35",
+            "https://sendvid.com/embed/wut4mosq",
+            "https://sendvid.com/embed/7x7iyju6",
+            "https://sendvid.com/embed/da9twuwl",
+            "https://sendvid.com/embed/m27z8uk1"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5187130",
+            "https://video.sibnet.ru/shell.php?videoid=5187134",
+            "https://video.sibnet.ru/shell.php?videoid=5187136",
+            "https://video.sibnet.ru/shell.php?videoid=5187137",
+            "https://video.sibnet.ru/shell.php?videoid=5187139",
+            "https://video.sibnet.ru/shell.php?videoid=5187140",
+            "https://video.sibnet.ru/shell.php?videoid=5187143",
+            "https://video.sibnet.ru/shell.php?videoid=5187144",
+            "https://video.sibnet.ru/shell.php?videoid=5187145",
+            "https://video.sibnet.ru/shell.php?videoid=5187148"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/7wa7mfxsmidrdyyz799ethb8ch",
+            "https://www.myvi.tv/embed/8nszwp8uudkwfpadbi5j88im7a",
+            "https://www.myvi.tv/embed/61bkax5ifkjr9yc9s4gtzk9r9e",
+            "https://www.myvi.tv/embed/f4e5fegbh4dwffynt1hmhrepba",
+            "https://www.myvi.tv/embed/66enbetxqs9w7nm7zw83rh8whw",
+            "https://www.myvi.tv/embed/7589wf8tcmcrpy8sa6fmmnz5go",
+            "https://www.myvi.tv/embed/jx1boajek86wtxpmqkks6ezzmr",
+            "https://www.myvi.tv/embed/tsh85hi9wb1rdebkqaqe9zkbih",
+            "https://www.myvi.tv/embed/k7qo4aisdymr9yutqea9xkp1sw",
+            "https://www.myvi.tv/embed/cwjwyutwz3jrue5uk7ek9bp4zr"
+          ]
+        }
+      }
+    }
+  }
+}

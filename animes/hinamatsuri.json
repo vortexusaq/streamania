@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "hinamatsuri",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hinamatsuri.jpg",
+    "desc": "Une nuit, un étrange objet tombe sur la tête de Nitta, un yakuza. A l'intérieur de cette fameuse boîte se trouve Hina, une jeune fille. Elle possède d'énormes pouvoirs surnaturels. Ses pouvoirs peuvent être utiles dans son métier de yakuza. Cependant il encourt le risque qu'elle finisse par utiliser ses pouvoirs contre lui. De plus, si elle n'utilise pas ses pouvoirs, elle peut rapidement devenir incontrôlable et détruire tout autour d'elle.",
+    "genres": "Comédie, Science-fiction, Yakuza",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/15nru15g",
+            "https://sendvid.com/embed/vo90bqrq",
+            "https://sendvid.com/embed/6r769iyv",
+            "https://sendvid.com/embed/npvkb4af",
+            "https://sendvid.com/embed/gz5gb22f",
+            "https://sendvid.com/embed/f585ez4l",
+            "https://sendvid.com/embed/n7g4xbbe",
+            "https://sendvid.com/embed/knvtv6j6",
+            "https://sendvid.com/embed/dxjswiom",
+            "https://sendvid.com/embed/sfwx0xr6",
+            "https://sendvid.com/embed/cqrmkkv7",
+            "https://sendvid.com/embed/1sq5p68z"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4947040",
+            "https://video.sibnet.ru/shell.php?videoid=4947049",
+            "https://video.sibnet.ru/shell.php?videoid=4947051",
+            "https://video.sibnet.ru/shell.php?videoid=4947052",
+            "https://video.sibnet.ru/shell.php?videoid=4947056",
+            "https://video.sibnet.ru/shell.php?videoid=4947059",
+            "https://video.sibnet.ru/shell.php?videoid=4947061",
+            "https://video.sibnet.ru/shell.php?videoid=4947069",
+            "https://video.sibnet.ru/shell.php?videoid=4947077",
+            "https://video.sibnet.ru/shell.php?videoid=4947084",
+            "https://video.sibnet.ru/shell.php?videoid=4947090",
+            "https://video.sibnet.ru/shell.php?videoid=4947094"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/nn76ae8rg7srzghj98yzj8gm7w",
+            "https://www.myvi.top/embed/sirtcomn6hfwfpaqdm1s64oqor",
+            "https://www.myvi.top/embed/d498tmp11y9w9y7b5mxk7eutkr",
+            "https://www.myvi.top/embed/75qaj47bqz9w8mua93z1znj86y",
+            "https://www.myvi.top/embed/1awsbwg97c7rpk3dwq3gu4gd5e",
+            "https://www.myvi.top/embed/kasz81dbguowd8w6qdhr74sanc",
+            "https://www.myvi.top/embed/barf8jo1sxrr8nqj1k7ibah8wy",
+            "https://www.myvi.top/embed/gtg5cc7z5muw9dhimb8t5y9i7c",
+            "https://www.myvi.top/embed/7u9n3jj3ikyrjq8c4wqxzsntbe",
+            "https://www.myvi.top/embed/bo57856gktaw9k1fp1hhjimine",
+            "https://www.myvi.top/embed/ceuu4kr6od3wz8rhtop1qfudiw",
+            "https://www.myvi.top/embed/ow9hfdp65cjr7pyu1mmfzqc3bh"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "ghost-in-the-shell",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ghost-in-the-shell.jpg",
+    "desc": "\"Année 2029, les réseaux informatiques quadrillent l'univers. Mais ce progrès n'aura pas balayés nos nations et nos groupes ethniques de la surface de la Terre\" La section 9 est une unité spéciale de police chargée des affaires d'états et terrorisme impliquant des cybercriminels. C'est dans cet univers de corruption politique que le Major Motoko Kusanagi travaille. Celle-ci est un agent au corps cybernétique de dernier cri, agissant selon ce que lui souffle son \"ghost\". Malgré cela, le Major commence à douter de sa propre nature. Les hackers maintenant s'en prennent non plus aux réseaux informatiques mais aussi au cerveau humain. Les souvenirs alors ne sont plus que de vulgaires donnés, maniables dans leur intégrité. Qu'est-ce la réalité ? Qu'est-ce virtuel ? Existe-t-il réellement une barrière entre ces deux \"univers\" ? Qui des deux est l'originel ? En ce temps de neo technologie ultra perfectionnée, ces questions se posent... Lorsque l'affaire du Puppet Master fait surface, Le Major Kusanagi sera confronté à bien plus qu'un simple criminel informatique classé comme le plus dangereux de tout les temps, mandaté et recherché dans de nombreux pays. Quel est le rapport entre la réapparition de ce cybercriminel aux origines inconnues et un certain Projet 2501, étouffé soigneusement dans les archives du ministère des affaires étrangères ? Le Major n'enquête alors plus seulement sur sa nature propre ni même sur cette affaire des plus étrange, mais sur les origines de la vie même.",
+    "genres": "Action, Psychologique, Science-fiction, Cyberpunk, Cyborgs, Mechas, Police",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ip9uv6n2"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5036793"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "tensei-kenja-no-isekai-life",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tensei-kenja-no-isekai-life.jpg",
+    "desc": "Yûji Sano, un employé d'une entreprise un peu louche, est invoqué dans un autre monde alors qu'il était en train de terminer son travail chez lui. Dresseur de monstre, son nouveau métier, est considéré comme difficile pour un aventurier. Cependant, grâce aux quelques slimes qu'il a rencontrées, il a réussi à déchiffrer plusieurs livres magiques lui permettant d'obtenir un second métier nommé Sage. Yûji vient d'acquérir un immense pouvoir mais en est-il seulement conscient ? Sans s'en rendre compte, il va devenir l'homme le plus puissant de ce nouveau monde.",
+    "genres": "Action, Aventure, Comédie, Fantasy, Shônen, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4785554",
+            "https://video.sibnet.ru/shell.php?videoid=4785691",
+            "https://video.sibnet.ru/shell.php?videoid=4797956",
+            "https://video.sibnet.ru/shell.php?videoid=4801411",
+            "https://video.sibnet.ru/shell.php?videoid=4809584",
+            "https://video.sibnet.ru/shell.php?videoid=4809590",
+            "https://video.sibnet.ru/shell.php?videoid=4817646",
+            "https://video.sibnet.ru/shell.php?videoid=4826997",
+            "https://video.sibnet.ru/shell.php?videoid=4839687",
+            "https://video.sibnet.ru/shell.php?videoid=4850075",
+            "https://video.sibnet.ru/shell.php?videoid=4859350",
+            "https://video.sibnet.ru/shell.php?videoid=4867588"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/helxvre0",
+            "https://sendvid.com/embed/ogte95gc",
+            "https://sendvid.com/embed/nvtth62u",
+            "https://sendvid.com/embed/l83qjs2o",
+            "https://sendvid.com/embed/w37ho4ti",
+            "https://sendvid.com/embed/tknrvxdx",
+            "https://sendvid.com/embed/7wc8rvqr",
+            "https://sendvid.com/embed/sz7beo9p",
+            "https://sendvid.com/embed/elecxp7p",
+            "https://sendvid.com/embed/2jlzq7qe",
+            "https://sendvid.com/embed/oulg2jq1",
+            "https://sendvid.com/embed/y0yp8rsz"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/iusfd8hmtbwr3jwf1e649mbfsw",
+            "https://www.myvi.tv/embed/6zr4u9nm4o8wzehtxmcaz8c9ye",
+            "https://www.myvi.tv/embed/sxoiwmymr4wr9kkzbbxfnhh7tr",
+            "https://www.myvi.tv/embed/sufjfsy68wfwxqwa6618enrony",
+            "https://www.myvi.tv/embed/ra63m73ztkrr7pmh74sdctdjoo",
+            "https://www.myvi.tv/embed/nnz7a4q5di6wjn1jzwaiqc7r8a",
+            "https://www.myvi.tv/embed/8h71qtqa4mhw7nn451xnz1q4wc",
+            "https://www.myvi.tv/embed/5szhsp6g7t3rpe17caioeax61c",
+            "https://www.myvi.tv/embed/qsepwbawo6mw8ga8xqrqxt8xpr",
+            "https://www.myvi.tv/embed/sw9iqsws717wdfz8rok6yp1a9c",
+            "https://www.myvi.tv/embed/tiusx7oae7cr58efn8n7eui1ke",
+            "https://www.myvi.tv/embed/srfzj8c7p6pw5jbd4zg3e1iady"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "data": {
+    "name": "terra-formars",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/terra-formars.jpg",
+    "desc": "Afin de terra-former mars, c'est-à-dire la rendre habitable pour l'espèce humaine, des scientifique du XXIè siècle ont envoyé en masse des cafards sur la planète rouge. Leur rôle était alors de fertiliser le sol martien et de purifier l'air. Cinq cent ans plus tard, en 2577, Shôkichi Komaki embarque avec le premier équipage de colons martiens. Leur mission : s'assurer que la planète rouge a bien été terra-formée. Mais à leur arrivée sur mars, ils sont confrontés à une nouvelle espèce, mi-humaine, mi-cafard.",
+    "genres": "Action, Horreur, Épouvante, Science-fiction, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-0o5d0dk3abnz.html",
+            "https://vidmoly.to/embed-u5rtp2pjugqj.html",
+            "https://vidmoly.to/embed-reh69ajlnbeo.html",
+            "https://vidmoly.to/embed-mh4a4mma9zxm.html",
+            "https://vidmoly.to/embed-v78bbuzyki9q.html",
+            "https://vidmoly.to/embed-2l46w0mczy7l.html",
+            "https://vidmoly.to/embed-0hq04ig10m7d.html",
+            "https://vidmoly.to/embed-ryg3roa96w2r.html",
+            "https://vidmoly.to/embed-ppoji370g8iw.html",
+            "https://vidmoly.to/embed-n4fxwd8zy55g.html",
+            "https://vidmoly.to/embed-e7g0zg6ms37m.html",
+            "https://vidmoly.to/embed-o7fiawy9bhyh.html",
+            "https://vidmoly.to/embed-lhu4poaxnvj6.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-kb4fwbmzq1i5.html",
+            "https://vidmoly.to/embed-6raxyfz7e527.html",
+            "https://vidmoly.to/embed-emkdtk3qpir7.html",
+            "https://vidmoly.to/embed-h8sdxehs489z.html",
+            "https://vidmoly.to/embed-1kfmboewyw15.html",
+            "https://vidmoly.to/embed-ybyh6y8s8zli.html",
+            "https://vidmoly.to/embed-r0fqxpl20y1w.html",
+            "https://vidmoly.to/embed-crg69r78yh2t.html",
+            "https://vidmoly.to/embed-k1ghvxman180.html",
+            "https://vidmoly.to/embed-a1ctb9noc5dy.html",
+            "https://vidmoly.to/embed-65w09e4httg2.html",
+            "https://vidmoly.to/embed-207hqo3cau0j.html",
+            "https://vidmoly.to/embed-du4xapyetuwa.html"
+          ]
+        }
+      }
+    }
+  }
+}

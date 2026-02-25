@@ -1,0 +1,111 @@
+{
+  "data": {
+    "name": "yuru-yuri",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yuru-yuri.jpg",
+    "desc": "Akari rentre au collège, et décide de rejoindre le club de thé afin d'y retrouver deux de ses amies : Yui et Kyôko. Elle est très vite rejointe par sa camarade de classe Chinatsu. Mais le club de thé se révèle être un simple club de détente où chacune occupe son après midi comme elle le souhaite. Entre Kyôko légèrement otaku, Chinatsu amoureuse de Yui, Yui essayant de garder son calme, Akari ayant peur de perdre son titre d'\"héroïne\", et le conseil des élève où la présidente a des vues sur Kyôko, elles ont des journées bien remplies. Une vie de tout les jours entre fantasmes et humour...",
+    "genres": "Comédie, Moe, School-Life, Slice-of-Life, Amitié, Club, Ecole",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/zyrdi6g4",
+            "https://sendvid.com/embed/x00sj53d",
+            "https://sendvid.com/embed/vyf7q06i",
+            "https://sendvid.com/embed/rbfvgsf6",
+            "https://sendvid.com/embed/35nbch2v",
+            "https://sendvid.com/embed/6mlvhe1m",
+            "https://sendvid.com/embed/gkqahbmc",
+            "https://sendvid.com/embed/dudg67tz",
+            "https://sendvid.com/embed/xfj2wjsj",
+            "https://sendvid.com/embed/slr3so67",
+            "https://sendvid.com/embed/2hlizkln",
+            "https://sendvid.com/embed/gac3jpyy"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5365925",
+            "https://video.sibnet.ru/shell.php?videoid=5365926",
+            "https://video.sibnet.ru/shell.php?videoid=5365927",
+            "https://video.sibnet.ru/shell.php?videoid=5365929",
+            "https://video.sibnet.ru/shell.php?videoid=5365931",
+            "https://video.sibnet.ru/shell.php?videoid=5365932",
+            "https://video.sibnet.ru/shell.php?videoid=5365933",
+            "https://video.sibnet.ru/shell.php?videoid=5365936",
+            "https://video.sibnet.ru/shell.php?videoid=5365937",
+            "https://video.sibnet.ru/shell.php?videoid=5365939",
+            "https://video.sibnet.ru/shell.php?videoid=5365941",
+            "https://video.sibnet.ru/shell.php?videoid=5365942"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/v0n6o8b7",
+            "https://sendvid.com/embed/qyn3e51p",
+            "https://sendvid.com/embed/9lgkyflv",
+            "https://sendvid.com/embed/p1ekzqw4",
+            "https://sendvid.com/embed/b5416m7f",
+            "https://sendvid.com/embed/7uo3748y",
+            "https://sendvid.com/embed/w5ixqnid",
+            "https://sendvid.com/embed/axjgr7qs",
+            "https://sendvid.com/embed/ndje8n8h",
+            "https://sendvid.com/embed/lwuuhf7l",
+            "https://sendvid.com/embed/xfmye505",
+            "https://sendvid.com/embed/r8lka8c0"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5365948",
+            "https://video.sibnet.ru/shell.php?videoid=5365950",
+            "https://video.sibnet.ru/shell.php?videoid=5365952",
+            "https://video.sibnet.ru/shell.php?videoid=5365956",
+            "https://video.sibnet.ru/shell.php?videoid=5365957",
+            "https://video.sibnet.ru/shell.php?videoid=5365959",
+            "https://video.sibnet.ru/shell.php?videoid=5365961",
+            "https://video.sibnet.ru/shell.php?videoid=5365964",
+            "https://video.sibnet.ru/shell.php?videoid=5365965",
+            "https://video.sibnet.ru/shell.php?videoid=5365967",
+            "https://video.sibnet.ru/shell.php?videoid=5365968",
+            "https://video.sibnet.ru/shell.php?videoid=5365969"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/8fb28bg7",
+            "https://sendvid.com/embed/kz4tsin3",
+            "https://sendvid.com/embed/xegcga5v",
+            "https://sendvid.com/embed/qwynrt8i",
+            "https://sendvid.com/embed/6jkn6ihn",
+            "https://sendvid.com/embed/47c0kvgu",
+            "https://sendvid.com/embed/egn0jwnn",
+            "https://sendvid.com/embed/0bztbrpi",
+            "https://sendvid.com/embed/biiqsnv1",
+            "https://sendvid.com/embed/thvj4pew",
+            "https://sendvid.com/embed/o0vvkrid",
+            "https://sendvid.com/embed/67a6pp00"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5365973",
+            "https://video.sibnet.ru/shell.php?videoid=5365976",
+            "https://video.sibnet.ru/shell.php?videoid=5365977",
+            "https://video.sibnet.ru/shell.php?videoid=5365979",
+            "https://video.sibnet.ru/shell.php?videoid=5365981",
+            "https://video.sibnet.ru/shell.php?videoid=5365983",
+            "https://video.sibnet.ru/shell.php?videoid=5365984",
+            "https://video.sibnet.ru/shell.php?videoid=5365986",
+            "https://video.sibnet.ru/shell.php?videoid=5365989",
+            "https://video.sibnet.ru/shell.php?videoid=5365990",
+            "https://video.sibnet.ru/shell.php?videoid=5365992",
+            "https://video.sibnet.ru/shell.php?videoid=5365994"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "data": {
+    "name": "nouvelle-ecole",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nouvelle-ecole.jpg",
+    "desc": "Elle voudrait que je l'appelle Habibiiiii",
+    "genres": "Hip-hop, Drame, Action, Drame",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vf",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/wu2mwjv3",
+            "https://sendvid.com/embed/ogn6t36d",
+            "https://sendvid.com/embed/zuipalvt",
+            "https://sendvid.com/embed/pcrk0pkk",
+            "https://sendvid.com/embed/nimdf62c",
+            "https://sendvid.com/embed/vcwdi0iw",
+            "https://sendvid.com/embed/wuseggpi\t",
+            "https://sendvid.com/embed/aubcqmvm"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4756987",
+            "https://video.sibnet.ru/shell.php?videoid=4756990",
+            "https://video.sibnet.ru/shell.php?videoid=4756991",
+            "https://video.sibnet.ru/shell.php?videoid=4756995",
+            "https://video.sibnet.ru/shell.php?videoid=4756997",
+            "https://video.sibnet.ru/shell.php?videoid=4756999",
+            "https://oneupload.to/s3vp2iaseurg",
+            "https://video.sibnet.ru/shell.php?videoid=4763260"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vf",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/rcxs51o2",
+            "https://sendvid.com/embed/s17opj50",
+            "https://sendvid.com/embed/8be3f0h2",
+            "https://sendvid.com/embed/f4oe4eko",
+            "https://sendvid.com/embed/8rjmzxs2",
+            "https://sendvid.com/embed/u8c292ft",
+            "https://sendvid.com/embed/3sm6j0n6",
+            "https://sendvid.com/embed/iftvqzsm"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5151396",
+            "https://video.sibnet.ru/shell.php?videoid=5151398",
+            "https://video.sibnet.ru/shell.php?videoid=5151399",
+            "https://video.sibnet.ru/shell.php?videoid=5151401",
+            "https://video.sibnet.ru/shell.php?videoid=5158082",
+            "https://video.sibnet.ru/shell.php?videoid=5158084",
+            "https://video.sibnet.ru/shell.php?videoid=5158093",
+            "https://video.sibnet.ru/shell.php?videoid=5161617"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/m74cem18w4pwjqoyrw33k8u51o",
+            "https://www.myvi.tv/embed/wf6qpszitbfwpje1kjn6qt7d3c",
+            "https://www.myvi.tv/embed/shxtjfo3cpfrxb69iw4c87w7oh",
+            "https://www.myvi.tv/embed/4k78q95myjdw5dizj5y6zp966y",
+            "https://www.myvi.tv/embed/unf8dun4spjrtewjm379yrzrww",
+            "https://www.myvi.tv/embed/quff5mxm34yrpce7b63mxcaoua",
+            "https://sendvid.com/embed/3sm6j0n6",
+            "https://sendvid.com/embed/iftvqzsm"
+          ]
+        }
+      }
+    }
+  }
+}

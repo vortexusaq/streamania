@@ -1,0 +1,120 @@
+{
+  "data": {
+    "name": "zenshuu",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/zenshuu.jpg",
+    "desc": "Natsuko Hirose est une jeune animatrice talentueuse qui décroche un poste de réalisatrice peu après avoir quitté le lycée. Son premier anime est un succès retentissant mais, alors qu'elle prépare déjà son nouveau projet, un problème survient : il s'agit d'une comédie romantique sur le thème du premier amour. Et Natsuko n'a aucune expérience en la matière....",
+    "genres": "Romance, Amour, Travail",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5791450",
+            "https://video.sibnet.ru/shell.php?videoid=5796799"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-c1woxc3ldbhw.html",
+            "https://vidmoly.to/embed-kjhvayfznj1f.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-exuk5mwahjsv.html",
+            "https://oneupload.to/embed-d90y882ozya8.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/5zu2atj7",
+            "https://sendvid.com/embed/so81jcyr"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241114&hd=3",
+            "https://vidmoly.to/embed-kjhvayfznj1f.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

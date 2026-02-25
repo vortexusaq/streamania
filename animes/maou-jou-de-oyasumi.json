@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "maou-jou-de-oyasumi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/maou-jou-de-oyasumi.jpg",
+    "desc": "La Princesse a été kidnappée par le Roi Démon et est enfermée dans son château, mais alors que les humains font tout ce qui est en leur pouvoir pour essayer de la sauver, La Princesse est confrontée à de terribles difficultés : comment va-t-elle arriver à passer le temps et à dormir dans ce château démoniaque ?",
+    "genres": "Comédie, Fantasy, Surnaturel, Démons",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/qoqpdpuw17cwpq8xp77cqoxasr",
+            "https://www.myvi.top/embed/634kbys1sjarbxkmcp4jixt6uy",
+            "https://www.myvi.top/embed/3o47eusb7jewdkbfu5c63419cw",
+            "https://www.myvi.top/embed/yop66z5a5der5kixkcz6ak14no",
+            "https://www.myvi.top/embed/4fy71er9r9xw7p1fhnja5pfqph",
+            "https://www.myvi.top/embed/yphjbda71jrrmqy3mraw7t4ery",
+            "https://www.myvi.top/embed/bxye458wkrgwtmykowqbf8abdc",
+            "https://www.myvi.top/embed/bc5x5cymkd7r5x4ypfygjjfb8e",
+            "https://www.myvi.top/embed/367gwufju1srzy5si1jfrd35qw",
+            "https://www.myvi.top/embed/3pnk6dz1f7aw98xq6izcmhskjy",
+            "https://www.myvi.top/embed/abtixy3napfwuepizpx1zic8uc",
+            "https://www.myvi.top/embed/jqghibr66xfwiqkzpiwehd53er"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5087667",
+            "https://video.sibnet.ru/shell.php?videoid=5087668",
+            "https://video.sibnet.ru/shell.php?videoid=5087670",
+            "https://video.sibnet.ru/shell.php?videoid=5087671",
+            "https://video.sibnet.ru/shell.php?videoid=5087672",
+            "https://video.sibnet.ru/shell.php?videoid=5087673",
+            "https://video.sibnet.ru/shell.php?videoid=5087675",
+            "https://video.sibnet.ru/shell.php?videoid=5087676",
+            "https://video.sibnet.ru/shell.php?videoid=5087678",
+            "https://video.sibnet.ru/shell.php?videoid=5087679",
+            "https://video.sibnet.ru/shell.php?videoid=5087681",
+            "https://video.sibnet.ru/shell.php?videoid=5087682"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/9x5zyhxr",
+            "https://sendvid.com/embed/oih50smj",
+            "https://sendvid.com/embed/46znvdpt",
+            "https://sendvid.com/embed/ziuosyev",
+            "https://sendvid.com/embed/fqaj4ynx",
+            "https://sendvid.com/embed/a7lujo14",
+            "https://sendvid.com/embed/f1wj8pik",
+            "https://sendvid.com/embed/elgwan1p",
+            "https://sendvid.com/embed/blxqhuti",
+            "https://sendvid.com/embed/pxmfvmlh",
+            "https://sendvid.com/embed/npird8wx",
+            "https://sendvid.com/embed/ha29opde"
+          ]
+        }
+      }
+    }
+  }
+}

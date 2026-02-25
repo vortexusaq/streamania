@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "death-parade",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/death-parade.jpg",
+    "desc": "L'histoire débute avec l'arrivée de deux personnages, Takashi et Machiko, dans un bar étrange. Ils ne se souviennent même pas comment ils sont arrivés ici, et le maître des lieux, Decim, ne répond quasiment pas à leurs questions, leur imposant de jouer à un jeu. N'ayant pas d'autre choix, les voici entraînés dans une suite d'événements inattendus qui devraient révéler leur vraie nature que Decim jugera en conséquence. \"Bienvenue au Quindecim\".",
+    "genres": "Drame, Mystère, Psychologique, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/o5r58axw",
+            "https://sendvid.com/embed/bqsbkyhl",
+            "https://sendvid.com/embed/s4rdg03n",
+            "https://sendvid.com/embed/nevntovh",
+            "https://sendvid.com/embed/wt205i4t",
+            "https://sendvid.com/embed/v0rdr6px",
+            "https://sendvid.com/embed/abflb4n0",
+            "https://sendvid.com/embed/dct18w1f",
+            "https://sendvid.com/embed/bstydlig",
+            "https://sendvid.com/embed/vecfz6gz",
+            "https://sendvid.com/embed/uzu44w26",
+            "https://sendvid.com/embed/vmbezqea"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-p8d1kn0hyq4j.html",
+            "https://vidmoly.to/embed-lj5sdr1c469z.html",
+            "https://vidmoly.to/embed-5oc0unqes1ft.html",
+            "https://vidmoly.to/embed-f6aeleh08rz0.html",
+            "https://vidmoly.to/embed-tupm6fr3sual.html",
+            "https://vidmoly.to/embed-6e43v0faj3l4.html",
+            "https://vidmoly.to/embed-9bi95a0xp4gx.html",
+            "https://vidmoly.to/embed-rhj4sa7x1ini.html",
+            "https://vidmoly.to/embed-rub4cic29pqh.html",
+            "https://vidmoly.to/embed-610og4v5wddd.html",
+            "https://vidmoly.to/embed-iepqtrn28do3.html",
+            "https://vidmoly.to/embed-y7vg0s57q2l0.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4943109",
+            "https://video.sibnet.ru/shell.php?videoid=4943114",
+            "https://video.sibnet.ru/shell.php?videoid=4943115",
+            "https://video.sibnet.ru/shell.php?videoid=4943117",
+            "https://video.sibnet.ru/shell.php?videoid=4943120",
+            "https://video.sibnet.ru/shell.php?videoid=4943125",
+            "https://video.sibnet.ru/shell.php?videoid=4943127",
+            "https://video.sibnet.ru/shell.php?videoid=4943128",
+            "https://video.sibnet.ru/shell.php?videoid=4943133",
+            "https://video.sibnet.ru/shell.php?videoid=4943135",
+            "https://video.sibnet.ru/shell.php?videoid=4943186",
+            "https://video.sibnet.ru/shell.php?videoid=4943189"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ddinuuji"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4989584"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/sr3uhdmzuo3wffywitnbgzbkco"
+          ]
+        }
+      }
+    }
+  }
+}

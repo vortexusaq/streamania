@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "flip-flappers",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/flip-flappers.jpg",
+    "desc": "Flip Flappers se centre sur deux adolescentes dont la rencontre va tout bouleverser. En effet, Papika et Kokona vont se retrouver dans une autre dimension se nommant 'Pure Illusion' où elles devront partir à la recherche d'un mystérieux cristal appelé 'Shard of Mimi', permettant à son détenteur de réaliser n'importe quel vœu. Alors qu'elles se retrouvent en grave danger, l'éclat de Mimi brille et permet aux deux filles de se transformer en magical girl.",
+    "genres": "Aventure, Comédie, Drame, Fantasy, Science-fiction, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ji5ng7w1",
+            "https://sendvid.com/embed/6yd918yh",
+            "https://sendvid.com/embed/rt3w21d7",
+            "https://sendvid.com/embed/4e6mdh78",
+            "https://sendvid.com/embed/gvfyg172",
+            "https://sendvid.com/embed/lpq06c7t",
+            "https://sendvid.com/embed/gpd5xgqb",
+            "https://sendvid.com/embed/i2hf0qy8",
+            "https://sendvid.com/embed/jocgnsu9",
+            "https://sendvid.com/embed/2ew5ti9u",
+            "https://sendvid.com/embed/ph22f890",
+            "https://sendvid.com/embed/972jeoj4",
+            "https://sendvid.com/embed/palaknqy\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4830561",
+            "https://video.sibnet.ru/shell.php?videoid=4830570",
+            "https://video.sibnet.ru/shell.php?videoid=4830582",
+            "https://video.sibnet.ru/shell.php?videoid=4830597",
+            "https://video.sibnet.ru/shell.php?videoid=4830607",
+            "https://video.sibnet.ru/shell.php?videoid=4830619",
+            "https://video.sibnet.ru/shell.php?videoid=4830629",
+            "https://video.sibnet.ru/shell.php?videoid=4830639",
+            "https://video.sibnet.ru/shell.php?videoid=4830659",
+            "https://video.sibnet.ru/shell.php?videoid=4830676",
+            "https://video.sibnet.ru/shell.php?videoid=4830691",
+            "https://video.sibnet.ru/shell.php?videoid=4830706",
+            "https://video.sibnet.ru/shell.php?videoid=4830745"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/cctktww86u7rjxu3dfqagmfaoe",
+            "https://www.myvi.tv/embed/y5snhemh9c4w9g14fsg9pftbfa",
+            "https://www.myvi.tv/embed/4ae8uwo6fxkwbmcgjpjromyito",
+            "https://www.myvi.tv/embed/sk6scs7icr8wikrpmaduggpgpw",
+            "https://www.myvi.tv/embed/i4aramgib5fw3qn4xk73nxhmre",
+            "https://www.myvi.tv/embed/78jgq1td6q5w5fhfrj6sohckma",
+            "https://www.myvi.tv/embed/bmczinyk8s3rtyippzufzzhxra",
+            "https://www.myvi.tv/embed/71c43urjqwnrfczj45ko9g3eiw",
+            "https://www.myvi.tv/embed/3dwmnbuagkhw3x8z8t8hg5kxkh",
+            "https://www.myvi.tv/embed/36skjiuqqxnwfjfdbesimuw8kc",
+            "https://www.myvi.tv/embed/spxd3b7834mr9ckiq5bs857emw",
+            "https://www.myvi.tv/embed/1p8aawjeeqyrfjcmqyadgwzjdh",
+            "https://www.myvi.tv/embed/gfoz8cxqit4r9bs5oxu5wnm16h"
+          ]
+        }
+      }
+    }
+  }
+}

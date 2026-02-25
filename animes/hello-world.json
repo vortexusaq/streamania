@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "hello-world",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hello-world.jpg",
+    "desc": "Naomi Katagaki est un lycéen du secondaire qui, un beau jour, fait la rencontre de son « lui du futur », de dix ans son aîné. Ensemble, ils vont s'atteler à sauver la vie de Ruri, une camarade de classe à laquelle le jeune Naomi commence tout juste à s'attacher...",
+    "genres": "Drame, Romance, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/zf4dnd4zpcuw8rc5rf1ts31xxw"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3974086"
+          ]
+        }
+      }
+    }
+  }
+}

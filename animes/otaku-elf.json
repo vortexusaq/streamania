@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "otaku-elf",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/otaku-elf.jpg",
+    "desc": "Koganei Koito, 16 ans, est la miko du sanctuaire Takamimi qui possède une histoire depuis plus de 400 ans depuis la période Edo. Mais voilà que Koito vit avec Elda, une elfe qui se trouve être la divinité du sanctuaire quelque peu otaku.",
+    "genres": "Comédie, Fantasy, Slice-of-Life, Surnaturel, Elfe, Otaku",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/xr5leh08",
+            "https://sendvid.com/embed/qo62zkuw",
+            "https://sendvid.com/embed/2y0mf20t",
+            "https://sendvid.com/embed/zjuvkffv",
+            "https://sendvid.com/embed/6oji5qe3",
+            "https://sendvid.com/embed/nkuo5vph",
+            "https://sendvid.com/embed/0lrplk7y",
+            "https://sendvid.com/embed/rhy0twpr",
+            "https://sendvid.com/embed/5wgs60lp",
+            "https://sendvid.com/embed/p53jasyz",
+            "https://sendvid.com/embed/mmlp3xl7",
+            "https://sendvid.com/embed/2vrthob3"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5184924",
+            "https://video.sibnet.ru/shell.php?videoid=5184925",
+            "https://video.sibnet.ru/shell.php?videoid=5184927",
+            "https://video.sibnet.ru/shell.php?videoid=5184933",
+            "https://video.sibnet.ru/shell.php?videoid=5184934",
+            "https://video.sibnet.ru/shell.php?videoid=5184935",
+            "https://video.sibnet.ru/shell.php?videoid=5184936",
+            "https://video.sibnet.ru/shell.php?videoid=5184938",
+            "https://video.sibnet.ru/shell.php?videoid=5184940",
+            "https://video.sibnet.ru/shell.php?videoid=5210904",
+            "https://video.sibnet.ru/shell.php?videoid=5210905",
+            "https://video.sibnet.ru/shell.php?videoid=5239680"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/797f5rmqqsarijptxj9q3tgtuc",
+            "https://www.myvi.tv/embed/fgqyd5p4o6fwjqfne1ubgjcway",
+            "https://www.myvi.tv/embed/ekc986xxu5iw9dagxxefukb8ye",
+            "https://www.myvi.tv/embed/cybxcxhdetqw9x5u4rstc8wqua",
+            "https://www.myvi.tv/embed/w3uuogxhcxcwtqh679geq1qzaa",
+            "https://www.myvi.tv/embed/nengqhbzoumrzmumknuzkp94my",
+            "https://www.myvi.tv/embed/ijierknhw4mr8e6rmpn1jumyjr",
+            "https://www.myvi.tv/embed/gonbbzzefnwwij8z9h6uhhraph",
+            "https://www.myvi.tv/embed/1jw8595nsffw7mo51f88pyx43w",
+            "https://www.myvi.tv/embed/mhbsxugyna6w9kex55i6enj5rw",
+            "https://www.myvi.tv/embed/7nn755wh7jxrtqh4s1agrn97wr",
+            "https://www.myvi.tv/embed/ojeoimqqdq1rdgz5859ii6exke"
+          ]
+        }
+      }
+    }
+  }
+}

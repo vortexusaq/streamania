@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "cannon-busters",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cannon-busters.jpg",
+    "desc": "L'histoire suit une étrange équipée composé de deux robots, S.A.M. et Casey, ainsi que d'un hors-la-loi immortel, Philly the Kid.",
+    "genres": "Action, Aventure, Robots, Voyage",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/t6uaderf",
+            "https://sendvid.com/embed/jp6mbetv",
+            "https://sendvid.com/embed/jgyq4w7w",
+            "https://sendvid.com/embed/b0l65hco",
+            "https://sendvid.com/embed/c806nkzr",
+            "https://sendvid.com/embed/gid00okt",
+            "https://sendvid.com/embed/922is41m",
+            "https://sendvid.com/embed/u13x55t1",
+            "https://sendvid.com/embed/zg55zec8",
+            "https://sendvid.com/embed/tt48tqgh",
+            "https://sendvid.com/embed/24j7al2c",
+            "https://sendvid.com/embed/90v9ow29"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4942506",
+            "https://video.sibnet.ru/shell.php?videoid=4942510",
+            "https://video.sibnet.ru/shell.php?videoid=4942515",
+            "https://video.sibnet.ru/shell.php?videoid=4942526",
+            "https://video.sibnet.ru/shell.php?videoid=4942531",
+            "https://video.sibnet.ru/shell.php?videoid=4942533",
+            "https://video.sibnet.ru/shell.php?videoid=4942534",
+            "https://video.sibnet.ru/shell.php?videoid=4942537",
+            "https://video.sibnet.ru/shell.php?videoid=4942540",
+            "https://video.sibnet.ru/shell.php?videoid=4942542",
+            "https://video.sibnet.ru/shell.php?videoid=4942547",
+            "https://video.sibnet.ru/shell.php?videoid=4942549"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/uo3ob1cpgfrw8xuu6ahsazgk9r",
+            "https://www.myvi.top/embed/1wnp8ad9fkhwdbws8x8tdzo1ne",
+            "https://www.myvi.top/embed/kgzheznc5bzw9kz3gooy8bpgha",
+            "https://www.myvi.top/embed/9yqc398fq4krmji4mzo6a8nq6w",
+            "https://www.myvi.top/embed/c77ee7kxuyor7eaftoazyrg9mh",
+            "https://www.myvi.top/embed/su89qdfxjdwwpmx8x6tii9nj7h",
+            "https://www.myvi.top/embed/qazr86tbimtr3knxdq1633q5kc",
+            "https://www.myvi.top/embed/1gjibgudtxmrby396chbd75sse",
+            "https://www.myvi.top/embed/6g3ae17fmj6riyzubezypxui8o",
+            "https://www.myvi.top/embed/rzwmfkcg6iurfetrghofm1bmma",
+            "https://www.myvi.top/embed/5ke8sz338d1rbgbm6mr3caskco",
+            "https://www.myvi.top/embed/99fuh1p38cdw8yrxtephujiczr"
+          ]
+        }
+      }
+    }
+  }
+}

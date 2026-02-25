@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "your-name",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/your-name.jpg",
+    "desc": "Mitsuha est une lycéenne qui réside dans une petite ville située dans les montagnes. Elle vit aux côtés de sa petite soeur, sa grand-mère ainsi que son père, bien que ce dernier ne soit jamais à la maison à cause de son travail de maire. En réalité, sa vie ne lui convient pas et elle souhaite pouvoir vivre à Tokyo.\nTaki est un lycéen qui habite à Tokyo et qui adore l'architecture et l'art. Il vit une vie normale d'étudiant entouré d'amis et travaille même dans un petit restaurant italien. Mais un jour, il fait un rêve dans lequel il est dans la peau d'une jeune fille qui vit dans une ville en montagne. Mitsuha, quant à elle, fait également un rêve dans lequel elle est dans un corps d'un garçon tokyoïte.\nQuel est le secret qui se cache derrière ces étranges rêves qui échangent la vie de ces deux jeunes gens ?",
+    "genres": "Drame, Romance, School-Life, Surnaturel, Seinen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5117447"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-08ybgqyqsklo.html"
+          ]
+        }
+      }
+    }
+  }
+}

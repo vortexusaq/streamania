@@ -1,0 +1,76 @@
+{
+  "data": {
+    "name": "ao-haru-ride",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ao-haru-ride.jpg",
+    "desc": "Du collège, Futaba Yoshioka n'a pas vraiment de bon souvenirs. Jugée \"très mignonne\", elle avait rapidement été jalousée par ses amies et mise à l'écart par toutes les autres filles. De plus, le garçon qu'elle aimait en secret, Kô Tanaka, lui avait posé un lapin alors qu'il l'avait invité.\n\nDésormais au lycée, Futaba est bien décidée à changer son image et à repartir de zéro : nouvel établissement, nouvelles amies... Jusqu'à ce qu'elle découvre que Kô est inscrit dans le même établissement qu'elle.",
+    "genres": "Comédie, Drame, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-13vw530w5dpw.html",
+            "https://vidmoly.to/embed-6sg4kkfs4f1k.html",
+            "https://vidmoly.to/embed-e2g9yx8rglsa.html",
+            "https://vidmoly.to/embed-le3omq0syx7u.html",
+            "https://vidmoly.to/embed-0xjkesfflh9p.html",
+            "https://vidmoly.to/embed-0vc8mg6aff31.html",
+            "https://vidmoly.to/embed-hdxkpyqteom0.html",
+            "https://vidmoly.to/embed-ukw48h7ukm9z.html",
+            "https://vidmoly.to/embed-ye3hifplztfk.html",
+            "https://vidmoly.to/embed-yubby172y3fl.html",
+            "https://vidmoly.to/embed-33ox015bew9i.html",
+            "https://vidmoly.to/embed-mvhzyc6hhteb.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4720517",
+            "https://video.sibnet.ru/shell.php?videoid=4720520",
+            "https://video.sibnet.ru/shell.php?videoid=4720525",
+            "https://video.sibnet.ru/shell.php?videoid=4720532",
+            "https://video.sibnet.ru/shell.php?videoid=4720535",
+            "https://video.sibnet.ru/shell.php?videoid=4720543",
+            "https://video.sibnet.ru/shell.php?videoid=4720545",
+            "https://video.sibnet.ru/shell.php?videoid=4720547",
+            "https://video.sibnet.ru/shell.php?videoid=4720550",
+            "https://video.sibnet.ru/shell.php?videoid=4720555",
+            "https://video.sibnet.ru/shell.php?videoid=4720557",
+            "https://video.sibnet.ru/shell.php?videoid=4720560"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/wts3xa3o",
+            "https://sendvid.com/embed/g7876gpy",
+            "https://sendvid.com/embed/177g82m6",
+            "https://sendvid.com/embed/95bhcxre",
+            "https://sendvid.com/embed/b1ysy7na",
+            "https://sendvid.com/embed/gujt778p",
+            "https://sendvid.com/embed/3esvqx5f",
+            "https://sendvid.com/embed/1bgg7zu8",
+            "https://sendvid.com/embed/zdfuogiw",
+            "https://sendvid.com/embed/b78u1ft8",
+            "https://sendvid.com/embed/6u3n2ymn",
+            "https://sendvid.com/embed/xqwyrzth"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/pzo3pf5n7aertgyief53bu17fw",
+            "https://www.myvi.tv/embed/ujx8qrotikmr9yha318wnf4d5h"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4720562",
+            "https://video.sibnet.ru/shell.php?videoid=4680173"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/n05o5a0l",
+            "https://video.sibnet.ru/shell.php?videoid=4680173"
+          ]
+        }
+      }
+    }
+  }
+}

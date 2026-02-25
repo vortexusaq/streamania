@@ -1,0 +1,71 @@
+{
+  "data": {
+    "name": "pandora-hearts",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pandora-hearts.jpg",
+    "desc": "Oz Vessalius, héritier d'une maison de Duc, vient tout juste d'avoir quinze ans. Sa vie est riche et insouciante, mais assombrie par l'absence constante de son père...\nLors de son passage à l'âge de la cérémonie, tout change. Pour aucune raison apparente, il est jeté dans la prison connue sous le nom de \"Abyss\", pour être sauvé par une \"chain\" connue sous le nom d'Alice, le lapin de sang noir. Pourquoi a t-il été jeté dans Abyss ? Qui est réellement Alice dans tout cela ? Qu'est ce que l'organisation connue sous le nom de \"Pandora\" lui veut ?",
+    "genres": "Action, Comédie, Drame, Fantasy, Mystère, Psychologique, Romance, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5355809",
+            "https://video.sibnet.ru/shell.php?videoid=5355812",
+            "https://video.sibnet.ru/shell.php?videoid=5355817",
+            "https://video.sibnet.ru/shell.php?videoid=5355818",
+            "https://video.sibnet.ru/shell.php?videoid=5355822",
+            "https://video.sibnet.ru/shell.php?videoid=5355824",
+            "https://video.sibnet.ru/shell.php?videoid=5355826",
+            "https://video.sibnet.ru/shell.php?videoid=5355828",
+            "https://video.sibnet.ru/shell.php?videoid=5355830",
+            "https://video.sibnet.ru/shell.php?videoid=5355831",
+            "https://video.sibnet.ru/shell.php?videoid=5355835",
+            "https://video.sibnet.ru/shell.php?videoid=5355837",
+            "https://video.sibnet.ru/shell.php?videoid=5355839",
+            "https://video.sibnet.ru/shell.php?videoid=5355841",
+            "https://video.sibnet.ru/shell.php?videoid=5355843",
+            "https://video.sibnet.ru/shell.php?videoid=5355845",
+            "https://video.sibnet.ru/shell.php?videoid=5355846",
+            "https://video.sibnet.ru/shell.php?videoid=5355850",
+            "https://video.sibnet.ru/shell.php?videoid=5355851",
+            "https://video.sibnet.ru/shell.php?videoid=5355853",
+            "https://video.sibnet.ru/shell.php?videoid=5355855",
+            "https://video.sibnet.ru/shell.php?videoid=5355857",
+            "https://video.sibnet.ru/shell.php?videoid=5355859",
+            "https://video.sibnet.ru/shell.php?videoid=5355860",
+            "https://video.sibnet.ru/shell.php?videoid=5355862"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/qler8cs4",
+            "https://sendvid.com/embed/2w7atkm7",
+            "https://sendvid.com/embed/p3rws339",
+            "https://sendvid.com/embed/tdglpuqq",
+            "https://sendvid.com/embed/87kd6vtm",
+            "https://sendvid.com/embed/uis2j22g",
+            "https://sendvid.com/embed/mvrix4il",
+            "https://sendvid.com/embed/cbww6on3",
+            "https://sendvid.com/embed/l3sa03rt",
+            "https://sendvid.com/embed/a1si0gq6",
+            "https://sendvid.com/embed/xrb7kq35",
+            "https://sendvid.com/embed/k3ls0ncu",
+            "https://sendvid.com/embed/r696xqqs",
+            "https://sendvid.com/embed/iuh3tjgp",
+            "https://sendvid.com/embed/o3xeh1h2",
+            "https://sendvid.com/embed/jfyzbsw4",
+            "https://sendvid.com/embed/kn2ubdaf",
+            "https://sendvid.com/embed/87sy7a1i",
+            "https://sendvid.com/embed/i6ici2ki",
+            "https://sendvid.com/embed/nx4fdszd",
+            "https://sendvid.com/embed/su91kb3q",
+            "https://sendvid.com/embed/cr5ubbm0",
+            "https://sendvid.com/embed/ef2v9v3t",
+            "https://sendvid.com/embed/2h1ib2ip",
+            "https://sendvid.com/embed/bmi5rufu"
+          ]
+        }
+      }
+    }
+  }
+}

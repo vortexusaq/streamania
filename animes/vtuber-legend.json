@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "vtuber-legend",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/vtuber-legend.jpg",
+    "desc": "LiveOn est une importante société de gestion à laquelle appartiennent un certain nombre de superbes VTubers. En raison de l'imprudence de l'étudiante de troisième année et VTuber \"soignée\", Shinon Danyuki, qui a oublié d'éteindre son live, elle révèle par accident sa véritable personnalité, qui est tout le contraire de son personnage. Elle pensait qu'elle allait avoir de gros ennuis, mais l'écart entre ses deux facettes était si grand que cela a créé un buzz immense !",
+    "genres": "Comédie, Shôjo-Ai, Slice-of-Life, Alcool, Idols, Technologies",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5588813",
+            "https://video.sibnet.ru/shell.php?videoid=5596727",
+            "https://video.sibnet.ru/shell.php?videoid=5604093",
+            "https://video.sibnet.ru/shell.php?videoid=5612790",
+            "https://video.sibnet.ru/shell.php?videoid=5621345",
+            "https://video.sibnet.ru/shell.php?videoid=5632523",
+            "https://video.sibnet.ru/shell.php?videoid=5642446",
+            "https://video.sibnet.ru/shell.php?videoid=5651797",
+            "https://video.sibnet.ru/shell.php?videoid=5659652",
+            "https://video.sibnet.ru/shell.php?videoid=5668363",
+            "https://video.sibnet.ru/shell.php?videoid=5677707",
+            "https://video.sibnet.ru/shell.php?videoid=5687420"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-295e1kumvla9.html",
+            "https://vidmoly.to/embed-sjbdpg1b4gmc.html",
+            "https://vidmoly.to/embed-o7t0jwbshwib.html",
+            "https://vidmoly.to/embed-48de2u1794sz.html",
+            "https://vidmoly.to/embed-dmd0sge21bu9.html",
+            "https://vidmoly.to/embed-jzpxklj3ovns.html",
+            "https://vidmoly.to/embed-skqpcqfgx63g.html",
+            "https://vidmoly.to/embed-fou23cli00y9.html",
+            "https://vidmoly.to/embed-q8b0kylme2xk.html",
+            "https://vidmoly.to/embed-lh5u8xsf9f45.html",
+            "https://vidmoly.to/embed-ihz8eg6oacd6.html",
+            "https://vidmoly.to/embed-46fpt1901t0p.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/9ptj7cv6",
+            "https://sendvid.com/embed/b3bh5bi5",
+            "https://video.sibnet.ru/shell.php?videoid=5604093",
+            "https://sendvid.com/embed/no7zhtv7",
+            "https://sendvid.com/embed/kp5tbgjo",
+            "https://sendvid.com/embed/o6t22anp",
+            "https://sendvid.com/embed/5szwqbtw",
+            "https://sendvid.com/embed/wavj2i1l",
+            "https://sendvid.com/embed/jz9wqtqq",
+            "https://sendvid.com/embed/sbsxre7j",
+            "https://video.sibnet.ru/shell.php?videoid=5677707",
+            "https://sendvid.com/embed/v63qiux2"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239911&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239955&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240000&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240045&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240084&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240124&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240172&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240220&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240273&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240322&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240377&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240423&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

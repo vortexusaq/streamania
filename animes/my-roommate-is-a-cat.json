@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "my-roommate-is-a-cat",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-roommate-is-a-cat.jpg",
+    "desc": "Subaru Mikazuki est un écrivain asocial préférant rester enfermé chez lui que de sortir voir le monde et faire des rencontres. Un jour, il fait la rencontre d'un chat errant qui devient sa grande source d'inspiration. On suit ainsi leur quotidien à la fois du point de vue de Subaru et de Haru.",
+    "genres": "Comédie, Drame, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/w8etuyxnc6rwjd63wgoz4cd4wr",
+            "https://www.myvi.top/embed/w31t8hdmtjjwxe3pmo8toczogo",
+            "https://www.myvi.top/embed/pf8ogtesud9wmxh1wtpqoxd8pw",
+            "https://www.myvi.top/embed/z6wz9gtc1hhwfci37p8hfgobso",
+            "https://www.myvi.top/embed/rz64p6gb1kwrfjdb4q9hbdb6po",
+            "https://www.myvi.top/embed/s5r1rs6y9j4r7fu5a14ctef3xh",
+            "https://www.myvi.top/embed/4efkcg46117rzxsx56okhonzta",
+            "https://www.myvi.top/embed/834t6b681agwfenbjamhiy1r5w",
+            "https://www.myvi.top/embed/t6e5spqutypr5cztaasi7of9hr",
+            "https://www.myvi.top/embed/9wf6jey4ntcrif9aksniqhsgae",
+            "https://www.myvi.top/embed/bzy9o5j7xx8r3nw54sw9qoofty",
+            "https://www.myvi.top/embed/hmgwhkgbposrjptruw37siucwe"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/czr36rb7",
+            "https://sendvid.com/embed/e3kt0zgf",
+            "https://sendvid.com/embed/77m7qcsb",
+            "https://sendvid.com/embed/lpt1aexx",
+            "https://sendvid.com/embed/3uompj32",
+            "https://sendvid.com/embed/n840nmxt",
+            "https://sendvid.com/embed/k4uh2le0",
+            "https://sendvid.com/embed/x9luiys1",
+            "https://sendvid.com/embed/v54t6b4l",
+            "https://sendvid.com/embed/uzlx5b8l",
+            "https://sendvid.com/embed/gx8mgovx",
+            "https://sendvid.com/embed/x6j6wu5n"
+          ]
+        }
+      }
+    }
+  }
+}

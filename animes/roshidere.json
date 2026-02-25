@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "roshidere",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/roshidere.jpg",
+    "desc": "D'origine russe et japonaise, Alisa Mikhailovna Kujou est la \"princesse solitaire\" de l'Académie privée Seiren. Cette beauté aux cheveux argentés qui est première de sa classe, comptable du conseil des élèves est réputée pour être totalement inaccessible. Pour certaines raisons, elle s'est également chargée de réprimander Masachika Kuze, le fainéant qui s'assoit à côté d'elle en classe. Il la contrarie constamment en s'endormant, en oubliant ses manuels et en étant tout simplement un élève peu exemplaire. Du moins, c'est ce qui semble se passer de l'extérieur. Elle a beau jouer les dures, Masachika ne le dérange pas autant qu'on pourrait le croire et elle l'autorise même à l'appeler Alya, son surnom. Ceux qui entendent les commentaires qu'elle murmure en russe peuvent savoir ce qu'elle ressent vraiment, mais comme aucun de ses camarades de classe ne comprend cette langue, elle est libre de dire ce qu'elle veut ! Sauf qu'il y a en réalité une personne qui sait ce qu'elle dit. Masachika écoute ses révélations embarrassantes, fait semblant de ne rien comprendre, tout en se demandant ce que signifient réellement ses commentaires flatteurs !",
+    "genres": "Comédie, Romance, School-Life, Ecole",
+    "update": "Une saison 2 est annoncée",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5583823",
+            "https://video.sibnet.ru/shell.php?videoid=5591871",
+            "https://video.sibnet.ru/shell.php?videoid=5599483",
+            "https://video.sibnet.ru/shell.php?videoid=5608326",
+            "https://video.sibnet.ru/shell.php?videoid=5616189",
+            "https://video.sibnet.ru/shell.php?videoid=5625345",
+            "https://video.sibnet.ru/shell.php?videoid=5636281",
+            "https://video.sibnet.ru/shell.php?videoid=5647345",
+            "https://video.sibnet.ru/shell.php?videoid=5654672",
+            "https://video.sibnet.ru/shell.php?videoid=5663118",
+            "https://video.sibnet.ru/shell.php?videoid=5674657",
+            "https://video.sibnet.ru/shell.php?videoid=5681205"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-wamizajyxyid.html",
+            "https://vidmoly.to/embed-25zwqw74fmbp.html",
+            "https://vidmoly.to/embed-9rzcmbvo1h5d.html",
+            "https://vidmoly.to/embed-y22drz7aeclt.html",
+            "https://vidmoly.to/embed-pyk773s6pfjr.html",
+            "https://vidmoly.to/embed-bhjs4bclm631.html",
+            "https://vidmoly.to/embed-cn2tidhj52nv.html",
+            "https://vidmoly.to/embed-5y44wd49e0ef.html",
+            "https://vidmoly.to/embed-5o0k1oe4biqi.html",
+            "https://vidmoly.to/embed-6nlw245jtakf.html",
+            "https://vidmoly.to/embed-a5f14f46ttwl.html",
+            "https://vidmoly.to/embed-347r368yom33.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/nlhvgk37",
+            "https://sendvid.com/embed/1w0pq3o5",
+            "https://sendvid.com/embed/2koc8uok",
+            "https://sendvid.com/embed/pb3ph4r2",
+            "https://sendvid.com/embed/vv8mokz7",
+            "https://sendvid.com/embed/r7jrxuwl",
+            "https://sendvid.com/embed/fyywrisa",
+            "https://sendvid.com/embed/b19zzlur",
+            "https://sendvid.com/embed/u3enzgrg",
+            "https://sendvid.com/embed/2dq2wui7",
+            "https://sendvid.com/embed/eykuqngf",
+            "https://sendvid.com/embed/6u3ihxb8"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239883&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239925&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239969&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240013&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240056&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240094&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240138&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240190&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240235&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240287&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240349&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240393&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "magical-destroyers",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magical-destroyers.jpg",
+    "desc": "Il s'agit d'une série animée originale de Jun Inagawa. Elle met en scène \"un héros otaku\" et \"une magical girl anarchiste\".",
+    "genres": "Action - Comédie - Magical-girl - Magie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5099231",
+            "https://video.sibnet.ru/shell.php?videoid=5105849",
+            "https://video.sibnet.ru/shell.php?videoid=5112875",
+            "https://video.sibnet.ru/shell.php?videoid=5120197",
+            "https://video.sibnet.ru/shell.php?videoid=5127484",
+            "https://video.sibnet.ru/shell.php?videoid=5136005",
+            "https://video.sibnet.ru/shell.php?videoid=5146183",
+            "https://video.sibnet.ru/shell.php?videoid=5153130",
+            "https://video.sibnet.ru/shell.php?videoid=5160118",
+            "https://video.sibnet.ru/shell.php?videoid=5166552",
+            "https://video.sibnet.ru/shell.php?videoid=5174304",
+            "https://video.sibnet.ru/shell.php?videoid=5180857"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456239553&hash=a45eb9b07814b32b&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239583&hash=e3390ea15c42fb1c&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239614&hash=5f9e69d0f3923b16&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239646&hash=96f542bf1707a8b2&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239667&hash=84a1ad28f39b997f&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239697&hash=0b879aedc564fbb2&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239723&hash=92272e100039212d&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239747&hash=70cbf5ebcc888359&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239774&hash=30bd268acf9b77ee&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239798&hash=1d2a5c24e5ec90ca&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239824&hash=b17b7a67f7166ead&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239850&hash=f9667a66e8524bea&hd=3"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/bif45zpf",
+            "https://sendvid.com/embed/wsu5i4eq",
+            "https://sendvid.com/embed/rv7dgdpp",
+            "https://sendvid.com/embed/9n6f6xop",
+            "https://sendvid.com/embed/y39wjwtu",
+            "https://sendvid.com/embed/64mx9ql6",
+            "https://sendvid.com/embed/v5qyj61m",
+            "https://sendvid.com/embed/k33l5y30",
+            "https://sendvid.com/embed/p3mr4sin",
+            "https://sendvid.com/embed/vpbqawsd",
+            "https://sendvid.com/embed/bfgtpsnp",
+            "https://sendvid.com/embed/rg5r03ky"
+          ],
+          "lec4": [
+            "https://www.myvi.tv/embed/pz9r4wckuukwjjttux578pjh8w",
+            "https://www.myvi.tv/embed/thoedo7wo8ew3nroe4xboockzy",
+            "https://www.myvi.tv/embed/7zusxnsnpsgr7f8rm1mxddq3ma",
+            "https://www.myvi.tv/embed/yfm4qyguyzrrueibtdr3u3f4ko",
+            "https://www.myvi.tv/embed/nkrq4c9howqwdbwmkyd1og3hge",
+            "https://www.myvi.tv/embed/n8ahickqdpqr9cgqj4gkjyyroc",
+            "https://www.myvi.tv/embed/mj7thkxa4efrzk8tqey1unfcwo",
+            "https://www.myvi.tv/embed/13nkp5qidyfr7e4utm1jfufs9y",
+            "https://www.myvi.tv/embed/1jucu5xhgaiwmps51aq88uigay",
+            "https://www.myvi.tv/embed/zf1jt6h3a5krikmmqun4ei89yw",
+            "https://www.myvi.tv/embed/ci9du83dnmhrzxtndgb3snwdnw",
+            "https://www.myvi.tv/embed/cj6o561i7jnrdn9p5jn7jdj9xe"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Magical%20Destroyer/Magical_Destroyer_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

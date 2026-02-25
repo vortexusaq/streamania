@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "kimi-wa-kanata",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kimi-wa-kanata.jpg",
+    "desc": "L'histoire prendre place dans le quartier d'Ikebukuro et se centre sur Mio et Shin, deux amis d'enfance. Mio est amoureuse de Shin et pense toujours à lui, mais n'a jamais pu lui avouer ce qu'elle ressent. Un jour, ils se disputent sur quelque chose de trivial, et quelque temps après, Mio décide de se réconcilier avec lui. En se rendant chez Shin, trempée par la pluie, elle est impliquée dans un accident de la circulation. Lorsque Mio reprend conscience, elle se retrouve dans un monde inconnu.",
+    "genres": "Drame, Fantasy, Mystère, Romance, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/hk93marm5jnw7gpuqteuhq7jfr\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5193312\t"
+          ]
+        }
+      }
+    }
+  }
+}

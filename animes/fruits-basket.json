@@ -1,0 +1,110 @@
+{
+  "data": {
+    "name": "fruits-basket",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fruits-basket.jpg",
+    "desc": "Tohru Honda vient de perdre sa mère, renversée par une voiture, alors qu'elle est en première année de lycée. Au départ hébergée par son grand-père, elle s'installera finalement dans une tente plantée à l'écart de la ville, le temps de quelques travaux.\n\nC'est à cette occasion qu'elle va faire la connaissance de Shigure Sôma, propriétaire du terrain où elle a installé sa tente. Il se trouve que Shigure est également le cousin de Yûki Sôma, le \"prince\" du lycée où est scolarisée Tohru. Les deux hommes, qui vivent ensemble pour des raisons familiales, lui proposent de l'héberger jusqu'à la fin des travaux. Un peu gênée, Tohru accepte, sans savoir que Yûki, Shigure et Kyô, qui s'installera lui aussi dans la maison, sont tous trois victimes d'une malédiction.\nKyô est possédé par l'esprit du Chat, Shigure par celui du Chien et Yûki par celui du Rat.\n\nEn effet, dans la famille Sôma, 12 membres plus 1 sont possédés par l'esprit d'un animal du zodiaque chinois, plus le Chat. Lorsqu'un maudit entre en contact avec une personne du sexe opposé, il se transforme immédiatement en l'animal qui représente l'esprit qui le possède.\n\nTohru étant une fille, elle va rapidement découvrir le secret des trois garçons, et se retrouver embarquée dans une histoire de famille très sensible.",
+    "genres": "Comédie, Drame, Fantasy, Mystère, Romance, School-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 4,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=3587012",
+            "https://video.sibnet.ru/shell.php?videoid=3591490",
+            "https://video.sibnet.ru/shell.php?videoid=3596050",
+            "https://video.sibnet.ru/shell.php?videoid=3600913",
+            "https://video.sibnet.ru/shell.php?videoid=3605774",
+            "https://video.sibnet.ru/shell.php?videoid=3609625",
+            "https://video.sibnet.ru/shell.php?videoid=3613948",
+            "https://video.sibnet.ru/shell.php?videoid=3618346",
+            "https://video.sibnet.ru/shell.php?videoid=3624252",
+            "https://video.sibnet.ru/shell.php?videoid=3629345",
+            "https://video.sibnet.ru/shell.php?videoid=3633021",
+            "https://video.sibnet.ru/shell.php?videoid=3637294",
+            "https://video.sibnet.ru/shell.php?videoid=3642022",
+            "https://video.sibnet.ru/shell.php?videoid=3646403",
+            "https://video.sibnet.ru/shell.php?videoid=3649975",
+            "https://video.sibnet.ru/shell.php?videoid=3653673",
+            "https://video.sibnet.ru/shell.php?videoid=3659213",
+            "https://video.sibnet.ru/shell.php?videoid=3665950",
+            "https://video.sibnet.ru/shell.php?videoid=3670635",
+            "https://video.sibnet.ru/shell.php?videoid=3674404",
+            "https://video.sibnet.ru/shell.php?videoid=3684439",
+            "https://video.sibnet.ru/shell.php?videoid=3690243",
+            "https://video.sibnet.ru/shell.php?videoid=3693863",
+            "https://video.sibnet.ru/shell.php?videoid=3700552",
+            "https://video.sibnet.ru/shell.php?videoid=3705504"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4672398",
+            "https://video.sibnet.ru/shell.php?videoid=4672401",
+            "https://video.sibnet.ru/shell.php?videoid=4672402",
+            "https://video.sibnet.ru/shell.php?videoid=4672407",
+            "https://video.sibnet.ru/shell.php?videoid=4672410",
+            "https://video.sibnet.ru/shell.php?videoid=4672412",
+            "https://video.sibnet.ru/shell.php?videoid=4672416",
+            "https://video.sibnet.ru/shell.php?videoid=4672420",
+            "https://video.sibnet.ru/shell.php?videoid=4672423",
+            "https://video.sibnet.ru/shell.php?videoid=4672426",
+            "https://video.sibnet.ru/shell.php?videoid=4672428",
+            "https://video.sibnet.ru/shell.php?videoid=4672430",
+            "https://video.sibnet.ru/shell.php?videoid=4672434",
+            "https://video.sibnet.ru/shell.php?videoid=4672437",
+            "https://video.sibnet.ru/shell.php?videoid=4672439",
+            "https://video.sibnet.ru/shell.php?videoid=4672443",
+            "https://video.sibnet.ru/shell.php?videoid=4672445",
+            "https://video.sibnet.ru/shell.php?videoid=4672448",
+            "https://video.sibnet.ru/shell.php?videoid=4672452",
+            "https://video.sibnet.ru/shell.php?videoid=4672454",
+            "https://video.sibnet.ru/shell.php?videoid=4672456",
+            "https://video.sibnet.ru/shell.php?videoid=4672458",
+            "https://video.sibnet.ru/shell.php?videoid=4672462",
+            "https://video.sibnet.ru/shell.php?videoid=4672464",
+            "https://video.sibnet.ru/shell.php?videoid=4672467"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4287341",
+            "https://video.sibnet.ru/shell.php?videoid=4292668",
+            "https://video.sibnet.ru/shell.php?videoid=4297710",
+            "https://video.sibnet.ru/shell.php?videoid=4303128",
+            "https://video.sibnet.ru/shell.php?videoid=4307968",
+            "https://video.sibnet.ru/shell.php?videoid=4312302",
+            "https://video.sibnet.ru/shell.php?videoid=4317338",
+            "https://video.sibnet.ru/shell.php?videoid=5096019",
+            "https://video.sibnet.ru/shell.php?videoid=4325251",
+            "https://video.sibnet.ru/shell.php?videoid=4330235",
+            "https://video.sibnet.ru/shell.php?videoid=4334115",
+            "https://video.sibnet.ru/shell.php?videoid=4337846",
+            "https://video.sibnet.ru/shell.php?videoid=4341108"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/9cd02yu8"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4918759"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/tkhektm8nnprb8zrrb8wqst8tw"
+          ]
+        }
+      }
+    }
+  }
+}

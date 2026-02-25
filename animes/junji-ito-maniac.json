@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "junji-ito-maniac",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/junji-ito-maniac.jpg",
+    "desc": "Il s'agit d'une série adaptant 20 histoires issues des oeuvres de Junji Ito.",
+    "genres": "Horreur, Épouvante, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/qh1iw0g0",
+            "https://sendvid.com/embed/fj79tiwq",
+            "https://sendvid.com/embed/vopwdc93",
+            "https://sendvid.com/embed/bhjo248t",
+            "https://sendvid.com/embed/ui3mtp6h",
+            "https://sendvid.com/embed/tahmyer2",
+            "https://sendvid.com/embed/1g1v6zc3",
+            "https://sendvid.com/embed/yvtd6vuj",
+            "https://sendvid.com/embed/xcs0ipvr",
+            "https://sendvid.com/embed/qc329dyc",
+            "https://sendvid.com/embed/r7oqzadf",
+            "https://sendvid.com/embed/pax0amgg"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5013704",
+            "https://video.sibnet.ru/shell.php?videoid=5013707",
+            "https://video.sibnet.ru/shell.php?videoid=5013709",
+            "https://video.sibnet.ru/shell.php?videoid=5013711",
+            "https://video.sibnet.ru/shell.php?videoid=5013712",
+            "https://video.sibnet.ru/shell.php?videoid=5013713",
+            "https://video.sibnet.ru/shell.php?videoid=5013714",
+            "https://video.sibnet.ru/shell.php?videoid=5013717",
+            "https://video.sibnet.ru/shell.php?videoid=5013718",
+            "https://video.sibnet.ru/shell.php?videoid=5013721",
+            "https://video.sibnet.ru/shell.php?videoid=5013723",
+            "https://video.sibnet.ru/shell.php?videoid=5013724"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/4psmot3gyxyw3xegqztmw4gkxr",
+            "https://www.myvi.tv/embed/mrg7gao584xwik8fa9tpot3mqe",
+            "https://www.myvi.tv/embed/ozz3pz4rq6rr7cyg69d48hxfao",
+            "https://www.myvi.tv/embed/k1iobxkzsk3w7m1ityfkxizx3w",
+            "https://www.myvi.tv/embed/y6wdq4gd1e7wmy7nj77387879o",
+            "https://www.myvi.tv/embed/mgsrpjui3nfr9g8719axjconpo",
+            "https://www.myvi.tv/embed/s1e4sbkqwwurtyqaimc1keepne",
+            "https://www.myvi.tv/embed/65t94pzj9ifrfjrw73zpcnnuco",
+            "https://www.myvi.tv/embed/yxc1yzq73ofwtg9xfk7188hgew",
+            "https://www.myvi.tv/embed/px8khniawhqwfg8gsnoe7q39fe",
+            "https://www.myvi.tv/embed/guqnx51s6jhr3muai48q5rh7wr",
+            "https://www.myvi.tv/embed/j94oj4msttywmpgubfq3nf1ero"
+          ]
+        }
+      }
+    }
+  }
+}

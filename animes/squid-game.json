@@ -1,0 +1,50 @@
+{
+  "data": {
+    "name": "squid-game",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/squid-game.jpg",
+    "desc": "456 personnes, luttant dans la vie, sont invitées à participer à un mystérieux concours de survie nommé 'Squid Game'. Se confrontant dans une série de jeux traditionnels pour enfants, mais avec des rebondissements mortels, ils mettent leur vie en danger pour un prix de 40 millions de dollars qui ne bénéficiera qu'à un seul gagnant.",
+    "genres": "Action, Aventure, Drame, Suspense",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/kad38q9oc9qwue9o4muy8ja7my",
+            "https://www.myvi.top/embed/ks7yqjabzrbwzd69r18i1szhdw",
+            "https://www.myvi.top/embed/wjfofwj6thfripnfq8m5kzrofe",
+            "https://www.myvi.top/embed/n8fo3gzxjb9wzn4yr4k5dehi5r",
+            "https://www.myvi.top/embed/ks7otsmsj14w9kf68kr3kg4suo",
+            "https://www.myvi.top/embed/bfw5agts8w4wd8bq8krtqn5byc",
+            "https://www.myvi.top/embed/xzos7fkn531wpkfsgybgh6eero",
+            "https://www.myvi.top/embed/3ws9juywmrfrmn4n9ota9qfb6e",
+            "https://www.myvi.top/embed/a35j43m6y8hrueqpacgad8s1ja"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4740891",
+            "https://video.sibnet.ru/shell.php?videoid=4740897",
+            "https://video.sibnet.ru/shell.php?videoid=4740902",
+            "https://video.sibnet.ru/shell.php?videoid=4740907",
+            "https://video.sibnet.ru/shell.php?videoid=4740912",
+            "https://video.sibnet.ru/shell.php?videoid=4740914",
+            "https://video.sibnet.ru/shell.php?videoid=4740918",
+            "https://video.sibnet.ru/shell.php?videoid=4740921",
+            "https://video.sibnet.ru/shell.php?videoid=4740922"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/wu2s04dh",
+            "https://sendvid.com/embed/z9pfm3fy",
+            "https://sendvid.com/embed/d3jtsk89",
+            "https://sendvid.com/embed/c3tqjf34",
+            "https://sendvid.com/embed/n127l9y5",
+            "https://sendvid.com/embed/xiyfy3lh",
+            "https://sendvid.com/embed/e96735ie",
+            "https://sendvid.com/embed/xflvr4ke",
+            "https://sendvid.com/embed/da272f0o"
+          ]
+        }
+      }
+    }
+  }
+}

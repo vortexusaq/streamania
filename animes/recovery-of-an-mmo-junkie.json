@@ -1,0 +1,67 @@
+{
+  "data": {
+    "name": "recovery-of-an-mmo-junkie",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/recovery-of-an-mmo-junkie.jpg",
+    "desc": "Moriko Morioka est une femme célibataire de 30 ans. Après s'être échappé de la réalité, elle a laissé tomber sa recherche d'une vie épanouissante et a fini par devenir une NEET. Dans un nouveau jeu, elle a commencé sa nouvelle vie en tant que personnage incroyable et beau physiquement nommé Hayashi. Au début de sa nouvelle vie, elle va faire la rencontre d'un personnage nommé Lily, qu'elle va tenter d'aider. Pendant ce temps, dans le monde réel, une rencontre avec Yuuta Sakurai, un mystérieux employé d'une entreprise d'élite l'attend.",
+    "genres": "Action, Aventure, Comédie, Romance, Jeux vidéo, Quotidien, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/j2atyda4",
+            "https://sendvid.com/embed/op10w7ux",
+            "https://sendvid.com/embed/bjed0ns6",
+            "https://sendvid.com/embed/wd07j8a1",
+            "https://sendvid.com/embed/g8k0d7sy",
+            "https://sendvid.com/embed/m7c7eewl",
+            "https://sendvid.com/embed/l13g1a71",
+            "https://sendvid.com/embed/tzdi68lu",
+            "https://sendvid.com/embed/kftsexpq",
+            "https://sendvid.com/embed/cx1eqwmy"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/otxg895whp4wtmnmkwoa379cor",
+            "https://www.myvi.tv/embed/srfj134xbm5r3eazrfiobmi37h",
+            "https://www.myvi.tv/embed/ye3zfzj85bgrix6ixeeimz74aa",
+            "https://www.myvi.tv/embed/wms8w4f7xbmr5b5wpnrgmn6e4c",
+            "https://www.myvi.tv/embed/n7gpajfppwgw5jgxkfa6bajdna",
+            "https://www.myvi.tv/embed/bura1hfuc9sw7b1pcue9op9dme",
+            "https://www.myvi.tv/embed/uac8j84r59gr9dqmkngag33tnw",
+            "https://www.myvi.tv/embed/dcbeji6rkidr8r6wnp3psottyo",
+            "https://www.myvi.tv/embed/4whqpjjwyidw8nox1bpba7zkuo",
+            "https://www.myvi.tv/embed/o5unazo3qkbric7tkoatgoa6sy"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4935387",
+            "https://video.sibnet.ru/shell.php?videoid=4935388",
+            "https://video.sibnet.ru/shell.php?videoid=4935389",
+            "https://video.sibnet.ru/shell.php?videoid=4935392",
+            "https://video.sibnet.ru/shell.php?videoid=4935393",
+            "https://video.sibnet.ru/shell.php?videoid=4935396",
+            "https://video.sibnet.ru/shell.php?videoid=4935400",
+            "https://video.sibnet.ru/shell.php?videoid=4935402",
+            "https://video.sibnet.ru/shell.php?videoid=4935405",
+            "https://video.sibnet.ru/shell.php?videoid=4935412"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/sh1g0jt5"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4935416"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/yzgbi75gjkywppdb9r3ttsrtrc"
+          ]
+        }
+      }
+    }
+  }
+}

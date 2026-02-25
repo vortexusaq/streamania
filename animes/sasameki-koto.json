@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "sasameki-koto",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sasameki-koto.jpg",
+    "desc": "Sumika Murasame, jeune fille de 15 ans, est amoureuse de sa meilleure amie, Ushio Kazama. Malheureusement le physique de Sumika ne convient pas à cette dernière. Ushio préfère les filles petites et mignonnes, ce qui est le contraire du physique de Sumika. C'est a partir de ce moment là que Sumika fera tout pour attirer l'attention de son amie.",
+    "genres": "Comédie, Drame, Romance, Yuri",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/oeg1xty35fpwmyesayp4umo41h",
+            "https://www.myvi.top/embed/q6dhy9s7u39wtkihyek7bpyi6o",
+            "https://www.myvi.top/embed/khpcmxmshzawbky3twsr7asw3e",
+            "https://www.myvi.top/embed/im6awizfsq5rznyxkci1o9tn6y",
+            "https://www.myvi.top/embed/3mox33hsqzcr5ekyy8yb3xb8qr",
+            "https://www.myvi.top/embed/45sbgxerdjkw5jxnw8gf73kmqr",
+            "https://www.myvi.top/embed/z65cxobfpzpr9dtqh7g1u3ysne",
+            "https://www.myvi.top/embed/d3jm7pbt1ecr9jnxjm1fqwg5pw",
+            "https://www.myvi.top/embed/mzagd7g5y5awzdmcegekeqm1ke",
+            "https://www.myvi.top/embed/6xu4tai9akiwpk6h3ysnfjur6e",
+            "https://www.myvi.top/embed/zfqcshhj5cwrbyaasfpgpfiz4e",
+            "https://www.myvi.top/embed/nqk1npau89mr5y9fodoag4hghw",
+            "https://www.myvi.top/embed/kr49tpp5ihgwtf3roxibq1zy3e"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/tfkvhut4",
+            "https://sendvid.com/embed/zku6gkz4",
+            "https://sendvid.com/embed/gsn5qoie",
+            "https://sendvid.com/embed/ff3dzxvq",
+            "https://sendvid.com/embed/pd2k32k2",
+            "https://sendvid.com/embed/nu6u5lej",
+            "https://sendvid.com/embed/by7vc1ae",
+            "https://sendvid.com/embed/wgtkeq7r",
+            "https://sendvid.com/embed/ao2xs0o2",
+            "https://sendvid.com/embed/7bmfee7s",
+            "https://sendvid.com/embed/z723ds1t",
+            "https://sendvid.com/embed/4wdp7hi5",
+            "https://sendvid.com/embed/yptnhucm"
+          ]
+        }
+      }
+    }
+  }
+}

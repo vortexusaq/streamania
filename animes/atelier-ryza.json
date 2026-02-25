@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "atelier-ryza",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/atelier-ryza.jpg",
+    "desc": "Reisalin Stout, communément appelée Ryza par ses amis intimes, est une adolescente particulièrement joviale et pétillante qui vit sur l'île de Kurken avec ses amis, Tao et Lent. Avec ces derniers, Ryza a déjà fait les quatre cent coups mais, aujourd'hui, le trio infernal ne veut plus se contenter d'arpenter les sentiers de l'île Kurken. En effet, Ryza, Tao et Lent ont pour ambition de parcourir le monde et devenir des explorateurs aguerris. Leur première escapade hors de leur île natale vire toutefois au désastre et la joyeuse troupe ne doit son salut qu'à deux voyageurs itinérants, Empel Vollmer et Lila Decyrus. Très rapidement, Ryza et ses amis sympathisent avec ces deux étrangers qui décident subitement de les prendre sous leurs ailes afin qu'ils puissent réaliser leur rêve. Débute ainsi le périple estival de Ryza, Tao et Lent qui mettront tout en œuvre pour respectivement égaler les compétences alchimiques d'Empel, ainsi que les talents de combattant de Lila. Un nouveau chapitre est sur le point de débuter pour nos héros, dont la soif d'aventure et d'apprentissage n'a d'égal leur bravoure et leur motivation !",
+    "genres": "Action, Aventure, Comédie, Drame, Fantasy, Mystère, Alchimie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5185517",
+            "https://video.sibnet.ru/shell.php?videoid=5192078",
+            "https://video.sibnet.ru/shell.php?videoid=5198904",
+            "https://video.sibnet.ru/shell.php?videoid=5204936",
+            "https://video.sibnet.ru/shell.php?videoid=5211486",
+            "https://video.sibnet.ru/shell.php?videoid=5219699",
+            "https://video.sibnet.ru/shell.php?videoid=5226816",
+            "https://sendvid.com/embed/mwldekv3",
+            "https://sendvid.com/embed/w4xjlsho",
+            "https://video.sibnet.ru/shell.php?videoid=5240766",
+            "https://video.sibnet.ru/shell.php?videoid=5248200",
+            "https://video.sibnet.ru/shell.php?videoid=5254518"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456239867&hash=5c4d98b25c635487&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239894&hash=deaa19d63c9de105&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239926&hash=52fade576ea077fd&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239957&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239993&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240029&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240055&hd=3",
+            "https://video.sibnet.ru/shell.php?videoid=5230562",
+            "https://video.sibnet.ru/shell.php?videoid=5234987",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240085&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240112&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240141&hd=3"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/b0xq7x9o",
+            "https://sendvid.com/embed/yq9r1l0d",
+            "https://sendvid.com/embed/rqkhqotr",
+            "https://sendvid.com/embed/3kyl2zkc",
+            "https://sendvid.com/embed/li00l3sp",
+            "https://sendvid.com/embed/1pgkcqps",
+            "https://sendvid.com/embed/018xyue6",
+            "https://www.myvi.tv/embed/aakfaqw5pjpwxkz4rq9ke4brya",
+            "https://www.myvi.tv/embed/y5w9xz1d134rxcydsadta1fgnr",
+            "https://sendvid.com/embed/040bml90",
+            "https://sendvid.com/embed/imvadqmm",
+            "https://sendvid.com/embed/ye0igrzh"
+          ],
+          "lec4": [
+            "https://www.myvi.tv/embed/pakkhwgmogdriymj68ou9rbibo",
+            "https://www.myvi.tv/embed/of13wafs43uwbcsq35oebqgrah",
+            "https://www.myvi.tv/embed/t1f8o1xf9r7w5d6ht8woth5ezw",
+            "https://www.myvi.tv/embed/owg5xdnidb1wirpowm18yck6iy",
+            "https://www.myvi.tv/embed/i5tz5ysjawfr989aydw93hpmhc",
+            "https://www.myvi.tv/embed/netqdgiccycwxkgrkxmk38s1ia",
+            "https://www.myvi.tv/embed/4jm3xaq4ymjrbdahrp383rg7uy",
+            "https://www.myvi.tv/embed/aakfaqw5pjpwxkz4rq9ke4brya",
+            "https://www.myvi.tv/embed/y5w9xz1d134rxcydsadta1fgnr",
+            "https://www.myvi.tv/embed/fs1qi6btuqqw7yjo37kwgn7fjo",
+            "https://www.myvi.tv/embed/bsdjmwr9rafrmkwgnr7wcamcry",
+            "https://www.myvi.tv/embed/5a7a7ec1bm3wugsc9khsa31jqw"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Atelier%20Ryza/Atelier_Ryza_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

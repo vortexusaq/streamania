@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "all-of-us-are-dead",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/all-of-us-are-dead.jpg",
+    "desc": "Dans une petite ville tranquille, où rien ne se passe habituellement, un étrange virus apparaît, transformant les personnes en zombies. Sa propagation se multiplie d'heure en heure. Et alors que la population essaye d'y faire face, un groupe de jeunes, dont Cheong San et On Jo, se retrouve piégé dans son école. S'ensuit alors une course pour sortir d'ici, tout en évitant d'être contaminé.",
+    "genres": "Drame, Horreur, Zombies, School-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/i855qd5w9r7rfm6o1ke59zydtw",
+            "https://www.myvi.top/embed/nazbqemnxc4wzyhcqijticpy6e",
+            "https://video.sibnet.ru/shell.php?videoid=4765365",
+            "https://www.myvi.top/embed/iwjyokup4m6wpjjitxei7rk5dy",
+            "https://www.myvi.top/embed/ecxpnj3he4erp8ok9q3gmi393c",
+            "https://www.myvi.top/embed/j8gb5x3dgenrmqfq91t5ynejoe",
+            "https://www.myvi.top/embed/e99e5y4on9rw3bezzjs53t6oxo",
+            "https://www.myvi.top/embed/5z4o981fx4yrfdpxx7nsypsibr",
+            "https://www.myvi.top/embed/bq4d7w7tbigwxmhcmo3jpjjcjr",
+            "https://www.myvi.top/embed/8sa8ga6jqrur5rdgaiksmeyjjo",
+            "https://www.myvi.top/embed/y4ncz3yfczwr5byhhc9sepuezw",
+            "https://www.myvi.top/embed/533m3ow9jrgw8qsfg3nmqh8bio"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/w1apkp82",
+            "https://sendvid.com/embed/tciusjag",
+            "https://sendvid.com/embed/wjjpp31x",
+            "https://sendvid.com/embed/1oz41kxw",
+            "https://sendvid.com/embed/ty00g1we",
+            "https://sendvid.com/embed/qvc340na",
+            "https://sendvid.com/embed/8z789ec9",
+            "https://sendvid.com/embed/vkhle4a3",
+            "https://sendvid.com/embed/n5ufoyz4",
+            "https://sendvid.com/embed/6kmfbv89",
+            "https://sendvid.com/embed/2pptwrfd",
+            "https://sendvid.com/embed/fc0s0370"
+          ]
+        }
+      }
+    }
+  }
+}

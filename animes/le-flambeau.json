@@ -1,0 +1,50 @@
+{
+  "data": {
+    "name": "le-flambeau",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-flambeau.jpg",
+    "desc": "Au revoir la villa et bonjour Chupacabra. Après LA FLAMME, Marc et 15 autres candidats vont devoir s’affronter et survivre sur une île déserte. Épreuves physiques, manipulations mentales et trahisons émotionnelles seront les ingrédients de ce cocktail tropical.",
+    "genres": "Comédie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vf",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/sr6zjn8qyemrbdt3ff4tyr59xw",
+            "https://www.myvi.tv/embed/43dxu6zqcjcwfcx1n9uepnf88r",
+            "https://www.myvi.tv/embed/f6yca4ss4yxwub1oxgy94g81yh",
+            "https://www.myvi.tv/embed/eo7wcmqf58twfmp3rqyimjpmuc",
+            "https://www.myvi.tv/embed/o6h5hbefma1w8q138umodc5ckr",
+            "https://www.myvi.tv/embed/qz3rcxonozsw5gfynectcx6gdy",
+            "https://www.myvi.tv/embed/1as397fa4pirxyodc1sjji69pw",
+            "https://www.myvi.tv/embed/gqm5r4shaz1wjpr9rnifdkiiww",
+            "https://www.myvi.tv/embed/9k3h6er7gzaw3rtxcdpxhw55cw"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4741780",
+            "https://video.sibnet.ru/shell.php?videoid=4741781",
+            "https://video.sibnet.ru/shell.php?videoid=4741782",
+            "https://video.sibnet.ru/shell.php?videoid=4741787",
+            "https://video.sibnet.ru/shell.php?videoid=4741788",
+            "https://video.sibnet.ru/shell.php?videoid=4741783",
+            "https://video.sibnet.ru/shell.php?videoid=4742119",
+            "https://video.sibnet.ru/shell.php?videoid=4742120",
+            "https://video.sibnet.ru/shell.php?videoid=4742115"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/10tt1nnb",
+            "https://sendvid.com/embed/1c0pgi72",
+            "https://sendvid.com/embed/0whxvllf",
+            "https://sendvid.com/embed/y5p3yj5a",
+            "https://sendvid.com/embed/3jyoytwd",
+            "https://sendvid.com/embed/zcqeikba",
+            "https://sendvid.com/embed/vhpsnsww",
+            "https://sendvid.com/embed/w3kj2cx5",
+            "https://sendvid.com/embed/wfv2x26u"
+          ]
+        }
+      }
+    }
+  }
+}

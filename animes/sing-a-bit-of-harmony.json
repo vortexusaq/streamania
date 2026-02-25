@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "sing-a-bit-of-harmony",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sing-a-bit-of-harmony.jpg",
+    "desc": "Sing a Bit of Harmony raconte l'histoire de la belle et mystérieuse Shion qui est transférée au lycée Keibu où elle devient rapidement populaire pour sa personnalité chaleureuse et ses talents sportifs exceptionnels. Cependant, elle s'avère être une IA (intelligence artificielle) en phase de test ! L'objectif de Shion est d'apporter le \"bonheur\" à Satomi, une solitaire invétérée. Pour ce faire, elle décide de lui chanter la sérénade au milieu de la classe. Après avoir découvert la véritable nature de Shion, Satomi et son ami d'enfance Toma, un passionné d'ingénierie, se rapprochent progressivement de la nouvelle étudiante. Avec le populaire et séduisant Gotchan, la courageuse Aya et le membre du club de judo \"Thunder\", ils sont de plus en plus touchés par la voix et la sincérité de Shion, même si ses pitreries les déconcertent. Cependant, ce que Shion fait pour le bien de Satomi finit par tous les impliquer dans un sérieux pandémonium...",
+    "genres": "Comédie, Drame, School-Life, Slice-of-Life, Ecole, I.A, Musique, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5185133"
+          ]
+        }
+      }
+    }
+  }
+}

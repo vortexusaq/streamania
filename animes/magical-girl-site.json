@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "magical-girl-site",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magical-girl-site.jpg",
+    "desc": "Aya Asagiri est une jeune fille persécutée aussi bien à son école qu'à sa propre maison. Alors qu'un jour, elle songeait à se suicider, une page d'un mystérieux site internet, Mahou Shoujo Site, s'est ouverte sur son ordinateur lui révélant qu'elle va être une Magical Girl !",
+    "genres": "Action, Drame, Psychologique, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/s41c6ea73qawj8ecbj5n8y7kpr",
+            "https://www.myvi.top/embed/ckgquubmk1erxcopq6z8yy61no",
+            "https://www.myvi.top/embed/39pgj1kowgprtjpnt7pu5rnric",
+            "https://www.myvi.top/embed/ihpzskh6cn6wz84q7ouodxpmno",
+            "https://www.myvi.top/embed/uro87k5pj1pwzpg4dxs4g1c7qw",
+            "https://www.myvi.top/embed/wwx83hrq35jw8e5scbdgkjeyaw",
+            "https://www.myvi.top/embed/f9w8g7o3fqpw3xrejzbu8c1bse",
+            "https://www.myvi.top/embed/4pc3h185tairpehajpxy4renkh",
+            "https://www.myvi.top/embed/nb9rm9t6wt1rpg1ggaq9bz76kr",
+            "https://www.myvi.top/embed/t37mppbpzxxwjczkts4b8hq3fe",
+            "https://www.myvi.top/embed/ucic3ah3bnewpypdgpsfhetu3w",
+            "https://www.myvi.top/embed/6etnckcz4xarty7o7sswnyqtdy"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3392905",
+            "https://video.sibnet.ru/shell.php?videoid=3392908",
+            "https://video.sibnet.ru/shell.php?videoid=3392910",
+            "https://video.sibnet.ru/shell.php?videoid=3392911",
+            "https://video.sibnet.ru/shell.php?videoid=3392912",
+            "https://video.sibnet.ru/shell.php?videoid=3392913",
+            "https://video.sibnet.ru/shell.php?videoid=3392914",
+            "https://video.sibnet.ru/shell.php?videoid=3392916",
+            "https://video.sibnet.ru/shell.php?videoid=3392918",
+            "https://video.sibnet.ru/shell.php?videoid=3392920",
+            "https://video.sibnet.ru/shell.php?videoid=3392925",
+            "https://video.sibnet.ru/shell.php?videoid=3392928"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/bs9sfyn9",
+            "https://sendvid.com/embed/9tlftk3i",
+            "https://sendvid.com/embed/l3f13rhs",
+            "https://sendvid.com/embed/ppb5qyh4",
+            "https://sendvid.com/embed/zepb0efg",
+            "https://sendvid.com/embed/zir6n71a",
+            "https://sendvid.com/embed/is75gdge",
+            "https://sendvid.com/embed/xldf113m",
+            "https://sendvid.com/embed/ypu1cwl6",
+            "https://sendvid.com/embed/iu7bikau",
+            "https://sendvid.com/embed/cz2js5g9",
+            "https://sendvid.com/embed/65m684pb"
+          ]
+        }
+      }
+    }
+  }
+}

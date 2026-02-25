@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "dungeon-people",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dungeon-people.jpg",
+    "desc": "Clay s'est entraînée toute sa vie pour devenir l'élite de la guilde des voleurs. Mais depuis que son père a disparu, trois ans auparavant, elle met toutes ses compétences à sa recherche dans un donjon rempli de monstres et de dangers. Alors qu'elle atteint finalement des profondeurs jamais égalées, elle rencontre le gérant du donjon... qui l'invite à rejoindre le personnel des lieux ! Armement des pièges, remplissage des coffres... par ce nouveau travail, Clay apprendra tout des coulisses d'un donjon !",
+    "genres": "Aventure, Comédie, Fantasy, Mystère, Magie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5640100",
+            "https://video.sibnet.ru/shell.php?videoid=5640101",
+            "https://video.sibnet.ru/shell.php?videoid=5640104",
+            "https://video.sibnet.ru/shell.php?videoid=5640106",
+            "https://video.sibnet.ru/shell.php?videoid=5640108",
+            "https://video.sibnet.ru/shell.php?videoid=5640111",
+            "https://video.sibnet.ru/shell.php?videoid=5649946",
+            "https://video.sibnet.ru/shell.php?videoid=5657517",
+            "https://video.sibnet.ru/shell.php?videoid=5666130",
+            "https://video.sibnet.ru/shell.php?videoid=5675299",
+            "https://video.sibnet.ru/shell.php?videoid=5684333",
+            "https://video.sibnet.ru/shell.php?videoid=5693166"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-gnku54zxziqp.html",
+            "https://vidmoly.to/embed-wwnwm70dmiyw.html",
+            "https://vidmoly.to/embed-w08iywcq7nys.html",
+            "https://vidmoly.to/embed-xy5jw2ehv6bi.html",
+            "https://vidmoly.to/embed-jo1vwojhzbta.html",
+            "https://vidmoly.to/embed-bz54cdii592o.html",
+            "https://vidmoly.to/embed-sk9dmn6h4nfk.html",
+            "https://vidmoly.to/embed-pmupnztbyo3s.html",
+            "https://vidmoly.to/embed-l963aetkmcy2.html",
+            "https://vidmoly.to/embed-usfmnpnus7es.html",
+            "https://vidmoly.to/embed-qqt6048as038.html",
+            "https://vidmoly.to/embed-p278ok4jcg1w.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/knja9qo6",
+            "https://sendvid.com/embed/54dvg6i9",
+            "https://sendvid.com/embed/hkngg90r",
+            "https://sendvid.com/embed/pnqe2927",
+            "https://sendvid.com/embed/ije4z6am",
+            "https://sendvid.com/embed/7h9h0eq3",
+            "https://sendvid.com/embed/a0xlt1qj",
+            "https://sendvid.com/embed/qz10pdhh",
+            "https://sendvid.com/embed/99am7kfn",
+            "https://sendvid.com/embed/3h13fumj",
+            "https://sendvid.com/embed/3h13fumj",
+            "https://sendvid.com/embed/ft86nymk"
+          ]
+        }
+      }
+    }
+  }
+}

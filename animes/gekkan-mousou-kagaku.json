@@ -1,0 +1,58 @@
+{
+  "data": {
+    "name": "gekkan-mousou-kagaku",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gekkan-mousou-kagaku.jpg",
+    "desc": "Quelque part, dans la ville de Most City, au deuxième étage d'un vieil immeuble, se trouve une maison d'édition qui publie Delusional Monthly Magazine. Cette revue scientifique mensuelle propose des articles sur des événements bizarres ou des phénomènes inexpliqués laissant sans réponse même les scientifiques les plus érudits. Ses employés se composent seulement d'une ravissante rédactrice en chef et de son unique rédacteur, Taro J. Suzuki, auxquels se joignent l'assistant Jiro Tanaka (en âge d'aller à l'école primaire) et son chien, Saburo. La rédaction est toujours vide et Taro, Jiro et Saburo traînent généralement au Rock, un café situé au premier étage. Un jour, le scientifique Goro Sato leur rend visite pour une consultation, point de départ d'une histoire rocambolesque...",
+    "genres": "Comédie, Mystère, Surnaturel, Travail",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/kxcijugd",
+            "https://sendvid.com/embed/jefdzoa4",
+            "https://sendvid.com/embed/x09a81nx",
+            "https://sendvid.com/embed/9itqwuk8",
+            "https://sendvid.com/embed/37hy7w85",
+            "https://sendvid.com/embed/o2bikmxf",
+            "https://sendvid.com/embed/gxbpb8ps",
+            "https://sendvid.com/embed/8mmie5jr",
+            "https://sendvid.com/embed/rhnc78kz",
+            "https://sendvid.com/embed/3nrmm9y9",
+            "https://www.yourupload.com/embed/0Coal4uxDJ38",
+            "https://sendvid.com/embed/3g9i9d7o"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5395315",
+            "https://video.sibnet.ru/shell.php?videoid=5404194",
+            "https://video.sibnet.ru/shell.php?videoid=5412341",
+            "https://video.sibnet.ru/shell.php?videoid=5419626",
+            "https://video.sibnet.ru/shell.php?videoid=5426176",
+            "https://video.sibnet.ru/shell.php?videoid=5433337",
+            "https://video.sibnet.ru/shell.php?videoid=5441722",
+            "https://video.sibnet.ru/shell.php?videoid=5450795",
+            "https://video.sibnet.ru/shell.php?videoid=5459065",
+            "https://video.sibnet.ru/shell.php?videoid=5468024",
+            "https://video.sibnet.ru/shell.php?videoid=5476381",
+            "https://video.sibnet.ru/shell.php?videoid=5485661"
+          ],
+          "lec3": [
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Gekkan%20Mousou%20Kagaku/VOSTFR/Gekkan_Mousou_Kagaku_11_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

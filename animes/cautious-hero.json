@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "cautious-hero",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cautious-hero.jpg",
+    "desc": "La déesse Rista invoque un jour un nouveau héros pour l'aider à affronter le mode \"difficile\" de son monde, semblable à un jeu vidéo. Le héros en question, Seiya, excelle dans tous les domaines, mais il a un défaut : il est beaucoup trop prudent ! Ritsa va ainsi devoir faire avec un compagnon qui, par exemple, achète trois armures (une à porter, une de rechange et une de rechange pour celle de rechange)... ou encore qui met toute sa puissance et ses meilleures attaques pour tuer de bêtes petits slimes !",
+    "genres": "Action, Aventure, Comédie, Fantasy, Shônen, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/hn8xgdqc8borig79fbfabs6e3r",
+            "https://www.myvi.top/embed/okyupay7p5orpc8m59usk7h69y",
+            "https://www.myvi.top/embed/ej9zryi3odjwumny9g4xek9nyc",
+            "https://www.myvi.top/embed/k36gicrf6tordq7uqcx976adio",
+            "https://www.myvi.top/embed/nek93ge7hskrim6zt4icosbpgy",
+            "https://www.myvi.top/embed/fd3qjtkfx5bwxm48kt8fj5fbpc",
+            "https://www.myvi.top/embed/jpk6pich1nnwue8udcxxpf3t5h",
+            "https://www.myvi.top/embed/a7o1kfxkhmrw7b5yonzzk1eodr",
+            "https://www.myvi.top/embed/31nt4afdhehwixk6fe4obtjtkr",
+            "https://www.myvi.top/embed/5owifoghp38wzr7ck7u7nm4kxc",
+            "https://www.myvi.top/embed/jkwn1cuea5ortjqjo5wh8ztbgc",
+            "https://www.myvi.top/embed/e4td1j67g41rmeo8hhbew7iwsc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3712105",
+            "https://video.sibnet.ru/shell.php?videoid=3718723",
+            "https://video.sibnet.ru/shell.php?videoid=3727724",
+            "https://video.sibnet.ru/shell.php?videoid=3733342",
+            "https://video.sibnet.ru/shell.php?videoid=3739717",
+            "https://video.sibnet.ru/shell.php?videoid=3745084",
+            "https://video.sibnet.ru/shell.php?videoid=3753190",
+            "https://video.sibnet.ru/shell.php?videoid=3759808",
+            "https://video.sibnet.ru/shell.php?videoid=3766177",
+            "https://video.sibnet.ru/shell.php?videoid=3774884",
+            "https://video.sibnet.ru/shell.php?videoid=3779914",
+            "https://video.sibnet.ru/shell.php?videoid=3779886"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/rrsr7a4w",
+            "https://sendvid.com/embed/eti7kvq4",
+            "https://sendvid.com/embed/t2r2xl97",
+            "https://sendvid.com/embed/54263wbt",
+            "https://sendvid.com/embed/lmyoad8r",
+            "https://sendvid.com/embed/yojvkhj1",
+            "https://sendvid.com/embed/zksxthuv",
+            "https://sendvid.com/embed/3jlos5je",
+            "https://sendvid.com/embed/sbmn7eg9",
+            "https://sendvid.com/embed/g646wpsr",
+            "https://sendvid.com/embed/k8xojlzs",
+            "https://sendvid.com/embed/j3sa754a"
+          ]
+        }
+      }
+    }
+  }
+}

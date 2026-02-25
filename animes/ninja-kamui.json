@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "ninja-kamui",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ninja-kamui.jpg",
+    "desc": "Autrefois, Joe Higan était un ninja. Ayant tourné le dos à cette voie et à son clan, il a trouvé refuge aux États-Unis, où il vit paisiblement avec sa famille. Un jour, Joe est retrouvé par son clan, bien décidé à lui faire payer sa trahison.",
+    "genres": "Action, Cyborgs, Ninjas, Vengeance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vj",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5432000",
+            "https://video.sibnet.ru/shell.php?videoid=5439021",
+            "https://video.sibnet.ru/shell.php?videoid=5448697",
+            "https://video.sibnet.ru/shell.php?videoid=5455590",
+            "https://video.sibnet.ru/shell.php?videoid=5463283",
+            "https://video.sibnet.ru/shell.php?videoid=5471658",
+            "https://video.sibnet.ru/shell.php?videoid=5480739",
+            "https://video.sibnet.ru/shell.php?videoid=5488728",
+            "https://video.sibnet.ru/shell.php?videoid=5499510",
+            "https://video.sibnet.ru/shell.php?videoid=5506585",
+            "https://video.sibnet.ru/shell.php?videoid=5514215",
+            "https://video.sibnet.ru/shell.php?videoid=5525105",
+            "https://video.sibnet.ru/shell.php?videoid=5521870"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-mmkauerxuo6j.html",
+            "https://vidmoly.to/embed-z0c32fenwtbk.html",
+            "https://vidmoly.to/embed-4mma9yc43phe.html",
+            "https://vidmoly.to/embed-foivwt13ssuz.html",
+            "https://vidmoly.to/embed-fm1ilvtmswxz.html",
+            "https://vidmoly.to/embed-7g9cajlz2g8g.html",
+            "https://vidmoly.to/embed-mgtn7007ubmc.html",
+            "https://vidmoly.to/embed-g5ij59qpdqna.html",
+            "https://vidmoly.to/embed-kep8npobcioh.html",
+            "https://vidmoly.to/embed-mtq6nfk8fm8r.html",
+            "https://vidmoly.to/embed-e2h4g98qvd69.html",
+            "https://vidmoly.to/embed-69cv9mz7xufp.html",
+            "https://vidmoly.to/embed-ydjneu6rpi71.html"
+          ]
+        }
+      }
+    }
+  }
+}

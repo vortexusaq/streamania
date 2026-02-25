@@ -1,0 +1,100 @@
+{
+  "data": {
+    "name": "un-go",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/un-go.jpg",
+    "desc": "Duo connu de détectives, Yuuki Shinjurou et Inga ne se lassent pas de résoudre des énigmes. L'un est surnommé \"Le Dernier Grand Détective\", notamment grâce à son intelligence. L'autre ne fait que l'aider dans ses réflexions. Ils n'ont jamais perdu face aux différents mystères. C'est ce qu'ils souhaiteraient croire et faire croire aux autres, néanmoins rien de tout cela n'est vrai... En tout cas, ce qui est certain, c'est qu'ils ont souvent affaire à des surprises au cours de leurs enquêtes!",
+    "genres": "Drame, Fantastique, Mystère, Psychologique, Science-fiction, Surnaturel, Détective, Politique, Post-apocalyptique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/gcmojx5s",
+            "https://sendvid.com/embed/91xomtqn",
+            "https://sendvid.com/embed/wpethbbq",
+            "https://sendvid.com/embed/p3vyyqwu",
+            "https://sendvid.com/embed/f9l45fae",
+            "https://sendvid.com/embed/htycbvcm",
+            "https://sendvid.com/embed/85ff5rph",
+            "https://sendvid.com/embed/9ppuwq9k",
+            "https://sendvid.com/embed/z6ur522l",
+            "https://sendvid.com/embed/y7tdqb5s",
+            "https://sendvid.com/embed/i57atg7s"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5052280",
+            "https://video.sibnet.ru/shell.php?videoid=5052282",
+            "https://video.sibnet.ru/shell.php?videoid=5052286",
+            "https://video.sibnet.ru/shell.php?videoid=5052288",
+            "https://video.sibnet.ru/shell.php?videoid=5052290",
+            "https://video.sibnet.ru/shell.php?videoid=5052292",
+            "https://video.sibnet.ru/shell.php?videoid=5052294",
+            "https://video.sibnet.ru/shell.php?videoid=5052295",
+            "https://video.sibnet.ru/shell.php?videoid=5052297",
+            "https://video.sibnet.ru/shell.php?videoid=5052298",
+            "https://video.sibnet.ru/shell.php?videoid=5052299"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/bbpoykkjf5jw3mwppmjpu7unzc",
+            "https://www.myvi.tv/embed/3eg7ofyfum3w9xsojq98htkijy",
+            "https://www.myvi.tv/embed/w1xhzgdphhkwzbb5cofbxtpnne",
+            "https://www.myvi.tv/embed/g7688rgkxrtwfbsdu8qah9mboo",
+            "https://www.myvi.tv/embed/hfasgp3kds1wfggec9pyz8mmpo",
+            "https://www.myvi.tv/embed/8npuqmbai5mr3e79m68w7xkbno",
+            "https://www.myvi.tv/embed/pijuea6diofrmen7bb1afxtqiw",
+            "https://www.myvi.tv/embed/yddkbq4i9xkwzr7zt81otbmeky",
+            "https://www.myvi.tv/embed/eixz58xy9b1wpqx5cehbycukdr",
+            "https://www.myvi.tv/embed/yz947whsbuyw3di9c1h3qspqxa",
+            "https://www.myvi.tv/embed/dtzfxonr5u8wjedk5r1kabhfey"
+          ]
+        }
+      },
+      "Chapitre d'Inga": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/lsr2p0ik",
+            "https://sendvid.com/embed/2p6u8cvu",
+            "https://sendvid.com/embed/821wwutk",
+            "https://sendvid.com/embed/dmrxg92l",
+            "https://sendvid.com/embed/wmfevxrl",
+            "https://sendvid.com/embed/m774ocfr",
+            "https://sendvid.com/embed/0r0zzumd",
+            "https://sendvid.com/embed/9mdg3cxk",
+            "https://sendvid.com/embed/tbo8l59j",
+            "https://sendvid.com/embed/km7p7ps8",
+            "https://sendvid.com/embed/38an49kc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5052419",
+            "https://video.sibnet.ru/shell.php?videoid=5052426",
+            "https://video.sibnet.ru/shell.php?videoid=5052427",
+            "https://video.sibnet.ru/shell.php?videoid=5052428",
+            "https://video.sibnet.ru/shell.php?videoid=5052429",
+            "https://video.sibnet.ru/shell.php?videoid=5052430",
+            "https://video.sibnet.ru/shell.php?videoid=5052431",
+            "https://video.sibnet.ru/shell.php?videoid=5052432",
+            "https://video.sibnet.ru/shell.php?videoid=5052433",
+            "https://video.sibnet.ru/shell.php?videoid=5052434",
+            "https://video.sibnet.ru/shell.php?videoid=5052435"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/uwupreeqxzbr8bh5akk4m35kcc",
+            "https://www.myvi.tv/embed/u11hssz4qt1r8xaq7odeyfmeba",
+            "https://www.myvi.tv/embed/upomynet6jcrfykucs3kmbcrpo",
+            "https://www.myvi.tv/embed/k1arj97443hwuq9byars86rgwh",
+            "https://www.myvi.tv/embed/idc489yjx5kw98utpsarrcof5h",
+            "https://www.myvi.tv/embed/tguaxh1zzemw3fmidg3j7cq6ee",
+            "https://www.myvi.tv/embed/7umagszifder7nu13ykafbeoxc",
+            "https://www.myvi.tv/embed/d7fy9ozzo3xwiezy3axeuty97e",
+            "https://www.myvi.tv/embed/m1x5nps1xr9wurtx85x5swk78h",
+            "https://www.myvi.tv/embed/iz7znnn7wcur8p6uee7esms66e",
+            "https://www.myvi.tv/embed/zojafk5qzodwmduwz7y8gri37h"
+          ]
+        }
+      }
+    }
+  }
+}

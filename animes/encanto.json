@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "encanto",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/encanto.jpg",
+    "desc": "Dans un mystérieux endroit niché au cœur des montagnes de Colombie, la fantastique famille Madrigal habite une maison enchantée dans une cité pleine de vie, un endroit merveilleux appelé Encanto. L’Encanto a doté chacun des enfants de la famille d’une faculté magique allant d’une force surhumaine au pouvoir de guérison. Seule Mirabel n’a reçu aucun don particulier. Mais lorsque la magie de l’Encanto se trouve menacée, la seule enfant ordinaire de cette famille extraordinaire va peut-être se révéler leur unique espoir…",
+    "genres": "Famille, Fantastique, Comédie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4742365"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/fgyyym7rhmuw8xnt1thu34metr"
+          ]
+        }
+      }
+    }
+  }
+}

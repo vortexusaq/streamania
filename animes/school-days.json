@@ -1,0 +1,76 @@
+{
+  "data": {
+    "name": "school-days",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/school-days.jpg",
+    "desc": "L'histoire commence dans un lycée ou Makoto Ito est tombé amoureux d'une fille Kotonoha Katsura. Il la voit tous les jours dans le même train qu'ils prennent pour aller au lycée. Sekai Saionji une amie qui est dans la même classe que Makoto lui propose de l'aider, malgré ses sentiments pour lui...",
+    "genres": "Drame, Ecchi, Psychologique, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/bga628lq",
+            "https://sendvid.com/embed/dg01ftzy",
+            "https://sendvid.com/embed/xdwxzl1d",
+            "https://sendvid.com/embed/cny3jrz5",
+            "https://sendvid.com/embed/mzku6zvt",
+            "https://sendvid.com/embed/8657n10d",
+            "https://sendvid.com/embed/ezzul1op",
+            "https://sendvid.com/embed/a0stnlga",
+            "https://sendvid.com/embed/s2dp14fb",
+            "https://sendvid.com/embed/66ob5l7z",
+            "https://sendvid.com/embed/a1ftbm4e",
+            "https://sendvid.com/embed/nwu8mq49\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4842207",
+            "https://video.sibnet.ru/shell.php?videoid=4842209",
+            "https://video.sibnet.ru/shell.php?videoid=4842212",
+            "https://video.sibnet.ru/shell.php?videoid=4842215",
+            "https://video.sibnet.ru/shell.php?videoid=4842217",
+            "https://video.sibnet.ru/shell.php?videoid=4842221",
+            "https://video.sibnet.ru/shell.php?videoid=4842224",
+            "https://video.sibnet.ru/shell.php?videoid=4842226",
+            "https://video.sibnet.ru/shell.php?videoid=4842228",
+            "https://video.sibnet.ru/shell.php?videoid=4842232",
+            "https://video.sibnet.ru/shell.php?videoid=4842233",
+            "https://video.sibnet.ru/shell.php?videoid=4842235"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/qknss9cic9arpjg6bc4gs5e11e",
+            "https://www.myvi.tv/embed/81b9dnxytxmwjkhrc3yo7tn5hy",
+            "https://www.myvi.tv/embed/rzs8cjexn1gwjrkiybzoxfjbdh",
+            "https://www.myvi.tv/embed/r5cmeqizbgirzjuirzw7cu4k9e",
+            "https://www.myvi.tv/embed/mwscgsytpherxkod5b14gbru7c",
+            "https://www.myvi.tv/embed/hn3n41m3d8aw7xd5rdb1ex5sfc",
+            "https://www.myvi.tv/embed/6pynwp6q47krirr1tr7dsbypae",
+            "https://www.myvi.tv/embed/ptruugrzwoxw8ntuseq4mmn1bw",
+            "https://www.myvi.tv/embed/dwwy1j8jts8ru89mrq7hkdjb7a",
+            "https://www.myvi.tv/embed/wwazjcyiaiirjyz5gncj6e6eor",
+            "https://www.myvi.tv/embed/b3uuhcyua3zr5yb8t3r6qyxg9a",
+            "https://www.myvi.tv/embed/4xk938kfzzewtnhax8eoftba4r"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ani0kz1h",
+            "https://sendvid.com/embed/jpthofmh\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4842237",
+            "https://video.sibnet.ru/shell.php?videoid=4842238"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/39qfii9swfpwjge4sm59s5ia3o",
+            "https://www.myvi.tv/embed/77odp5as1zkwjb61rbp818f9oh"
+          ]
+        }
+      }
+    }
+  }
+}

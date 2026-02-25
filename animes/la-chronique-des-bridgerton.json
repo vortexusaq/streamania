@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "la-chronique-des-bridgerton",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-chronique-des-bridgerton.jpg",
+    "desc": "La série se déroule dans la haute société londonienne lors de la Régence anglaise du xixe siècle. L'histoire se concentre sur deux familles, les Bridgerton et les Featherington.\nLa famille Bridgerton est composée de Violet, vicomtesse douairière Bridgerton, de ses quatre fils Anthony, Benedict, Colin et Gregory, et de ses quatre filles Daphné, Eloïse, Francesca et Hyacinthe.\nLa famille Featherington est composée de Lady Portia Featherington, son mari le baron Archibald Featherington et leurs trois filles, Philippa, Prudence et Penelope, ainsi que de leur lointaine cousine Marina Thompson.",
+    "genres": "Romance historique, Romance, Comédie, Histoire, Drame, Historique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/ra9mgp8hw4cw3p8gzxsbtqwaoo",
+            "https://www.myvi.top/embed/a1ju6fz14zdwzgoyq56sj6kpjo",
+            "https://www.myvi.top/embed/86ay1rjhczprdfuw3qodt4mwgy",
+            "https://www.myvi.top/embed/narrpdjjigww3rgbm7hbkaz81y",
+            "https://www.myvi.top/embed/qpqq8ocxs56r7j119erbpamnza",
+            "https://www.myvi.top/embed/iqpmpjx7k5fwikcmsyron7nb6h",
+            "https://www.myvi.top/embed/su1zazknfotwzmfk15dtcjd5nw",
+            "https://www.myvi.top/embed/w6ft3mkqzberpxxh1m564pgriw"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/bftrk56j",
+            "https://sendvid.com/embed/zyljtd6s",
+            "https://sendvid.com/embed/dnroxijb",
+            "https://sendvid.com/embed/2lfo3evg",
+            "https://sendvid.com/embed/vuedecsh",
+            "https://sendvid.com/embed/y1x8f4ff",
+            "https://sendvid.com/embed/2wcwn28z",
+            "https://sendvid.com/embed/89kmveza"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/wex7un78di9wuko13ad7oq31kw",
+            "https://www.myvi.tv/embed/ehtz9rmtbjnw8qg4ggzdmn4joc",
+            "https://www.myvi.tv/embed/psg1fy1fmwcr8mpxsqyyx87cya",
+            "https://www.myvi.tv/embed/i1oo3oirgc1rzyydbdrjf5ah6e",
+            "https://www.myvi.tv/embed/7ep6jbre49qwbk4zck3z54u4ah",
+            "https://www.myvi.tv/embed/g14exd48cqawijg5rj1x7znzow",
+            "https://www.myvi.tv/embed/3tsk6j3fzq8wbbgtgfm7sfkb6h",
+            "https://www.myvi.tv/embed/5r3f3fh6sm4rjnq6cn3s589zxy"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/me9w31pi",
+            "https://sendvid.com/embed/boxg54yt",
+            "https://sendvid.com/embed/swq96qvb",
+            "https://sendvid.com/embed/tiiu50p5",
+            "https://sendvid.com/embed/w7fkrxft",
+            "https://sendvid.com/embed/aui5u157",
+            "https://sendvid.com/embed/gajnak2t",
+            "https://sendvid.com/embed/f0y50rcz"
+          ]
+        }
+      }
+    }
+  }
+}

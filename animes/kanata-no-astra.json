@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "kanata-no-astra",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kanata-no-astra.jpg",
+    "desc": "L'histoire se déroule dans un futur où la civilisation terrienne a colonisé plusieurs planètes et continue de s'étendre à travers l'espace. Aries Spring, étudiante, a eu la chance d'être sélectionnée pour participer à un camp scolaire tout à fait exceptionnel sur la planète McPa. Surexcitée, la jeune fille a hâte d'y être mais, le jour J, elle et les huit autres participants sont projetés à des milliers d'années-lumière de leur point de départ, par une mystérieuse orbe lumineuse. Dès lors livrés à eux-même, les adolescents ne peuvent compter que sur eux-même ainsi que sur le mystérieux vaisseau fantôme à côté duquel ils ont été téléportés.",
+    "genres": "Action, Aventure, Comédie, Drame, Mystère, Science-fiction, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/5d5z7ke1n7frtgbrx9kfesxm7w",
+            "https://www.myvi.tv/embed/ejwf3gz5k8hw7ni9hnawb6un8a",
+            "https://www.myvi.tv/embed/wsxyg9nj9f7rf8pfu7pimw5aea",
+            "https://www.myvi.tv/embed/yirw917p58mwbfx4jbg3tm7uxr",
+            "https://www.myvi.tv/embed/d3grdeqouhyr8y5qko7wmym1ia",
+            "https://www.myvi.tv/embed/1hr68f8gs58wtjgnbz9widar9w",
+            "https://www.myvi.tv/embed/xwru9mmj1kirujahufemkhj8zc",
+            "https://www.myvi.tv/embed/3swyd94669cwd8x13b94ka78oa",
+            "https://www.myvi.tv/embed/e15wsp6qp56rzmzukgxqyjwr6c",
+            "https://www.myvi.tv/embed/5xdhrjiiho8r98ycysu63rrnyc",
+            "https://www.myvi.tv/embed/7aw1exm8c79wme49iymgwgjedc",
+            "https://www.myvi.tv/embed/xr9s7gcm6jordgsxwtekbkr7zy\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4723451",
+            "https://video.sibnet.ru/shell.php?videoid=4723458",
+            "https://video.sibnet.ru/shell.php?videoid=4723462",
+            "https://video.sibnet.ru/shell.php?videoid=4723463",
+            "https://video.sibnet.ru/shell.php?videoid=4723464",
+            "https://video.sibnet.ru/shell.php?videoid=4723467",
+            "https://video.sibnet.ru/shell.php?videoid=4723471",
+            "https://video.sibnet.ru/shell.php?videoid=4723479",
+            "https://video.sibnet.ru/shell.php?videoid=4723483",
+            "https://video.sibnet.ru/shell.php?videoid=4723487",
+            "https://video.sibnet.ru/shell.php?videoid=4723493",
+            "https://video.sibnet.ru/shell.php?videoid=4723497"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/0ndzo7cj",
+            "https://sendvid.com/embed/s9r1bxjm",
+            "https://sendvid.com/embed/uv7iyjvl",
+            "https://sendvid.com/embed/yiomtzc5",
+            "https://sendvid.com/embed/yy9lnmlg",
+            "https://sendvid.com/embed/m3oi1k62",
+            "https://sendvid.com/embed/gkiscwc8",
+            "https://sendvid.com/embed/gah2ggow",
+            "https://sendvid.com/embed/4okfpn7l",
+            "https://sendvid.com/embed/w3lcr4nc",
+            "https://sendvid.com/embed/byuyv5qn",
+            "https://sendvid.com/embed/yd354iwa"
+          ]
+        }
+      }
+    }
+  }
+}

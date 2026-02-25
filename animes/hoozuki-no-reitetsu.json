@@ -1,0 +1,82 @@
+{
+  "data": {
+    "name": "hoozuki-no-reitetsu",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hoozuki-no-reitetsu.jpg",
+    "desc": "L'histoire raconte le quotidien de Hôzuki, un démon au service de Yama, le Roi des Enfers. En tant qu'adjoint du Roi, il doit superviser les 272 services de l'administration des Enfers. Un emploi loin d'être de tout repos.",
+    "genres": "Comédie, Fantastique, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/dmcrald7",
+            "https://sendvid.com/embed/xivcx790",
+            "https://sendvid.com/embed/xxbib7zb",
+            "https://sendvid.com/embed/8jkxpiu1",
+            "https://sendvid.com/embed/ers2d9j1",
+            "https://sendvid.com/embed/4e10idfl",
+            "https://sendvid.com/embed/6sgjj1yi",
+            "https://sendvid.com/embed/qceml2pv",
+            "https://sendvid.com/embed/x3whn2lt",
+            "https://sendvid.com/embed/hyzbepbj",
+            "https://sendvid.com/embed/1pegr3sm",
+            "https://sendvid.com/embed/i34qrhb9",
+            "https://sendvid.com/embed/4gamw0xe"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/9enf9y5t\t",
+            "https://sendvid.com/embed/fy8191g5",
+            "https://sendvid.com/embed/9milotv0",
+            "https://sendvid.com/embed/34d31vn5",
+            "https://sendvid.com/embed/68mti28r",
+            "https://sendvid.com/embed/s8hi2w66",
+            "https://sendvid.com/embed/cyargaip",
+            "https://sendvid.com/embed/lfqm77m5",
+            "https://sendvid.com/embed/f5b60wtj",
+            "https://sendvid.com/embed/v8p5jayk",
+            "https://sendvid.com/embed/zso93v9e",
+            "https://sendvid.com/embed/m1k44n18",
+            "https://sendvid.com/embed/xan10apf"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4816500",
+            "https://video.sibnet.ru/shell.php?videoid=4816501",
+            "https://video.sibnet.ru/shell.php?videoid=4816502",
+            "https://video.sibnet.ru/shell.php?videoid=4816504",
+            "https://video.sibnet.ru/shell.php?videoid=4816505",
+            "https://video.sibnet.ru/shell.php?videoid=4816506",
+            "https://video.sibnet.ru/shell.php?videoid=4816507",
+            "https://video.sibnet.ru/shell.php?videoid=4816508",
+            "https://video.sibnet.ru/shell.php?videoid=4816512",
+            "https://video.sibnet.ru/shell.php?videoid=4816514",
+            "https://video.sibnet.ru/shell.php?videoid=4816516",
+            "https://video.sibnet.ru/shell.php?videoid=4816517",
+            "https://video.sibnet.ru/shell.php?videoid=4816520"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/dy7pqnfzaw4w9ef8imumaib7nr",
+            "https://www.myvi.tv/embed/sq83ed41q45wbp7r5qj54ya17r",
+            "https://www.myvi.tv/embed/8i87bdf79sawdf6ojg6frqywgw",
+            "https://www.myvi.tv/embed/fjemah6eitnridzfqg6xrr5nhw",
+            "https://www.myvi.tv/embed/1abth5xppbgwm8mrpbgz5oq7mo",
+            "https://www.myvi.tv/embed/teqfu38r3juw9jhx7j7j9qcxcy",
+            "https://www.myvi.tv/embed/8wdyau64do6rzr13ydibb7sdse",
+            "https://www.myvi.tv/embed/6thu377t744ruc58b5y1nxehzh",
+            "https://www.myvi.tv/embed/6s89xubefxww5ko59g9dzdhgka",
+            "https://www.myvi.tv/embed/ykxjtasa8wwr7emng8mjtfmbyo",
+            "https://www.myvi.tv/embed/ijwqd6qtxu3wjn6bcqnkyhwsmw",
+            "https://www.myvi.tv/embed/xsutawxfzsuwbmsfpwedcengpr",
+            "https://www.myvi.tv/embed/tdp45fkcdxowie5b8tigxfoo4r"
+          ]
+        }
+      }
+    }
+  }
+}

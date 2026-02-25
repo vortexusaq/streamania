@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "sand-land",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sand-land.jpg",
+    "desc": "Dans un monde futuriste connu sous le nom de Sand Land, la seule rivière qui alimentait le monde entier a soudainement été asséchée et la seule source d'eau potable est en possession du roi qui n'hésite pas à pratiquer des prix exorbitants. Les démons et les humains vivent ensemble dans ce monde de sécheresse jusqu'à ce que le shérif Lao informe Beelzebub de l'éventuelle existence d'une fontaine, qui pourrait subvenir aux besoins des humains et des démons. Beelzebub et son ami Thief décident de l'accompagner à la recherche de cette ressource.",
+    "genres": "Aventure, Fantastique, Démons, Futur, Webanime",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5525450",
+            "https://video.sibnet.ru/shell.php?videoid=5525451",
+            "https://video.sibnet.ru/shell.php?videoid=5525453",
+            "https://video.sibnet.ru/shell.php?videoid=5525454",
+            "https://video.sibnet.ru/shell.php?videoid=5525455",
+            "https://video.sibnet.ru/shell.php?videoid=5525456",
+            "https://video.sibnet.ru/shell.php?videoid=5525457",
+            "https://video.sibnet.ru/shell.php?videoid=5525458",
+            "https://video.sibnet.ru/shell.php?videoid=5525459",
+            "https://video.sibnet.ru/shell.php?videoid=5525461",
+            "https://video.sibnet.ru/shell.php?videoid=5525462",
+            "https://video.sibnet.ru/shell.php?videoid=5525463",
+            "https://video.sibnet.ru/shell.php?videoid=5525464"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-ttyykoio8vuy.html",
+            "https://vidmoly.to/embed-0fwbbwyu85tx.html",
+            "https://vidmoly.to/embed-wpcfvq3hoszp.html",
+            "https://vidmoly.to/embed-ysou43zcwagv.html",
+            "https://vidmoly.to/embed-ghghyrsjwvuu.html",
+            "https://vidmoly.to/embed-pxca8ht2ru5s.html",
+            "https://vidmoly.to/embed-jwvkyxup9x6a.html",
+            "https://vidmoly.to/embed-ujnsdsk6491c.html",
+            "https://vidmoly.to/embed-bg9jaybju2vz.html",
+            "https://vidmoly.to/embed-7bqag8lzb0kv.html",
+            "https://vidmoly.to/embed-tjiq24ueod81.html",
+            "https://vidmoly.to/embed-ceoghl7h1lip.html",
+            "https://vidmoly.to/embed-xa71oriugxjm.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/dkk69hqs",
+            "https://sendvid.com/embed/73ne91m2",
+            "https://sendvid.com/embed/1yfzsyst",
+            "https://sendvid.com/embed/ccgndo9f",
+            "https://sendvid.com/embed/1azxv5ur",
+            "https://sendvid.com/embed/isumggrc",
+            "https://sendvid.com/embed/v5ymjvjb",
+            "https://sendvid.com/embed/zpr3fcu1",
+            "https://sendvid.com/embed/bqbgzt4c",
+            "https://sendvid.com/embed/mm12pmou",
+            "https://sendvid.com/embed/xaw541j6",
+            "https://sendvid.com/embed/uwul8fz9",
+            "https://sendvid.com/embed/5u8rh0cv"
+          ]
+        }
+      }
+    }
+  }
+}

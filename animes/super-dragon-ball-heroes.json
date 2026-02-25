@@ -1,0 +1,187 @@
+{
+  "data": {
+    "name": "super-dragon-ball-heroes",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/super-dragon-ball-heroes.jpg",
+    "desc": "Trunks revient du futur pour s'entraîner avec Goku et Vegeta. Cependant, il disparaît brusquement.",
+    "genres": "Action, Aventure, Fantasy, Science-fiction, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 5,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/qt9e9rce",
+            "https://sendvid.com/embed/ha8hhpg5",
+            "https://sendvid.com/embed/1wwhdxw6",
+            "https://sendvid.com/embed/7xcde5of",
+            "https://sendvid.com/embed/uvjyec6a",
+            "https://sendvid.com/embed/64b7hnkx"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4760857",
+            "https://video.sibnet.ru/shell.php?videoid=4760858",
+            "https://video.sibnet.ru/shell.php?videoid=4760859",
+            "https://video.sibnet.ru/shell.php?videoid=4760860",
+            "https://video.sibnet.ru/shell.php?videoid=4760861",
+            "https://video.sibnet.ru/shell.php?videoid=4760862"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/95zagrrdny4rdfiedaaan14jby",
+            "https://www.myvi.tv/embed/mptoc9o3jfqrbqpiqt1eywfgrr",
+            "https://www.myvi.tv/embed/n4hie99ck3zrfq1eu5715xdooh",
+            "https://www.myvi.tv/embed/yrpebuiddghrdnp6kffootxzrw",
+            "https://www.myvi.tv/embed/oyzoqc3a3ewrtbidmfjwa7gziy",
+            "https://www.myvi.tv/embed/og887yqq1a1rdmow5fy7rkhngh"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/fhp3n2h3",
+            "https://sendvid.com/embed/v0shk3gs",
+            "https://sendvid.com/embed/w2xxszjq",
+            "https://sendvid.com/embed/1oxtvbop",
+            "https://sendvid.com/embed/znzu301b",
+            "https://sendvid.com/embed/9c5ptp8d",
+            "https://sendvid.com/embed/gkrwnvp6",
+            "https://sendvid.com/embed/u48ikxwq",
+            "https://sendvid.com/embed/ibc42s9k",
+            "https://sendvid.com/embed/imfsq35y",
+            "https://sendvid.com/embed/lo8ad3qz",
+            "https://sendvid.com/embed/2usds23q",
+            "https://sendvid.com/embed/6vgcyaek\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4760863",
+            "https://video.sibnet.ru/shell.php?videoid=4760864",
+            "https://video.sibnet.ru/shell.php?videoid=4760865",
+            "https://video.sibnet.ru/shell.php?videoid=4760866",
+            "https://video.sibnet.ru/shell.php?videoid=4760867",
+            "https://video.sibnet.ru/shell.php?videoid=4760869",
+            "https://video.sibnet.ru/shell.php?videoid=4760923",
+            "https://video.sibnet.ru/shell.php?videoid=4760870",
+            "https://video.sibnet.ru/shell.php?videoid=4760871",
+            "https://video.sibnet.ru/shell.php?videoid=4760872",
+            "https://video.sibnet.ru/shell.php?videoid=4760873",
+            "https://video.sibnet.ru/shell.php?videoid=4760874",
+            "https://video.sibnet.ru/shell.php?videoid=4760875"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ofb6hyx7dfgrijsfr1mejgg8oo",
+            "https://www.myvi.tv/embed/dya1nicyca4r5e7fuucufw9gzc",
+            "https://www.myvi.tv/embed/517ems8y8f4wznzgxdu6e6ekxh",
+            "https://www.myvi.tv/embed/a6ahyh1m8qqrxmicbuxnumzi5y",
+            "https://www.myvi.tv/embed/cznypk1u8zjrteg5ikqna4wibr",
+            "https://www.myvi.tv/embed/wwsx6ogihdhr9mqjti1sxouzgo",
+            "https://www.myvi.tv/embed/yq8a9dh8thhwmyqk8xdgxawuhy",
+            "https://www.myvi.tv/embed/o5ugxw3x1zortcrf9o8t88sswo",
+            "https://www.myvi.tv/embed/18apqifg6enwjj4sfbnwozbkaw",
+            "https://www.myvi.tv/embed/cqqhqyzt5xormj6bcktnjkfjzh",
+            "https://www.myvi.tv/embed/998f9qtuz6rw5j3jso5a4ycxxe",
+            "https://www.myvi.tv/embed/af3gta1b59ywifypnk7zm63afc",
+            "https://www.myvi.tv/embed/5s8iwuakf3twfr3n9t4i71a37r"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ytxj642a",
+            "https://sendvid.com/embed/btqitae8",
+            "https://sendvid.com/embed/qsujzhnh",
+            "https://sendvid.com/embed/8rmds030",
+            "https://sendvid.com/embed/kbs21tee",
+            "https://sendvid.com/embed/gxe2owdm",
+            "https://sendvid.com/embed/b14vlskn",
+            "https://sendvid.com/embed/q3lrpfxi",
+            "https://sendvid.com/embed/00i61lmn",
+            "https://sendvid.com/embed/dyqe2ohp",
+            "https://sendvid.com/embed/8srxeh2l\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4760876",
+            "https://video.sibnet.ru/shell.php?videoid=4760877",
+            "https://video.sibnet.ru/shell.php?videoid=4760878",
+            "https://video.sibnet.ru/shell.php?videoid=4760880",
+            "https://video.sibnet.ru/shell.php?videoid=4760881",
+            "https://video.sibnet.ru/shell.php?videoid=4760882",
+            "https://video.sibnet.ru/shell.php?videoid=4760883",
+            "https://video.sibnet.ru/shell.php?videoid=4760924",
+            "https://video.sibnet.ru/shell.php?videoid=4760884",
+            "https://video.sibnet.ru/shell.php?videoid=4760886",
+            "https://video.sibnet.ru/shell.php?videoid=4760887"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/dya64hzaao3rukxj64j44mm47r",
+            "https://www.myvi.tv/embed/wfjamuw3nj6wxkh39qjrquixkw",
+            "https://www.myvi.tv/embed/rbtdx4gpaynr7jri193muq955e",
+            "https://www.myvi.tv/embed/pnpuabwn3q1rdbn7t51t61togc",
+            "https://www.myvi.tv/embed/a1fcxp9qeu5w3n7zabq6tq1kya",
+            "https://www.myvi.tv/embed/hepbubp4twuw8ybpuka5k6s9no",
+            "https://www.myvi.tv/embed/q38zogczjfawmnfbfy3zt7gida",
+            "https://www.myvi.tv/embed/p8pkd5u7zwyr7phrr18jsd46xc",
+            "https://www.myvi.tv/embed/qtcwij5pmf3rjdcw6ynowcnipc",
+            "https://www.myvi.tv/embed/uqf3dg65btrw38btuyg5jtc8yo",
+            "https://www.myvi.tv/embed/w5qfyyxq7e9r8gkpadj3yejdbe"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/y1g7w3uu",
+            "https://sendvid.com/embed/2doifalr",
+            "https://sendvid.com/embed/nl1ajo6a",
+            "https://sendvid.com/embed/x13326y7",
+            "https://sendvid.com/embed/up4uwtcp",
+            "https://sendvid.com/embed/523823jg",
+            "https://sendvid.com/embed/6ax33900",
+            "https://sendvid.com/embed/b9dle05i"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4760925",
+            "https://video.sibnet.ru/shell.php?videoid=4760926",
+            "https://video.sibnet.ru/shell.php?videoid=4760927",
+            "https://video.sibnet.ru/shell.php?videoid=4760928",
+            "https://video.sibnet.ru/shell.php?videoid=4760929",
+            "https://video.sibnet.ru/shell.php?videoid=4760930",
+            "https://video.sibnet.ru/shell.php?videoid=4760931",
+            "https://video.sibnet.ru/shell.php?videoid=4760933"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/1eyo1bmixkurixpxb1bcwzsawo",
+            "https://www.myvi.tv/embed/th4xj8i9kunrjkgcnjgptk8u9c",
+            "https://www.myvi.tv/embed/qgwzcxaxboirzymufak8foiere",
+            "https://www.myvi.tv/embed/gguwu3h7rsqrpemrsz4pyahsxc",
+            "https://www.myvi.tv/embed/p9jjyqpf9ujwzytymzq46japuc",
+            "https://www.myvi.tv/embed/a5qdqe68ux3wfn65439r4a449o",
+            "https://www.myvi.tv/embed/4megwsxwd7jw3fkiuz75koe5ze",
+            "https://www.myvi.tv/embed/pbikehukbrsrbgmku3desin7ko"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/09zyhbnn\t",
+            "https://sendvid.com/embed/d6wit8ee"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4760934",
+            "https://video.sibnet.ru/shell.php?videoid=4760935"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/g8gjzs1zwz7r9qnqk3gurqbhch",
+            "https://www.myvi.tv/embed/kxzd6ceguemw8kat9xj16asrhe"
+          ]
+        }
+      }
+    }
+  }
+}

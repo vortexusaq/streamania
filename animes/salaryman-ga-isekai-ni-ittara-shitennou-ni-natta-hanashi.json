@@ -1,0 +1,125 @@
+{
+  "data": {
+    "name": "salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/salaryman-ga-isekai-ni-ittara-shitennou-ni-natta-hanashi.jpg",
+    "desc": "Dennosuke Uchimura est un salarié ordinaire essayant de gravir les échelons de son entreprise. Mais un jour, il se fait écraser et succombe de ses blessures. Toutefois, lorsque Uchimura reprend connaissance, il se retrouve dans un monde fantastique où il fait face au roi des démons. Ce dernier lui propose de travailler pour lui en devenant l'un des quatre rois célestes de son armée.",
+    "genres": "Aventure, Comédie, Fantasy, Isekai, Romance, Surnaturel, Autre-monde, Démons, Réincarnation / Transmigration",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5788408",
+            "https://video.sibnet.ru/shell.php?videoid=5791915",
+            "https://video.sibnet.ru/shell.php?videoid=5797531"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-qtvezkkjm4y9.html",
+            "https://vidmoly.to/embed-c9g5nz7uy5tg.html",
+            "https://vidmoly.to/embed-j3j3t6951dux.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-46osgavn6jr8.html",
+            "https://oneupload.to/embed-q4pzwxmoy1sj.html",
+            "https://oneupload.to/embed-eyk4f5czou9a.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/54eirs8d",
+            "https://sendvid.com/embed/xwlh3nzc",
+            "https://sendvid.com/embed/im7kuy1d"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241093&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241117&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241173&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

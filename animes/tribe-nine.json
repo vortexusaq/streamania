@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "tribe-nine",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tribe-nine.jpg",
+    "desc": "Tribe Nine est un projet qui comprend une série animée, un jeu pour smartphone ainsi qu'un Webtoon. Ce projet a été créé par l'équipe derrière la saga Danganronpa.\nL'histoire se déroule en 20XX, dans un pays nommé Neo Too Kyo, où de jeunes personnes forment des clans après l'effondrement de la société. Dans un lieu fictif qui ressemble aux 23 arrondissements spéciaux de Tokyo, des gangs hors-la-loi de chaque arrondissements luttent pour le prestige par le biais de l'Extreme Baseball.",
+    "genres": "Action, Science-fiction, Sports, Sports, Tournois",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/kzmpx1truo4wixu5hhtja65r1a",
+            "https://www.myvi.top/embed/oto6wtinijyr3ec3mw183c6sno",
+            "https://www.myvi.top/embed/yudfex4x3iqr5ny3bkbo7q3gow",
+            "https://www.myvi.top/embed/9y8gjjd8r19rbnp118gyshphuo",
+            "https://www.myvi.top/embed/3cpqwk37ou8ribws1yfczz3exa",
+            "https://www.myvi.top/embed/9utema5yddormqhbuxhumnpaba",
+            "https://www.myvi.top/embed/bz6kbgy8abbwtjh5zrwd3phg7h",
+            "https://www.myvi.top/embed/g7d4ewre1fkr7ydkxbdwde31ow",
+            "https://www.myvi.top/embed/mnbfbcz5ofwwffhzsrzr6rg9yy",
+            "https://www.myvi.tv/embed/phr7oxbn1ejrtd1ffif4tkmoph",
+            "https://www.myvi.tv/embed/inuhtup3ccpwunfu7wiwdb3rqc",
+            "https://www.myvi.tv/embed/h6sktj1y5b8r3etdzarte5p6mo"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/jg98dysi",
+            "https://sendvid.com/embed/6bcfiv50",
+            "https://sendvid.com/embed/lanbeavc",
+            "https://sendvid.com/embed/8388vsup",
+            "https://sendvid.com/embed/zxlsh7cm",
+            "https://sendvid.com/embed/f00hbyqr",
+            "https://sendvid.com/embed/68i0eikp",
+            "https://sendvid.com/embed/yuz4c2dn",
+            "https://sendvid.com/embed/6ds2leh2",
+            "https://sendvid.com/embed/rd2j1an4",
+            "https://sendvid.com/embed/kb6sn1ac",
+            "https://sendvid.com/embed/yyzama8p"
+          ]
+        }
+      }
+    }
+  }
+}

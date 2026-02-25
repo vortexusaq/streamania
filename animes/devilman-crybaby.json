@@ -1,0 +1,53 @@
+{
+  "data": {
+    "name": "devilman-crybaby",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/devilman-crybaby.jpg",
+    "desc": "Les démons qui dominaient la Terre il y a longtemps ont vu leur monde détruit. De nos jours, Fudô Akira, un lycéen de faible constitution logeant chez son amie Makimura Miki voit revenir son ami d'enfance,Asuka Ryô, qui a découvert lors de son séjour en Amérique que les démons agissent toujours dans l'ombre et se sont infiltrés dans la société humaine.\n\nCe dernier lui demande de l'aider à les combattre et il va alors fusionner avec Amon, un démon, et ainsi devenir Devilman, l'homme-démon. S'ensuit alors des combats incessants et sanglants où démons et humains montreront les pires facettes de leurs personnalités.",
+    "genres": "Action, Aventure, Drame, Horreur, Épouvante, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-x5rhc32ro49y.html",
+            "https://vidmoly.to/embed-75ighi3nyt45.html",
+            "https://vidmoly.to/embed-cpnk0tuj76tk.html",
+            "https://vidmoly.to/embed-ame7j9di1tai.html",
+            "https://vidmoly.to/embed-mxh0cyweql83.html",
+            "https://vidmoly.to/embed-cj9x0jsedl9q.html",
+            "https://vidmoly.to/embed-tg9yqb4gamkh.html",
+            "https://vidmoly.to/embed-dq1fn4denipj.html",
+            "https://vidmoly.to/embed-jx54ykq5ezz3.html",
+            "https://vidmoly.to/embed-crhhcl0sqyam.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4720518",
+            "https://video.sibnet.ru/shell.php?videoid=4720528",
+            "https://video.sibnet.ru/shell.php?videoid=4720541",
+            "https://video.sibnet.ru/shell.php?videoid=4720546",
+            "https://video.sibnet.ru/shell.php?videoid=4720551",
+            "https://video.sibnet.ru/shell.php?videoid=4720556",
+            "https://video.sibnet.ru/shell.php?videoid=4720561",
+            "https://video.sibnet.ru/shell.php?videoid=4720564",
+            "https://video.sibnet.ru/shell.php?videoid=4720566",
+            "https://video.sibnet.ru/shell.php?videoid=4720569"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/bivybo22",
+            "https://sendvid.com/embed/h61vfr0d",
+            "https://sendvid.com/embed/b6t9eu95",
+            "https://sendvid.com/embed/cevxzz16",
+            "https://sendvid.com/embed/9ffde9u7",
+            "https://sendvid.com/embed/l9g7cvqs",
+            "https://sendvid.com/embed/ruxpgs9m",
+            "https://sendvid.com/embed/psnuutrm",
+            "https://sendvid.com/embed/wr596a0b",
+            "https://sendvid.com/embed/6gec77kc"
+          ]
+        }
+      }
+    }
+  }
+}

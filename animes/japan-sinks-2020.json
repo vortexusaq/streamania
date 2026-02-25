@@ -1,0 +1,41 @@
+{
+  "data": {
+    "name": "japan-sinks-2020",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/japan-sinks-2020.jpg",
+    "desc": "Peu de temps après Tokyo 2020, un séisme d'une rare gravité touche le Japon, poussant inexorablement le pays vers sa chute. Au milieu du chaos, Ayumu et Gou, les enfants de la famille Mutou, commencent à fuir la ville avec leur famille de quatre personnes. Face à la catastrophe, assistant aux dernières heures de l'Archipel, les enfants vont devoir affronter des conditions extrêmes et souvent se retrouver à devoir faire des choix cornéliens pour survivre. Mais le plus important pour eux, sera de toujours rester ensemble.",
+    "genres": "Action, Drame, Science-fiction, Apocalypse, Catastrophe naturelle, Famille, Survie, Séisme, Tsunami",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/4e8uuczwotgwxx1b5kjcbb4k1e",
+            "https://www.myvi.top/embed/qpkdy5ku5pqw3y1e8c8s8bcsgo",
+            "https://www.myvi.top/embed/tyq44de6kc5rbgc17x1oro5ptc",
+            "https://www.myvi.top/embed/nayy7y3rj9pr9jer516pz63b9c",
+            "https://www.myvi.top/embed/n1b8195715twzygce399pyiyko",
+            "https://www.myvi.top/embed/d1dhm8oimbgrtxkcf5jdbyj6pw",
+            "https://www.myvi.top/embed/rc4wg3hpgtuw8jmfw7tre9zj7r",
+            "https://www.myvi.top/embed/k3ed8sggpedrpgh4w3n7sw3bry",
+            "https://www.myvi.top/embed/eqaprhn5e5erjcy3xj7zb1x13w",
+            "https://www.myvi.top/embed/8qy44816t8jrixaf6r1ro385aw"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/7u1fdoae",
+            "https://sendvid.com/embed/4viuuhni",
+            "https://sendvid.com/embed/s2an93ev",
+            "https://sendvid.com/embed/salr3o0o",
+            "https://sendvid.com/embed/eg7iog7n",
+            "https://sendvid.com/embed/3iefe0yw",
+            "https://sendvid.com/embed/1gjig8u2",
+            "https://sendvid.com/embed/w7fmf05f",
+            "https://sendvid.com/embed/ph5xvo43",
+            "https://sendvid.com/embed/dqz5czzp"
+          ]
+        }
+      }
+    }
+  }
+}

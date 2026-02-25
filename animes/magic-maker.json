@@ -1,0 +1,120 @@
+{
+  "data": {
+    "name": "magic-maker",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magic-maker.jpg",
+    "desc": "Un homme rêvant d'utiliser la magie est réincarné sous les traits d'un jeune garçon prénommé Shion. Ses attentes sont immenses lorsqu'il comprend qu'il a atterri dans un autre-monde, mais le désespoir ne tarde pas à le rattraper. La magie n'existe pas non plus dans celui-ci. Sa sœur décide alors de l'emmener au lac pour lui montrer un étrange phénomène...",
+    "genres": "Action, Aventure, Fantasy, Isekai, Slice-of-Life, Famille, Magie, Réincarnation / Transmigration",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5793326",
+            "https://video.sibnet.ru/shell.php?videoid=5798978"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-eqqrct5xes84.html",
+            "https://vidmoly.to/embed-obxusib112xp.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-jx5eat39ilra.html",
+            "https://oneupload.to/embed-spdost9lpjw2.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/am1trwbr",
+            "https://sendvid.com/embed/i9k8ev79"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241129&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241196&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

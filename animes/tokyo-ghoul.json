@@ -1,0 +1,189 @@
+{
+  "data": {
+    "name": "tokyo-ghoul",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tokyo-ghoul.jpg",
+    "desc": "Tokyo est devenue une ville cruelle et impitoyable, un endroit où des créatures vicieuses appelées «goules» existent aux côtés des humains. Les habitants de cette grande métropole vivent dans la peur constante de ces sauvages sanguinaires et de leur soif de chair humaine. Cependant, la plus grande menace que ces goules posent est leur capacité dangereuse à se faire passer pour des humains et de se fondre dans la société.\nL'histoire suit Ken Kaneki, un étudiant universitaire timide qui est immédiatement attiré par Rize Kamishiro, une lectrice avide comme lui.\nCependant, Rize n'est pas exactement ce qu'elle pretend être. Durant un rendez-vous, elle manque de tuer Kaneki en lui dévoilant sa nature de goule.\nIl survit grâce aux organes de Rize, greffés à la place de ceux qu'elle avait détruit en l'attaquant. Le jeune homme est désormais un hybride, mi-humain, mi-goule et va vivre un véritable enfer.",
+    "genres": "Action, Drame, Horreur, Épouvante, Mystère, Psychologique, Seinen, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/qqgk7mci",
+            "https://sendvid.com/embed/mdke3pry",
+            "https://sendvid.com/embed/mhk2ppjo",
+            "https://sendvid.com/embed/84q361bz",
+            "https://sendvid.com/embed/8s3blraq",
+            "https://sendvid.com/embed/brnowwxs",
+            "https://sendvid.com/embed/noku26fy",
+            "https://sendvid.com/embed/8hyvbkql",
+            "https://sendvid.com/embed/aszhuc3e",
+            "https://sendvid.com/embed/37yju6xp",
+            "https://sendvid.com/embed/hldo7iz0",
+            "https://sendvid.com/embed/9otkhkm5"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4669956",
+            "https://video.sibnet.ru/shell.php?videoid=4669957",
+            "https://video.sibnet.ru/shell.php?videoid=4669960",
+            "https://video.sibnet.ru/shell.php?videoid=4669961",
+            "https://video.sibnet.ru/shell.php?videoid=4669963",
+            "https://video.sibnet.ru/shell.php?videoid=4669964",
+            "https://video.sibnet.ru/shell.php?videoid=5109216",
+            "https://video.sibnet.ru/shell.php?videoid=4669967",
+            "https://video.sibnet.ru/shell.php?videoid=4669969",
+            "https://video.sibnet.ru/shell.php?videoid=4669971",
+            "https://video.sibnet.ru/shell.php?videoid=4669973",
+            "https://video.sibnet.ru/shell.php?videoid=4669975"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-izzw1ii0g3yi.html",
+            "https://vidmoly.to/embed-fztjrwt4guwm.html",
+            "https://vidmoly.to/embed-7p1fyr2aezlg.html",
+            "https://vidmoly.to/embed-87g2jfgxnv1x.html",
+            "https://vidmoly.to/embed-ejxpit2pxhjr.html",
+            "https://vidmoly.to/embed-e49oyt98e7na.html",
+            "https://vidmoly.to/embed-vr72e51xhr24.html",
+            "https://vidmoly.to/embed-yipu25z44e0c.html",
+            "https://vidmoly.to/embed-dyi7ddhi0lry.html",
+            "https://vidmoly.to/embed-omf1f4pd3tzv.html",
+            "https://vidmoly.to/embed-dwoz6jqau75f.html",
+            "https://vidmoly.to/embed-593yscnyot0l.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/rxb3a8cm",
+            "https://sendvid.com/embed/ybbfrpi6",
+            "https://sendvid.com/embed/6t6g9ptw",
+            "https://sendvid.com/embed/9gfnpmhg",
+            "https://sendvid.com/embed/67g213b7",
+            "https://sendvid.com/embed/234l42gv",
+            "https://sendvid.com/embed/8jdwx4ck",
+            "https://sendvid.com/embed/mmuc7osz",
+            "https://sendvid.com/embed/nk6jr4xt",
+            "https://sendvid.com/embed/aiurzdmu",
+            "https://sendvid.com/embed/rffk92tp",
+            "https://sendvid.com/embed/ukcx3g3s"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4669977",
+            "https://video.sibnet.ru/shell.php?videoid=4669979",
+            "https://video.sibnet.ru/shell.php?videoid=4669980",
+            "https://video.sibnet.ru/shell.php?videoid=4669981",
+            "https://video.sibnet.ru/shell.php?videoid=4669983",
+            "https://video.sibnet.ru/shell.php?videoid=4669984",
+            "https://video.sibnet.ru/shell.php?videoid=4669985",
+            "https://video.sibnet.ru/shell.php?videoid=4669986",
+            "https://video.sibnet.ru/shell.php?videoid=4669988",
+            "https://video.sibnet.ru/shell.php?videoid=4669990",
+            "https://video.sibnet.ru/shell.php?videoid=4669991",
+            "https://video.sibnet.ru/shell.php?videoid=4669995"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-kbydycm84qx9.html",
+            "https://vidmoly.to/embed-7c9f59n053gq.html",
+            "https://vidmoly.to/embed-y2ubtlrvb6nc.html",
+            "https://vidmoly.to/embed-9ur6ncevm1k1.html",
+            "https://vidmoly.to/embed-xxv2w6f1ib03.html",
+            "https://vidmoly.to/embed-x1sprzbw4dk4.html",
+            "https://vidmoly.to/embed-8rxpobk25f55.html",
+            "https://vidmoly.to/embed-818lvwtt75fy.html",
+            "https://vidmoly.to/embed-9gmaqy1etlk8.html",
+            "https://vidmoly.to/embed-wcrhg7y2cfj4.html",
+            "https://vidmoly.to/embed-hzcf7vsqj6as.html",
+            "https://vidmoly.to/embed-w06ajas3rgn3.html"
+          ]
+        }
+      },
+      "Tokyo Ghoul:re": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/741fzdx1",
+            "https://sendvid.com/embed/p823881s",
+            "https://sendvid.com/embed/yao7lfhz",
+            "https://sendvid.com/embed/t7apyts2",
+            "https://sendvid.com/embed/joik3een",
+            "https://sendvid.com/embed/7pugy53h",
+            "https://sendvid.com/embed/q1k08zr6",
+            "https://sendvid.com/embed/7re3k48t",
+            "https://sendvid.com/embed/auliyal5",
+            "https://sendvid.com/embed/qaouw3c4",
+            "https://sendvid.com/embed/8uyp0ynh",
+            "https://sendvid.com/embed/0iubgv6t",
+            "https://sendvid.com/embed/qfxtykev",
+            "https://sendvid.com/embed/a9nrllru",
+            "https://sendvid.com/embed/bzcytgtw",
+            "https://sendvid.com/embed/61z5yb36",
+            "https://sendvid.com/embed/dllrzems",
+            "https://sendvid.com/embed/uxo2jtl9",
+            "https://sendvid.com/embed/wn7stwsc",
+            "https://sendvid.com/embed/lcfjwdk3",
+            "https://sendvid.com/embed/9zc95wd4",
+            "https://sendvid.com/embed/9neots4h",
+            "https://sendvid.com/embed/85omjujr",
+            "https://sendvid.com/embed/1iyd3ndt"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4669998",
+            "https://video.sibnet.ru/shell.php?videoid=4670001",
+            "https://video.sibnet.ru/shell.php?videoid=4670002",
+            "https://video.sibnet.ru/shell.php?videoid=4670004",
+            "https://video.sibnet.ru/shell.php?videoid=4670005",
+            "https://video.sibnet.ru/shell.php?videoid=4670009",
+            "https://video.sibnet.ru/shell.php?videoid=4670010",
+            "https://video.sibnet.ru/shell.php?videoid=4670011",
+            "https://video.sibnet.ru/shell.php?videoid=4670012",
+            "https://video.sibnet.ru/shell.php?videoid=4670013",
+            "https://video.sibnet.ru/shell.php?videoid=4670015",
+            "https://video.sibnet.ru/shell.php?videoid=4670018",
+            "https://video.sibnet.ru/shell.php?videoid=4670019",
+            "https://video.sibnet.ru/shell.php?videoid=4670021",
+            "https://video.sibnet.ru/shell.php?videoid=4670022",
+            "https://video.sibnet.ru/shell.php?videoid=4670024",
+            "https://video.sibnet.ru/shell.php?videoid=4670028",
+            "https://video.sibnet.ru/shell.php?videoid=4670030",
+            "https://video.sibnet.ru/shell.php?videoid=4670032",
+            "https://video.sibnet.ru/shell.php?videoid=4670035",
+            "https://video.sibnet.ru/shell.php?videoid=4670038",
+            "https://video.sibnet.ru/shell.php?videoid=4670041",
+            "https://video.sibnet.ru/shell.php?videoid=4670043",
+            "https://video.sibnet.ru/shell.php?videoid=4670044"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-xib9f6h63dc4.html",
+            "https://vidmoly.to/embed-c6knf9mh7ld3.html",
+            "https://vidmoly.to/embed-xal3h6lqizb5.html",
+            "https://vidmoly.to/embed-h1fm2fy3j96w.html",
+            "https://vidmoly.to/embed-815tpmrb36x4.html",
+            "https://vidmoly.to/embed-vwm0u67xu8km.html",
+            "https://vidmoly.to/embed-4428z2ramim8.html",
+            "https://vidmoly.to/embed-wrm8siwfl15n.html",
+            "https://vidmoly.to/embed-lvadw4ihmr24.html",
+            "https://vidmoly.to/embed-fcilvjqajvtl.html",
+            "https://vidmoly.to/embed-ji1nxqw5tmk5.html",
+            "https://vidmoly.to/embed-3gp7appxyjjs.html",
+            "https://vidmoly.to/embed-4rsimpzmmh0y.html",
+            "https://vidmoly.to/embed-il64eciklcc5.html",
+            "https://vidmoly.to/embed-i4f2kkoxjsad.html",
+            "https://vidmoly.to/embed-09uoop33wn3s.html",
+            "https://vidmoly.to/embed-gu9obeuoqvqq.html",
+            "https://vidmoly.to/embed-q8ox5ivz71nf.html",
+            "https://vidmoly.to/embed-r79h166kdghp.html",
+            "https://vidmoly.to/embed-74o2l0zx6c34.html",
+            "https://vidmoly.to/embed-7bj0nowa329c.html",
+            "https://vidmoly.to/embed-lj3t96mfse2l.html",
+            "https://vidmoly.to/embed-7stxtgl82ogq.html",
+            "https://vidmoly.to/embed-zfzval1srg0f.html"
+          ]
+        }
+      }
+    }
+  }
+}

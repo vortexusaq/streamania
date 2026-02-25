@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "belladonna-of-sadness",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/belladonna-of-sadness.jpg",
+    "desc": "C'est l'adaptation du roman La Sorcière, de Jules Michelet. Il retrace l'histoire d'une paysanne nommée Jeanne, violée par son seigneur car n'ayant pas pu obtenir le droit de se marier avec son bien-aimé : Jean, faute d'argent. Leur amour ne sera par la suite plus jamais le même, et le diable cherchera à séduire Jeanne...",
+    "genres": "Drame - Erotique - Historique - Contes et légendes - Folklore - Sorcellerie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/1o9kw5srmq7wznas4z8b87xp9o"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5093208"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "another",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/another.jpg",
+    "desc": "En 1972, dans l'établissement de Yomiyama au Japon, un jeune nommé Misaki Yomiyama meurt dans un accident mystérieux. Ses camarades de la classe 3-3, très attristés et ne voulant pas y croire, décident de faire comme si il était encore en vie jusqu'à la fin de l'année, lors de la remise des diplômes. C'est alors le début d'une longue histoire...",
+    "genres": "Horreur, Épouvante, Mystère, Psychologique, School-Life, Seinen, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-rxpvngaun1ih.html",
+            "https://vidmoly.to/embed-t546f5adlw1c.html",
+            "https://vidmoly.to/embed-5hlauepqjhor.html",
+            "https://vidmoly.to/embed-biwp2q5ii3qa.html",
+            "https://vidmoly.to/embed-9qp6y65eqwyd.html",
+            "https://vidmoly.to/embed-dxfqgpjvwieq.html",
+            "https://vidmoly.to/embed-7jab8y6f4zed.html",
+            "https://vidmoly.to/embed-tflvewvj2sxx.html",
+            "https://vidmoly.to/embed-613jt9dtap8m.html",
+            "https://vidmoly.to/embed-rr508iz7nwaq.html",
+            "https://vidmoly.to/embed-cohlb89i6vdy.html",
+            "https://vidmoly.to/embed-ecquj2t71ax4.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4868497",
+            "https://video.sibnet.ru/shell.php?videoid=4868503",
+            "https://video.sibnet.ru/shell.php?videoid=4868508",
+            "https://video.sibnet.ru/shell.php?videoid=4868513",
+            "https://video.sibnet.ru/shell.php?videoid=4868515",
+            "https://video.sibnet.ru/shell.php?videoid=4868518",
+            "https://video.sibnet.ru/shell.php?videoid=4868521",
+            "https://video.sibnet.ru/shell.php?videoid=4868523",
+            "https://video.sibnet.ru/shell.php?videoid=4868525",
+            "https://video.sibnet.ru/shell.php?videoid=4868527",
+            "https://video.sibnet.ru/shell.php?videoid=4868529",
+            "https://video.sibnet.ru/shell.php?videoid=4868530"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/08l37x97",
+            "https://sendvid.com/embed/2uss22tg",
+            "https://sendvid.com/embed/f6c3329k",
+            "https://sendvid.com/embed/qdic1xa1",
+            "https://sendvid.com/embed/2cshl8sf",
+            "https://sendvid.com/embed/mt2k6qcf",
+            "https://sendvid.com/embed/0cgixc1e",
+            "https://sendvid.com/embed/6xlsavaq",
+            "https://sendvid.com/embed/r6cgrjby",
+            "https://sendvid.com/embed/hpdn94i2",
+            "https://sendvid.com/embed/a7uzvp0p",
+            "https://sendvid.com/embed/unarbbml"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-x35tn98baona.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/wg7uxqzv"
+          ]
+        }
+      }
+    }
+  }
+}

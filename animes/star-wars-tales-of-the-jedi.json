@@ -1,0 +1,41 @@
+{
+  "data": {
+    "name": "star-wars-tales-of-the-jedi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/star-wars-tales-of-the-jedi.jpg",
+    "desc": "Série d'anthologie composée de courts métrages d'animation dévoilant les origines de chevaliers Jedi emblématiques comme Ahsoka Tano et le comte Dooku.",
+    "genres": "Aventure, Science fiction, Action, Animation",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/tncy1zxs",
+            "https://sendvid.com/embed/u3t19cih",
+            "https://sendvid.com/embed/4jfvniq2",
+            "https://sendvid.com/embed/34ihlzft",
+            "https://sendvid.com/embed/3u82pchz",
+            "https://sendvid.com/embed/as54yp5q"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4933649",
+            "https://video.sibnet.ru/shell.php?videoid=4933650",
+            "https://video.sibnet.ru/shell.php?videoid=4933653",
+            "https://video.sibnet.ru/shell.php?videoid=4933654",
+            "https://video.sibnet.ru/shell.php?videoid=4933655",
+            "https://video.sibnet.ru/shell.php?videoid=4933657"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/1k3yy6yz6ugrp8rspkex5mpk3o",
+            "https://www.myvi.tv/embed/qf9oo5x3c4yrpgwjoci8phtiue",
+            "https://www.myvi.tv/embed/9xpjfojyhj7rz8besh4krk1bfy",
+            "https://www.myvi.tv/embed/r7np78iqqkxw9c18ts7qpm4zua",
+            "https://www.myvi.tv/embed/pretwbquegqw7r4awtp5ij3zmw",
+            "https://www.myvi.tv/embed/9xgegxwac8ewzx46suhsn5c3nr"
+          ]
+        }
+      }
+    }
+  }
+}

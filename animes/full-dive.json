@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "full-dive",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/full-dive.jpg",
+    "desc": "Hiroshi Yuki, un lycéen ennuyeux, a obtenu le RPG Polar Quest à la suite d'une étrange succession d'événements. Le jeu, réalisé à l'aide de la meilleure technologie, fait honneur à sa réputation de \"réalisme ultime\". Les graphismes, le comportement des PNJ, l'odeur des plantes et des arbres ou encore la brise qui vous caresse le visage. Tout est si réaliste que cela en devient insupportable. De plus, le joueur doit compléter plus de 10.000.000.000.000.000 de quêtes pour terminer le jeu. En rajoutant à ça le faite que si on se blesse, cela met plusieurs jours à guérir, le jeu en devient presque impossible à terminer.\n\nNous allons donc suivre ce lycéen qui va essayer de terminer un jeu trop réaliste avec comme seule récompense le sentiment d'accomplissement.",
+    "genres": "Action, Aventure, Comédie, Ecchi, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/5vqcqsid",
+            "https://sendvid.com/embed/482pg4p8",
+            "https://sendvid.com/embed/4gtqh2g5",
+            "https://sendvid.com/embed/mpfd2faj",
+            "https://sendvid.com/embed/6sxngajd",
+            "https://sendvid.com/embed/2blav74x",
+            "https://sendvid.com/embed/2xybe48e",
+            "https://sendvid.com/embed/xoz4v0qo",
+            "https://sendvid.com/embed/erv25s2r",
+            "https://sendvid.com/embed/0pty53i3",
+            "https://sendvid.com/embed/8tbjujog",
+            "https://sendvid.com/embed/rsy4awcp"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4944090",
+            "https://video.sibnet.ru/shell.php?videoid=4944094",
+            "https://video.sibnet.ru/shell.php?videoid=4944096",
+            "https://video.sibnet.ru/shell.php?videoid=4944098",
+            "https://video.sibnet.ru/shell.php?videoid=4944100",
+            "https://video.sibnet.ru/shell.php?videoid=4944102",
+            "https://video.sibnet.ru/shell.php?videoid=4944106",
+            "https://video.sibnet.ru/shell.php?videoid=4944110",
+            "https://video.sibnet.ru/shell.php?videoid=4944114",
+            "https://video.sibnet.ru/shell.php?videoid=4944116",
+            "https://video.sibnet.ru/shell.php?videoid=4944119",
+            "https://video.sibnet.ru/shell.php?videoid=4944121"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/c155iyypojaw9m7cz9btrupdyo",
+            "https://www.myvi.top/embed/nf595exk8juw9rz9wwhrxtuzey",
+            "https://www.myvi.top/embed/6bic4qmuhkzrtp1qdyyhkgkejy",
+            "https://www.myvi.top/embed/9sma6cg6p91righ47g93ayoddw",
+            "https://www.myvi.top/embed/98mc33e6mqgw9xkzxapr7w3y5a",
+            "https://www.myvi.top/embed/37w9ah7kpgawmyrtsxd3tgkxoo",
+            "https://www.myvi.top/embed/1kstn7xncxhrmfojgw7agpnf7w",
+            "https://www.myvi.top/embed/ouoe1p6bk3irubdkzuooxa9t6a",
+            "https://www.myvi.top/embed/jk5o87oq8m7wdr94pa8yiebpgr",
+            "https://www.myvi.top/embed/uza54138snnrxcyb73s7s3tjfo",
+            "https://www.myvi.top/embed/4fscwe1e3hfwbgfsi7dpsgi1dh",
+            "https://www.myvi.top/embed/tq1s6mxccfhw9c5drm654wys1o"
+          ]
+        }
+      }
+    }
+  }
+}

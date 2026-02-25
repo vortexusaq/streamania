@@ -1,0 +1,91 @@
+{
+  "data": {
+    "name": "ultraman",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ultraman.jpg",
+    "desc": "Plusieurs décennies se sont écoulées depuis qu'ULTRAMAN, le célèbre géant vêtu de rouge et de blanc, a sauvé la Terre d'une destruction certaine. Les actes de bravoure de ce super héros des temps passés sont désormais relégués aux livres d'histoire ou aux musées. Mais qu'arriverait-il si les extraterrestres n'avaient jamais réellement quitté notre planète et coopéraient avec le gouvernement ? Et si la paix n'était finalement qu'un feu de braises attendant patiemment que le vent de la guerre souffle de nouveau ? Mais quand la menace ressurgit, l'humanité doit se trouver un nouveau sauveur, une nouvelle génération d'ULTRAMAN.",
+    "genres": "Action, Aventure, Drame, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/qbj8q1l5",
+            "https://sendvid.com/embed/n4rm6idp",
+            "https://sendvid.com/embed/rntfcyn4",
+            "https://sendvid.com/embed/bpxugfyv",
+            "https://sendvid.com/embed/69eh4yxc",
+            "https://sendvid.com/embed/ajadggvb",
+            "https://sendvid.com/embed/2yf25601",
+            "https://sendvid.com/embed/7q2wexsa",
+            "https://sendvid.com/embed/7zc1s5p9",
+            "https://sendvid.com/embed/l9pf102u",
+            "https://sendvid.com/embed/xbxkhzue",
+            "https://sendvid.com/embed/y5ygzhmy",
+            "https://sendvid.com/embed/tdl5h5rt\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4753551",
+            "https://video.sibnet.ru/shell.php?videoid=4753553",
+            "https://video.sibnet.ru/shell.php?videoid=4753555",
+            "https://video.sibnet.ru/shell.php?videoid=4753556",
+            "https://video.sibnet.ru/shell.php?videoid=4753557",
+            "https://video.sibnet.ru/shell.php?videoid=4753558",
+            "https://video.sibnet.ru/shell.php?videoid=4753559",
+            "https://video.sibnet.ru/shell.php?videoid=4753560",
+            "https://video.sibnet.ru/shell.php?videoid=4753561",
+            "https://video.sibnet.ru/shell.php?videoid=4753562",
+            "https://video.sibnet.ru/shell.php?videoid=4753563",
+            "https://video.sibnet.ru/shell.php?videoid=4753564",
+            "https://video.sibnet.ru/shell.php?videoid=4753565"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ri1z99wpdfwwpnfumpyacd743o",
+            "https://www.myvi.tv/embed/w5tt33moub9w8rnwefxm4oimqy",
+            "https://www.myvi.tv/embed/4zhw4bbrdhurimuc718kcnzeta",
+            "https://www.myvi.tv/embed/prtd9t7ei6jr7bxgnu3b5cshxa",
+            "https://www.myvi.tv/embed/6d4m64wfn7ir88wbipiazh7abo",
+            "https://www.myvi.tv/embed/jypungjf4yzwxb4oxry98c4f8a",
+            "https://www.myvi.tv/embed/sr78do7hde4rbjgszaw16wresa",
+            "https://www.myvi.tv/embed/ie8xbfjxfpjrfb3bfszqfr9aoa",
+            "https://www.myvi.tv/embed/muo5dwofiwyriprmakyy7dujuc",
+            "https://www.myvi.tv/embed/8n8w7fqmp7mrxdjfi5aakp1sgh",
+            "https://www.myvi.tv/embed/asq8mmxup4jrxddbn1f8uf74br",
+            "https://www.myvi.tv/embed/hxu77qj119kw9c3meybzy69r4o",
+            "https://www.myvi.tv/embed/ofrpyadsfkuwjxujzykow8ajch"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/pdjcm2zw",
+            "https://sendvid.com/embed/2byjrx7r",
+            "https://sendvid.com/embed/5dpcvbax",
+            "https://sendvid.com/embed/2zwuvdbu",
+            "https://sendvid.com/embed/ucdi03sq",
+            "https://sendvid.com/embed/207zkgmt\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4753567",
+            "https://video.sibnet.ru/shell.php?videoid=4753569",
+            "https://video.sibnet.ru/shell.php?videoid=4753572",
+            "https://video.sibnet.ru/shell.php?videoid=4753575",
+            "https://video.sibnet.ru/shell.php?videoid=4753577",
+            "https://video.sibnet.ru/shell.php?videoid=4753579"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/yu3hbx6be4xr3qnq98r5geqs6w",
+            "https://www.myvi.tv/embed/9y5qk5sime3rbjht56tybh33zh",
+            "https://www.myvi.tv/embed/fh18hsgoodtwxpty5a6c9gut5y",
+            "https://www.myvi.tv/embed/pne7t8xki6ywxeekjq6zp1iwjh",
+            "https://www.myvi.tv/embed/qjizyfjeyihwmpzxiuio3oztze",
+            "https://www.myvi.tv/embed/ieb4izf4ftarmctby15tffcd1r"
+          ]
+        }
+      }
+    }
+  }
+}

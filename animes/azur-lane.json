@@ -1,0 +1,106 @@
+{
+  "data": {
+    "name": "azur-lane",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/azur-lane.jpg",
+    "desc": "Des monstres puissants nommés Siren apparaissent soudainement de la mer. Pour les contrer, une section de l'armée nommée Azur Lane est créée. Cette section est composée de jeunes femmes capables d'utiliser un système avancé d'armement naval ou d'aviation. Ainsi, elles réussissent à repousser les forces ennemies lors d'une attaque. La guerre est cependant loin d'être finie.",
+    "genres": "Action, Comédie, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/xnecue5j",
+            "https://sendvid.com/embed/jgz32mz4",
+            "https://sendvid.com/embed/flunjmkq",
+            "https://sendvid.com/embed/b4sp2r3r",
+            "https://sendvid.com/embed/eg4jnkze",
+            "https://sendvid.com/embed/iamk8aei",
+            "https://sendvid.com/embed/dgq2k270",
+            "https://sendvid.com/embed/ru5a56rh",
+            "https://sendvid.com/embed/kzthklr8",
+            "https://sendvid.com/embed/ynq8oxae",
+            "https://sendvid.com/embed/d6psmhi5",
+            "https://sendvid.com/embed/7dbetv62\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4801634",
+            "https://video.sibnet.ru/shell.php?videoid=4801636",
+            "https://video.sibnet.ru/shell.php?videoid=4801639",
+            "https://video.sibnet.ru/shell.php?videoid=4801641",
+            "https://video.sibnet.ru/shell.php?videoid=4801642",
+            "https://video.sibnet.ru/shell.php?videoid=4801643",
+            "https://video.sibnet.ru/shell.php?videoid=4801644",
+            "https://video.sibnet.ru/shell.php?videoid=4801646",
+            "https://video.sibnet.ru/shell.php?videoid=4801647",
+            "https://video.sibnet.ru/shell.php?videoid=4801649",
+            "https://video.sibnet.ru/shell.php?videoid=4801651",
+            "https://video.sibnet.ru/shell.php?videoid=4801652"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/xzcjn1u6cutrtmdmz1oi1gij4c",
+            "https://www.myvi.tv/embed/ykmoy5qmrw7rzydw7yrb9cps7w",
+            "https://www.myvi.tv/embed/phhn4puiqu1w5jdarwqt94nceo",
+            "https://www.myvi.tv/embed/1bgdnyzmpsxr8mjmy9mojdigro",
+            "https://www.myvi.tv/embed/igxsdg7fkgrrffpkndhujxbobh",
+            "https://www.myvi.tv/embed/zf4mosc6qcxwjjyef8pza5iqow",
+            "https://www.myvi.tv/embed/bu58r1f94dmrdnxzk3aefgumxe",
+            "https://www.myvi.tv/embed/nfbitnexid1wxr5ad4r1eksi9c",
+            "https://www.myvi.tv/embed/p5dzjqcwq4xrbqfdsr7e8q75io",
+            "https://www.myvi.tv/embed/tgrwjri9s7trfksdi6bqjzpnxh",
+            "https://www.myvi.tv/embed/5f5osb9ai6mr8c97i9iz7q7y6y",
+            "https://www.myvi.tv/embed/qjw6y8acf8qr8ci77if3ar8gwy"
+          ]
+        }
+      },
+      "Bisoku Zenshin!": {
+        "url": "saison1hs/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/yavshl27",
+            "https://sendvid.com/embed/lzaytf28",
+            "https://sendvid.com/embed/bd7ks16e",
+            "https://sendvid.com/embed/vom47i5l",
+            "https://sendvid.com/embed/568pgvla",
+            "https://sendvid.com/embed/j4fp6mql",
+            "https://sendvid.com/embed/xih7x9x8",
+            "https://sendvid.com/embed/vrk2rhp9",
+            "https://sendvid.com/embed/b2dorbxa",
+            "https://sendvid.com/embed/ygnx0766",
+            "https://sendvid.com/embed/dcnolp1y",
+            "https://sendvid.com/embed/rtr4vyil\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4801653",
+            "https://video.sibnet.ru/shell.php?videoid=4801654",
+            "https://video.sibnet.ru/shell.php?videoid=4801655",
+            "https://video.sibnet.ru/shell.php?videoid=4801656",
+            "https://video.sibnet.ru/shell.php?videoid=4801657",
+            "https://video.sibnet.ru/shell.php?videoid=4801658",
+            "https://video.sibnet.ru/shell.php?videoid=4801659",
+            "https://video.sibnet.ru/shell.php?videoid=4801660",
+            "https://video.sibnet.ru/shell.php?videoid=4801661",
+            "https://video.sibnet.ru/shell.php?videoid=4801662",
+            "https://video.sibnet.ru/shell.php?videoid=4801663",
+            "https://video.sibnet.ru/shell.php?videoid=4801664"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/fz5eupqkab4rzn9xcq5fe6parh",
+            "https://www.myvi.tv/embed/ach61oczcr3rjkiahg6nmkcucr",
+            "https://www.myvi.tv/embed/qdussa1j8z3r9cjazrscr7tozy",
+            "https://www.myvi.tv/embed/6bwdrfnjccmrjgkcfj9kg4mzdc",
+            "https://www.myvi.tv/embed/nj3fiedmgear7cqsnaht4qk84a",
+            "https://www.myvi.tv/embed/r9rmntq14e4r7b6rcfn9jwomge",
+            "https://www.myvi.tv/embed/i84akxypp36rjytarq6jk7udsc",
+            "https://www.myvi.tv/embed/sfduoxn74dbrjqaw7afq8n416r",
+            "https://www.myvi.tv/embed/cpf7spbk376w3eeru4zhxo7jie",
+            "https://www.myvi.tv/embed/px9nixcoxj9wibdersfje4g1ty",
+            "https://www.myvi.tv/embed/w63k96i6sm8ruxcfhnr84nbubc",
+            "https://www.myvi.tv/embed/dzq7a3djprbw9cspfmc53bh43w"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,162 @@
+{
+  "data": {
+    "name": "spirits-seekers",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/spirits-seekers.jpg",
+    "desc": "Tsukumogami : esprits, ou \"marebito\", qui ont possédé des objets anciens et ont acquis une forme physique. Bien qu'il fasse partie d'une illustre famille de saenome qui a pour objectif de les renvoyer pacifiquement dans leur monde, Kunato Hyouma les méprise depuis le décès tragique des membres de sa famille. Afin de le guérir de ce dégoût, le grand-père de Hyouma l'envoie vivre avec Nagatsuki Botan, une jeune fille qui cohabite en harmonie avec un groupe de Tsukumogami pacifistes qui viennent en aide aux Humains en traquant les Tsukumogami renégats.",
+    "genres": "Action, Seinen, Surnaturel, Combats",
+    "update": "La saison 2 sortira en juillet 2023",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5005661",
+            "https://video.sibnet.ru/shell.php?videoid=5011431",
+            "https://video.sibnet.ru/shell.php?videoid=5018645",
+            "https://video.sibnet.ru/shell.php?videoid=5026558",
+            "https://video.sibnet.ru/shell.php?videoid=5033500",
+            "https://video.sibnet.ru/shell.php?videoid=5042270",
+            "https://video.sibnet.ru/shell.php?videoid=5052535",
+            "https://video.sibnet.ru/shell.php?videoid=5060865",
+            "https://video.sibnet.ru/shell.php?videoid=5069170",
+            "https://video.sibnet.ru/shell.php?videoid=5075090",
+            "https://video.sibnet.ru/shell.php?videoid=5081401",
+            "https://video.sibnet.ru/shell.php?videoid=5088941"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239169&hash=ef0bb3cef310edba&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239224&hash=0a2a31f6642615bf&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239274&hash=0238470c05c35e66&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239215&hash=2db23ba048b85e06&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239259&hash=2afe24d6337343d2&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239299&hash=54d9cbf574664691&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239337&hash=253a553d44a03294&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239375&hash=e1e4137af887e9d6&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239417&hash=124eeff65446bd00&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239457&hash=ae2fdd52d5f5abd7&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239489&hash=3e54466fa9c83bd1&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239521&hash=b50ca2f99cecee03&hd=3"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/klbsoo5g",
+            "https://sendvid.com/embed/hclccdfb",
+            "https://sendvid.com/embed/gjt2qwp1",
+            "https://sendvid.com/embed/gn9kvey6",
+            "https://sendvid.com/embed/0ea9hlmv",
+            "https://sendvid.com/embed/8kx8yrv4",
+            "https://sendvid.com/embed/1gr8o2jp",
+            "https://sendvid.com/embed/sxnrqk6q",
+            "https://sendvid.com/embed/1k0yutqx",
+            "https://sendvid.com/embed/a98vtsau",
+            "https://sendvid.com/embed/iayef9jy",
+            "https://sendvid.com/embed/ztwk8ha6"
+          ],
+          "lec4": [
+            "https://www.myvi.tv/embed/j8x6g85bdbrrue8qgkgnem8obr",
+            "https://www.myvi.tv/embed/oyxmm8fhs43w9gifazzagi3fte",
+            "https://www.myvi.tv/embed/jes1mttc68xwirgz8om4fbhuky",
+            "https://www.myvi.tv/embed/myqejdfou9ir7cnjm4zh6nz64h",
+            "https://www.myvi.tv/embed/ya7f3oqawekrp8dw6o8z6u8upo",
+            "https://www.myvi.tv/embed/mnytrk8pkh4wjb9axuux1cmrfc",
+            "https://www.myvi.tv/embed/ci5p3dck6gdwzco1g3kdqzpyec",
+            "https://www.myvi.tv/embed/f8j6kysu8u5rtkd4i3rhwiwgfy",
+            "https://www.myvi.tv/embed/hekgufgt9kswfnsa5t3pxft8ww",
+            "https://www.myvi.tv/embed/wzkkamfiq7xwz8dprbwoq4ob6r",
+            "https://www.myvi.tv/embed/6qo5swb5zkhwpm1uejkywg17bc",
+            "https://www.myvi.tv/embed/ieq17fa3bd4rdq7b9w3fnwcxwe"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S1/Spirits_Seekers_12_VOSTFR.mp4"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5187189",
+            "https://video.sibnet.ru/shell.php?videoid=5194122",
+            "https://video.sibnet.ru/shell.php?videoid=5200542",
+            "https://video.sibnet.ru/shell.php?videoid=5206814",
+            "https://video.sibnet.ru/shell.php?videoid=5213914",
+            "https://video.sibnet.ru/shell.php?videoid=5221356",
+            "https://sendvid.com/embed/v1xjavpb",
+            "https://sendvid.com/embed/nz0b40pg",
+            "https://sendvid.com/embed/ymiliuic",
+            "https://sendvid.com/embed/35kh7uyw",
+            "https://video.sibnet.ru/shell.php?videoid=5250015",
+            "https://sendvid.com/embed/gtvpog06"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456239873&hash=cb9a497d3d8989ec&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239906&hash=b0aeca7dce087fc5&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239938&hash=497e9db6a5f7c2d1&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239971&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240005&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240039&hd=3",
+            "https://video.sibnet.ru/shell.php?videoid=5226802",
+            "https://video.sibnet.ru/shell.php?videoid=5231928",
+            "https://video.sibnet.ru/shell.php?videoid=5236235",
+            "https://video.sibnet.ru/shell.php?videoid=5243474",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240122&hd=3",
+            "https://video.sibnet.ru/shell.php?videoid=5256171"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/17amor2z",
+            "https://sendvid.com/embed/1orvhzdz",
+            "https://sendvid.com/embed/3rx0jers",
+            "https://sendvid.com/embed/omb6wv1u",
+            "https://sendvid.com/embed/p3jv5bou",
+            "https://sendvid.com/embed/2su7u6a7",
+            "https://www.myvi.tv/embed/pp1cnkebb3ew9qopegd1cs8ieo",
+            "https://www.myvi.tv/embed/r8yag837e8rrugm859uzywiwxa",
+            "https://www.myvi.tv/embed/xcqzpgzmr8irmgrnacxx17imra",
+            "https://www.myvi.tv/embed/35m9uc6x9x5wb8jerwxtgsj1cr",
+            "https://sendvid.com/embed/5gg4j34d",
+            "https://www.myvi.tv/embed/359xqoi1rhsrd87w1w897gw3wo"
+          ],
+          "lec4": [
+            "https://www.myvi.tv/embed/8sbi5kkuqntrueg5kqithcnmqw",
+            "https://www.myvi.tv/embed/8oxw4sxfkmnwbyi6u7gihcifth",
+            "https://www.myvi.tv/embed/zmw9r3ngweww8k3udqm3uti1hw",
+            "https://www.myvi.tv/embed/8neyzc9dznsrjy1so8yunf4crr",
+            "https://www.myvi.tv/embed/muqujx7nfk7rfgrzok9guzk5do",
+            "https://www.myvi.tv/embed/dq6mr7x4mc3rdb6y45364uneuw",
+            "https://www.myvi.tv/embed/pp1cnkebb3ew9qopegd1cs8ieo",
+            "https://www.myvi.tv/embed/r8yag837e8rrugm859uzywiwxa",
+            "https://www.myvi.tv/embed/xcqzpgzmr8irmgrnacxx17imra",
+            "https://www.myvi.tv/embed/35m9uc6x9x5wb8jerwxtgsj1cr",
+            "https://www.myvi.tv/embed/y4ptbgqzr7erimwypxafuy9a7y",
+            "https://www.myvi.tv/embed/359xqoi1rhsrd87w1w897gw3wo"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Spirits%20Seekers/S2/Spirits_Seekers_S2_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

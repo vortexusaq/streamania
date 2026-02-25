@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "tsue-to-tsurugi-no-wistoria",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tsue-to-tsurugi-no-wistoria.jpg",
+    "desc": "Cherchant à tenir la promesse faite à un ami d'enfance, Will Serfort intègre l'Académie magique de Regarden dans le but de se hisser au sommet du monde magique. Mais il y a un problème : il ne sait pas utiliser la magie ! Ses compétences à l'épée seront-elles la clé qui lui permettra de révéler son véritable potentiel ?",
+    "genres": "Action, Aventure, Comédie, Drame, Fantasy, Ecole, Monstres",
+    "update": "Une saison 2 a été annoncée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5588552",
+            "https://video.sibnet.ru/shell.php?videoid=5596308",
+            "https://video.sibnet.ru/shell.php?videoid=5603788",
+            "https://video.sibnet.ru/shell.php?videoid=5621139",
+            "https://video.sibnet.ru/shell.php?videoid=5631916",
+            "https://video.sibnet.ru/shell.php?videoid=5641771",
+            "https://video.sibnet.ru/shell.php?videoid=5651528",
+            "https://video.sibnet.ru/shell.php?videoid=5659229",
+            "https://video.sibnet.ru/shell.php?videoid=5668012",
+            "https://video.sibnet.ru/shell.php?videoid=5677371",
+            "https://video.sibnet.ru/shell.php?videoid=5687217",
+            "https://video.sibnet.ru/shell.php?videoid=5695215"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-dyzvt5b99k2m.html",
+            "https://vidmoly.to/embed-cdbb20re2kjv.html",
+            "https://vidmoly.to/embed-bcyfaxcv5pg2.html",
+            "https://vidmoly.to/embed-usjcl78cj57o.html",
+            "https://vidmoly.to/embed-brhhwltcua67.html",
+            "https://vidmoly.to/embed-1ido4ejx0p9j.html",
+            "https://vidmoly.to/embed-ighr95hnd0zy.html",
+            "https://vidmoly.to/embed-9lk0ljids3t3.html",
+            "https://vidmoly.to/embed-izakr5b88dhe.html",
+            "https://vidmoly.to/embed-z8wlkoumtdta.html",
+            "https://vidmoly.to/embed-67zwjoevmfnr.html",
+            "https://vidmoly.to/embed-zep8jqs882ae.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/4pg7055f",
+            "https://sendvid.com/embed/vzt5oxz7",
+            "https://video.sibnet.ru/shell.php?videoid=5603788",
+            "https://sendvid.com/embed/o6pnc3go",
+            "https://sendvid.com/embed/kywe4o3w",
+            "https://sendvid.com/embed/csofirb1",
+            "https://sendvid.com/embed/8i16rm0c",
+            "https://sendvid.com/embed/074sfc4b",
+            "https://sendvid.com/embed/kgs5ks64",
+            "https://sendvid.com/embed/6ossm0z2",
+            "https://sendvid.com/embed/fkb4nlhj",
+            "https://sendvid.com/embed/krfhkz27"
+          ]
+        }
+      }
+    }
+  }
+}

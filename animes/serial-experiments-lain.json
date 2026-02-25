@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "serial-experiments-lain",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/serial-experiments-lain.jpg",
+    "desc": "C'est l'histoire de Lain une fille un peu étrange et à l'écart à l'école. Une élève de sa classe se suicide et toute la classe commence a recevoir des mails étrange de cette fille, alors qu'elle est morte. Lain décide d'enquêter sur le net après avoir reçut un mail de cette fille, disant avoir rencontré Dieu sur le net. Commence pour elle un voyage dans le monde des hackers et du réseau, à la recherche de l'existence de Dieu et d'elle-même.",
+    "genres": "Drame, Horreur, Épouvante, Mystère, Psychologique, Science-fiction, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4725596",
+            "https://video.sibnet.ru/shell.php?videoid=4725601",
+            "https://video.sibnet.ru/shell.php?videoid=4725604",
+            "https://video.sibnet.ru/shell.php?videoid=4725606",
+            "https://video.sibnet.ru/shell.php?videoid=4725607",
+            "https://video.sibnet.ru/shell.php?videoid=4725611",
+            "https://video.sibnet.ru/shell.php?videoid=4725613",
+            "https://video.sibnet.ru/shell.php?videoid=4725617",
+            "https://video.sibnet.ru/shell.php?videoid=4725619",
+            "https://video.sibnet.ru/shell.php?videoid=4725622",
+            "https://video.sibnet.ru/shell.php?videoid=4725623",
+            "https://video.sibnet.ru/shell.php?videoid=4725625",
+            "https://video.sibnet.ru/shell.php?videoid=4725628"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-d8koeknjig3z.html",
+            "https://vidmoly.to/embed-xovscpanr1bs.html",
+            "https://vidmoly.to/embed-c5gjcz5v1jqf.html",
+            "https://vidmoly.to/embed-dg1myp8t5sus.html",
+            "https://vidmoly.to/embed-adhnn6hc382o.html",
+            "https://vidmoly.to/embed-0b9gwg4vzzw2.html",
+            "https://vidmoly.to/embed-6hdxxp6nkjww.html",
+            "https://vidmoly.to/embed-mp749az4rdy8.html",
+            "https://vidmoly.to/embed-mv2xlt8ljeva.html",
+            "https://vidmoly.to/embed-r962lc4nmmx5.html",
+            "https://vidmoly.to/embed-2c5shxo9k16p.html",
+            "https://vidmoly.to/embed-f5pii0noxhn4.html",
+            "https://vidmoly.to/embed-b7wjiqghoonh.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/itm781fc",
+            "https://sendvid.com/embed/kzxn4ilr",
+            "https://sendvid.com/embed/fri9gl3h",
+            "https://sendvid.com/embed/cnc9av6n",
+            "https://sendvid.com/embed/mi614uyx",
+            "https://sendvid.com/embed/3p1yywl4",
+            "https://sendvid.com/embed/tmcoljyz",
+            "https://sendvid.com/embed/f0q3ca94",
+            "https://sendvid.com/embed/b9eiasr4",
+            "https://sendvid.com/embed/a98r11bb",
+            "https://sendvid.com/embed/nibybqvp",
+            "https://sendvid.com/embed/2iuhv1ss",
+            "https://sendvid.com/embed/8vcjo0dv"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "joshiraku",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/joshiraku.jpg",
+    "desc": "Au Japon il existe une forme de spectacle littéraire se nommant le Rakugo. Dans le Rakugo le conteur raconte une histoire humoristique avec des jeux de mots. Buratei Marii et ses amies Harōkitei Kigurumi, Bōhatei Tetora, Kūrubiyūtei Gankyō et Anrakutei Kukuru sont cinq jeunes conteuses de Rakugo. Ces jeunes filles ont des conversations pleines de références culturelles et de jeux de mots. Discutant de tout et de rien elles partent de sujets de conversations anodins pour finir dans des situations absurdes.",
+    "genres": "Comédie, Slice-of-Life, Parodie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/3ogltkvx",
+            "https://sendvid.com/embed/3juy45tg",
+            "https://sendvid.com/embed/ten02en8",
+            "https://sendvid.com/embed/c1dxlrf5",
+            "https://sendvid.com/embed/5l6kpidx",
+            "https://sendvid.com/embed/xrpr4xo5",
+            "https://sendvid.com/embed/y7xtk42i",
+            "https://sendvid.com/embed/2956k3wv",
+            "https://sendvid.com/embed/yu8y1dj1",
+            "https://sendvid.com/embed/dppugx6z",
+            "https://sendvid.com/embed/f7749trj",
+            "https://sendvid.com/embed/ltflhl2r",
+            "https://sendvid.com/embed/dkwzxhj2"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5253655",
+            "https://video.sibnet.ru/shell.php?videoid=5253656",
+            "https://video.sibnet.ru/shell.php?videoid=5253657",
+            "https://video.sibnet.ru/shell.php?videoid=5253658",
+            "https://video.sibnet.ru/shell.php?videoid=5253659",
+            "https://video.sibnet.ru/shell.php?videoid=5253660",
+            "https://video.sibnet.ru/shell.php?videoid=5253661",
+            "https://video.sibnet.ru/shell.php?videoid=5253662",
+            "https://video.sibnet.ru/shell.php?videoid=5253663",
+            "https://video.sibnet.ru/shell.php?videoid=5253664",
+            "https://video.sibnet.ru/shell.php?videoid=5253665",
+            "https://video.sibnet.ru/shell.php?videoid=5253666",
+            "https://video.sibnet.ru/shell.php?videoid=5253667"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/zjmm3okr3utrfkxq7bx9snj3nr",
+            "https://www.myvi.tv/embed/qtby11hfn3irzrc3fzqdnt9s6o",
+            "https://www.myvi.tv/embed/q67d8mjw4i7rfgmiutuew593br",
+            "https://www.myvi.tv/embed/x64swmzwntdw5qoxn968mugsbh",
+            "https://www.myvi.tv/embed/wsry3dym5d4w5nazf7gte8bpqw",
+            "https://www.myvi.tv/embed/pcme3hc8jf3rtrw7rmeawhp5er",
+            "https://www.myvi.tv/embed/ac879zstohtw88hjdyxptiq8ah",
+            "https://www.myvi.tv/embed/c8rueo1upgxr3r65c4s8khuy4o",
+            "https://www.myvi.tv/embed/smscz1hkaswwdb1owo4cotdcxe",
+            "https://www.myvi.tv/embed/ws78654skqrr5pj9p1fduyh3za",
+            "https://www.myvi.tv/embed/isz3yha8r5xrpf3c8fkcihfp6y",
+            "https://www.myvi.tv/embed/ojzzpebukt8rxbns86r3ra6few",
+            "https://www.myvi.tv/embed/3zo338k3dxuw3eo1ayecnu1ofc"
+          ]
+        }
+      }
+    }
+  }
+}

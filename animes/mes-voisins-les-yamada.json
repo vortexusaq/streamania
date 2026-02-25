@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "mes-voisins-les-yamada",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mes-voisins-les-yamada.jpg",
+    "desc": "Avec un dessin simple et léger, et une suite de scènes indépendantes plutôt qu'une histoire \"en un fil\", Mes voisins les Yamada est un dessin animé qui parvient à être à la fois drôle, et très poétique par moments.",
+    "genres": "Comédie, Slice-of-Life\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4754506"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "data": {
+    "name": "young-gto",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/young-gto.jpg",
+    "desc": "Young GTO est la jeunesse d'Eikichi Onizuka (personnage principal de GTO) et de son meilleur ami Ryuji Danma. Ils sont encore au lycée mais ont déjà formé leur duo de choc l'Onibaku Combi (\"combi\" pour duo et \"oni\" de Onizuka, qui signifie démon et \"baku\" pour danma, parce que \"bakudan\" signifie bombe, autrement dit : le \"duo démon-bombe\"). À peine arrivés dans leur nouvel établissement, ils sont déjà les caïds et maîtrisent \"facilement\" leurs senpaï (aînés). Mais d'autres aventures attendent nos héros, des combats mais aussi des histoires de coeur...",
+    "genres": "Action, Comédie, School-Life, Yakuza, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/tmi5tgpae8zrjxod37ywox9wqh",
+            "https://www.myvi.top/embed/cr9o5mu3xguw3q81gz6tmr7k8h",
+            "https://www.myvi.top/embed/7n8iezoig5cr3xdfb7izaxqk7o",
+            "https://www.myvi.top/embed/sp1mdwtxmybr5r5fguj5up16wa",
+            "https://www.myvi.top/embed/9ytfiams93swdjz55ta11mtfso"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4798232",
+            "https://video.sibnet.ru/shell.php?videoid=4798234",
+            "https://video.sibnet.ru/shell.php?videoid=4798236",
+            "https://video.sibnet.ru/shell.php?videoid=4798238",
+            "https://video.sibnet.ru/shell.php?videoid=4798239"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/dzhgqkow",
+            "https://sendvid.com/embed/3f2dm9fo",
+            "https://sendvid.com/embed/qmbq36ic",
+            "https://sendvid.com/embed/9pmupc1g",
+            "https://sendvid.com/embed/9hafnduc"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "kawaisugi-crisis",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kawaisugi-crisis.jpg",
+    "desc": "Venus sur Terre pour y exterminer l'Humanité, jugée inférieure, des extra-terrestres finissent par réviser leur jugement après avoir succombé au charme de choses mignonnes.",
+    "genres": "",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5098997",
+            "https://video.sibnet.ru/shell.php?videoid=5105656",
+            "https://video.sibnet.ru/shell.php?videoid=5112695",
+            "https://video.sibnet.ru/shell.php?videoid=5120077",
+            "https://video.sibnet.ru/shell.php?videoid=5127312",
+            "https://video.sibnet.ru/shell.php?videoid=5135795",
+            "https://video.sibnet.ru/shell.php?videoid=5145950",
+            "https://video.sibnet.ru/shell.php?videoid=5152916",
+            "https://video.sibnet.ru/shell.php?videoid=5159932",
+            "https://video.sibnet.ru/shell.php?videoid=5166364",
+            "https://video.sibnet.ru/shell.php?videoid=5174139",
+            "https://video.sibnet.ru/shell.php?videoid=5179666"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456239548&hash=84fb1becbd9adf64&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239577&hash=8e75622ab1832cc7&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239609&hash=af3aa0d1d172fb2a&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239640&hash=061e738b8d1f119b&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239663&hash=1397b67fa81afdae&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239693&hash=626286d8a6faa67c&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239720&hash=0174344dbb209caf&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239744&hash=c9c8125c4d108fd9&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239769&hash=e94c7368d7fd27c1&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239794&hash=f4ee996cdc81d636&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239821&hash=8f9214b22c6bfdf2&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239846&hash=4adb219d678f8654&hd=3"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/hdmob1lf",
+            "https://sendvid.com/embed/srnwp1h2",
+            "https://sendvid.com/embed/3q8dr1ya",
+            "https://sendvid.com/embed/d19n88vk",
+            "https://sendvid.com/embed/jivf1p2j",
+            "https://sendvid.com/embed/8b86mzmy",
+            "https://sendvid.com/embed/zxvan3to",
+            "https://sendvid.com/embed/fwl88z4o",
+            "https://sendvid.com/embed/4jp2be8a",
+            "https://sendvid.com/embed/df7mn9qg",
+            "https://sendvid.com/embed/ciakprqb",
+            "https://sendvid.com/embed/05n2nd6m"
+          ],
+          "lec4": [
+            "https://www.myvi.tv/embed/56toj35g3e3wzdjmb93ufid3za",
+            "https://www.myvi.tv/embed/hi7uahfwzynr7jzsf7ip5f4aow",
+            "https://www.myvi.tv/embed/nok4omrmhriw5dbi3aw75wto1w",
+            "https://www.myvi.tv/embed/33h7s3o6kgzr9kzqwhhtg71o3h",
+            "https://www.myvi.tv/embed/s1md3fymt44rmqurwpw58wtuty",
+            "https://www.myvi.tv/embed/wh8eij3s5w9wjd64fhx7x66z8y",
+            "https://www.myvi.tv/embed/3nxziwubjg7wbjwnk95f4rf7oc",
+            "https://www.myvi.tv/embed/6s8jbxbr5pdr8bpfd4o71aof1c",
+            "https://www.myvi.tv/embed/4gd4snj89mfr8ffqbkiimyntar",
+            "https://www.myvi.tv/embed/ef9k8ft14murdeof75rc3gft4e",
+            "https://www.myvi.tv/embed/8jtnzzrggosr9p3b8xuxqtxz6o",
+            "https://www.myvi.tv/embed/5cuhcrqsk7gwifg7pbkzzn4nah"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Kawaisugi%20Crisis/Kawaisugi_Crisis_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

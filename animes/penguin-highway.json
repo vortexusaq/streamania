@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "penguin-highway",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/penguin-highway.jpg",
+    "desc": "L'histoire suit le quotidien de Aoyama, un garçonnet qui s'est pris d'amour pour une jeune femme bien plus âgée que lui, qui vit dans son quartier et exerce le métier d'assistante dentaire. Son petit quotidien se voit bouleversé lorsque des manchots débarquent en ville ! Il décide alors de tenter de résoudre cette affaire : d'où viennent-ils et que sont-ils venus faire ici ?",
+    "genres": "Comédie, Fantastique, Mystère, Romance, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4878059\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/batbue1rsqarzcxamsgdy4tpio"
+          ]
+        }
+      }
+    }
+  }
+}

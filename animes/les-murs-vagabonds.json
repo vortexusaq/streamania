@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "les-murs-vagabonds",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/drifting-home.jpg",
+    "desc": "Durant un jour d'été, Kosuke et Natsume découvrent un immeuble sur le point d'être démoli. Ce bâtiment est l'endroit où ils vivaient autrefois. Soudainement, ils se retrouvent pris dans un phénomène des plus étranges : l'immeuble qui abritait tellement de souvenirs dérive désormais sur la mer. Pourront-ils rentrer chez eux ? C'est ainsi que commence l'ultime voyage d'un été.",
+    "genres": "Drame, Mystère, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4872793\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/kwumu15adyhw5e8ai7b51sue4a"
+          ]
+        }
+      }
+    }
+  }
+}

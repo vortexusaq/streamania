@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "sabikui-bisco",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sabikui-bisco.jpg",
+    "desc": "L'histoire prend place dans un Japon alternatif ravagé par une sorte de peste faisant rouiller le corps humain. Afin de sauver son maître mourant, Bisco Akaboshi décide de partir à la recherche du champignon médicinal légendaire nommé Sabikui qui serait un remède contre la rouille.\n\nPendant son voyage, il fait la rencontre de Miro Nekoyanagi, un médecin qui cherche lui aussi un remède pour sauver sa précieuse sœur rongée par la rouille.\n\nCes deux jeunes hommes vont ainsi partir en voyage pour sauver leurs proches.",
+    "genres": "Action, Aventure, Comédie, Drame, Fantasy, Mystère, Shônen, Combats, Maladie, Post-apocalyptique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/08sg1eap",
+            "https://sendvid.com/embed/7u0zql2p",
+            "https://sendvid.com/embed/b224d2kt",
+            "https://sendvid.com/embed/0bihlc9x",
+            "https://sendvid.com/embed/yeip7lhy",
+            "https://sendvid.com/embed/p1vhfff1",
+            "https://sendvid.com/embed/1zd6hi17",
+            "https://sendvid.com/embed/j2ilxxno",
+            "https://sendvid.com/embed/kry8l1gd",
+            "https://sendvid.com/embed/wudyamto",
+            "https://sendvid.com/embed/2ubsmvtk",
+            "https://sendvid.com/embed/wr05f5ws"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4571213",
+            "https://video.sibnet.ru/shell.php?videoid=4579551",
+            "https://video.sibnet.ru/shell.php?videoid=4586604",
+            "https://video.sibnet.ru/shell.php?videoid=4593169",
+            "https://video.sibnet.ru/shell.php?videoid=4599543",
+            "https://video.sibnet.ru/shell.php?videoid=4605467",
+            "https://video.sibnet.ru/shell.php?videoid=4611859",
+            "https://video.sibnet.ru/shell.php?videoid=4620631",
+            "https://video.sibnet.ru/shell.php?videoid=4628333",
+            "https://video.sibnet.ru/shell.php?videoid=4635156",
+            "https://video.sibnet.ru/shell.php?videoid=4644012",
+            "https://video.sibnet.ru/shell.php?videoid=4650880"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/njbu7nxcoe4wzjxckjhhk9hedc",
+            "https://www.myvi.top/embed/i13m9mr9mntwdder4jemg91pqe",
+            "https://www.myvi.top/embed/4ko1so3f174w7bxcxsanwrqo9r",
+            "https://www.myvi.top/embed/ksfngrtte8grtx8qeido17khia",
+            "https://www.myvi.top/embed/145ton6zgsmr7mn1wo3fq9rtoe",
+            "https://www.myvi.top/embed/q41wb6bp6muwijdtgua6rky6cw",
+            "https://www.myvi.top/embed/1nf56zaudxnwz8hfrs9obesd9y",
+            "https://www.myvi.top/embed/w35o4d98tq7wddnwbweioa538e",
+            "https://www.myvi.top/embed/t1o19pedpafrfedzmzedduz9ga",
+            "https://www.myvi.top/embed/c618h381tzfrurpoe1ouzjk17a",
+            "https://www.myvi.tv/embed/ej4tp76tfcqrbrimje7hcdf8ia",
+            "https://www.myvi.tv/embed/pgriiewq8uowinnzfj1rw6q3dh"
+          ]
+        }
+      }
+    }
+  }
+}

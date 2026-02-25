@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "nos-mots-comme-des-bulles",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nos-mots-comme-des-bulles.jpg",
+    "desc": "Cherry est un jeune garçon de 17 ans ayant du mal à communiquer avec les gens et s'exprimant plus facilement à travers des Haïkus (poèmes courts). Il fait un jour la rencontre de Smile, une jeune fille qui cache son complexe physique à l'aide d'un masque.\n\nGrâce à la musique et les mots, ces derniers vont finir par se rapprocher.",
+    "genres": "Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/dqccct58zf5w8mpc9wix98657w"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/zra6pb3e"
+          ],
+          "lec3": [
+            "https://uptostream.com/iframe/4vixn0ti6c08"
+          ]
+        }
+      }
+    }
+  }
+}

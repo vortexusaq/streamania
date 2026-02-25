@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "azur-et-asmar",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/azur-et-asmar.jpg",
+    "desc": "Il y a bien longtemps, deux enfants étaient bercés par la même femme. Azur, blond aux yeux bleus, fils du châtelain, et Asmar, brun aux yeux noirs, fils de la nourrice. Elevés comme deux frères, les enfants sont séparés brutalement. Mais Azur, marqué par la légende de la Fée des Djins que lui racontait sa nourrice, n'aura de cesse de la retrouver, au-delà des mers. Les deux frères de lait devenus grands partent chacun à la recherche de la Fée. Rivalisant d'audace, ils iront à la découverte de terres magiques, recelant autant de dangers que de merveilles...",
+    "genres": "Drame, Histoire, Aventure, Romance, Comédie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vf",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/poqzhqm7zuawfbr7tthwjr17zr"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/1vk654l8"
+          ]
+        }
+      }
+    }
+  }
+}

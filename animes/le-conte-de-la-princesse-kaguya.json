@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "le-conte-de-la-princesse-kaguya",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-conte-de-la-princesse-kaguya.jpg",
+    "desc": "Kaguya-hime no Monogatari est le dernier film de Isao Takahata. Celui-ci se base sur la célèbre légende nippone intitulée Taketori Monogatari, soit en français \"Le conte du coupeur de bambous\". Le mythe raconte l'histoire d'un coupeur de bambou qui, par hasard, découvre une petite fille éblouissante dans la forêt qui, plus tard, donnera une quête impossible à ses cinq prétendants au mariage.\n\nInitialement, le film devait sortir en même temps que Kaze Tachinu, mais il a finalement été repoussé à l'automne 2013, en raison d'une production finalement plus longue que prévu.",
+    "genres": "Fantastique, Historique\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5366066"
+          ]
+        }
+      }
+    }
+  }
+}

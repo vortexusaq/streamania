@@ -1,0 +1,120 @@
+{
+  "data": {
+    "name": "sentai-red-isekai-de-boukensha-ni-naru",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sentai-red-isekai-de-boukensha-ni-naru.jpg",
+    "desc": "Tougo Asagaki, un Sentai Hero, a été vaincu par l'ennemi lors de la bataille finale contre l'organisation maléfique locale. Il semble avoir perdu la vie lors de l'affrontement, mais lorsqu'il revient à lui, il s'est réincarné dans un monde remplis de monstres et de magie ! Dans cet autre-monde, il devient un aventurier pour sauver les gens dans le besoin. Pour cela il peut toujours se transformer en Kizuna Red et continuer à se battre pour forger des liens et faire régner la justice !",
+    "genres": "Action, Aventure, Comédie, Ecchi, Fantasy, Isekai, Romance, Autre-monde, Magie, Monstres, Sentai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5796761",
+            "https://video.sibnet.ru/shell.php?videoid=5802185"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-ztyw3hwg5k1r.html",
+            "https://vidmoly.to/embed-owkc9rpm1qr7.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-cbnwz287qsy8.html",
+            "https://oneupload.to/embed-nosuw0cmmhbo.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/hqp9e1zt",
+            "https://vidmoly.to/embed-owkc9rpm1qr7.html"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241164&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241230&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

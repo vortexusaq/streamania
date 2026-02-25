@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "amaama-to-inazuma",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/amaama-to-inazuma.jpg",
+    "desc": "Après avoir perdu sa femme, le professeur Kôhei Inuzuka se voit obligé d'élever sa fille Tsumugi, tout seul. Sachant très mal cuisiner, Kôhei décide d'acheter de la nourriture déjà toute prête au supermarché. Un jour, il se retrouve dans le restaurant de la mère d'une de ses élèves : Kotori Iida. Kotori étant souvent seule, nos trois compères décident de se retrouver chaque jour pour cuisiner et manger ensemble.",
+    "genres": "Comédie, Seinen, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/hh8yda8n",
+            "https://sendvid.com/embed/yu1bosae",
+            "https://sendvid.com/embed/0oqtx967",
+            "https://sendvid.com/embed/avd0ihad",
+            "https://sendvid.com/embed/hdf02csx",
+            "https://sendvid.com/embed/ebc9wb16",
+            "https://sendvid.com/embed/l4qhbv8m",
+            "https://sendvid.com/embed/ck0ldqcl",
+            "https://sendvid.com/embed/jwz8u1an",
+            "https://sendvid.com/embed/3oelmkfs",
+            "https://sendvid.com/embed/sh48phnk",
+            "https://sendvid.com/embed/qsc0vy5n\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4811849",
+            "https://video.sibnet.ru/shell.php?videoid=4811850",
+            "https://video.sibnet.ru/shell.php?videoid=4811851",
+            "https://video.sibnet.ru/shell.php?videoid=4811852",
+            "https://video.sibnet.ru/shell.php?videoid=4811853",
+            "https://video.sibnet.ru/shell.php?videoid=4811854",
+            "https://video.sibnet.ru/shell.php?videoid=4811855",
+            "https://video.sibnet.ru/shell.php?videoid=4811856",
+            "https://video.sibnet.ru/shell.php?videoid=4811857",
+            "https://video.sibnet.ru/shell.php?videoid=4811858",
+            "https://video.sibnet.ru/shell.php?videoid=4811860",
+            "https://video.sibnet.ru/shell.php?videoid=4811861"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/dk5uzq4bd8mr5jpebk3bcom1nr",
+            "https://www.myvi.tv/embed/bbzbr8ex8bqrmntj531wmqusry",
+            "https://www.myvi.tv/embed/rt4mnb6p4d4wdbidmdgy41hida",
+            "https://www.myvi.tv/embed/z8acxfuxc3iw8884bb6hpxdkky",
+            "https://www.myvi.tv/embed/e5y39xn4jykr7c8omrus4perpy",
+            "https://www.myvi.tv/embed/yhe9h9pijtww58rg4kb89beago",
+            "https://www.myvi.tv/embed/t88tw6zz4rpr3k9xqndjwmszqo",
+            "https://www.myvi.tv/embed/k5wnydnprrcrpnnsmdnz5ywp1o",
+            "https://www.myvi.tv/embed/tc67wjmiejfw9dqaxju53t44rw",
+            "https://www.myvi.tv/embed/y77fy6m3ymwrjgbh1z3ykoh91w",
+            "https://www.myvi.tv/embed/de859g33nziwiby1b3mpnt639e",
+            "https://www.myvi.tv/embed/nhxo8txj3hprup4xuwxhyfsshe"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "shinmai-ossan-bokensha",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shinmai-ossan-bokensha.jpg",
+    "desc": "C'est bien connu : si vous voulez devenir un aventurier, il faut s'y prendre le plus tôt possible au cours de sa vie, afin de se donner une marge de progression plus grande. D'autant que c'est lorsqu'on est enfant, voire adolescent, que l'on acquiert le plus de puissance ! Rick Gladiator, lui, est dans la trentaine et n'est parvenu à devenir un aventurier de rang S que très tardivement comparé à ses semblables... Ce qui pourrait sembler être un handicap pour lui se révèle en fait être un atout : en effet, tous ses ennemis le sous-estiment, mais une fois en combat, Rick dévoile de grandes capacités.",
+    "genres": "Action, Aventure, Comédie, Drame, Ecchi, Fantasy, Dragons, Elfe, Monstres",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5582291",
+            "https://video.sibnet.ru/shell.php?videoid=5589793",
+            "https://video.sibnet.ru/shell.php?videoid=5597710",
+            "https://video.sibnet.ru/shell.php?videoid=5606162",
+            "https://video.sibnet.ru/shell.php?videoid=5613865",
+            "https://video.sibnet.ru/shell.php?videoid=5634505",
+            "https://video.sibnet.ru/shell.php?videoid=5644097",
+            "https://video.sibnet.ru/shell.php?videoid=5653067",
+            "https://video.sibnet.ru/shell.php?videoid=5661308",
+            "https://video.sibnet.ru/shell.php?videoid=5669956",
+            "https://video.sibnet.ru/shell.php?videoid=5679011",
+            "https://video.sibnet.ru/shell.php?videoid=5688914"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-6us0rkibo9sc.html",
+            "https://vidmoly.to/embed-vqh9evvgepha.html",
+            "https://vidmoly.to/embed-eyj41emfj85b.html",
+            "https://vidmoly.to/embed-qovnngnrq7t5.html",
+            "https://vidmoly.to/embed-zz6snh043et2.html",
+            "https://vidmoly.to/embed-55i7ztxm4wut.html",
+            "https://vidmoly.to/embed-6jatr50gkd5b.html",
+            "https://vidmoly.to/embed-s4v2sqwjdixy.html",
+            "https://vidmoly.to/embed-hxz0bqksu5lj.html",
+            "https://vidmoly.to/embed-ywmpxkz07mqo.html",
+            "https://vidmoly.to/embed-8gjzxjmfamzw.html",
+            "https://vidmoly.to/embed-c5nml3gr39wj.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/fj1ocqtl",
+            "https://sendvid.com/embed/x1agweij",
+            "https://sendvid.com/embed/w31fjht5",
+            "https://video.sibnet.ru/shell.php?videoid=5606162",
+            "https://sendvid.com/embed/o5lxb0bs",
+            "https://sendvid.com/embed/04q5jxuz",
+            "https://sendvid.com/embed/kqfguwoc",
+            "https://sendvid.com/embed/r7ehd6pd",
+            "https://sendvid.com/embed/3dei3h42",
+            "https://sendvid.com/embed/ys7hwb7e",
+            "https://sendvid.com/embed/97m18qv7",
+            "https://sendvid.com/embed/ssrd7xtd"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239877&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239917&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239960&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240003&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240049&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240128&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240177&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240228&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240279&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240328&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240384&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239090&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

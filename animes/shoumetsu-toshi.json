@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "shoumetsu-toshi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shoumetsu-toshi.jpg",
+    "desc": "Lost. Un évènement dramatique ayant frappé la baie de Tokyo : en quelques minutes, un pan entier de la ville et tout ceux qui s'y trouvaient disparurent sans laisser la moindre trace. Yuki est l'une des rares survivantes de la catastrophe mais elle a depuis tout perdu : sa famille et sa liberté. En effet, elle est devenu un sujet d'expérimentation pour un mystérieux laboratoire et a peu à peu perdu goût à la vie. Un jour, elle est secourue par le mystérieux Takuya qui, avec elle, va tenter de comprendre les réelles causes de cette catastrophe sans précédent.",
+    "genres": "Aventure, Drame, Mystère, Psychologique, Science-fiction, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/pe7ld5kt",
+            "https://sendvid.com/embed/v93vs3x4",
+            "https://sendvid.com/embed/f8g06pqw",
+            "https://sendvid.com/embed/8qkwvpsk",
+            "https://sendvid.com/embed/riddl9qp",
+            "https://sendvid.com/embed/cisablfb",
+            "https://sendvid.com/embed/esk1owh6",
+            "https://sendvid.com/embed/nb4f77c4",
+            "https://sendvid.com/embed/v6wirzew",
+            "https://sendvid.com/embed/ooqz1dxm",
+            "https://sendvid.com/embed/vj0m8b28",
+            "https://sendvid.com/embed/iz1xe89o\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4832393",
+            "https://video.sibnet.ru/shell.php?videoid=4832398",
+            "https://video.sibnet.ru/shell.php?videoid=4832402",
+            "https://video.sibnet.ru/shell.php?videoid=4832405",
+            "https://video.sibnet.ru/shell.php?videoid=4832407",
+            "https://video.sibnet.ru/shell.php?videoid=4832411",
+            "https://video.sibnet.ru/shell.php?videoid=4832415",
+            "https://video.sibnet.ru/shell.php?videoid=4832416",
+            "https://video.sibnet.ru/shell.php?videoid=4832418",
+            "https://video.sibnet.ru/shell.php?videoid=4832419",
+            "https://video.sibnet.ru/shell.php?videoid=4832420",
+            "https://video.sibnet.ru/shell.php?videoid=4832422"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/tii3t493pf1r7jfixzprotnjzy",
+            "https://www.myvi.tv/embed/3h45f78u45ardpfxx7rzascb5c",
+            "https://www.myvi.tv/embed/4oo5r9pydfywznntf83mkfh5qc",
+            "https://www.myvi.tv/embed/gce5nh7ahshw3y5im4yx3zsqte",
+            "https://www.myvi.tv/embed/a3wz9tauemgrmgd35cfrbqzqoc",
+            "https://www.myvi.tv/embed/m6razowmjkiw8kuiaiky4obpaw",
+            "https://www.myvi.tv/embed/mhkdt6iah6brzfgkmybr5jzagr",
+            "https://www.myvi.tv/embed/nuxrgq9fn3sw3dsg6cn8yhceho",
+            "https://www.myvi.tv/embed/jx3ffsus4gnrjfyf1h9f3c9o5r",
+            "https://www.myvi.tv/embed/echrbst9xo5rby33mjeth1o45o",
+            "https://www.myvi.tv/embed/u3u9559177frpj9xuu1gk4an5h",
+            "https://www.myvi.tv/embed/g4nqpscezckr3x44uxs4qntstw"
+          ]
+        }
+      }
+    }
+  }
+}

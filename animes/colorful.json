@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "colorful",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/colorful.jpg",
+    "desc": "L'âme d'une personne décédée va avoir droit à une seconde chance parmi les vivants. Elle est réincarnée dans le corps d'un adolescent de 14 ans, Makoto Kobayashi, qui vient de mettre fin à ses jours.\nL'âme n'est réincarnée que pendant un temps limité, durant lequel elle doit réussir à trouver quelle a été sa pire faute au cours de sa vie antérieure et apprendre ce qui a conduit Makoto au suicide. Elle sera suivie tout au long de son périple par un esprit neutre nommé Purapura.",
+    "genres": "Drame, Fantastique, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5340735"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "seikai-suru-kado",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/seikai-suru-kado.jpg",
+    "desc": "Kôjirô Shindô, négociateur de génie au service du gouvernement japonais, et son partenaire Shun Hanamori s'apprêtent à assister à une importante réunion quand l'impensable survient : un gigantesque cube de plusieurs kilomètres carrés apparaît juste au-dessus de leur avion et l'absorbe. Le cube, qui occupe un vaste espace à l'aéroport d'Haneda, est la propriété de Yaha-kui zaShunina, un être étrange qui cherche à communiquer avec l'Humanité. Il demande à Kôjirô de l'aider dans cette voie, tout en lui promettant de laisser partir les autres passagers en échange.",
+    "genres": "Drame, Mystère, Science-fiction, Surnaturel, Police, Politique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5627869",
+            "https://video.sibnet.ru/shell.php?videoid=5627870",
+            "https://video.sibnet.ru/shell.php?videoid=5627871",
+            "https://video.sibnet.ru/shell.php?videoid=5627872",
+            "https://video.sibnet.ru/shell.php?videoid=5627873",
+            "https://video.sibnet.ru/shell.php?videoid=5627874",
+            "https://video.sibnet.ru/shell.php?videoid=5627875",
+            "https://video.sibnet.ru/shell.php?videoid=5627876",
+            "https://video.sibnet.ru/shell.php?videoid=5627877",
+            "https://video.sibnet.ru/shell.php?videoid=5627878",
+            "https://video.sibnet.ru/shell.php?videoid=5627879",
+            "https://video.sibnet.ru/shell.php?videoid=5627880",
+            "https://video.sibnet.ru/shell.php?videoid=5627881"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-cryxo7xb1s1t.html",
+            "https://vidmoly.to/embed-6ofcu58rbwwl.html",
+            "https://vidmoly.to/embed-it46xhobvxkh.html",
+            "https://vidmoly.to/embed-sfc3bn2w7d0z.html",
+            "https://vidmoly.to/embed-y2ouuf1npjhh.html",
+            "https://vidmoly.to/embed-3bhn6pv2lvrh.html",
+            "https://vidmoly.to/embed-znp8ln3ceojh.html",
+            "https://vidmoly.to/embed-ii3v4e28m7ap.html",
+            "https://vidmoly.to/embed-7ucqkrs87gxo.html",
+            "https://vidmoly.to/embed-tg075e03uisl.html",
+            "https://vidmoly.to/embed-n7q69po2b7w5.html",
+            "https://vidmoly.to/embed-g5a8ckqp9si2.html",
+            "https://vidmoly.to/embed-2y55vh4kxlyh.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/kddrswgx",
+            "https://sendvid.com/embed/88w54la3",
+            "https://sendvid.com/embed/1unuamql",
+            "https://sendvid.com/embed/l5vu4fcw",
+            "https://sendvid.com/embed/p5j1sb35",
+            "https://sendvid.com/embed/mrjl1ypc",
+            "https://sendvid.com/embed/p1gkbi6a",
+            "https://sendvid.com/embed/xmnqror9",
+            "https://sendvid.com/embed/qj01uzn9",
+            "https://sendvid.com/embed/m8fe0r5e",
+            "https://sendvid.com/embed/kxi2uhdl",
+            "https://sendvid.com/embed/x6p8yp52",
+            "https://sendvid.com/embed/kduppxtp"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "fallen-angels",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fallen-angels.jpg",
+    "desc": "Hong Kong la nuit. Un tueur à gages en a assez de tuer. Une femme lui sert d'agent et reve qu'il tombe amoureux d'elle. Une jeune fille veut se venger d'un amour decu. Une jeune femme guette le grand amour. Un garçon muet déambule dans les rues. Le tueur, héros de ce film, sort directement de 'Chungking Express', du même réalisateur, où il devait composer une troisième partie supprimée en raison de la longueur du film.",
+    "genres": "Romance, Policier",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4815689\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/aeood7ndpduw3fmdtuob7ymmna"
+          ]
+        }
+      }
+    }
+  }
+}

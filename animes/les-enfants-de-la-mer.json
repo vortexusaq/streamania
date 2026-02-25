@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "les-enfants-de-la-mer",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-enfants-de-la-mer.jpg",
+    "desc": "C'est le début des vacances d'été ! Pourtant, Ruka, une collégienne un peu rebelle, s'ennuie déjà. Celle-ci s'est en effet fait exclure du club de handball dès le premier jour après avoir blessé un de ses camarades.\n\nAfin de prendre un peu de recul, elle décide de partir à Tokyo le temps d'une journée. En se baladant près du port, elle fait la rencontre d'Umi, un garçon énigmatique qui finit par disparaitre dans les eaux troubles de la ville.\n\nPlusieurs jours plus tard, alors que Ruka part aider son père océanographe à l'aquarium, elle retombe sur Umi, accompagné cette fois-ci de Sora, un garçon sarcastique. Tous les deux possèdent un don aquatique surnaturel.",
+    "genres": "Aventure, Drame, Mystère, Seinen, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5168703"
+          ]
+        }
+      }
+    }
+  }
+}

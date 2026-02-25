@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "the-world-ends-with-you",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-world-ends-with-you.jpg",
+    "desc": "L'histoire nous entraîne dans le quotidien de Neku Sakuraba, un adolescent très talentueux dans l'art des graffitis. Un jour, il reçoit un étrange message sur son téléphone : s'il ne parvient pas à venir à bout d'une série d'épreuves insensées, il disparaîtra dans sept jours.\n\nPeu de temps après ce message, il est rejoint par une mystérieuse jeune fille du nom de Shiki dans son voyage à travers l'inconnu pour découvrir la vérité sur ce qui lui arrive et détruire l'organisation obscure des Reapers.",
+    "genres": "Action, Drame, Mystère, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/i87f5efi4s5rtxcmw1a1jtin4w",
+            "https://www.myvi.top/embed/degxpfjcr7cw98cjfbarkeu9sw",
+            "https://www.myvi.top/embed/hruttjit67irfmcekjtsej8p9e",
+            "https://www.myvi.top/embed/ukcckbc57ozr3psmq1qyhruwtr",
+            "https://www.myvi.top/embed/m15ay7h8dtbw5bx6n8d9ohq87e",
+            "https://www.myvi.top/embed/9x4zrswmd8owudeud6re6pfy1w",
+            "https://www.myvi.top/embed/ot7ucfaa9ysw3knp4yhn6hdg6r",
+            "https://www.myvi.top/embed/x7gam3p36w6rzy535burquhmba",
+            "https://www.myvi.top/embed/nt8ipgw7wn8rjypqr8tkjox5aa",
+            "https://www.myvi.top/embed/cd5ofo4464tr3yzwxmd5zusfor",
+            "https://www.myvi.top/embed/3aixb4qcwyiwdb9a6wwcecwwza",
+            "https://www.myvi.top/embed/dk9i3t3y5rqrd8iriur8atd9ye"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/plaz0fc9",
+            "https://sendvid.com/embed/01jk72k2",
+            "https://sendvid.com/embed/lkwa7smi",
+            "https://sendvid.com/embed/yyzjk3zy",
+            "https://sendvid.com/embed/2csoq4jw",
+            "https://sendvid.com/embed/7dxbqrzv",
+            "https://sendvid.com/embed/x7ecy6s4",
+            "https://sendvid.com/embed/upmqhekn",
+            "https://sendvid.com/embed/238yoz0h",
+            "https://sendvid.com/embed/1yqw3eeh",
+            "https://sendvid.com/embed/lw6ovdzd",
+            "https://sendvid.com/embed/bxqvo1kb"
+          ]
+        }
+      }
+    }
+  }
+}

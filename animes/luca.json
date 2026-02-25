@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "luca",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/luca.jpg",
+    "desc": "Dans une très jolie petite ville côtière de la Riviera italienne, un jeune garçon, Luca, vit un été inoubliable, ponctué de délicieux gelato, de savoureuses pasta et de longues balades en scooter. Il partage ses aventures avec son nouveau meilleur ami, mais ce bonheur est menacé par un secret bien gardé : tous deux sont en réalité des monstres marins venus d’un autre monde, situé juste au-dessous de la surface de l’eau…",
+    "genres": "Animation, Famille, Comédie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4742372"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/ns3yxkfd8gowdfieb4kouuf7yc"
+          ]
+        }
+      }
+    }
+  }
+}

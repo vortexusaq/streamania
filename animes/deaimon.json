@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "deaimon",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/deaimon.jpg",
+    "desc": "Lorsqu'il apprend que son père est hospitalisé, Irino Nagomu s'empresse de revenir à Kyoto, dans la maison familiale dans laquelle il ne s'est plus rendu depuis dix ans. Ravi, il s'imagine qu'il va pouvoir reprendre le Ryokushou, magasin de pâtisseries traditionnelles de la famille. Cependant, on lui demande de s'occuper de Yukihira Itsuka, une jeune fille que tout le monde pressent comme le successeur des lieux...",
+    "genres": "Seinen, Slice-of-Life, Gastronomie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/5p8apwmt",
+            "https://sendvid.com/embed/jrboaiwa",
+            "https://sendvid.com/embed/4sgmmjcr",
+            "https://sendvid.com/embed/ryblisno",
+            "https://sendvid.com/embed/dd6bvnxm",
+            "https://sendvid.com/embed/9yzrdf5g",
+            "https://sendvid.com/embed/oeh3hdfx",
+            "https://sendvid.com/embed/tzw6fhd4",
+            "https://sendvid.com/embed/w98ufosg",
+            "https://sendvid.com/embed/0ja6qyy4",
+            "https://sendvid.com/embed/0qtne0ho",
+            "https://sendvid.com/embed/12vcaxdr"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4666220",
+            "https://video.sibnet.ru/shell.php?videoid=4671209",
+            "https://video.sibnet.ru/shell.php?videoid=4679413",
+            "https://video.sibnet.ru/shell.php?videoid=4690579",
+            "https://video.sibnet.ru/shell.php?videoid=4702077",
+            "https://video.sibnet.ru/shell.php?videoid=4708950",
+            "https://video.sibnet.ru/shell.php?videoid=4717897",
+            "https://video.sibnet.ru/shell.php?videoid=4728194",
+            "https://video.sibnet.ru/shell.php?videoid=4735440",
+            "https://video.sibnet.ru/shell.php?videoid=4743926",
+            "https://video.sibnet.ru/shell.php?videoid=4752997",
+            "https://video.sibnet.ru/shell.php?videoid=4761132"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/cj4p4b3ssderproqp4iex3bt1h",
+            "https://www.myvi.tv/embed/ei78mhy3feuwmfmyqff9znbuwa",
+            "https://www.myvi.tv/embed/ob573m8895rrmrnbgwfhpgc1ny",
+            "https://www.myvi.tv/embed/3gbhij5gdyarmd7a76u7njd1cc",
+            "https://www.myvi.tv/embed/azyw8maixxor9diq4ertp37oja",
+            "https://www.myvi.tv/embed/pghoidpomprwdkza4rm75sc68y",
+            "https://www.myvi.tv/embed/6ypzw4wby99rxdsxwoehyn1u3y",
+            "https://www.myvi.tv/embed/owpxmj9cuuewxntidhxgdppe3y",
+            "https://www.myvi.tv/embed/8ir1rzp95iardcxiqbyr5tkw3r",
+            "https://www.myvi.tv/embed/1zwgeo9f3mhr8fz68tu9cerspa",
+            "https://www.myvi.tv/embed/dbxmchfnn89rmdbynx791c6cyr",
+            "https://www.myvi.tv/embed/6f5d5rqwzpfwdq4d9ws9f5snow"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "data": {
+    "name": "gurren-lagann",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gurren-lagann.jpg",
+    "desc": "Simon vit dans un petit village souterrain. Jour après jour, il fore le sol sans relâche et sans se poser de question, après tout, il n'est bon qu'à ça... Kamina, son grand frère spirituel, est un grand voyou casse-cou et arrogant qui rêve d'atteindre une \"surface\" dont il est le seul à croire en l'existence.\nPourtant un jour, suite à un terrible tremblement de terre le plafond du village s'effondre laissant apparaître le ciel. Un terrible robot descend alors dans le village et dit vouloir exterminer tous les habitants. Une fille du nom de Yoko, originaire du village voisin, débarque de nulle part bombardant l'ennemi et demande aux deux garçons de se mettre à l'abri... Ce que Kamina refuse de faire, décidant d'utiliser le dernier trésor que Simon à déterrer pour vaincre le robot : une espèce tête en métal.\nL'objet se révélant être doté de fabuleux pouvoirs, Kamina, Simon et Yoko parviennent à exploser le robot et s'échappent des sous-sols de la terre par la même occasion. Ce qu'ils découvrent à la surface est un monde dévasté dans lequel les êtres humains sont chassés tels du bétail par une autre race, les beastmen. Nos trois héros décident alors de former un groupe, la Gurren Brigade, pour mettre fin à l'oppression des beastmen et offrir ainsi à l'humanité une vie sous le soleil.",
+    "genres": "Action, Aventure, Comédie, Drame, Romance, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4719680",
+            "https://video.sibnet.ru/shell.php?videoid=4719683",
+            "https://video.sibnet.ru/shell.php?videoid=4719684",
+            "https://video.sibnet.ru/shell.php?videoid=4719685",
+            "https://video.sibnet.ru/shell.php?videoid=4719686",
+            "https://video.sibnet.ru/shell.php?videoid=4719688",
+            "https://video.sibnet.ru/shell.php?videoid=4719691",
+            "https://video.sibnet.ru/shell.php?videoid=4719694",
+            "https://video.sibnet.ru/shell.php?videoid=4719699",
+            "https://video.sibnet.ru/shell.php?videoid=4719702",
+            "https://video.sibnet.ru/shell.php?videoid=4719706",
+            "https://video.sibnet.ru/shell.php?videoid=4719709",
+            "https://video.sibnet.ru/shell.php?videoid=4719711",
+            "https://video.sibnet.ru/shell.php?videoid=4719714",
+            "https://video.sibnet.ru/shell.php?videoid=4719717",
+            "https://video.sibnet.ru/shell.php?videoid=4719722",
+            "https://video.sibnet.ru/shell.php?videoid=4719728",
+            "https://video.sibnet.ru/shell.php?videoid=4719735",
+            "https://video.sibnet.ru/shell.php?videoid=4719740",
+            "https://video.sibnet.ru/shell.php?videoid=4719746",
+            "https://video.sibnet.ru/shell.php?videoid=4719752",
+            "https://video.sibnet.ru/shell.php?videoid=4719755",
+            "https://video.sibnet.ru/shell.php?videoid=4719758",
+            "https://video.sibnet.ru/shell.php?videoid=4719761",
+            "https://video.sibnet.ru/shell.php?videoid=4719763",
+            "https://video.sibnet.ru/shell.php?videoid=4719765",
+            "https://video.sibnet.ru/shell.php?videoid=4719768"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-jfi5g0wwf6k8.html",
+            "https://vidmoly.to/embed-gd3p0a5vce9x.html",
+            "https://vidmoly.to/embed-x7avgo8mrljq.html",
+            "https://vidmoly.to/embed-l43c5xzndn54.html",
+            "https://vidmoly.to/embed-jrocwr5r2x8q.html",
+            "https://vidmoly.to/embed-516dvbhy0dzc.html",
+            "https://vidmoly.to/embed-i87nfjs67iw8.html",
+            "https://vidmoly.to/embed-7xue1f0n0fkk.html",
+            "https://vidmoly.to/embed-d270mo2by3zi.html",
+            "https://vidmoly.to/embed-83yguxcvm9oe.html",
+            "https://vidmoly.to/embed-1mfg9s4hn9m6.html",
+            "https://vidmoly.to/embed-xgjds218dkqf.html",
+            "https://vidmoly.to/embed-7034hhx516ak.html",
+            "https://vidmoly.to/embed-jzf46sm885y5.html",
+            "https://vidmoly.to/embed-29slyqfgyhh0.html",
+            "https://vidmoly.to/embed-jbasl7oajw86.html",
+            "https://vidmoly.to/embed-ixf3j26etwqb.html",
+            "https://vidmoly.to/embed-4c6fr1kv3zd4.html",
+            "https://vidmoly.to/embed-awgflxi1anbh.html",
+            "https://vidmoly.to/embed-n5a0v3a0qrlh.html",
+            "https://vidmoly.to/embed-bteyk18d5bsx.html",
+            "https://vidmoly.to/embed-1u0huyed1vak.html",
+            "https://vidmoly.to/embed-l42x2p5exn0g.html",
+            "https://vidmoly.to/embed-mk6yoyt189pa.html",
+            "https://vidmoly.to/embed-0utnj8w7xpkw.html",
+            "https://vidmoly.to/embed-9683exrfmgop.html",
+            "https://vidmoly.to/embed-2skkr4xc9jvi.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/ci5hxtuj",
+            "https://sendvid.com/embed/lb8ila61",
+            "https://sendvid.com/embed/ponpcqrm",
+            "https://sendvid.com/embed/sag3zd0h",
+            "https://sendvid.com/embed/5kugkd45",
+            "https://sendvid.com/embed/bzv2em6e",
+            "https://sendvid.com/embed/4tfxkiot",
+            "https://sendvid.com/embed/aj3yl778",
+            "https://sendvid.com/embed/t4wybrs8",
+            "https://sendvid.com/embed/hqz1h1op",
+            "https://sendvid.com/embed/hrur9dn9",
+            "https://sendvid.com/embed/utbv1zk2",
+            "https://sendvid.com/embed/wccy7w0l",
+            "https://sendvid.com/embed/zqm7pyv3",
+            "https://sendvid.com/embed/gsemsdrr",
+            "https://sendvid.com/embed/biqey6um",
+            "https://sendvid.com/embed/oswkv3bn",
+            "https://sendvid.com/embed/y26cwnpw",
+            "https://sendvid.com/embed/kcce98ct",
+            "https://sendvid.com/embed/lnjpnpmd",
+            "https://sendvid.com/embed/dyt3xlly",
+            "https://sendvid.com/embed/j4b2gisb",
+            "https://sendvid.com/embed/pct7ajf1",
+            "https://sendvid.com/embed/r8p6g800",
+            "https://sendvid.com/embed/ababq25f",
+            "https://sendvid.com/embed/m6vzcy2k",
+            "https://sendvid.com/embed/7t7m44ql"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5256820",
+            "https://video.sibnet.ru/shell.php?videoid=5256821"
+          ]
+        }
+      }
+    }
+  }
+}

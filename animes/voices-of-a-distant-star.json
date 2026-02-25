@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "voices-of-a-distant-star",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/voices-of-a-distant-star.jpg",
+    "desc": "C'est l'histoire d'un garçon et d'une fille qui se connaissent depuis longtemps. Ils s'aiment et prévoient d'aller dans le même lycée. Malheureusement, la fille se trouve affectée à un vaisseau spatial qui va partir pour une mission et s'éloigner de plus en plus de la Terre. Ils continuent à communiquer par mails mais plus le vaisseau s'éloigne plus les mails mettent du temps à arriver sur Terre. Leur relation saura-t-elle surmonter le temps et l'espace qui les séparent? Attention préparez vous à plonger pour 25 minutes de poésie et de beauté à l'état pur. Ce film à petit budget, créé par le réalisateur Makoto Shinkai et sa femme, a été diffusé au départ dans une seule salle de cinéma de quartier au fin fond de Tokyo et au bout d'une semaine la file d'attente devant la salle était impressionnante et le cinéma faisait salle comble.",
+    "genres": "Drame, Romance, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4835131\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/d9xqit584derzyec3wnmgi8enh"
+          ]
+        }
+      }
+    }
+  }
+}

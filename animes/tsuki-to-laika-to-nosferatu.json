@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "tsuki-to-laika-to-nosferatu",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tsuki-to-laika-to-nosferatu.jpg",
+    "desc": "L'histoire se déroule dans un monde fictif, dix ans après qu'une longue guerre ait divisé le monde en deux superpuissances : l'Union des Républiques de Zirnitra à l'est, et le Royaume Uni d'Arnak à l'ouest. Ces deux superpuissances testent désormais leurs ambitions l'une contre l'autre dans une course à l'espace. En 1960, le premier ministre de l'Union, Gergiev, annonce le projet Mechtat (Rêve), un plan prestigieux visant à lancer des missions habitées vers l'ultime frontière. À cette fin, l'Union crée la ville isolée de Laika 44, où les candidats cosmonautes concourent pour les missions habitées prévues dans l'espace et où les scientifiques développent la technologie nécessaire à la réalisation de ces missions, le tout dans le plus grand secret.\n\nC'est dans ce cadre que nous suivons Lev Leps, un candidat astronaute remplaçant et sa nouvelle compagne, la vampire Irina Ruminescu. Dans le cadre d'une nouvelle et audacieuse opération Nosferatu, le projet Mechtat va utiliser Irina comme cobaye pour tester les différentes conditions attendues dans l'espace et pour devenir, dans le futur, une membre d'une mission habitée. Lev va ainsi recevoir la mission de superviser la formation d'Irina en tant que cosmonaute.\n\nNous allons ainsi suivre ces personnes qui, pour des raisons qui leur sont propres, rêvent d'aller dans l'espace.",
+    "genres": "Aventure, Drame, Fantasy, Historique, Romance, Science-fiction, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/p99p3u5m",
+            "https://sendvid.com/embed/73u68uty",
+            "https://sendvid.com/embed/jahka8vr",
+            "https://sendvid.com/embed/yiqahp7r",
+            "https://sendvid.com/embed/gld45v42",
+            "https://sendvid.com/embed/uc87vdcm",
+            "https://sendvid.com/embed/g9c431e0",
+            "https://sendvid.com/embed/gz0re76i",
+            "https://sendvid.com/embed/ik04t1p7",
+            "https://sendvid.com/embed/01rnq1qc",
+            "https://sendvid.com/embed/agtdtcv8",
+            "https://sendvid.com/embed/t7ma0xez"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4437270",
+            "https://video.sibnet.ru/shell.php?videoid=4445885",
+            "https://video.sibnet.ru/shell.php?videoid=4454136",
+            "https://video.sibnet.ru/shell.php?videoid=4463046",
+            "https://video.sibnet.ru/shell.php?videoid=4478061",
+            "https://video.sibnet.ru/shell.php?videoid=4487378",
+            "https://video.sibnet.ru/shell.php?videoid=4497717",
+            "https://video.sibnet.ru/shell.php?videoid=4511493",
+            "https://video.sibnet.ru/shell.php?videoid=4520799",
+            "https://video.sibnet.ru/shell.php?videoid=4532498",
+            "https://video.sibnet.ru/shell.php?videoid=4540761",
+            "https://video.sibnet.ru/shell.php?videoid=5449879"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "the-elusive-samurai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-elusive-samurai.jpg",
+    "desc": "1333. Tokiyuki Hojo, héritier du shogunat Kamakura, n'a que 8 ans lorsque son quotidien bascule dans l'horreur et que son clan est massacré. Contraint de fuir pour ne pas être assassiné à son tour, il trouve refuge dans la province de Suwa, dirigée par l'un de ses alliés, Yorishige Suwa.",
+    "genres": "Action, Amitié, Combats, Samouraïs",
+    "update": "Une saison 2 est en production",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5588186",
+            "https://video.sibnet.ru/shell.php?videoid=5595276",
+            "https://video.sibnet.ru/shell.php?videoid=5602825",
+            "https://video.sibnet.ru/shell.php?videoid=5611282",
+            "https://video.sibnet.ru/shell.php?videoid=5619784",
+            "https://video.sibnet.ru/shell.php?videoid=5630724",
+            "https://video.sibnet.ru/shell.php?videoid=5640766",
+            "https://video.sibnet.ru/shell.php?videoid=5650721",
+            "https://video.sibnet.ru/shell.php?videoid=5658386",
+            "https://video.sibnet.ru/shell.php?videoid=5676469",
+            "https://video.sibnet.ru/shell.php?videoid=5686939",
+            "https://video.sibnet.ru/shell.php?videoid=5694249"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-4iw4woapy4n8.html",
+            "https://vidmoly.to/embed-efu1f2zdmt8h.html",
+            "https://vidmoly.to/embed-9juejrqdgg7w.html",
+            "https://vidmoly.to/embed-vs6zz55on1xn.html",
+            "https://vidmoly.to/embed-zu7lomt6m9s8.html",
+            "https://vidmoly.to/embed-xxif35kp6j8s.html",
+            "https://vidmoly.to/embed-3c2ndtvwp6ye.html",
+            "https://vidmoly.to/embed-nz4xz4op2m29.html",
+            "https://vidmoly.to/embed-4tewmukrxg1p.html",
+            "https://vidmoly.to/embed-5st8fm34sid5.html",
+            "https://vidmoly.to/embed-nvyw1ff14x6q.html",
+            "https://vidmoly.to/embed-ejge3ryi2p4n.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/x72cv2dv",
+            "https://sendvid.com/embed/abo721sa",
+            "https://video.sibnet.ru/shell.php?videoid=5602825",
+            "https://sendvid.com/embed/bbh5awvd",
+            "https://sendvid.com/embed/1l1v3zam",
+            "https://sendvid.com/embed/p0sf3aeq",
+            "https://sendvid.com/embed/z2cqnstc",
+            "https://sendvid.com/embed/1npq5err",
+            "https://sendvid.com/embed/lzc8dtsj",
+            "https://sendvid.com/embed/duq7ddet",
+            "https://sendvid.com/embed/dkjojupb",
+            "https://sendvid.com/embed/6hvdmpvg"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239904&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239947&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239991&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240039&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240076&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240116&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240163&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240212&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240264&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240367&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240418&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239108&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

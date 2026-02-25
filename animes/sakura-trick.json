@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "sakura-trick",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sakura-trick.jpg",
+    "desc": "L'histoire tourne autour d'Haruka et Yuu, deux lycéennes dont l'école sera fermée d'ici trois ans. Dans l'idée d'avoir en commun quelque chose de 'spécial', les deux filles se partagent un baiser. À partir de cet instant, leur relation va s'approfondir...",
+    "genres": "Comédie, Romance, School-Life, Shôjo-Ai, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/1v9h949f",
+            "https://sendvid.com/embed/y9stcigq",
+            "https://sendvid.com/embed/v6d07ydw",
+            "https://sendvid.com/embed/v492d3by",
+            "https://sendvid.com/embed/c19jwg47",
+            "https://sendvid.com/embed/95jx8b12",
+            "https://sendvid.com/embed/idwk6r8c",
+            "https://sendvid.com/embed/ombfgwgo",
+            "https://sendvid.com/embed/o7wjwxfs",
+            "https://sendvid.com/embed/z40unbtl",
+            "https://sendvid.com/embed/0s2iqjma",
+            "https://sendvid.com/embed/d6pfqleb\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4801917",
+            "https://video.sibnet.ru/shell.php?videoid=4801919",
+            "https://video.sibnet.ru/shell.php?videoid=4801921",
+            "https://video.sibnet.ru/shell.php?videoid=4801922",
+            "https://video.sibnet.ru/shell.php?videoid=4801924",
+            "https://video.sibnet.ru/shell.php?videoid=4808869",
+            "https://video.sibnet.ru/shell.php?videoid=4801930",
+            "https://video.sibnet.ru/shell.php?videoid=4801933",
+            "https://video.sibnet.ru/shell.php?videoid=4801935",
+            "https://video.sibnet.ru/shell.php?videoid=5089586",
+            "https://video.sibnet.ru/shell.php?videoid=4801941",
+            "https://video.sibnet.ru/shell.php?videoid=4801944"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/m5ahwrhmc8eruf8rnwtjathohe",
+            "https://www.myvi.tv/embed/mnps4y9dmuordxdhm5rxaw7w6o",
+            "https://www.myvi.tv/embed/a6rjpot48zjrzfc51xfj6a9dbe",
+            "https://www.myvi.tv/embed/6aeopq1k6bjwbqtwp688ycgp9r",
+            "https://www.myvi.tv/embed/39eq8bbij43r7j8do3bpt69hae",
+            "https://www.myvi.tv/embed/3z7bxwk1rstridt391hry6mk7h",
+            "https://www.myvi.tv/embed/bpn1pto49a7w9djs5ax4j6uuao",
+            "https://www.myvi.tv/embed/a1h81weop38rjmygjt7gwqa5rw",
+            "https://www.myvi.tv/embed/wh85xph4dutwpmq6o7j7xzr4wo",
+            "https://www.myvi.tv/embed/7dfxifio1w9wtra8jeuisezufc",
+            "https://www.myvi.tv/embed/t5usqpeyhadw38pmyspsuoxfze",
+            "https://www.myvi.tv/embed/3gtwdwgiz9uwipfj8qdftn5era"
+          ]
+        }
+      }
+    }
+  }
+}

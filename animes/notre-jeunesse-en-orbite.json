@@ -1,0 +1,33 @@
+{
+  "data": {
+    "name": "notre-jeunesse-en-orbite",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/notre-jeunesse-en-orbite.jpg",
+    "desc": "En 2045, Internet et l'intelligence artificielle se sont répandus dans l'espace extra-atmosphérique.\nAprès un accident massif dans une station spatiale, un groupe d'adolescent se retrouve abandonné. En utilisant la bande étroite accompagné d'un SNS (service de réseautage social), une faible intelligence artificielle et des drones commandés par smartphone, ils vont surmonter de nombreuses crises.",
+    "genres": "Drame, Mystère, Futuriste",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/xh6rrccdu6nr7c8sbf6up8zqpa",
+            "https://www.myvi.top/embed/ngmtc4ys8w3wfmb4qp8g48orfe",
+            "https://www.myvi.top/embed/mfd1sn7ffi3w3jdfsnmaffejha",
+            "https://www.myvi.top/embed/wsbc4dyhm88rxjur7tri95uaow",
+            "https://www.myvi.top/embed/htwg5e6kefwr7gcm9xjsaxc7xy",
+            "https://www.myvi.top/embed/eyo8kmgeuhew7d67q8g46ioedc"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/p5j0blbr",
+            "https://sendvid.com/embed/u3e4j9bg",
+            "https://sendvid.com/embed/qbr79yo7",
+            "https://sendvid.com/embed/kni87p5f",
+            "https://sendvid.com/embed/3h3e8rv7",
+            "https://sendvid.com/embed/18d8l385"
+          ]
+        }
+      }
+    }
+  }
+}

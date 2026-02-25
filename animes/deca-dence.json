@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "deca-dence",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/deca-dence.jpg",
+    "desc": "Il y a plusieurs années, une mystérieuse forme de vie nommée Gadoll a presque exterminée l'humanité. Le reste de l'humanité habite désormais dans Deca-dence, une immense forteresse mouvante de 3000 mètres de haut construite pour faire face à la menace des Gadoll.\n\nLes habitants de Deca-dence se divisent en deux catégories : les Gears, des guerriers combatstant quotidiennement les Gadoll et les Tankers, des personnes ne possédant pas les compétences pour se mesurer à ces monstres.\n\nUn jour, Natsume, une Tankers qui rêve de devenir une Gears, fait la rencontre de Kaburagi, un réparateur d'armure. L'une est une fille positive qui n'abandonne jamais ses rêves et l'autre un homme réaliste qui a abandonné les siens.\n\nCette rencontre fortuite finira par ébranler le futur de ce monde.",
+    "genres": "Action, Drame, Mystère, Science-fiction, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/vmmdmefc",
+            "https://sendvid.com/embed/c4y7qjou",
+            "https://sendvid.com/embed/mq16sy9k",
+            "https://sendvid.com/embed/nt9veh12",
+            "https://sendvid.com/embed/2zkuv3bi",
+            "https://sendvid.com/embed/dtfwbk59",
+            "https://sendvid.com/embed/wsulupnd",
+            "https://sendvid.com/embed/s65nwv4q",
+            "https://sendvid.com/embed/ce6zbaqu",
+            "https://sendvid.com/embed/mmpcja7g",
+            "https://sendvid.com/embed/md8tb6mv",
+            "https://sendvid.com/embed/l3yw4od2"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4672243",
+            "https://video.sibnet.ru/shell.php?videoid=4672245",
+            "https://video.sibnet.ru/shell.php?videoid=4672247",
+            "https://video.sibnet.ru/shell.php?videoid=4672248",
+            "https://video.sibnet.ru/shell.php?videoid=4672250",
+            "https://video.sibnet.ru/shell.php?videoid=4672252",
+            "https://video.sibnet.ru/shell.php?videoid=4672255",
+            "https://video.sibnet.ru/shell.php?videoid=4672257",
+            "https://video.sibnet.ru/shell.php?videoid=4672258",
+            "https://video.sibnet.ru/shell.php?videoid=4672260",
+            "https://video.sibnet.ru/shell.php?videoid=4672261",
+            "https://video.sibnet.ru/shell.php?videoid=4672263"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/37yfsw8j3eermpe7njmf3bnzjh",
+            "https://www.myvi.top/embed/obzmcgyyz1rwmd9hrko3ah9k1w",
+            "https://www.myvi.top/embed/epg6b6u1ditr5rc4fe483seqcy",
+            "https://www.myvi.top/embed/iaphzis1dcyrp8ayd6be64r65o",
+            "https://www.myvi.top/embed/o7w4d4bf1kzwiyts57xsd1asao",
+            "https://www.myvi.top/embed/bzyp9yeo7onw3c47szmdyy5i6h",
+            "https://www.myvi.top/embed/rz3j7xski6grdbu9rc9srm9y3y",
+            "https://www.myvi.top/embed/f8abxfq4tmprbgeaei5ycxauby",
+            "https://www.myvi.top/embed/dzb6z3rgkkkr8p1cauh8pobhxh",
+            "https://www.myvi.top/embed/4ihdcmgrr5trxgb57zcqbt65dc",
+            "https://www.myvi.top/embed/ifzjsjkferawj8pf3k7ixeqoyw",
+            "https://www.myvi.top/embed/i1ozwh9amjeribm917aonu8acy"
+          ]
+        }
+      }
+    }
+  }
+}

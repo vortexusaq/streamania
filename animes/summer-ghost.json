@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "summer-ghost",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/summer-ghost.jpg",
+    "desc": "L'histoire se centre sur Tomoya, Aoi et Ryo, des lycéens qui se sont rencontrés sur Internet. Selon une légende urbaine, le \"Summer Ghost\" est un fantôme qui apparaît lorsque des feux d'artifice sont allumés. Tomoya ne peut pas vivre la vie qu'il imaginait pour lui-même. Aoi n'arrive pas à trouver sa place dans le monde. Ryo voit son avenir, autrefois brillant, lui échapper brusquement. Chacun a sa propre raison de vouloir rencontrer le \"Summer Ghost\". Par une nuit d'été où la vie et la mort se croisent, où leurs émotions vont-elles les mener ?",
+    "genres": "Drame - Mystère - Slice-of-Life - Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5093238"
+          ]
+        }
+      }
+    }
+  }
+}

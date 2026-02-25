@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "osamake",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/osamake.jpg",
+    "desc": "Sueharu Maru est un lycéen vivant dans la maison juste à côté de celle de Shida Kuroha, son amie d'enfance. Elle est une personne extravertie qui a toujours prit soin de lui. De plus, il semblerait que cette dernière soit amoureuse de lui. Cependant, Maru est déjà amoureux de Kachi Shirokusa, une auteure récompensée de nombreuses fois. Son cœur se brise lorsqu'il apprend que Shirokusa aurait déjà un petit copain. Alors qu'il est en pleine dépression, Kuroha lui propose de se venger de la personne responsable de son chagrin.",
+    "genres": "Comédie, Drame, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/gs4dtgyt",
+            "https://sendvid.com/embed/mf0fn2eo",
+            "https://sendvid.com/embed/qpx9vdiq",
+            "https://sendvid.com/embed/hpsh2a57",
+            "https://sendvid.com/embed/nrsczd6e",
+            "https://sendvid.com/embed/iezx4lke",
+            "https://sendvid.com/embed/z5tczr7e",
+            "https://sendvid.com/embed/zntr05s4",
+            "https://sendvid.com/embed/j8um1z6p",
+            "https://sendvid.com/embed/wcyrzsm5",
+            "https://sendvid.com/embed/e86rj6g5",
+            "https://sendvid.com/embed/8g2hc3ph\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4776750",
+            "https://video.sibnet.ru/shell.php?videoid=4776751",
+            "https://video.sibnet.ru/shell.php?videoid=4776754",
+            "https://video.sibnet.ru/shell.php?videoid=4776758",
+            "https://video.sibnet.ru/shell.php?videoid=4776761",
+            "https://video.sibnet.ru/shell.php?videoid=4776765",
+            "https://video.sibnet.ru/shell.php?videoid=4776768",
+            "https://video.sibnet.ru/shell.php?videoid=4776773",
+            "https://video.sibnet.ru/shell.php?videoid=4776778",
+            "https://video.sibnet.ru/shell.php?videoid=4776780",
+            "https://video.sibnet.ru/shell.php?videoid=4776782",
+            "https://video.sibnet.ru/shell.php?videoid=4776784"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ezf3js6kp5jr3b185tyjjz18sa",
+            "https://www.myvi.tv/embed/wymsk8gcd8ur8ybcqib5i74hce",
+            "https://www.myvi.tv/embed/59f4419u8dcrxk53shkte8c3tc",
+            "https://www.myvi.tv/embed/hmya4bqguhmrxb4iject3ozwpe",
+            "https://www.myvi.tv/embed/d7pudzj9xp4w5dtbt4srj1f4xo",
+            "https://www.myvi.tv/embed/i38kareh1tbw8fiugms7odroer",
+            "https://www.myvi.tv/embed/91pjafqm6cqw7ni3s1a5zc5i6w",
+            "https://www.myvi.tv/embed/s9qnccebjzbw9yz58ntjast45e",
+            "https://www.myvi.tv/embed/prsj9eoss84ribpnnoyizoihzr",
+            "https://www.myvi.tv/embed/18z899mc9aiwd8ganp3hh6dgky",
+            "https://www.myvi.tv/embed/jracdjkjbbbw3m61nm77ywty7e",
+            "https://www.myvi.tv/embed/8hu5oejt5fiw9qw7cye5pfu6cr"
+          ]
+        }
+      }
+    }
+  }
+}

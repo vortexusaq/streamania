@@ -1,0 +1,77 @@
+{
+  "data": {
+    "name": "kono-sekai-wa-fukanzen-sugiru",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kono-sekai-wa-fukanzen-sugiru.jpg",
+    "desc": "L'histoire se centre sur deux personnages. Nicola travaille dans une modeste auberge quand un dragon attaque et tue tous les villageois. Elle s'en sort mystérieusement et fait la connaissance de Haga. Haga est un modeste programmeur qui est malencontreusement resté coincé dans un jeu incomplet, qu'il parcourt pour résoudre divers bugs. C'est à cette occasion qu'il croise la route de Nicola.",
+    "genres": "Aventure, Fantasy, Autre-monde, Jeux-vidéo",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5587238",
+            "https://video.sibnet.ru/shell.php?videoid=5594664",
+            "https://video.sibnet.ru/shell.php?videoid=5602322",
+            "https://video.sibnet.ru/shell.php?videoid=5610349",
+            "https://video.sibnet.ru/shell.php?videoid=5627308",
+            "https://video.sibnet.ru/shell.php?videoid=5629058",
+            "https://video.sibnet.ru/shell.php?videoid=5639243",
+            "https://video.sibnet.ru/shell.php?videoid=5650379",
+            "https://video.sibnet.ru/shell.php?videoid=5657529",
+            "https://video.sibnet.ru/shell.php?videoid=5666129",
+            "https://video.sibnet.ru/shell.php?videoid=5675372",
+            "https://video.sibnet.ru/shell.php?videoid=5684328",
+            "https://video.sibnet.ru/shell.php?videoid=5693208"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-99d8i2xv0oul.html",
+            "https://vidmoly.to/embed-ocmpwq9k7sg4.html",
+            "https://vidmoly.to/embed-jjmnjg7i39lj.html",
+            "https://vidmoly.to/embed-16loeq6nzu1v.html",
+            "https://vidmoly.to/embed-4iovgztzwxvo.html",
+            "https://vidmoly.to/embed-mzzc8nyzhuz3.html",
+            "https://vidmoly.to/embed-bemxwxfmnyjq.html",
+            "https://vidmoly.to/embed-b0xztek8yyht.html",
+            "https://vidmoly.to/embed-lr1486fs0w1k.html",
+            "https://vidmoly.to/embed-sb02e6juu4d5.html",
+            "https://vidmoly.to/embed-y5xzp209oiut.html",
+            "https://vidmoly.to/embed-qcusexdjnwo1.html",
+            "https://vidmoly.to/embed-siekcjyn3v00.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/2f6ow9kz",
+            "https://video.sibnet.ru/shell.php?videoid=5594664",
+            "https://sendvid.com/embed/81n1sho6",
+            "https://sendvid.com/embed/dpdzdg67",
+            "https://sendvid.com/embed/9yowalvp",
+            "https://sendvid.com/embed/poxd387m",
+            "https://sendvid.com/embed/rk7e1153",
+            "https://sendvid.com/embed/iscvhkct",
+            "https://sendvid.com/embed/ukbh822l",
+            "https://sendvid.com/embed/enl96rkj",
+            "https://sendvid.com/embed/xdjl4xci",
+            "https://sendvid.com/embed/o0h7yy29",
+            "https://sendvid.com/embed/odncu160"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239898&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239941&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239985&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240031&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240103&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240110&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240153&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240206&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240256&hd=3",
+            "https://video.sibnet.ru/shell.php?videoid=5666129",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240360&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240408&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239104&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

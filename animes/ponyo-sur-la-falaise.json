@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "ponyo-sur-la-falaise",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ponyo-sur-la-falaise.jpg",
+    "desc": "La trame suit une petite princesse poisson rouge appelée Ponyo qui veut désespérément devenir humaine. En cherchant ce faire, elle devient amie d'un garçon de cinq ans, Sôsuke.\n\nGake no ue no Ponyo, le nouveau film d'Hayao Miyazaki (studio Ghibli), sortira dans les salles françaises le 8 avril 2009 sous le titre Ponyo sur la falaise, près de la mer. Les japonais ont quant à eux pu découvrir le film d'animation le 19 juillet dernier et a fait un véritable carton.",
+    "genres": "Aventure, Comédie, Drame\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5343984"
+          ]
+        }
+      }
+    }
+  }
+}

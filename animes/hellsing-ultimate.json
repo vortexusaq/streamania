@@ -1,0 +1,53 @@
+{
+  "data": {
+    "name": "hellsing-ultimate",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hellsing-ultimate.jpg",
+    "desc": "Pour combattre les forces obscures existe depuis plusieurs générations l'ordre de chevalier de l'église protestante, l'organisation Hellsing. Cette fédération invisible au grand jour s'occupe de l'éradication des non-morts, les goules, les vampires. A sa tête se trouve Integral Fairbook Wingates Hellsing, qui gère d'une main de fer toutes les affaires paranormales possibles. Cependant, ces temps-ci, le nombre de goules augmentent inexorablement, des vampires de basse classe, qui n'ont aucun objectif ni libre arbitre. Sur ceux-ci, ont retrouve une puce électronique. Etrange...Ces goules survivent même lorsque le 'vampire générateur' est détruit, ce qui démontre que l'être à la tête de ce projet macabre doit avoir une nature humaine. Les incidents se multiplient, ils se propagent hors de la terre anglicane.",
+    "genres": "Action, Drame, Historique, Horreur, Épouvante, Seinen, Surnaturel, Gore, Guerre, Religion, Vampires",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/oatlgk0o",
+            "https://sendvid.com/embed/ewxk6d5n",
+            "https://sendvid.com/embed/xt7kko5y",
+            "https://sendvid.com/embed/5eic0ah4",
+            "https://sendvid.com/embed/5k9obg0m",
+            "https://sendvid.com/embed/znwxrx8f",
+            "https://sendvid.com/embed/0xw4ob9q",
+            "https://sendvid.com/embed/0iy68bze",
+            "https://sendvid.com/embed/gn6qot9u",
+            "https://sendvid.com/embed/3dzl16qi\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4695039",
+            "https://video.sibnet.ru/shell.php?videoid=4695053",
+            "https://video.sibnet.ru/shell.php?videoid=4695064",
+            "https://video.sibnet.ru/shell.php?videoid=4695077",
+            "https://video.sibnet.ru/shell.php?videoid=4695087",
+            "https://video.sibnet.ru/shell.php?videoid=4695095",
+            "https://video.sibnet.ru/shell.php?videoid=4695107",
+            "https://video.sibnet.ru/shell.php?videoid=4695120",
+            "https://video.sibnet.ru/shell.php?videoid=4695135",
+            "https://video.sibnet.ru/shell.php?videoid=4695147"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/rucnq5xbp7mw8ci6s6n6oiyk8y",
+            "https://www.myvi.tv/embed/1dod4haa6dqrxr1b656bow9fur",
+            "https://www.myvi.tv/embed/m7nimci3987wtgfwdkzi6xbiao",
+            "https://www.myvi.tv/embed/44asnm8sdahw3xgikrgd8tpy8h",
+            "https://www.myvi.tv/embed/e3s5f97anqdwjkufur8zr85z4h",
+            "https://www.myvi.tv/embed/x6drfzcm774r3yexambmern5ua",
+            "https://www.myvi.tv/embed/zs7z1mnefe4wbbbqhy9355dwmo",
+            "https://www.myvi.tv/embed/nu47mc67hpgwmxs8qq37t84oyc",
+            "https://www.myvi.tv/embed/ty7n918dxq1wjmtqt9xzkggwuy",
+            "https://www.myvi.tv/embed/xq9x6di6xh4wjypbz7n77dyk3r"
+          ]
+        }
+      }
+    }
+  }
+}

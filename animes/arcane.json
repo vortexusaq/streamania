@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "arcane",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arcane.jpg",
+    "desc": "La série a lieu dans le monde de Runeterra, l'univers fictif de Riot Games dans lequel prennent également place les jeux League of Legends, League of Legends: Wild Rift et Legends of Runeterra. L'intrigue se déroule plus précisément à Piltover et Zaun, deux villes en conflit situées au même endroit — Piltover constituant la partie supérieure et riche de la cité ; Zaun ses souterrains insalubres, dont la population souffre de la pauvreté. Le scénario suit également Jinx et Vi, deux sœurs ayant vécu une difficile enfance à Zaun, mais qui, désormais adultes, mènent une vie très différente l'une de l'autre.",
+    "genres": "Fantasy, Action, Science-fiction, Aventure",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-hez8caov1tzg.html",
+            "https://vidmoly.to/embed-mkak820ayp81.html",
+            "https://vidmoly.to/embed-krgfqvvqi5oz.html",
+            "https://vidmoly.to/embed-gmimjo1ouahl.html",
+            "https://vidmoly.to/embed-3g82i9if2vm1.html",
+            "https://vidmoly.to/embed-6u8w46beuk1c.html",
+            "https://vidmoly.to/embed-xxm2iig9r9to.html",
+            "https://vidmoly.to/embed-9jkhzpwl14id.html",
+            "https://vidmoly.to/embed-cf4ezr43nia8.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ng7xav6q",
+            "https://video.sibnet.ru/shell.php?videoid=5746059",
+            "https://video.sibnet.ru/shell.php?videoid=5746073",
+            "https://video.sibnet.ru/shell.php?videoid=5753188",
+            "https://video.sibnet.ru/shell.php?videoid=5753195",
+            "https://video.sibnet.ru/shell.php?videoid=5753197",
+            "https://video.sibnet.ru/shell.php?videoid=5760334",
+            "https://video.sibnet.ru/shell.php?videoid=5760342",
+            "https://sendvid.com/embed/qbk2sk2p"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-iwmsbi9eojil.html",
+            "https://vidmoly.to/embed-znu8on1ldvha.html",
+            "https://vidmoly.to/embed-nnx7s1g0ikih.html",
+            "https://vidmoly.to/embed-welxkj1e4voz.html",
+            "https://vidmoly.to/embed-q79l6mfvcdr5.html",
+            "https://vidmoly.to/embed-n6swh3wj4vop.html",
+            "https://vidmoly.to/embed-wn8l6jl41hfw.html",
+            "https://vidmoly.to/embed-afx7w5psx2yc.html",
+            "https://vidmoly.to/embed-a3gd1x17g5tr.html"
+          ]
+        }
+      }
+    }
+  }
+}

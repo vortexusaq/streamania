@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "idoly-pride",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/idoly-pride.jpg",
+    "desc": "Il s'agit du premier projet du label CAAnimation de la société CyberAgent.",
+    "genres": "Comédie, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/emed/9js19qbwre5rxf1n5xcx47ogoa",
+            "https://www.myvi.top/emed/ytqgufpbkhwrmmxk5aohjwiw9r",
+            "https://www.myvi.top/emed/xza5s484eemwzrtqzknq1975dh",
+            "https://www.myvi.top/emed/iwit8m659iqr5y4w8n9z16c7xo",
+            "https://www.myvi.top/emed/o9xqrhu5o91ruxw4bqjph5iz4h",
+            "https://www.myvi.top/emed/ja1i3ykammarprpe6crek741fw",
+            "https://www.myvi.top/emed/zcmzp8csnu7wzypreo19i5o4eh",
+            "https://www.myvi.top/emed/bhntgw53mg5wbxe9wry3s59udo",
+            "https://www.myvi.top/emed/u6m8tg4k3izrp8kibm53t839ua",
+            "https://www.myvi.top/emed/4w7upxf8u7trfkzht37ytfs98e",
+            "https://www.myvi.top/emed/9o1zid1g3bqr8dm4uhhjtdwdyo",
+            "https://www.myvi.top/emed/9qxbuno9hizw3juuww16upbqsh"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/9gw3cio4",
+            "https://sendvid.com/embed/ft8q5ae0",
+            "https://sendvid.com/embed/p5m87pfl",
+            "https://sendvid.com/embed/h0waqmt7",
+            "https://sendvid.com/embed/tjl7keg4",
+            "https://sendvid.com/embed/mu1sqvk6",
+            "https://sendvid.com/embed/8jem448s",
+            "https://sendvid.com/embed/cbfr9545",
+            "https://sendvid.com/embed/806espm2",
+            "https://sendvid.com/embed/tq5zvicg",
+            "https://sendvid.com/embed/8jfcvdtw",
+            "https://sendvid.com/embed/82rqhblc"
+          ]
+        }
+      }
+    }
+  }
+}

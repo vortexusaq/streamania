@@ -1,0 +1,88 @@
+{
+  "data": {
+    "name": "gekkan-shoujo-nozaki-kun",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/gekkan-shoujo-nozaki-kun.jpg",
+    "desc": "Depuis qu'elle a croisé la route d'Umetarô Nozaki, Chiyo Sakura en est tombé amoureuse. Mais le jour où elle se décide enfin à lui déclarer sa flamme, le jeune homme interprète mal ses paroles et est persuadé qu'elle est une de ses fans.\nChiyo va alors découvrir qu'en plus d'être lycéen, Nozaki est aussi un mangaka plutôt populaire et qu'il avait l'intention depuis longtemps de faire d'elle son assistante car il avait remarqué ses talents de coloriste.",
+    "genres": "Comédie, Romance, Shônen, School-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/1z8g16it69qrmd191g47x9ar1r",
+            "https://www.myvi.top/embed/j6ubup41xpjwiyq3mn351zjiya",
+            "https://www.myvi.top/embed/c4ndjth33gpwdff1midebhix4w",
+            "https://www.myvi.top/embed/nzx1uebawarwfc5pbkatk14nkc",
+            "https://www.myvi.top/embed/79jzw3csf6qw5na7ibycko58oy",
+            "https://www.myvi.top/embed/xxzuqpyzz3ur8d8ho7ekhz96ih",
+            "https://www.myvi.top/embed/egzjq95qya9runomf3wxbzix7o",
+            "https://www.myvi.top/embed/ro36uryijrjwx8odxdqmmbuaqc",
+            "https://www.myvi.top/embed/aaf38takjtkrmjp94haiqnj1se",
+            "https://www.myvi.top/embed/rh178byjahpwiqzkkzfyrkjryc",
+            "https://www.myvi.top/embed/sm4e3dx44gww8rp3ari8h975kw",
+            "https://www.myvi.top/embed/cqfat44q4sdwbfce5ddeyhwexo"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4844501",
+            "https://video.sibnet.ru/shell.php?videoid=4844507",
+            "https://video.sibnet.ru/shell.php?videoid=4844510",
+            "https://video.sibnet.ru/shell.php?videoid=4844513",
+            "https://video.sibnet.ru/shell.php?videoid=4844517",
+            "https://video.sibnet.ru/shell.php?videoid=4844521",
+            "https://video.sibnet.ru/shell.php?videoid=4844526",
+            "https://video.sibnet.ru/shell.php?videoid=4844529",
+            "https://video.sibnet.ru/shell.php?videoid=4844533",
+            "https://video.sibnet.ru/shell.php?videoid=4844536",
+            "https://video.sibnet.ru/shell.php?videoid=4844538",
+            "https://video.sibnet.ru/shell.php?videoid=4844540"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/m0voerm3",
+            "https://sendvid.com/embed/o3qnmxwb",
+            "https://sendvid.com/embed/8g0rfeac",
+            "https://sendvid.com/embed/qpznqjzk",
+            "https://sendvid.com/embed/0b1jx0hq",
+            "https://sendvid.com/embed/5cnmh7wg",
+            "https://sendvid.com/embed/ypaahoy7",
+            "https://sendvid.com/embed/03xhhx8y",
+            "https://sendvid.com/embed/51xxj0wv",
+            "https://sendvid.com/embed/lm39nsj8",
+            "https://sendvid.com/embed/bk21hg81",
+            "https://sendvid.com/embed/i39gggd3"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/ekumgiprudcwtykfkmeq96xp3o",
+            "https://www.myvi.top/embed/mod3akfsucert8i3zodm6y473a",
+            "https://www.myvi.top/embed/mmcbwt977kfwzg1ru5qa7txwuc",
+            "https://www.myvi.top/embed/nnprqu9p57cwpn8a865wsmbr8a",
+            "https://www.myvi.top/embed/84qh8hj8rkpw9jasjx69s5c1ie",
+            "https://www.myvi.top/embed/depmhdnnrs1ruymaaj7dadbrpe"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4844543",
+            "https://video.sibnet.ru/shell.php?videoid=4844544",
+            "https://video.sibnet.ru/shell.php?videoid=4844545",
+            "https://video.sibnet.ru/shell.php?videoid=4844546",
+            "https://video.sibnet.ru/shell.php?videoid=4844547",
+            "https://video.sibnet.ru/shell.php?videoid=4844548"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/qj4ewvtp",
+            "https://sendvid.com/embed/gy55wz6a",
+            "https://sendvid.com/embed/uzadh6un",
+            "https://sendvid.com/embed/w0w4l2hx",
+            "https://sendvid.com/embed/dt37l48h",
+            "https://sendvid.com/embed/496c62my"
+          ]
+        }
+      }
+    }
+  }
+}

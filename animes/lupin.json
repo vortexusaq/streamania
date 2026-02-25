@@ -1,0 +1,64 @@
+{
+  "data": {
+    "name": "lupin",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lupin.jpg",
+    "desc": "Il y a 25 ans, la vie du jeune Assane Diop est bouleversée lorsque son père meurt après avoir été accusé d'un crime qu'il n'a pas commis. Assane va s'inspirer de son héros, Arsène Lupin, Gentleman Cambrioleur, pour le venger…",
+    "genres": "Drame, Police, Mystere",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vf",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/8i9v5brv",
+            "https://sendvid.com/embed/6vjrlnul",
+            "https://sendvid.com/embed/u1flpdbh",
+            "https://sendvid.com/embed/ohuyckpg",
+            "https://sendvid.com/embed/rwgw9jsg\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4784067",
+            "https://video.sibnet.ru/shell.php?videoid=4784069",
+            "https://video.sibnet.ru/shell.php?videoid=4784071",
+            "https://video.sibnet.ru/shell.php?videoid=4784073",
+            "https://video.sibnet.ru/shell.php?videoid=4784075"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ueo9etasrspw8gfasjynfrq6rc",
+            "https://www.myvi.tv/embed/hyy3frdq5e7wtgba8muwahfmga",
+            "https://www.myvi.tv/embed/comazo87qr4rz86gdsq4rpg5oe",
+            "https://www.myvi.tv/embed/d5p78chaya9wxetfmmuan7to6c",
+            "https://www.myvi.tv/embed/yjc48mwudc5rdxxc6xzw476khy"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vf",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/gnv8tvcx",
+            "https://sendvid.com/embed/qpye8kd7",
+            "https://sendvid.com/embed/9klmz3b0",
+            "https://sendvid.com/embed/76ue9ayx",
+            "https://sendvid.com/embed/pqh49593\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4784076",
+            "https://video.sibnet.ru/shell.php?videoid=4784079",
+            "https://video.sibnet.ru/shell.php?videoid=4784082",
+            "https://video.sibnet.ru/shell.php?videoid=4784084",
+            "https://video.sibnet.ru/shell.php?videoid=4784086"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/nbo4qfzgjmirbryo7jftasbzky",
+            "https://www.myvi.tv/embed/ju3enjm96wnr7egsq4g9p449dw",
+            "https://www.myvi.tv/embed/rfqaft483ouw78nmp4sq6ysumy",
+            "https://www.myvi.tv/embed/67tockwpjn4wic1m937whcxs1r",
+            "https://www.myvi.tv/embed/be65mi6azgpwxpytirobzeh8mw"
+          ]
+        }
+      }
+    }
+  }
+}

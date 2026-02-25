@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "high-score-girl",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/high-score-girl.jpg",
+    "desc": "L'histoire se déroule au Japon, en 1991. Haruo Yaguchi est un élève de primaire passionné par les jeux vidéo. Il passe d'ailleurs une bonne partie de son temps dans les salles d'arcades.\n\nUn jour, il croise par hasard une de ses camarades de classe, la populaire Akira Ôno. Ensemble, ils jouent à Street Fighter II et, contre toute attente, Akira bat Haruo à plate couture. Le lendemain, décidé à ne pas revivre ça, le jeune garçon change de salle... et se retrouve à nouveau nez à nez avec Akira.",
+    "genres": "Comédie, Romance, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-guadl5k4eecs.html",
+            "https://vidmoly.to/embed-qbbrfcl5ugea.html",
+            "https://vidmoly.to/embed-rkki8vlu6c6h.html",
+            "https://vidmoly.to/embed-r5ckr2v27mp3.html",
+            "https://vidmoly.to/embed-dvu9hjhyl3a1.html",
+            "https://vidmoly.to/embed-so21g1zpyb2p.html",
+            "https://vidmoly.to/embed-god19p2nckkq.html",
+            "https://vidmoly.to/embed-rcug5u63ugzk.html",
+            "https://vidmoly.to/embed-r7l2qsx5cw46.html",
+            "https://vidmoly.to/embed-sugm5hyezvh7.html",
+            "https://vidmoly.to/embed-q31l2er5pn5i.html",
+            "https://vidmoly.to/embed-wsdfdn7nr5p6.html"
+          ]
+        }
+      },
+      "Saison 1.5": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-167bz7d0eeak.html",
+            "https://vidmoly.to/embed-apk1jbyzvip5.html",
+            "https://vidmoly.to/embed-yq2ki43s01l4.html"
+          ],
+          "lec2": [
+            "https://s22.anime-sama.fr/s2/High%20Score%20Girl/VOSTFR/OAV/High_Score_Girl_OAV_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/s2/High%20Score%20Girl/VOSTFR/OAV/High_Score_Girl_OAV_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/s2/High%20Score%20Girl/VOSTFR/OAV/High_Score_Girl_OAV_3_VOSTFR.mp4"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-l5v3pv4k5r53.html",
+            "https://vidmoly.to/embed-soy3ph6wyqof.html",
+            "https://vidmoly.to/embed-t3e27qb2gy1f.html",
+            "https://vidmoly.to/embed-7iukvcjhmnm2.html",
+            "https://vidmoly.to/embed-kuaz3oalaf3c.html",
+            "https://vidmoly.to/embed-42drd2jdkzvn.html",
+            "https://vidmoly.to/embed-muo717geeplq.html",
+            "https://vidmoly.to/embed-nsof5zz9ir6l.html",
+            "https://vidmoly.to/embed-yl5fag3dcmab.html"
+          ]
+        }
+      }
+    }
+  }
+}

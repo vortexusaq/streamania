@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "le-royaume-des-chats",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-royaume-des-chats.jpg",
+    "desc": "Haru est une collégienne maladroite pour qui la vie n'est pas toujours rose. Un jour, en rentrant chez elle, elle sauve un chat sur le point de se faire écraser.\nMais une fois hors de danger, le chat lui fait une révérence et la remercie !\nElle n'est pas au bout de ses surprises, car elle vient de sauver la vie au prince des chats...",
+    "genres": "Aventure, Fantasy\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/wzloc1t9"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4729075"
+          ]
+        }
+      }
+    }
+  }
+}

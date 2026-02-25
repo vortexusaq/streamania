@@ -1,0 +1,56 @@
+{
+  "data": {
+    "name": "chibi-revengers",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/chibi-revengers.jpg",
+    "desc": "On suit la vie quotidienne des membres du Toman et du Mizonaka Five.",
+    "genres": "Comédie, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/y6aow8t8ih5wmj1yofxhq45fah",
+            "https://www.myvi.tv/embed/1thsxnzy7rgrtgm5dqzxohua7a",
+            "https://www.myvi.tv/embed/putgyirxhicrdq7xd4nhzr1bao",
+            "https://www.myvi.tv/embed/dtqsx5oa8qar9c1cy678cpe5ey",
+            "https://www.myvi.tv/embed/i6n49jehnknwiy1zcakg4cs1gh",
+            "https://www.myvi.tv/embed/xoa7rq37g9yrdnrrmjhx7j3qoy",
+            "https://www.myvi.tv/embed/765gz3jqzjerbb6ahxfko9pfey",
+            "https://www.myvi.tv/embed/c43cbm65cyxwzeueb19bbmru5w",
+            "https://www.myvi.tv/embed/uxtuoyxiwykrmymbsmzcz9w7hc",
+            "https://www.myvi.tv/embed/t9h67z8mxbywjp6gkjbw7f4cne",
+            "https://www.myvi.tv/embed/mbzom61j9e9wxkbzgatempngyy"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4726047",
+            "https://video.sibnet.ru/shell.php?videoid=4726046",
+            "https://video.sibnet.ru/shell.php?videoid=4726045",
+            "https://video.sibnet.ru/shell.php?videoid=4726043",
+            "https://video.sibnet.ru/shell.php?videoid=4726042",
+            "https://video.sibnet.ru/shell.php?videoid=4726041",
+            "https://video.sibnet.ru/shell.php?videoid=4726040",
+            "https://video.sibnet.ru/shell.php?videoid=4726039",
+            "https://video.sibnet.ru/shell.php?videoid=4726038",
+            "https://video.sibnet.ru/shell.php?videoid=4726037",
+            "https://video.sibnet.ru/shell.php?videoid=4726036"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/z50bslga",
+            "https://sendvid.com/embed/7roto4u4",
+            "https://sendvid.com/embed/8ke1pnwp",
+            "https://sendvid.com/embed/bgqjcl7y",
+            "https://sendvid.com/embed/gr3ko93b",
+            "https://sendvid.com/embed/u5chp0q3",
+            "https://sendvid.com/embed/bsurin36",
+            "https://sendvid.com/embed/uebxw3t6",
+            "https://sendvid.com/embed/0e8bfwjc",
+            "https://sendvid.com/embed/86tt6e2f",
+            "https://sendvid.com/embed/vudl86xx"
+          ]
+        }
+      }
+    }
+  }
+}

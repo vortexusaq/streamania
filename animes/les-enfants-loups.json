@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "les-enfants-loups",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-enfants-loups.jpg",
+    "desc": "Hana est étudiante à l'université. Sérieuse et investie, elle fait la rencontre d'un jeune homme mystérieux et solitaire. Lorsqu'elle tente de lui parler, il lui avoue qu'il n'est pas inscrit à l'université. Aussitôt, elle lui propose alors de l'aider dans ses cours, et tous deux deviennent très proches. Si proches, que le jeune homme finit par lui avouer son secret : il est un homme-loup. Les deux tombent alors amoureux, liés par ce secret, et commencent une vie de couple ordinaire, jusqu'à ce que Hana tombe enceinte de Yuki, leur premier enfant, qui se trouve être un enfant-loup... Une vie fantastique attend Hana, elle qui imaginait pourtant que l'existence des hommes-loups n'était qu'une légende...",
+    "genres": "Drame, Fantastique, Romance, Slice-of-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-4h80zlmovm08.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4955518"
+          ]
+        }
+      }
+    }
+  }
+}

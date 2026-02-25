@@ -1,0 +1,60 @@
+{
+  "data": {
+    "name": "yuyushiki",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yuyushiki.jpg",
+    "desc": "L'histoire de Yuyushiki nous entraîne dans la vie de trois lycéennes, il y a Yuzuko de nature innocente, Yukari de nature étourdie qui copie les singeries de Yuzuko et pour finir Yui de nature timide qui essaye de ne pas tomber dans les bêtises des deux autres. Ces jeunes lycéennes ont plutôt une vie tranquille, elles ont l'habitude de parler de sujets variés comme le soleil, les mains, les couleurs etc... Et comme elles aiment parler de beaucoup de sujets, elle vont décider de devenir membres du club d'informatique pour apprendre diverses choses.",
+    "genres": "Comédie, Seinen, Slice-of-Life, School-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5766324",
+            "https://video.sibnet.ru/shell.php?videoid=5766325",
+            "https://video.sibnet.ru/shell.php?videoid=5766342",
+            "https://video.sibnet.ru/shell.php?videoid=5766326",
+            "https://video.sibnet.ru/shell.php?videoid=5766327",
+            "https://video.sibnet.ru/shell.php?videoid=5766327",
+            "https://video.sibnet.ru/shell.php?videoid=5766329",
+            "https://video.sibnet.ru/shell.php?videoid=5766330",
+            "https://video.sibnet.ru/shell.php?videoid=5766332",
+            "https://video.sibnet.ru/shell.php?videoid=5766333",
+            "https://video.sibnet.ru/shell.php?videoid=5766345",
+            "https://video.sibnet.ru/shell.php?videoid=5766335",
+            "https://video.sibnet.ru/shell.php?videoid=5766336"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-wmlw81bsktub.html",
+            "https://vidmoly.to/embed-jkgsuo6tva1u.html",
+            "https://vidmoly.to/embed-nhei27uvxw67.html",
+            "https://vidmoly.to/embed-fsc4p0nd4r81.html",
+            "https://vidmoly.to/embed-yqur6ypnwefv.html",
+            "https://vidmoly.to/embed-f67j50n8jndf.html",
+            "https://vidmoly.to/embed-jbvdn7uim03b.html",
+            "https://vidmoly.to/embed-rdm8se1uoxud.html",
+            "https://vidmoly.to/embed-isk0omnjglgl.html",
+            "https://vidmoly.to/embed-pprf1vfd811m.html",
+            "https://vidmoly.to/embed-35fizgnv6w2c.html",
+            "https://vidmoly.to/embed-0wed7dykvys7.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-1hru5dmi0spg.html",
+            "https://oneupload.to/embed-vdru2t7ysi8b.html",
+            "https://oneupload.to/embed-13cf86g9rqao.html",
+            "https://oneupload.to/embed-oqi90qjh64uf.html",
+            "https://oneupload.to/embed-h34v6yf2dzyt.html",
+            "https://oneupload.to/embed-li04tesp6i5q.html",
+            "https://oneupload.to/embed-u57bva8t989u.html",
+            "https://oneupload.to/embed-8st7gjp9j7bb.html",
+            "https://oneupload.to/embed-7zu7dfnhkcyc.html",
+            "https://oneupload.to/embed-qdi7x1n2xmny.html",
+            "https://oneupload.to/embed-gz6phb04inb9.html",
+            "https://oneupload.to/embed-uqtl2m3wuyh3.html"
+          ]
+        }
+      }
+    }
+  }
+}

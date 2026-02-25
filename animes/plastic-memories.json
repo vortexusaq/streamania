@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "plastic-memories",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/plastic-memories.jpg",
+    "desc": "Tsukasa Mizugaki, âgé de 18 ans échoue aux examens d'entrée de l'université, mais après quelques recherches il réussi à décrocher un emploi à la Sion Artificial Intelligence Corporation, plus connue sous le nom de SAI Corp. Cette entreprise est l'origine de la création des Giftias, des androïdes très avancés presque imperceptibles des humains normaux. Cependant, contrairement aux humains, les Giftias ont une durée de vie maximale de 81 920 heures, soit neuf ans et quatre mois.\n\nTsukasa se retrouve donc assigné au premier terminal, chargé de récupérer les Giftias en fin de vie, avant qu'ils ne perdent leurs mémoires et deviennent hostiles.\n\nAprès avoir rejoint le premier terminal, il se retrouve en binôme avec une Giftia nommée Isla. Cette dernière est considérée comme la meilleure récupératrice de Giftia.\n\nCependant Tsukasa sait qu'il va devoir contenir ses sentiments car peu importe à quel point on le désire, rien ne dure pour toujours.",
+    "genres": "Comédie, Drame, Romance, Science-fiction, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/yz1rhgra6pwwme3n8g4muswo4r",
+            "https://www.myvi.top/embed/qd3y9cfdkm1r3d4j3n1mrx5qde",
+            "https://www.myvi.top/embed/u75dxxfyuy7wfr6drogzwpn8ke",
+            "https://www.myvi.top/embed/dxqebwnfmrjrpqw9nqq34dgpeo",
+            "https://www.myvi.top/embed/zxdpup6omoewtk9nsne3agfpcy",
+            "https://www.myvi.top/embed/898h5bq1cszr8mua4d6ezzigjo",
+            "https://www.myvi.top/embed/3jrg149k7mswzmhp1mrwqnzyqo",
+            "https://www.myvi.top/embed/3djmdxcdgfrwuyy46j1a8q78xy",
+            "https://www.myvi.top/embed/8uhs7mtab8zwifn634gpep4a8h",
+            "https://www.myvi.top/embed/hcym3p7w94yw5ex33fk1rahemw",
+            "https://www.myvi.top/embed/i38wfpdmsryrjjpbwtsyp44aqc",
+            "https://www.myvi.top/embed/eaj6gmcn3p1r3y5gcnyiuarsbc",
+            "https://www.myvi.top/embed/sx56xu8n3qbw5yqqne1q7mduiw"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4825093",
+            "https://video.sibnet.ru/shell.php?videoid=4825097",
+            "https://video.sibnet.ru/shell.php?videoid=4825098",
+            "https://video.sibnet.ru/shell.php?videoid=4825101",
+            "https://video.sibnet.ru/shell.php?videoid=4825103",
+            "https://video.sibnet.ru/shell.php?videoid=4825106",
+            "https://video.sibnet.ru/shell.php?videoid=4825108",
+            "https://video.sibnet.ru/shell.php?videoid=4825110",
+            "https://video.sibnet.ru/shell.php?videoid=4825112",
+            "https://video.sibnet.ru/shell.php?videoid=4825117",
+            "https://video.sibnet.ru/shell.php?videoid=4825120",
+            "https://video.sibnet.ru/shell.php?videoid=4825122",
+            "https://video.sibnet.ru/shell.php?videoid=4825123"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/9olrsy42",
+            "https://sendvid.com/embed/fs9js5bi",
+            "https://sendvid.com/embed/6u0jcbem",
+            "https://sendvid.com/embed/6ytiz9z5",
+            "https://sendvid.com/embed/cku3vdrs",
+            "https://sendvid.com/embed/7g2i9c09",
+            "https://sendvid.com/embed/f1c43rcq",
+            "https://sendvid.com/embed/3136jwzp",
+            "https://sendvid.com/embed/b6bo4t3h",
+            "https://sendvid.com/embed/t76fum4e",
+            "https://sendvid.com/embed/na9sgk2a",
+            "https://sendvid.com/embed/ou1r4wuq",
+            "https://sendvid.com/embed/o971s2zc"
+          ]
+        }
+      }
+    }
+  }
+}

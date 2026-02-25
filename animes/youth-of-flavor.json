@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "youth-of-flavor",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/youth-of-flavor.jpg",
+    "desc": "Shikioriori est un projet de trois courts films d'animation réalisé par le studio CoMiX Wave en collaboration avec la société chinoise Haoliners. Le projet final, qui comprend deux heures de vidéo, est décliné en trois courts films, tous réalisés par trois réalisateurs différents, et tous se déroulant dans une ville chinoise : Hidamari no Choushoku, de Jiaoshou Yi Xiaoxing : l'histoire d'un salarié vivant à Shanghai qui retourne dans son village natal et se remémore les bonnes nouilles que lui préparait sa grand-mère. Chiisana Fashion Show, de Yoshitaka Takeuchi, le parcours de deux sœurs à Guangzhou, qui partagent le même rêve, celui de travailler dans la mode. L'une en tant que modèle, l'autre en tant que styliste. Shanghai Koi, de Li Haoling, l'histoire d'amitié entre un jeune homme et une fille, dans le Shanghai des années 90.",
+    "genres": "Comédie, Drame, Romance, Slice-of-Life, Adolescence, Mode, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/j62rwnk3"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5364963"
+          ]
+        }
+      }
+    }
+  }
+}

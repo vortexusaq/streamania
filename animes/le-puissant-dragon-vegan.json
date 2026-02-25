@@ -1,0 +1,92 @@
+{
+  "data": {
+    "name": "le-puissant-dragon-vegan",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-puissant-dragon-vegan.jpg",
+    "desc": "Il est le « Dieu-dragon ». Les Hommes le craignent et le respectent et pourtant... il est le plus couard des sauriens ! Terré dans sa caverne à brouter de l'herbe, il va être sorti de sa torpeur par Reiko, pourtant élevée pour servir de sacrifice au dragon pour vaincre le Roi démon. Ne manquant ni de courage, ni d'aplomb, elle va lui mener la vie dure pour qu'il l'aide à vaincre les créatures qui menacent son village!",
+    "genres": "Aventure, Comédie, Fantasy",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/zouwnuug",
+            "https://sendvid.com/embed/mok133jf",
+            "https://sendvid.com/embed/mh9i5q9k\t",
+            "https://sendvid.com/embed/27d1e3tp",
+            "https://sendvid.com/embed/2w78vcsq",
+            "https://sendvid.com/embed/rax1tytv",
+            "https://sendvid.com/embed/pq21nxn5",
+            "https://sendvid.com/embed/kjarg098",
+            "https://sendvid.com/embed/7n4262tp",
+            "https://sendvid.com/embed/67ck90co",
+            "https://sendvid.com/embed/dt77u45b",
+            "https://sendvid.com/embed/cj29s252"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4816295",
+            "https://video.sibnet.ru/shell.php?videoid=4816296",
+            "https://video.sibnet.ru/shell.php?videoid=4816297",
+            "https://video.sibnet.ru/shell.php?videoid=4824429",
+            "https://video.sibnet.ru/shell.php?videoid=4836331",
+            "https://video.sibnet.ru/shell.php?videoid=4846915",
+            "https://video.sibnet.ru/shell.php?videoid=4855686",
+            "https://video.sibnet.ru/shell.php?videoid=4864633",
+            "https://video.sibnet.ru/shell.php?videoid=4873884",
+            "https://video.sibnet.ru/shell.php?videoid=4882215",
+            "https://video.sibnet.ru/shell.php?videoid=4900372",
+            "https://video.sibnet.ru/shell.php?videoid=4910810"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5700103",
+            "https://video.sibnet.ru/shell.php?videoid=5700105",
+            "https://video.sibnet.ru/shell.php?videoid=5708565",
+            "https://video.sibnet.ru/shell.php?videoid=5717791",
+            "https://video.sibnet.ru/shell.php?videoid=5726812",
+            "https://video.sibnet.ru/shell.php?videoid=5735007",
+            "https://video.sibnet.ru/shell.php?videoid=5742984",
+            "https://video.sibnet.ru/shell.php?videoid=5750365",
+            "https://video.sibnet.ru/shell.php?videoid=5756764",
+            "https://video.sibnet.ru/shell.php?videoid=5763492",
+            "https://video.sibnet.ru/shell.php?videoid=5767795",
+            "https://video.sibnet.ru/shell.php?videoid=5771662"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-tulwpukmgjmp.html",
+            "https://vidmoly.to/embed-21y0gck7hrhd.html",
+            "https://vidmoly.to/embed-20ac5bim8mbl.html",
+            "https://vidmoly.to/embed-f5s4z4ax2xs7.html",
+            "https://vidmoly.to/embed-f5wukk3d6i5x.html",
+            "https://vidmoly.to/embed-gp82zzqz3knt.html",
+            "https://vidmoly.to/embed-90so90me2ftu.html",
+            "https://vidmoly.to/embed-abfzdelxxbul.html",
+            "https://vidmoly.to/embed-npmqt1jbpci3.html",
+            "https://vidmoly.to/embed-9358sd2dvs5f.html",
+            "https://vidmoly.to/embed-b2smwkqo25qs.html",
+            "https://vidmoly.to/embed-8hirmmyt475j.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/ebom0bxa",
+            "https://sendvid.com/embed/91b6wiq2",
+            "https://sendvid.com/embed/i5bk6z4d",
+            "https://sendvid.com/embed/hlcr7ug4",
+            "https://sendvid.com/embed/m3sf4le4",
+            "https://sendvid.com/embed/0ty58lux",
+            "https://sendvid.com/embed/c1y09mtd",
+            "https://sendvid.com/embed/5uarshbl",
+            "https://sendvid.com/embed/y1vjlm2e",
+            "https://video.sibnet.ru/shell.php?videoid=5763492",
+            "https://sendvid.com/embed/069ic127",
+            "https://sendvid.com/embed/xxtt936k"
+          ]
+        }
+      }
+    }
+  }
+}

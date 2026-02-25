@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "porco-rosso",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/porco-rosso.jpg",
+    "desc": "Dans l'entre-deux-guerres, un pilote très talentueux nommé Marco va se retrouver transformé. Il est mi humain mi-cochon.\nIl est alors appelé par ses ennemis Porco Rosso.\nIl est désormais chasseur de prime à bord d'un bel hydravion rouge que l'on reconnait facilement.\nAyant beaucoup d'ennemis (les pirates de l'air, les brigands, etc.), son repère se trouve sur une île déserte de l'Adriatique.\nMais un jour, son ennemi juré vient le défier, alors que son bel hydravion rouge est déjà dans un sale état, il doit alors aller le faire réparer chez Picollo, un vieil ami. Il y rencontrera Fio, une jeune mécanicienne de 17 ans, qui le suivra partout et lui sauvera la vie bien des fois !\nRire et aventure sont au rendez-vous !",
+    "genres": "Aventure, Comédie, Historique\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5366084"
+          ]
+        }
+      }
+    }
+  }
+}

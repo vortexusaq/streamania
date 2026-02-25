@@ -1,0 +1,120 @@
+{
+  "data": {
+    "name": "nihon-e-youkoso-elf-san",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nihon-e-youkoso-elf-san.jpg",
+    "desc": "Le seul hobby de Kazuhiro Kitase est de dormir. Depuis son plus jeune âge, il entre dans un monde merveilleux par le biais de ses rêves et vit des aventures palpitantes. Un jour, il part à l'aventure avec une jeune elfe avec laquelle il s'est lié d'amitié dans son monde onirique. Cependant, l'aventure s'arrête brusquement lorsqu'ils sont tous les deux tués par le souffle d'un dragon ! En se réveillant, il remarque qu'une silhouette familière dort à côté de lui. En effet, l'elfe de ses rêves se trouve aussi dans son lit ! C'est ainsi que Kazuhiro va vivre de nouvelles aventures dans tout le Japon avec une elfe !",
+    "genres": "Aventure, Comédie, Fantasy, Romance, Slice-of-Life, Autre-monde, Elfe, Gastronomie, Rêves",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5794882",
+            "https://video.sibnet.ru/shell.php?videoid=5800524"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-99g6rxgg04au.html",
+            "https://vidmoly.to/embed-kn8jyoz3ayth.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-g8ddz1x1iznr.html",
+            "https://oneupload.to/embed-ea9kmti7jxy9.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/glltakda",
+            "https://sendvid.com/embed/xt2l959o"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241144&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241210&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

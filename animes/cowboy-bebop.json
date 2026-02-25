@@ -1,0 +1,109 @@
+{
+  "data": {
+    "name": "cowboy-bebop",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/cowboy-bebop.jpg",
+    "desc": "L'histoire se déroule en l'an 2071, près de 50 ans après l'incident de la gate, et l'humanité s'est répandue à travers tout le système solaire grâce aux portes spatiales qu'elle a développé durant toutes ces années. Avec l'invention du MONO (Machine Operation Navigation of Outer space), les voyages interplanétaires se font de manière plus rapide, rendant les planètes distantes de la Terre comme Venus, mars ou encore Jupiter facilement accessibles, entraînant par la même occasion un trafic constant entre les différentes planètes et lunes du système solaire.\n\nCowboy Bebop nous raconte les déboires de Spike et Jet, deux célibataires qui se sont associés dans la chasse aux hors-la-loi dont la tête est mise à prix. Tous les deux sans argent, ils sillonnent l'espace à bord du Bebop afin de renflouer leur compte en banque ainsi que leur frigo. Mais bientôt ils ne seront plus seuls car leurs chasses à l'homme les amèneront à croiser le chemin d'un chien intelligent, Ein, d'une belle brune, Faye et d'une jeune hackeur au comportement loufoque, Ed.",
+    "genres": "Action, Aventure, Comédie, Drame, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4849158",
+            "https://video.sibnet.ru/shell.php?videoid=4849163",
+            "https://video.sibnet.ru/shell.php?videoid=4849167",
+            "https://video.sibnet.ru/shell.php?videoid=4849193",
+            "https://video.sibnet.ru/shell.php?videoid=4849199",
+            "https://video.sibnet.ru/shell.php?videoid=4849202",
+            "https://video.sibnet.ru/shell.php?videoid=4796746",
+            "https://video.sibnet.ru/shell.php?videoid=4796748",
+            "https://video.sibnet.ru/shell.php?videoid=5299098",
+            "https://video.sibnet.ru/shell.php?videoid=4849222",
+            "https://video.sibnet.ru/shell.php?videoid=4849227",
+            "https://video.sibnet.ru/shell.php?videoid=4849233",
+            "https://video.sibnet.ru/shell.php?videoid=4849239",
+            "https://video.sibnet.ru/shell.php?videoid=4849245",
+            "https://video.sibnet.ru/shell.php?videoid=4849249",
+            "https://video.sibnet.ru/shell.php?videoid=4849253",
+            "https://video.sibnet.ru/shell.php?videoid=4849256",
+            "https://video.sibnet.ru/shell.php?videoid=4796750",
+            "https://video.sibnet.ru/shell.php?videoid=4849264",
+            "https://video.sibnet.ru/shell.php?videoid=4849267",
+            "https://video.sibnet.ru/shell.php?videoid=4849271",
+            "https://video.sibnet.ru/shell.php?videoid=4796752",
+            "https://video.sibnet.ru/shell.php?videoid=5299881",
+            "https://video.sibnet.ru/shell.php?videoid=4849281",
+            "https://video.sibnet.ru/shell.php?videoid=4849286",
+            "https://video.sibnet.ru/shell.php?videoid=4849289"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-bouio4spyjnr.html",
+            "https://vidmoly.to/embed-pa4l0kzkstlt.html",
+            "https://vidmoly.to/embed-x9mcp3408j9y.html",
+            "https://vidmoly.to/embed-azntsxqdhuf0.html",
+            "https://vidmoly.to/embed-uif52pecbzkl.html",
+            "https://vidmoly.to/embed-zjtcqrbehudm.html",
+            "https://vidmoly.to/embed-qmxbse7tgd17.html",
+            "https://vidmoly.to/embed-0n3dk7gmowsu.html",
+            "https://vidmoly.to/embed-xcemhgrjci0a.html",
+            "https://vidmoly.to/embed-iky564w8s4re.html",
+            "https://vidmoly.to/embed-9hagmgwp3n4y.html",
+            "https://vidmoly.to/embed-cda6055fkebh.html",
+            "https://vidmoly.to/embed-ti02sfq9k78v.html",
+            "https://vidmoly.to/embed-smc9jzhfrvix.html",
+            "https://vidmoly.to/embed-wc3o9r944zgv.html",
+            "https://vidmoly.to/embed-i5ad7e11t6dp.html",
+            "https://vidmoly.to/embed-ivvbmqld1jfa.html",
+            "https://vidmoly.to/embed-6nzfcuntvfl6.html",
+            "https://vidmoly.to/embed-8rmk84gpmkzr.html",
+            "https://vidmoly.to/embed-vxn802y0oum4.html",
+            "https://vidmoly.to/embed-qsm72ruvtijv.html",
+            "https://vidmoly.to/embed-0h0qosxxnc3r.html",
+            "https://vidmoly.to/embed-up6t5z43lr7l.html",
+            "https://vidmoly.to/embed-axz761i4ekdf.html",
+            "https://vidmoly.to/embed-20n8uisxsuec.html",
+            "https://vidmoly.to/embed-qb8v9t5agw1j.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/iqfkmwfd",
+            "https://sendvid.com/embed/cdc4fncv",
+            "https://sendvid.com/embed/kn87jogo",
+            "https://sendvid.com/embed/2sxmfhv4",
+            "https://sendvid.com/embed/u581ly04",
+            "https://sendvid.com/embed/k0bnt91h",
+            "https://sendvid.com/embed/gmd8u11g",
+            "https://sendvid.com/embed/y8fx47ni",
+            "https://sendvid.com/embed/wf7foqu0",
+            "https://sendvid.com/embed/zi32zfxm",
+            "https://sendvid.com/embed/wltclozl",
+            "https://sendvid.com/embed/ullipclz",
+            "https://sendvid.com/embed/gowq1a2c",
+            "https://sendvid.com/embed/x4km9gsk",
+            "https://sendvid.com/embed/ewz4nbza",
+            "https://sendvid.com/embed/3emp7ebk",
+            "https://sendvid.com/embed/ccuuo5me",
+            "https://sendvid.com/embed/1v6vfmz0",
+            "https://sendvid.com/embed/fy6welpb",
+            "https://sendvid.com/embed/dg2cwowg",
+            "https://sendvid.com/embed/8mxbxk2i",
+            "https://sendvid.com/embed/lj6ka4ev",
+            "https://sendvid.com/embed/j9wvrt4a",
+            "https://sendvid.com/embed/xx6s8yxh",
+            "https://sendvid.com/embed/7t8rjye4",
+            "https://sendvid.com/embed/syabhc3j"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4796773"
+          ]
+        }
+      }
+    }
+  }
+}

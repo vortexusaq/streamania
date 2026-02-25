@@ -1,0 +1,131 @@
+{
+  "data": {
+    "name": "maou-2099",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/maou-2099.jpg",
+    "desc": "Année 2099 de l'ère fusionnée, Shinjuku. L'éblouissante prospérité de cette gigantesque cité-État cache une part d'ombre. C'est ici, dans cette mégapole qui représente l'apogée du développement humain, que le légendaire Seigneur Démon Veltol fait sa seconde apparition. Pour régner sur ce nouveau monde, il devra s'emparer lui-même de l'avenir !",
+    "genres": "Action, Aventure, Science-Fantasy, Surnaturel, Cyberpunk, Démons, Magie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5713142",
+            "https://video.sibnet.ru/shell.php?videoid=5722033",
+            "https://video.sibnet.ru/shell.php?videoid=5730758",
+            "https://video.sibnet.ru/shell.php?videoid=5739285",
+            "https://video.sibnet.ru/shell.php?videoid=5746451",
+            "https://video.sibnet.ru/shell.php?videoid=5753389",
+            "https://video.sibnet.ru/shell.php?videoid=5760859",
+            "https://video.sibnet.ru/shell.php?videoid=5765582",
+            "https://video.sibnet.ru/shell.php?videoid=5769595",
+            "https://video.sibnet.ru/shell.php?videoid=5774033",
+            "https://video.sibnet.ru/shell.php?videoid=5780238",
+            "https://video.sibnet.ru/shell.php?videoid=5785450"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-oyp85yk5pwp0.html",
+            "https://vidmoly.to/embed-g5z6gav1v289.html",
+            "https://vidmoly.to/embed-1fecmt8l6zya.html",
+            "https://vidmoly.to/embed-mispiipk132s.html",
+            "https://vidmoly.to/embed-lswv4a9hrwwy.html",
+            "https://vidmoly.to/embed-a2sz4yszd5ll.html",
+            "https://vidmoly.to/embed-z99m296pytu0.html",
+            "https://vidmoly.to/embed-rlypiwqfcqs5.html",
+            "https://vidmoly.to/embed-upcxpcp367ea.html",
+            "https://vidmoly.to/embed-68lvwmcx8yh1.html",
+            "https://vidmoly.to/embed-ueze46y2virl.html",
+            "https://vidmoly.to/embed-55hh30pviea9.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-dvxyu9qig2wi.html",
+            "https://oneupload.to/embed-1qtu3a4ur38g.html",
+            "https://oneupload.to/embed-pi5x4bbo2fiq.html",
+            "https://oneupload.to/embed-6nj3v8edinxa.html",
+            "https://oneupload.to/embed-gblzjfo6pkey.html",
+            "https://oneupload.to/embed-4h9oqeg05ast.html",
+            "https://oneupload.to/embed-0u5soxnsa8fh.html",
+            "https://oneupload.to/embed-q6699dh65d9z.html",
+            "https://oneupload.to/embed-afqljjskd0ne.html",
+            "https://oneupload.to/embed-kiuxhvf2u4ws.html",
+            "https://oneupload.to/embed-6dbkpmsdb3x1.html",
+            "https://oneupload.to/embed-2rqib905jubq.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/57v5852h",
+            "https://sendvid.com/embed/6m5285mq",
+            "https://sendvid.com/embed/tf9ocovx",
+            "https://sendvid.com/embed/7ds9k24r",
+            "https://sendvid.com/embed/lphdwnwg",
+            "https://sendvid.com/embed/d77xevbg",
+            "https://sendvid.com/embed/whsx3e8z",
+            "https://sendvid.com/embed/ualfc64i",
+            "https://sendvid.com/embed/tl68cqni",
+            "https://sendvid.com/embed/rz8hrxzw",
+            "https://sendvid.com/embed/nis1guwi",
+            "https://sendvid.com/embed/3y9n4rhr"
+          ],
+          "lec5": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456240516&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240580&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240644&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240691&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240750&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240815&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240867&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240914&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240962&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241009&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241053&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241082&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {}
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {}
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {}
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

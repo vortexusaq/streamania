@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "inu-x-boku-ss",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/inu-x-boku-ss.jpg",
+    "desc": "Une jeune fille, Ririchiyo Shirakiin, intègre un manoir du nom de « Maison de Ayakashi » où se réunissent seulement les personnes dotées d'un pouvoir qui dépasse l'entendement. Elle a décidé d'y emménager afin de pouvoir prendre son indépendance, ce qui lui tient à coeur. De plus, Ririchiyo n'agit pas comme elle le voudrait, à cause de ces mauvaises habitudes, qui restreignent ses conversations. Dans ce manoir, elle va faire la rencontre d'un jeune homme nommé Miketsukami Sôchi, qui s'approprie le titre de « chien » envers Ririchiyo. Cette histoire lie donc une jeune fille antisociale avec un jeune homme au passé douloureux qui ne cherche que le bien être de cette dernière.",
+    "genres": "Comédie, Drame, Romance, Surnaturel, Yokai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/s7754u2t",
+            "https://sendvid.com/embed/uxm3so8v",
+            "https://sendvid.com/embed/di8d7pp2",
+            "https://sendvid.com/embed/s53rmidi",
+            "https://sendvid.com/embed/fc3isis7",
+            "https://sendvid.com/embed/4qct8ara",
+            "https://sendvid.com/embed/8mapxnu7",
+            "https://sendvid.com/embed/xz8uqjmm",
+            "https://video.sibnet.ru/shell.php?videoid=5308990",
+            "https://sendvid.com/embed/5rz2l3gw",
+            "https://sendvid.com/embed/zwzrxj7e",
+            "https://sendvid.com/embed/5lyfgg30"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5308982",
+            "https://video.sibnet.ru/shell.php?videoid=5308983",
+            "https://video.sibnet.ru/shell.php?videoid=5308984",
+            "https://video.sibnet.ru/shell.php?videoid=5308985",
+            "https://video.sibnet.ru/shell.php?videoid=5308986",
+            "https://video.sibnet.ru/shell.php?videoid=5308987",
+            "https://video.sibnet.ru/shell.php?videoid=5308988",
+            "https://video.sibnet.ru/shell.php?videoid=5308989",
+            "https://video.sibnet.ru/shell.php?videoid=5308990",
+            "https://video.sibnet.ru/shell.php?videoid=5308991",
+            "https://video.sibnet.ru/shell.php?videoid=5308992",
+            "https://video.sibnet.ru/shell.php?videoid=5308993"
+          ]
+        }
+      }
+    }
+  }
+}

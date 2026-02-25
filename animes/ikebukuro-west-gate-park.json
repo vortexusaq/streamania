@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "ikebukuro-west-gate-park",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ikebukuro-west-gate-park.jpg",
+    "desc": "Bienvenue à Ikebukuro West Gate Park. Un square ouvert aux aventuriers urbains, à la sortie ouest de la gare d'lkebukuro. C'est là que Makoto et ses amis ont établi leur QG. Makoto a dix-neuf ans, et c'est un trouble shooter, un \"solutionneur d'embrouilles\". Des embrouilles, il n'en manque pas dans ce quartier où se rencontrent gamins à la dérive, yakuzas, filles perdues et clandestins dans le Japon de l'envers. Avec pour seules armes son énergie et sa débrouillardise, Makoto résout les énigmes, vient en aide à ceux qui sont dans la détresse, et tente de ramener la paix dans les rues menacées par une sanglante guerre des gangs.",
+    "genres": "Drame, Mystère, Seinen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/bf0e9y3q",
+            "https://sendvid.com/embed/45mdcy6z",
+            "https://sendvid.com/embed/7h6qcmx6",
+            "https://sendvid.com/embed/bxh928e4",
+            "https://sendvid.com/embed/62v7smbp",
+            "https://sendvid.com/embed/quirj7dx",
+            "https://sendvid.com/embed/ne9txo0v",
+            "https://sendvid.com/embed/q3hl0sl9",
+            "https://sendvid.com/embed/pmetxxsc",
+            "https://sendvid.com/embed/1y46xwer",
+            "https://sendvid.com/embed/lfidhr37",
+            "https://sendvid.com/embed/221w1m8d"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4672289",
+            "https://video.sibnet.ru/shell.php?videoid=4672293",
+            "https://video.sibnet.ru/shell.php?videoid=4672295",
+            "https://video.sibnet.ru/shell.php?videoid=4672298",
+            "https://sendvid.com/embed/62v7smbp",
+            "https://video.sibnet.ru/shell.php?videoid=4672304",
+            "https://video.sibnet.ru/shell.php?videoid=4672309",
+            "https://video.sibnet.ru/shell.php?videoid=4672315",
+            "https://video.sibnet.ru/shell.php?videoid=4672319",
+            "https://video.sibnet.ru/shell.php?videoid=4672326",
+            "https://video.sibnet.ru/shell.php?videoid=4672332",
+            "https://video.sibnet.ru/shell.php?videoid=4672337"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-d3vl1jqkf0a1.html",
+            "https://vidmoly.to/embed-911b2740ax2e.html",
+            "https://vidmoly.to/embed-sq0sjb6vzlj9.html",
+            "https://vidmoly.to/embed-s5a9tob5r8zu.html",
+            "https://vidmoly.to/embed-eyfu09g4434f.html",
+            "https://vidmoly.to/embed-6byqyjxy272b.html",
+            "https://vidmoly.to/embed-4ax0cvues7mp.html",
+            "https://vidmoly.to/embed-ce0y3abyfkwq.html",
+            "https://vidmoly.to/embed-9wit83ydu41v.html",
+            "https://vidmoly.to/embed-lshpyxzkr1w8.html",
+            "https://vidmoly.to/embed-u1yq452rl61c.html",
+            "https://vidmoly.to/embed-ykyed5a3hdy8.html"
+          ]
+        }
+      }
+    }
+  }
+}

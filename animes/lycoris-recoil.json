@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "lycoris-recoil",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lycoris-recoil.jpg",
+    "desc": "Si vous souhaitez avoir l'esprit tranquille, faites appel à Lycoris, une organisation secrète luttant contre le crime composée d'agents féminins. Avec son air insouciant, Chisato est énergique et la plus douée. Takina quant à elle semble plus mystérieuse et réservée, mais elle garde toujours la tête froide. Lorsqu'elles ne sont pas en mission, elles s'occupent d'un café qui propose des douceurs, s'adonnent au shopping et font même de la garde d'enfants ! Suivez le quotidien de ce drôle de duo",
+    "genres": "Comédie, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/z0l80xsa",
+            "https://sendvid.com/embed/2vmnau64",
+            "https://sendvid.com/embed/esdnlmed",
+            "https://sendvid.com/embed/ldcq2vti",
+            "https://sendvid.com/embed/2s4ytb9k",
+            "https://sendvid.com/embed/hgtkfhbs",
+            "https://sendvid.com/embed/tica9y91",
+            "https://sendvid.com/embed/10a4qv02",
+            "https://sendvid.com/embed/zcc3a79d",
+            "https://sendvid.com/embed/gwjqrar6",
+            "https://sendvid.com/embed/47s1mtox",
+            "https://sendvid.com/embed/slaw05td",
+            "https://sendvid.com/embed/x88p9qd1"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4775620",
+            "https://video.sibnet.ru/shell.php?videoid=4783376",
+            "https://video.sibnet.ru/shell.php?videoid=4796376",
+            "https://video.sibnet.ru/shell.php?videoid=4799091",
+            "https://video.sibnet.ru/shell.php?videoid=4806564",
+            "https://video.sibnet.ru/shell.php?videoid=4815870",
+            "https://video.sibnet.ru/shell.php?videoid=4824876",
+            "https://video.sibnet.ru/shell.php?videoid=4836836",
+            "https://video.sibnet.ru/shell.php?videoid=4847588",
+            "https://video.sibnet.ru/shell.php?videoid=4856004",
+            "https://video.sibnet.ru/shell.php?videoid=4865319",
+            "https://video.sibnet.ru/shell.php?videoid=4874872",
+            "https://video.sibnet.ru/shell.php?videoid=4882844"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-qlclklyx00h8.html",
+            "https://vidmoly.to/embed-onyfchzebnkg.html",
+            "https://vidmoly.to/embed-i6g95upl5pji.html",
+            "https://vidmoly.to/embed-np9m85v3pkvf.html",
+            "https://vidmoly.to/embed-m0jg4hmkmdgr.html",
+            "https://vidmoly.to/embed-202s0lnpk5yy.html",
+            "https://vidmoly.to/embed-tof83p29sx9c.html",
+            "https://vidmoly.to/embed-teyat8wnn6en.html",
+            "https://vidmoly.to/embed-fobcw76y0yu5.html",
+            "https://vidmoly.to/embed-lz38j5e5iquv.html",
+            "https://vidmoly.to/embed-snibc9rkx89x.html",
+            "https://vidmoly.to/embed-h5hf28ehchqo.html",
+            "https://vidmoly.to/embed-6v2jim704srr.html"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "data": {
+    "name": "arafou-otoko-no-isekai-tsuuhan",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arafou-otoko-no-isekai-tsuuhan.jpg",
+    "desc": "Kenichi, un homme célibataire d'une quarantaine d'années, est soudainement transporté dans un autre-monde. Alors qu'il se fraye un chemin à travers les forêts dangereuses de ce monde, il se rend compte qu'il peut utiliser un énorme site d'achat en ligne, qui existe dans sa réalité à lui.",
+    "genres": "Ecchi, Fantasy, Isekai, Harem",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5794009",
+            "https://video.sibnet.ru/shell.php?videoid=5799527"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-nxh92e4sj5b2.html",
+            "https://vidmoly.to/embed-nyfwcknnw67t.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-hh3ukohk72oo.html",
+            "https://oneupload.to/embed-ulxtluozu4h7.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/0k11jdfd",
+            "https://sendvid.com/embed/ycnmxnug"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241134&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241200&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

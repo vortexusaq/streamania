@@ -1,0 +1,69 @@
+{
+  "data": {
+    "name": "kabaneri-of-the-iron-fortress",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kabaneri-of-the-iron-fortress.jpg",
+    "desc": "L'histoire se déroule dans un monde chaotique où les humains tentent tant bien que mal de survivre face à une menace grandissante : les Kabane. Ces derniers, dont le cœur est en acier, dévorent tous les humains qu'ils croisent.\nAfin de se préserver de cette menace, les populations se sont réfugiées dans d'immenses forteresses baptisées stations, reliées entre elle par des trains blindés, les Hayajiro.\n\nIkoma, qui a autrefois fuit face aux Kabane, vit désormais dans l'une de ces forteresses. Mais, à présent, il a la ferme intention de lutter pour survivre.",
+    "genres": "Action, Drame, Horreur, Épouvante, Mystère, Psychologique, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/15xu55rspwmwdruzdnynmg3goh",
+            "https://www.myvi.top/embed/c7bgcqkhxizrmbk7n84sjyntgo",
+            "https://www.myvi.top/embed/syjx9dngppfrzk8aodyxn4at1r",
+            "https://www.myvi.top/embed/ex4kcpjyw4twpkbkacb87at9hw",
+            "https://www.myvi.top/embed/i7htizffnz4wmrrwciembajdjw",
+            "https://www.myvi.top/embed/c5antekoibhrtbpqn3fagcdj3h",
+            "https://www.myvi.top/embed/f51srxkxaymw3xe3ykkzhjjqie",
+            "https://www.myvi.top/embed/sw3nkmy3wgqrpf59kjjxkde6wo",
+            "https://www.myvi.top/embed/4cpe7t7wct9riebfgmk5cn993o",
+            "https://www.myvi.top/embed/ujbfqxofenarxgufja8fbdcoya",
+            "https://www.myvi.top/embed/j7wgtzw56sdwxy75soro3csujo",
+            "https://www.myvi.top/embed/54wb49ot3e3w8m1e5eomqoctsc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4720264",
+            "https://video.sibnet.ru/shell.php?videoid=4720266",
+            "https://video.sibnet.ru/shell.php?videoid=4720267",
+            "https://video.sibnet.ru/shell.php?videoid=4720268",
+            "https://video.sibnet.ru/shell.php?videoid=4720276",
+            "https://video.sibnet.ru/shell.php?videoid=4720278",
+            "https://video.sibnet.ru/shell.php?videoid=4720282",
+            "https://video.sibnet.ru/shell.php?videoid=4720285",
+            "https://video.sibnet.ru/shell.php?videoid=4720286",
+            "https://video.sibnet.ru/shell.php?videoid=4720289",
+            "https://video.sibnet.ru/shell.php?videoid=4720291",
+            "https://video.sibnet.ru/shell.php?videoid=4720292"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/rf2k6gm0",
+            "https://sendvid.com/embed/frzzn9lp",
+            "https://sendvid.com/embed/kbqcryib",
+            "https://sendvid.com/embed/7xfixj64",
+            "https://sendvid.com/embed/qa8hgh46",
+            "https://sendvid.com/embed/mvav7wsv",
+            "https://sendvid.com/embed/d0o4ouz4",
+            "https://sendvid.com/embed/ulfbcqvg",
+            "https://sendvid.com/embed/2tpebbwe",
+            "https://sendvid.com/embed/f6ea4r4o",
+            "https://sendvid.com/embed/c4so4wk8",
+            "https://sendvid.com/embed/kpkwryat"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4720256",
+            "https://video.sibnet.ru/shell.php?videoid=4720261",
+            "https://video.sibnet.ru/shell.php?videoid=4720294"
+          ]
+        }
+      }
+    }
+  }
+}

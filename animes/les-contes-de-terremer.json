@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "les-contes-de-terremer",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/les-contes-de-terremer.jpg",
+    "desc": "L'histoire se déroule à Terremer, un monde imaginaire peuplé d'êtres humains et de dragons. Le premier film de Gorō Miyazaki, fils du célèbre Hayao Miyazaki, narre la jeunesse du prince Arren, de son initiation au mystère de la magie à la libération de son double malfaisant...",
+    "genres": "Aventure, Drame, Fantasy\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4754513"
+          ]
+        }
+      }
+    }
+  }
+}

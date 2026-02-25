@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "tomodachi-game",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tomodachi-game.jpg",
+    "desc": "Yuuchi Katagiri est en deuxième année au lycée dans la même classe que ses amis Makoto Shibe, Shiho Sawaragi, Tenji Mikasa et Yutori Kokonogi. Yuuchi est un gros travailleur. En effet, pour collecter des fonds pour un voyage scolaire, il a cumulé plusieurs petits emplois et ainsi beaucoup participé à la collecte. Mais leur professeur leur annonce que les 20 millions de yens récoltés ont été volé, et sans aucun doute par un élève de la classe. Le soir-même, en compagnie de ses amis, il se fait agresser par un inconnu. Tous les 5 se réveillent dans une pièce fermée où une mascotte, Manabu, leur annonce qu'ils sont endettés et qu'ils vont devoir jouer à plusieurs jeux pour gagner de l'argent. L'heure est venue pour eux d'avouer les mensonges... Leur amitié y survivra-t-elle ?",
+    "genres": "Drame, Mystère, Psychologique, Shônen, Jeux, Mensonges",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4668346",
+            "https://video.sibnet.ru/shell.php?videoid=4669940",
+            "https://video.sibnet.ru/shell.php?videoid=4678097",
+            "https://video.sibnet.ru/shell.php?videoid=4688715",
+            "https://video.sibnet.ru/shell.php?videoid=4700804",
+            "https://video.sibnet.ru/shell.php?videoid=4707837",
+            "https://video.sibnet.ru/shell.php?videoid=4716680",
+            "https://video.sibnet.ru/shell.php?videoid=4727036",
+            "https://video.sibnet.ru/shell.php?videoid=4734531",
+            "https://video.sibnet.ru/shell.php?videoid=4742517",
+            "https://video.sibnet.ru/shell.php?videoid=4751804",
+            "https://video.sibnet.ru/shell.php?videoid=4759789"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-bdcylcxcsrlz.html",
+            "https://vidmoly.to/embed-6h5r56vyrk1m.html",
+            "https://vidmoly.to/embed-n6nlndxbpx4r.html",
+            "https://vidmoly.to/embed-go82mzprb0lh.html",
+            "https://vidmoly.to/embed-ftek7m9aoelp.html",
+            "https://vidmoly.to/embed-6n8cekq2ah7c.html",
+            "https://vidmoly.to/embed-mc01jn9kydx6.html",
+            "https://vidmoly.to/embed-npgcfvita5jb.html",
+            "https://vidmoly.to/embed-yu0du3ob1bdm.html",
+            "https://vidmoly.to/embed-qki962376rxs.html",
+            "https://vidmoly.to/embed-f31paafp03x5.html",
+            "https://vidmoly.to/embed-0vg0xlenha6j.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/82a17xs7",
+            "https://sendvid.com/embed/nqq4o51m",
+            "https://sendvid.com/embed/fuz0wu55",
+            "https://sendvid.com/embed/8ofw7qn8",
+            "https://sendvid.com/embed/cptiffw3",
+            "https://sendvid.com/embed/n313fn41",
+            "https://sendvid.com/embed/swgjqe7b",
+            "https://sendvid.com/embed/ciqtj9sf",
+            "https://sendvid.com/embed/c2hs8f21",
+            "https://sendvid.com/embed/8d4vpj23",
+            "https://sendvid.com/embed/o20jgof0",
+            "https://sendvid.com/embed/85x8x6pf"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_01_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_02_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_03_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_04_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_05_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_06_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_07_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_08_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_09_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Tomodachi%20Game/VOSTFR/Tomodachi_Game_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

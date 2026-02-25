@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "akira",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/akira.jpg",
+    "desc": "L'histoire se passe en l'an 2019, 31 ans après la troisième guerre mondiale. Les autorités de la ville de Neo-Tokyo mènent une lutte interminable contre les rebelles des \"underground\" qui dominent la ville.\nAlors qu'un gang de motards dont le leader est Kaneda passe son temps à se battre contre d'autres rebelles, Tetsuo, un membre du groupe, a un accident avec un enfant aux pouvoirs mentaux incroyables. Le gang de Kaneda est alors impliqué dans une affaire top secrète, tous sont emprisonnés puis relâchés par la suite, excepté Tetsuo qui subit diverses analyses et expérimentations. L'accident a déclenché chez Tetsuo l'apparition de pouvoirs psychiques très puissants. Il est alors pris d'assaut par l'armée mais il est décidé à tout ravager autour de lui, il veut se venger de la société pour l'avoir toujours considéré comme un être faible...",
+    "genres": "Action, Horreur, Épouvante, Psychologique, Science-fiction, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4740096"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "data": {
+    "name": "dragons",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dragons.jpg",
+    "desc": "L'histoire d'Harold, jeune Viking peu à son aise dans sa tribu où combattre les dragons est le sport national. Sa vie va être bouleversée par sa rencontre avec un dragon qui va peu à peu amener Harold et les siens à voir le monde d'un point de vue totalement différent.",
+    "genres": "Aventure, Animation, Famille",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vf",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-q6geylzauts3.html",
+            "https://vidmoly.to/embed-dy0tg76m86ec.html",
+            "https://vidmoly.to/embed-2hjsthuwnhmn.html"
+          ]
+        }
+      }
+    }
+  }
+}

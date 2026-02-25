@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "white-album-2",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/white-album-2.jpg",
+    "desc": "White Album 2 se passe 10 ans après White Album. L'histoire est centrée sur un lycéen nommé Haruki Kitahara et de ses relations avec Setsuna Ogiso et Kazusa Touma dans le club de musique. Haruki Kitahara est un guitariste qui est chargé par son ami et président du club, Takeya Iizuka, de recruter de nouveaux membres. Il arrive à trouver deux jeunes filles, une pianiste et une chanteuse. Ensemble ils vont composer une musique pour leur école et rapidement, des sentiments amoureux entre eux vont apparaître.",
+    "genres": "Drame, Romance, Slice-of-Life, Musique, Triangle amoureux",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/esb35htd",
+            "https://sendvid.com/embed/gwxtg09a",
+            "https://sendvid.com/embed/q3stjut0",
+            "https://sendvid.com/embed/v00fxnra",
+            "https://sendvid.com/embed/9m8kyke4",
+            "https://sendvid.com/embed/imjyaome",
+            "https://sendvid.com/embed/pffdhs8d",
+            "https://sendvid.com/embed/q4rowrrp",
+            "https://sendvid.com/embed/gd0o2xsj",
+            "https://sendvid.com/embed/rkjsfu1c",
+            "https://sendvid.com/embed/y2xp91k0",
+            "https://sendvid.com/embed/sx3oj6u9",
+            "https://sendvid.com/embed/lwb7xe74"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4982003",
+            "https://video.sibnet.ru/shell.php?videoid=4982005",
+            "https://video.sibnet.ru/shell.php?videoid=4982007",
+            "https://video.sibnet.ru/shell.php?videoid=4982011",
+            "https://video.sibnet.ru/shell.php?videoid=4982013",
+            "https://video.sibnet.ru/shell.php?videoid=4982014",
+            "https://video.sibnet.ru/shell.php?videoid=4982018",
+            "https://video.sibnet.ru/shell.php?videoid=4982022",
+            "https://video.sibnet.ru/shell.php?videoid=4982024",
+            "https://video.sibnet.ru/shell.php?videoid=4982026",
+            "https://video.sibnet.ru/shell.php?videoid=4982028",
+            "https://video.sibnet.ru/shell.php?videoid=4982031",
+            "https://video.sibnet.ru/shell.php?videoid=4982033"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/4nxpr5sytopw7dz1bfic16d1xo",
+            "https://www.myvi.tv/embed/y9dz75hq16rr78xy11u6uejdho",
+            "https://www.myvi.tv/embed/xti1oy1qhbcrzrb9hpbbjjo3rh",
+            "https://www.myvi.tv/embed/3u5zkpt1teiw8r4etuwhjcnh8e",
+            "https://www.myvi.tv/embed/ii66835bokbrunk1cicianj67y",
+            "https://www.myvi.tv/embed/s57muhycko7w3fr8hhbgto8moa",
+            "https://www.myvi.tv/embed/usfkr93thgnr98u8onteit86yw",
+            "https://www.myvi.tv/embed/inae3wfiz8hwxnadpd8ebxpufr",
+            "https://www.myvi.tv/embed/yonbnqkfp45r9bnh98thgattyc",
+            "https://www.myvi.tv/embed/tcsfn6c1bgiw8r76gus5d8yz8y",
+            "https://www.myvi.tv/embed/srghuzqxdgawfdr8ufcuftpxey",
+            "https://www.myvi.tv/embed/1a53pz9cx84w5nnwyc471sgi4o",
+            "https://www.myvi.tv/embed/gif43fnswf3w3bs49cw3nz59sa"
+          ]
+        }
+      }
+    }
+  }
+}

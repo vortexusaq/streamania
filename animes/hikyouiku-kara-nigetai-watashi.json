@@ -1,0 +1,125 @@
+{
+  "data": {
+    "name": "hikyouiku-kara-nigetai-watashi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hikyouiku-kara-nigetai-watashi.jpg",
+    "desc": "Tout est parfait chez Leticia. Rien d'étonnant à cela : voilà dix ans qu'elle est éduquée pour devenir la future femme du prince Clark, héritier du trône. Mais un soir, son fiancé arrive au bal avec une autre femme. Les fiançailles seraient donc rompues ? En voilà une bonne nouvelle pour Leti ! Adieu éducation corsetée de princesse ! Et bonjour liberté chérie ! Enfin, elle va pouvoir courir, grimper aux arbres et rire bruyamment. Sauf que le prince ne semble pas vouloir la laisser partir.",
+    "genres": "Comédie, Fantasy, Romance, Amour, Royauté",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5791348",
+            "https://video.sibnet.ru/shell.php?videoid=5796672",
+            "https://video.sibnet.ru/shell.php?videoid=5802123"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-4ogy1p24hjjn.html",
+            "https://vidmoly.to/embed-vhejufxw9969.html",
+            "https://vidmoly.to/embed-2ltq7uordwuo.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-d00loesv8iw3.html",
+            "https://oneupload.to/embed-baqmbr2m7wna.html",
+            "https://oneupload.to/embed-gnmjzn6xvuc8.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/pz961rj8",
+            "https://sendvid.com/embed/dakfuzts",
+            "https://vidmoly.to/embed-2ltq7uordwuo.html"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241113&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241161&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241228&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

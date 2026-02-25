@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "shine-post",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shine-post.jpg",
+    "desc": "Shine Post est un projet multimédia centré sur les idoles Moeko Kanisawa, Yuuko Natsuyoshi, Sayumi Suzushiro, Rimo Hasegawa et Rika Nakagawa. Nous suivons l'unité d'idole TiNgS accompagnée de leur manager démotivé.",
+    "genres": "Slice-of-Life, Idols, Musique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/kypnnp7d",
+            "https://sendvid.com/embed/b9up2rhi",
+            "https://sendvid.com/embed/mw5iw604",
+            "https://sendvid.com/embed/j4itzkul",
+            "https://sendvid.com/embed/d9hmuju6",
+            "https://sendvid.com/embed/pvkm3lse",
+            "https://sendvid.com/embed/uw7e11wd",
+            "https://sendvid.com/embed/t4560rpm",
+            "https://sendvid.com/embed/rzfd2afw",
+            "https://sendvid.com/embed/872h2ek4",
+            "https://sendvid.com/embed/a0u8bqrz",
+            "https://sendvid.com/embed/z9v8ndph"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4821278",
+            "https://video.sibnet.ru/shell.php?videoid=4821285",
+            "https://video.sibnet.ru/shell.php?videoid=4821287",
+            "https://video.sibnet.ru/shell.php?videoid=4821291",
+            "https://video.sibnet.ru/shell.php?videoid=4825284",
+            "https://video.sibnet.ru/shell.php?videoid=4840202",
+            "https://video.sibnet.ru/shell.php?videoid=4857753",
+            "https://video.sibnet.ru/shell.php?videoid=4866470",
+            "https://video.sibnet.ru/shell.php?videoid=4876067",
+            "https://video.sibnet.ru/shell.php?videoid=4914291",
+            "https://video.sibnet.ru/shell.php?videoid=4922631",
+            "https://video.sibnet.ru/shell.php?videoid=4928215"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/5fwi9j56ejfwidy1xxpow64yro",
+            "https://www.myvi.tv/embed/t1nh8ci3brnrfmkpoo3oi94kah",
+            "https://www.myvi.tv/embed/su1jckbde5trzre7585roc41th",
+            "https://www.myvi.tv/embed/k8uoz51bznnrpjdf4nh96ixyfe",
+            "https://www.myvi.tv/embed/1iy85d3n34fw3bzhwopqjsf1de",
+            "https://www.myvi.tv/embed/s71ktb9bkiswfpyi9sru4ueooh",
+            "https://www.myvi.tv/embed/nyrrujix6xzrtfqfr7rwtzr5fo",
+            "https://www.myvi.tv/embed/m5woxikj47hr3jqsdqrbj9xo3r",
+            "https://www.myvi.tv/embed/d546upq8ahgw5bid4mf34w86ry",
+            "https://www.myvi.tv/embed/qytzi39ra1ar7r3m67o7gh3goc",
+            "https://www.myvi.tv/embed/wpben9r6kmwwtj6j3n3ygapnir",
+            "https://www.myvi.tv/embed/7pkb3x6up8bw5f781szc3ik8aa"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "data": {
+    "name": "piano-forest",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/piano-forest.jpg",
+    "desc": "Shuhei et Kai sont deux garçons que tout oppose : alors que l'un est le fils d'une bonne famille destiné à un avenir brillant, l'autre est le fils d'une prostituée à l'attitude pour le moins désinvolte. Lorsque Shuhei emménage dans la ville où vit Kai, les deux vont se découvrir une passion commune : le piano.",
+    "genres": "Aventure, Comédie, Drame, School-Life, Seinen, Slice-of-Life, Ecole, Musique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5675216",
+            "https://video.sibnet.ru/shell.php?videoid=5675220",
+            "https://video.sibnet.ru/shell.php?videoid=5675221",
+            "https://video.sibnet.ru/shell.php?videoid=5675222",
+            "https://video.sibnet.ru/shell.php?videoid=5675224",
+            "https://video.sibnet.ru/shell.php?videoid=5675226",
+            "https://video.sibnet.ru/shell.php?videoid=5675229",
+            "https://video.sibnet.ru/shell.php?videoid=5675231",
+            "https://video.sibnet.ru/shell.php?videoid=5675233",
+            "https://video.sibnet.ru/shell.php?videoid=5675234",
+            "https://video.sibnet.ru/shell.php?videoid=5675235",
+            "https://video.sibnet.ru/shell.php?videoid=5675237"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-dn75l2con7xs.html",
+            "https://vidmoly.to/embed-h8bb6e2pcqid.html",
+            "https://vidmoly.to/embed-lfcrdqbcvhmt.html",
+            "https://vidmoly.to/embed-ou22pbwy3q8p.html",
+            "https://vidmoly.to/embed-ugfprmz9fxp3.html",
+            "https://vidmoly.to/embed-8vejj8bxek7t.html",
+            "https://vidmoly.to/embed-f7cnchhji3oq.html",
+            "https://vidmoly.to/embed-6gjjeo2rcedy.html",
+            "https://vidmoly.to/embed-7ykg20g4r9kz.html",
+            "https://vidmoly.to/embed-p4svk6rv3ew7.html",
+            "https://vidmoly.to/embed-nn44n1dw3uzs.html",
+            "https://vidmoly.to/embed-f7tkpx6b933v.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5675239",
+            "https://video.sibnet.ru/shell.php?videoid=5675240",
+            "https://video.sibnet.ru/shell.php?videoid=5675242",
+            "https://video.sibnet.ru/shell.php?videoid=5675244",
+            "https://video.sibnet.ru/shell.php?videoid=5675247",
+            "https://video.sibnet.ru/shell.php?videoid=5675249",
+            "https://video.sibnet.ru/shell.php?videoid=5675252",
+            "https://video.sibnet.ru/shell.php?videoid=5675253",
+            "https://video.sibnet.ru/shell.php?videoid=5675255",
+            "https://video.sibnet.ru/shell.php?videoid=5675257",
+            "https://video.sibnet.ru/shell.php?videoid=5675260",
+            "https://video.sibnet.ru/shell.php?videoid=5675262"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-5yyap7h3yivz.html",
+            "https://vidmoly.to/embed-fn7sjwl7ue9d.html",
+            "https://vidmoly.to/embed-tk93gxi2y9un.html",
+            "https://vidmoly.to/embed-7e3tdubbw6bn.html",
+            "https://vidmoly.to/embed-wzdugxvyjif6.html",
+            "https://vidmoly.to/embed-7vyg2fc2223b.html",
+            "https://vidmoly.to/embed-6v9wmzzk7ctl.html",
+            "https://vidmoly.to/embed-6im7xkqthdn8.html",
+            "https://vidmoly.to/embed-48qm0dqa6d8e.html",
+            "https://vidmoly.to/embed-tdgfoxzjh999.html",
+            "https://vidmoly.to/embed-y4lmvdqmqb78.html",
+            "https://vidmoly.to/embed-hmeug7srjdfj.html"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456240361&hd=3"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-j4mg3uhpkt9d.html"
+          ]
+        }
+      }
+    }
+  }
+}

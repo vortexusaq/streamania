@@ -1,0 +1,92 @@
+{
+  "data": {
+    "name": "isekai-quartet",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/isekai-quartet.jpg",
+    "desc": "Il s'agit d'un crossover mélangeant les personnages de quatre franchises les plus populaires du genre Isekai : Overlord, Kono Subarashii Sekai ni Shukufuku wo!, Re:Zero Kara Hajimeru Isekai Seikatsu et Youjo Senki. Les personnages seront représentés sous la forme SD (super deformed). Dans cet anime, un mystérieux bouton apparaît dans chacun de ces quatre univers, envoyant tous ceux qui l'actionne dans un nouveau monde.",
+    "genres": "Comédie, Fantasy, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/8dtkhudj",
+            "https://sendvid.com/embed/yqgs9850",
+            "https://sendvid.com/embed/1for8tnr",
+            "https://sendvid.com/embed/g2nsg1kb",
+            "https://sendvid.com/embed/pceul8rx",
+            "https://sendvid.com/embed/vdd267br",
+            "https://sendvid.com/embed/8cncmk1f",
+            "https://sendvid.com/embed/w535gk7j",
+            "https://sendvid.com/embed/gztnwrct",
+            "https://sendvid.com/embed/gxv0807k",
+            "https://sendvid.com/embed/tn2s9rnh",
+            "https://sendvid.com/embed/ylrp1fmx"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5265212",
+            "https://video.sibnet.ru/shell.php?videoid=5265213",
+            "https://video.sibnet.ru/shell.php?videoid=5265214",
+            "https://video.sibnet.ru/shell.php?videoid=5265215",
+            "https://video.sibnet.ru/shell.php?videoid=5265216",
+            "https://video.sibnet.ru/shell.php?videoid=5265218",
+            "https://video.sibnet.ru/shell.php?videoid=5265219",
+            "https://video.sibnet.ru/shell.php?videoid=5265220",
+            "https://video.sibnet.ru/shell.php?videoid=5265222",
+            "https://video.sibnet.ru/shell.php?videoid=5265223",
+            "https://video.sibnet.ru/shell.php?videoid=5265228",
+            "https://video.sibnet.ru/shell.php?videoid=5265230"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/vauafdc2",
+            "https://sendvid.com/embed/35sdyzto",
+            "https://sendvid.com/embed/wpkg0pw1",
+            "https://sendvid.com/embed/3gx98irn",
+            "https://sendvid.com/embed/rln2iavr",
+            "https://sendvid.com/embed/5jplv4l5",
+            "https://sendvid.com/embed/7fy2vr63",
+            "https://sendvid.com/embed/k7f4xbw8",
+            "https://sendvid.com/embed/b009hr8c",
+            "https://sendvid.com/embed/bb29a27w",
+            "https://sendvid.com/embed/f3xpr5oc",
+            "https://sendvid.com/embed/mkfnswp7\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4753414",
+            "https://video.sibnet.ru/shell.php?videoid=4753417",
+            "https://video.sibnet.ru/shell.php?videoid=4753418",
+            "https://video.sibnet.ru/shell.php?videoid=4753421",
+            "https://video.sibnet.ru/shell.php?videoid=4753422",
+            "https://video.sibnet.ru/shell.php?videoid=4753424",
+            "https://video.sibnet.ru/shell.php?videoid=4753426",
+            "https://video.sibnet.ru/shell.php?videoid=4753428",
+            "https://video.sibnet.ru/shell.php?videoid=4753430",
+            "https://video.sibnet.ru/shell.php?videoid=4753433",
+            "https://video.sibnet.ru/shell.php?videoid=4753434",
+            "https://video.sibnet.ru/shell.php?videoid=4753437"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/p1zqqcq5i4wwmypy7k4ibqcyma",
+            "https://www.myvi.tv/embed/zn3xa995kwuw3np4ausict8bah",
+            "https://www.myvi.tv/embed/iia88c1dkkcr3kskhskbmja9do",
+            "https://www.myvi.tv/embed/d6xsu3qd93ew98iqcmjntk9kqo",
+            "https://www.myvi.tv/embed/h9fmo3rxu8crmj58jcme67s64y",
+            "https://www.myvi.tv/embed/b1rs88kw1irwfggaxzzo9x36jo",
+            "https://www.myvi.tv/embed/qfx3tf9ed3rrdj9ruhgwmohpzh",
+            "https://www.myvi.tv/embed/r7xkw1i4rrwrtmdfos14oda1ie",
+            "https://www.myvi.tv/embed/z9u7fqjh5cqrzybkiumnitckfh",
+            "https://www.myvi.tv/embed/ca3dinr5rcyw8mgpmc6sby99da",
+            "https://www.myvi.tv/embed/onuqgi4ta1jrixspzj4nc6n56e",
+            "https://www.myvi.tv/embed/f3wm9mifkkswzbeo9rakzgoaio"
+          ]
+        }
+      }
+    }
+  }
+}

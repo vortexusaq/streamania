@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "the-new-gate",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-new-gate.jpg",
+    "desc": "Dans un jeu vidéo transformé en jeu mortel, Shin, l'un des joueurs le plus puissants, parvient à vaincre le boss de fin et libérer les joueurs. Après avoir vérifié que tous les joueurs se sont bien déconnectés et alors qu'il s'apprête à quitter le jeu lui-même, une lumière l'engloutit et il se retrouve à nouveau bloqué dans le jeu, mais 500 ans se sont écoulés, et le monde est trop réel pour n'être encore que réalité virtuelle.",
+    "genres": "Action, Aventure, Comédie, Drame, Fantasy, Isekai, Romance, Amour, Artisanat, Autre-monde, Combats, Démons, Elfe, Homme-Bête, Jeux-vidéo, Monster-Girl",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5503775",
+            "https://video.sibnet.ru/shell.php?videoid=5511107",
+            "https://video.sibnet.ru/shell.php?videoid=5518040",
+            "https://video.sibnet.ru/shell.php?videoid=5525039",
+            "https://video.sibnet.ru/shell.php?videoid=5532661",
+            "https://video.sibnet.ru/shell.php?videoid=5539024",
+            "https://video.sibnet.ru/shell.php?videoid=5545318",
+            "https://video.sibnet.ru/shell.php?videoid=5551698",
+            "https://video.sibnet.ru/shell.php?videoid=5557143",
+            "https://video.sibnet.ru/shell.php?videoid=5564024",
+            "https://video.sibnet.ru/shell.php?videoid=5572167",
+            "https://video.sibnet.ru/shell.php?videoid=5579853"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-i8sthohckt2e.html",
+            "https://vidmoly.to/embed-j7m49zqo75xr.html",
+            "https://vidmoly.to/embed-vyh3m98qxhk5.html",
+            "https://vidmoly.to/embed-mvoali9dlh21.html",
+            "https://vidmoly.to/embed-9g3l7iwz2ilv.html",
+            "https://vidmoly.to/embed-47yfd7owe2zv.html",
+            "https://vidmoly.to/embed-cj9nxhc9id62.html",
+            "https://vidmoly.to/embed-tofmwiqtnjvy.html",
+            "https://vidmoly.to/embed-xhidj6s5m477.html",
+            "https://vidmoly.to/embed-35i5z3m7qruf.html",
+            "https://vidmoly.to/embed-b478rmqtdwbe.html",
+            "https://vidmoly.to/embed-0dxh9ji7v8gc.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/3bi00k7y",
+            "https://sendvid.com/embed/gmnvyp51",
+            "https://sendvid.com/embed/z47nhw6x",
+            "https://sendvid.com/embed/6gv2b6yw",
+            "https://sendvid.com/embed/g55uvces",
+            "https://sendvid.com/embed/1uvtw6xc",
+            "https://sendvid.com/embed/q8cwm2fa",
+            "https://sendvid.com/embed/c7171k3m",
+            "https://sendvid.com/embed/qupdbf46",
+            "https://sendvid.com/embed/rvokn90r",
+            "https://sendvid.com/embed/cvfqjx4l",
+            "https://sendvid.com/embed/aofhlzcx"
+          ]
+        }
+      }
+    }
+  }
+}

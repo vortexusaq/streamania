@@ -1,0 +1,107 @@
+{
+  "data": {
+    "name": "sonic-prime",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sonic-prime.jpg",
+    "desc": "Les aventures de l'hérisson bleu rapide comme l'éclair...",
+    "genres": "Aventure, Animation, Famille",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/x57cnmdb",
+            "https://sendvid.com/embed/ljmftazu",
+            "https://sendvid.com/embed/fn8hkea3",
+            "https://sendvid.com/embed/yh848tb4",
+            "https://sendvid.com/embed/4lolnexm",
+            "https://sendvid.com/embed/mvkocipu",
+            "https://sendvid.com/embed/64wc62gx",
+            "https://sendvid.com/embed/v7xv2ss4"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4982376",
+            "https://video.sibnet.ru/shell.php?videoid=4982380",
+            "https://video.sibnet.ru/shell.php?videoid=4982381",
+            "https://video.sibnet.ru/shell.php?videoid=4982384",
+            "https://video.sibnet.ru/shell.php?videoid=4982385",
+            "https://video.sibnet.ru/shell.php?videoid=4982388",
+            "https://video.sibnet.ru/shell.php?videoid=4982390",
+            "https://video.sibnet.ru/shell.php?videoid=4982393"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ajg3q8zhcxqw7ypwagswzbkkya",
+            "https://www.myvi.tv/embed/oh4d3scupd9wtyikef9qoetbww",
+            "https://www.myvi.tv/embed/t8qj3w6hp6iwpr9nb5msuebobo",
+            "https://www.myvi.tv/embed/th5he13fpe5wxd5wofabugi9ky",
+            "https://www.myvi.tv/embed/r4b8zu7dhz4w9yyk3ntecr7biw",
+            "https://www.myvi.tv/embed/h1skeq8aajrw7yoyw4yddom39e",
+            "https://www.myvi.tv/embed/rirq739uupormpy5y1afbpog1c",
+            "https://www.myvi.tv/embed/jk5xx3heh31wjbyxszq98to3jc"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/rhkkhx4x",
+            "https://sendvid.com/embed/qrjjq9zf",
+            "https://sendvid.com/embed/9kgms9a9",
+            "https://sendvid.com/embed/lu41mdpa",
+            "https://sendvid.com/embed/m83a8j44",
+            "https://sendvid.com/embed/3ih2lvwb",
+            "https://sendvid.com/embed/ood5qg28",
+            "https://sendvid.com/embed/2dtd3b6r"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5197682",
+            "https://video.sibnet.ru/shell.php?videoid=5197683",
+            "https://video.sibnet.ru/shell.php?videoid=5197688",
+            "https://video.sibnet.ru/shell.php?videoid=5197689",
+            "https://video.sibnet.ru/shell.php?videoid=5197690",
+            "https://video.sibnet.ru/shell.php?videoid=5197692",
+            "https://video.sibnet.ru/shell.php?videoid=5197695",
+            "https://video.sibnet.ru/shell.php?videoid=5197697"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/jz1detro6zprjc4ayjxc7fpo4a",
+            "https://www.myvi.tv/embed/33foscjh3xpwtffow48wghgu3a",
+            "https://www.myvi.tv/embed/xgrprspw611rjq5cfpqxsuijcr",
+            "https://www.myvi.tv/embed/prj6xjtozt3wzngun1f7wb6r4h",
+            "https://www.myvi.tv/embed/1175m4sz1d9rtm6fntgaoanx5a",
+            "https://www.myvi.tv/embed/1wec1doeaqhw7phr3iobz6rmkh",
+            "https://www.myvi.tv/embed/cut6uctg6yyrppp31narzg6b7c",
+            "https://www.myvi.tv/embed/idw197gjwy1wpe76gapm5tekwh"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/8ah5sqaa",
+            "https://sendvid.com/embed/etjk759t",
+            "https://sendvid.com/embed/yrzd561z",
+            "https://sendvid.com/embed/0zmppqlj",
+            "https://sendvid.com/embed/rketwzms",
+            "https://sendvid.com/embed/jhk9c2pt",
+            "https://sendvid.com/embed/q0ji09qn"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5395099",
+            "https://video.sibnet.ru/shell.php?videoid=5395104",
+            "https://video.sibnet.ru/shell.php?videoid=5395106",
+            "https://video.sibnet.ru/shell.php?videoid=5395110",
+            "https://video.sibnet.ru/shell.php?videoid=5395112",
+            "https://video.sibnet.ru/shell.php?videoid=5395116",
+            "https://video.sibnet.ru/shell.php?videoid=5395120",
+            "https://video.sibnet.ru/shell.php?videoid=5395120",
+            "https://video.sibnet.ru/shell.php?videoid=5395120"
+          ]
+        }
+      }
+    }
+  }
+}

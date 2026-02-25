@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "saiyuki-reload-zeroin",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/saiyuki-reload-zeroin.jpg",
+    "desc": "Il s'agit de l'adaptation de l'arc Even a Worm du manga Saiyuki Reload de Minekura Kazuya.",
+    "genres": "Aventure, Comédie, Drame, Fantastique, Josei, Surnaturel, Démons, Folklore, Monstres, Voyage",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/1r39dern",
+            "https://sendvid.com/embed/5fbfrxkn",
+            "https://sendvid.com/embed/fpbfwywq",
+            "https://sendvid.com/embed/nzkvkvy4",
+            "https://sendvid.com/embed/n8qazo3z",
+            "https://sendvid.com/embed/ikb4p6nz",
+            "https://sendvid.com/embed/x3qx4awj",
+            "https://sendvid.com/embed/uqovjh3x",
+            "https://sendvid.com/embed/tkww0r8z",
+            "https://sendvid.com/embed/ij4ma0oe",
+            "https://sendvid.com/embed/l9dkzh5v",
+            "https://sendvid.com/embed/16egudry",
+            "https://sendvid.com/embed/dwq0g8ya"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4567798",
+            "https://video.sibnet.ru/shell.php?videoid=4574903",
+            "https://video.sibnet.ru/shell.php?videoid=4582692",
+            "https://video.sibnet.ru/shell.php?videoid=4589971",
+            "https://video.sibnet.ru/shell.php?videoid=4595727",
+            "https://video.sibnet.ru/shell.php?videoid=4602093",
+            "https://video.sibnet.ru/shell.php?videoid=4607537",
+            "https://video.sibnet.ru/shell.php?videoid=4615555",
+            "https://video.sibnet.ru/shell.php?videoid=4624132",
+            "https://video.sibnet.ru/shell.php?videoid=4630826",
+            "https://video.sibnet.ru/shell.php?videoid=4639029",
+            "https://sendvid.com/embed/16egudry",
+            "https://video.sibnet.ru/shell.php?videoid=4653410"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/3ipfz89prfhwjjsmxxc4qhxojh",
+            "https://www.myvi.top/embed/zcrcfw5ix98rjdrcpatc38mbmy",
+            "https://www.myvi.top/embed/5widnqjiewir7ewj14emph9d1w",
+            "https://www.myvi.top/embed/edxmfioercarzpf36o8qsururh",
+            "https://www.myvi.top/embed/ezrx7mc8q7ew5819tumuudgo7y",
+            "https://www.myvi.top/embed/rhfi8x9hs14wfy681fqtc6zfpy",
+            "https://www.myvi.top/embed/3obktprqazor38hbox6xgwtnqw",
+            "https://www.myvi.top/embed/gdfy587ztfcr3d1ztpk4pqqese",
+            "https://www.myvi.top/embed/7md71n3irs4wjj7tagc68jq76c",
+            "https://www.myvi.top/embed/iapajcjbs1xw3ckt1xtrx5ee7a",
+            "https://www.myvi.tv/embed/daqtw9tgo4ew3jgn1y1ug8mrio",
+            "https://www.myvi.tv/embed/zc7uihpyj4crtykekqdary7zao",
+            "https://www.myvi.tv/embed/u1fior3quuprzeeg7ccx6j7ubh"
+          ]
+        }
+      }
+    }
+  }
+}

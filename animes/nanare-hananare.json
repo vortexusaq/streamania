@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "nanare-hananare",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/nanare-hananare.jpg",
+    "desc": "On suit six lycéennes ayant des passe-temps, des compétences particulières et des personnalités différentes. Même si elles ont chacune leurs soucis, elles courent, crient, se bousculent et rêvent... Et lorsque qu'un désir pur de soutenir ces jeunes filles se manifeste, ce soutien atteint le cœur de leurs destinataires...",
+    "genres": "Drame, School-Life, Slice-of-Life, Amitié, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5588838",
+            "https://video.sibnet.ru/shell.php?videoid=5596780",
+            "https://video.sibnet.ru/shell.php?videoid=5604159",
+            "https://video.sibnet.ru/shell.php?videoid=5612860",
+            "https://video.sibnet.ru/shell.php?videoid=5621354",
+            "https://video.sibnet.ru/shell.php?videoid=5632559",
+            "https://video.sibnet.ru/shell.php?videoid=5642466",
+            "https://video.sibnet.ru/shell.php?videoid=5651807",
+            "https://video.sibnet.ru/shell.php?videoid=5659682",
+            "https://video.sibnet.ru/shell.php?videoid=5668386",
+            "https://video.sibnet.ru/shell.php?videoid=5677855",
+            "https://video.sibnet.ru/shell.php?videoid=5687471"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-nhg40uy2h5sx.html",
+            "https://vidmoly.to/embed-4yyjwv8ag1a3.html",
+            "https://vidmoly.to/embed-zeprd9iww8ls.html",
+            "https://vidmoly.to/embed-836uuznlytgj.html",
+            "https://vidmoly.to/embed-ag55eh5acims.html",
+            "https://vidmoly.to/embed-j26ha2g2ezj7.html",
+            "https://vidmoly.to/embed-9amynctzq84q.html",
+            "https://vidmoly.to/embed-gh004sahbj1t.html",
+            "https://vidmoly.to/embed-8puzez3hh2du.html",
+            "https://vidmoly.to/embed-lhmk10363602.html",
+            "https://vidmoly.to/embed-skpg20lbc2ln.html",
+            "https://vidmoly.to/embed-har2cp5bi3x7.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/fcqlhfga",
+            "https://sendvid.com/embed/zbkywyar",
+            "https://video.sibnet.ru/shell.php?videoid=5604159",
+            "https://sendvid.com/embed/z83x25wn",
+            "https://sendvid.com/embed/fputs9wr",
+            "https://sendvid.com/embed/ej7zms6w",
+            "https://sendvid.com/embed/xkbsphsm",
+            "https://sendvid.com/embed/pw30rhbp",
+            "https://video.sibnet.ru/shell.php?videoid=5659682",
+            "https://sendvid.com/embed/lvec4rc7",
+            "https://sendvid.com/embed/chwd4yzb",
+            "https://sendvid.com/embed/n4rfcjrr"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239912&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239956&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240001&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240046&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240085&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240125&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240173&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240221&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240274&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240323&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240378&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240425&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

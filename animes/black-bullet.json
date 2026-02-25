@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "black-bullet",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/black-bullet.jpg",
+    "desc": "En l'an 2021, l'humanité est décimée par un virus parasite nommé Gastrea, les habitants vivent constamment dans la peur et le désespoir. Ceux qui sont infectés se transforment en monstres. Les survivants sont alors forcés de vivre dans différentes zones, entourées de murs monolithes créés avec du Varanium, un métal capable de repousser les Gastreas.\n\nDe cette catastrophe sont nées les « Enfants maudits », des enfants nés avec le virus du Gastrea mais qui sont capables de le contrôler et de vivre avec. Ces derniers développent des capacités spéciales liées au virus.\nAinsi, des agences de « Sécurité Civile » sont alors formées pour combattre les Gastreas, chaque groupe est formé d'un Initiator qui est un enfant maudit et d'un Promoter qui le supervise.\n\nDix ans après l'épidémie, en 2031, Rentarō Satomi, un lycéen et Promoter effectue des missions aux côtés de Enju Aihara son Initiator afin de protéger et d'empêcher... la destruction de la zone de Tokyo.",
+    "genres": "Action, Drame, Mystère, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-9t8933h2z8dq.html",
+            "https://vidmoly.to/embed-yrf7v95tco1t.html",
+            "https://vidmoly.to/embed-hm2kcn12xvw6.html",
+            "https://vidmoly.to/embed-fqrywwt16dbr.html",
+            "https://vidmoly.to/embed-cqbyfxawfr6n.html",
+            "https://vidmoly.to/embed-2ql7ji8eqlrc.html",
+            "https://vidmoly.to/embed-kojncylyop8h.html",
+            "https://vidmoly.to/embed-68hd7amikgqb.html",
+            "https://vidmoly.to/embed-utebs1qwg17m.html",
+            "https://vidmoly.to/embed-wma1mfmx8l5k.html",
+            "https://vidmoly.to/embed-0mlmsl59o44v.html",
+            "https://vidmoly.to/embed-xjiy43pjy8ck.html",
+            "https://vidmoly.to/embed-nai9z4jt9aa7.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4742036",
+            "https://video.sibnet.ru/shell.php?videoid=4742039",
+            "https://video.sibnet.ru/shell.php?videoid=4742043",
+            "https://video.sibnet.ru/shell.php?videoid=4742047",
+            "https://video.sibnet.ru/shell.php?videoid=4742050",
+            "https://video.sibnet.ru/shell.php?videoid=4742053",
+            "https://video.sibnet.ru/shell.php?videoid=4742056",
+            "https://video.sibnet.ru/shell.php?videoid=4742058",
+            "https://video.sibnet.ru/shell.php?videoid=4742062",
+            "https://video.sibnet.ru/shell.php?videoid=4742064",
+            "https://video.sibnet.ru/shell.php?videoid=4742066",
+            "https://video.sibnet.ru/shell.php?videoid=4742068",
+            "https://video.sibnet.ru/shell.php?videoid=4742072"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/c520k4uz",
+            "https://sendvid.com/embed/dqmqua6p",
+            "https://sendvid.com/embed/6g6ubsly",
+            "https://sendvid.com/embed/vezo1una",
+            "https://sendvid.com/embed/wn657ze5",
+            "https://sendvid.com/embed/ts0ktm6d",
+            "https://sendvid.com/embed/wo3ahyev",
+            "https://sendvid.com/embed/motr37s2",
+            "https://sendvid.com/embed/gx4n6a42",
+            "https://sendvid.com/embed/7kuu714r",
+            "https://sendvid.com/embed/456a7tzl",
+            "https://sendvid.com/embed/jvkazt8k",
+            "https://sendvid.com/embed/vnfoxqyn"
+          ]
+        }
+      }
+    }
+  }
+}

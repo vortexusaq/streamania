@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "oresuki",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/oresuki.jpg",
+    "desc": "Joro est un lycéen tout à fait banal qui est attiré par son ami d'enfance Himawari et Cosmos la présidente du BDE et également la fille la plus populaire du lycée. Une situation sentimentale déjà bien assez complexe, qui ne fait que s'envenimer davantage lorsque les deux jeunes filles lui apprennent qu'elles sont toutes les deux amoureuses de son ami ! Cependant, l'histoire se complique lorsqu'une certaine fille à lunettes nommée Sanshokuin dit être attirée par Joro...",
+    "genres": "Comédie, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-dwt9snoazfih.html",
+            "https://vidmoly.to/embed-2igxe6eqi97x.html",
+            "https://vidmoly.to/embed-gmplm0h3x9uz.html",
+            "https://vidmoly.to/embed-o2jyd8fpsd6k.html",
+            "https://vidmoly.to/embed-4ibno4o64up9.html",
+            "https://vidmoly.to/embed-848pa2whn9g4.html",
+            "https://vidmoly.to/embed-i5wr049wwpkz.html",
+            "https://vidmoly.to/embed-k4zdktewamh6.html",
+            "https://vidmoly.to/embed-suwp1ef6vfsn.html",
+            "https://vidmoly.to/embed-afwtufizlp1d.html",
+            "https://vidmoly.to/embed-zqfor50y1o5s.html",
+            "https://vidmoly.to/embed-a45z72agd0jl.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3712154",
+            "https://video.sibnet.ru/shell.php?videoid=3718809",
+            "https://video.sibnet.ru/shell.php?videoid=3722827",
+            "https://video.sibnet.ru/shell.php?videoid=3727700",
+            "https://video.sibnet.ru/shell.php?videoid=3733349",
+            "https://video.sibnet.ru/shell.php?videoid=3739782",
+            "https://video.sibnet.ru/shell.php?videoid=3745106",
+            "https://video.sibnet.ru/shell.php?videoid=3753219",
+            "https://video.sibnet.ru/shell.php?videoid=3761410",
+            "https://video.sibnet.ru/shell.php?videoid=3771715",
+            "https://video.sibnet.ru/shell.php?videoid=3775729",
+            "https://video.sibnet.ru/shell.php?videoid=3780296"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/p0pte1v1",
+            "https://sendvid.com/embed/pr0qv9c8",
+            "https://sendvid.com/embed/lb4wpssd",
+            "https://sendvid.com/embed/re69pe50",
+            "https://sendvid.com/embed/y62nrj65",
+            "https://sendvid.com/embed/e0yzu4ik",
+            "https://sendvid.com/embed/wlu8d2c8",
+            "https://sendvid.com/embed/xsdl4snc",
+            "https://sendvid.com/embed/gbp0m20h",
+            "https://sendvid.com/embed/7ay4wr1a",
+            "https://sendvid.com/embed/04iabb9t",
+            "https://sendvid.com/embed/eoprssfl"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-uy99r9rwuew2.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/bfs2rutm"
+          ]
+        }
+      }
+    }
+  }
+}

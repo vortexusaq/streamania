@@ -1,0 +1,82 @@
+{
+  "data": {
+    "name": "infinite-stratos",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/infinite-stratos.jpg",
+    "desc": "Ichika jeune garçon téméraire et ambitieux fait parti d'une très grande école de pilotage utilisant des armes nommées \"Infinite Stratos\", arme uniquement contrôlable par des filles... Les filles du monde entier rêvent d'intégrer cette école légendaire qui fait tant parler d'elle, seulement cette fois, ce sera un homme qui l'intégrera... En effet, Ichika est le seul homme capable de contrôler l'Infinite Stratos ! Ichika accompagné de Hôki Shinonono, son amie d'enfance, devra prouver aux autres qu'il est digne et assez fort pour combattre, et ainsi, prouver qu'il a sa place au sein de cet établissement...",
+    "genres": "Action, Comédie, Drame, Ecchi, Romance, Science-fiction, Ecole, Harem, Militaire",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/rkjgcbql",
+            "https://sendvid.com/embed/mjnpgqfo",
+            "https://sendvid.com/embed/l6gl2bvw",
+            "https://sendvid.com/embed/iau1zce6",
+            "https://sendvid.com/embed/dqw1gdkn",
+            "https://sendvid.com/embed/9gskmsvr",
+            "https://sendvid.com/embed/mvvgyw3n",
+            "https://sendvid.com/embed/pqf93fkr",
+            "https://sendvid.com/embed/6ucfkvuh",
+            "https://sendvid.com/embed/f42naz7m",
+            "https://sendvid.com/embed/akha4mka",
+            "https://sendvid.com/embed/0a493xfy",
+            "https://sendvid.com/embed/w01xjirk"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5308934",
+            "https://video.sibnet.ru/shell.php?videoid=5308937",
+            "https://video.sibnet.ru/shell.php?videoid=5308938",
+            "https://video.sibnet.ru/shell.php?videoid=5308939",
+            "https://video.sibnet.ru/shell.php?videoid=5308942",
+            "https://video.sibnet.ru/shell.php?videoid=5308945",
+            "https://video.sibnet.ru/shell.php?videoid=5308947",
+            "https://video.sibnet.ru/shell.php?videoid=5308949",
+            "https://video.sibnet.ru/shell.php?videoid=5308950",
+            "https://video.sibnet.ru/shell.php?videoid=5308951",
+            "https://video.sibnet.ru/shell.php?videoid=5308952",
+            "https://video.sibnet.ru/shell.php?videoid=5308954",
+            "https://video.sibnet.ru/shell.php?videoid=5308955"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/7g23b6oq",
+            "https://sendvid.com/embed/xtle8e7r",
+            "https://sendvid.com/embed/pkklu23p",
+            "https://sendvid.com/embed/y93pd57t",
+            "https://sendvid.com/embed/wsqqd1jn",
+            "https://sendvid.com/embed/5339oi9m",
+            "https://sendvid.com/embed/ai8ul6wg",
+            "https://sendvid.com/embed/0yp0rrfu",
+            "https://sendvid.com/embed/h1ueaecb",
+            "https://sendvid.com/embed/j6cutmwv",
+            "https://sendvid.com/embed/1fa5qrpc",
+            "https://sendvid.com/embed/23lk4gmi",
+            "https://sendvid.com/embed/hgjzeocs"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5308958",
+            "https://video.sibnet.ru/shell.php?videoid=5308959",
+            "https://video.sibnet.ru/shell.php?videoid=5308961",
+            "https://video.sibnet.ru/shell.php?videoid=5308962",
+            "https://video.sibnet.ru/shell.php?videoid=5308964",
+            "https://video.sibnet.ru/shell.php?videoid=5308966",
+            "https://video.sibnet.ru/shell.php?videoid=5308970",
+            "https://video.sibnet.ru/shell.php?videoid=5308972",
+            "https://video.sibnet.ru/shell.php?videoid=5308974",
+            "https://video.sibnet.ru/shell.php?videoid=5308976",
+            "https://video.sibnet.ru/shell.php?videoid=5308978",
+            "https://video.sibnet.ru/shell.php?videoid=5308980",
+            "https://video.sibnet.ru/shell.php?videoid=5308981"
+          ]
+        }
+      }
+    }
+  }
+}

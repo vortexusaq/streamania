@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "tamako-market",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tamako-market.jpg",
+    "desc": "\"Tamako Kitashirakawa\" est une jeune fille qui habite dans le quartier commerçant de Tama-ya. En effet, sa famille possède une boutique de mochi (gateau de riz traditionnel japonais) depuis des générations.\n\nPendant qu'elle faisait des courses, en rentrant chez le fleuriste, elle remarque une étrange chose dans un bouquet, quand soudain, ce qui s'avère être un oiseau, se jette brusquement sur elle ! Mais ce n'est pas n'importe quel oiseau, c'est un oiseau qui parle le langage humain et qui, semble t-il soit investie d'une mission.\n\nCette série nous dévoile ainsi le quotidien peu ordinaire de Tamako, ses amis, sa famille, ses voisins, et de Dera Mochimazzi.",
+    "genres": "Comédie, Moe, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/5hdtoa83g87wzdzuyg4prw8r1w",
+            "https://www.myvi.top/embed/81n7c5dnd7qrznjikyf98jdsxa",
+            "https://www.myvi.top/embed/d7anf5d3kw8w9diud9gpp1ttrh",
+            "https://www.myvi.top/embed/b7dowgzpke4rm84jaorpu1qs6h",
+            "https://www.myvi.top/embed/9pmdorbngauwunqk1y74e7f8hh",
+            "https://www.myvi.top/embed/zfwwdjpcktfwtef7fqhbt7syxc",
+            "https://www.myvi.top/embed/fkeu8o3h16mru8gj177oagbhqh",
+            "https://www.myvi.top/embed/sj3ukdqomr1rxnfyix57at96fa",
+            "https://www.myvi.top/embed/5mr5pid7z3uwxc1pqiteoyk3xw",
+            "https://www.myvi.top/embed/amboijudibjwpeio54p8e9c8ch",
+            "https://www.myvi.top/embed/sjih343uw4frtxqoc3h7xehu6r",
+            "https://www.myvi.top/embed/yp51kt1qkherxbwqtpu9k8jkce"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/6x64to2o",
+            "https://sendvid.com/embed/tnfafo6w",
+            "https://sendvid.com/embed/7qpo21ks",
+            "https://sendvid.com/embed/q08accxn",
+            "https://sendvid.com/embed/bqzo0ybo",
+            "https://sendvid.com/embed/0si4lwoc",
+            "https://sendvid.com/embed/pjo20k4l",
+            "https://sendvid.com/embed/ntan23qi",
+            "https://sendvid.com/embed/7r5slzo9",
+            "https://sendvid.com/embed/bjshmm1y",
+            "https://sendvid.com/embed/wp7r6mh1",
+            "https://sendvid.com/embed/mwrrzs9h"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/tahxpi31k1hwb8so6bmhfrxohr"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/76w44k14"
+          ],
+          "lec3": [
+            "https://uptostream.com/iframe/3ndar26w48t7"
+          ]
+        }
+      }
+    }
+  }
+}

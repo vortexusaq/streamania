@@ -1,0 +1,436 @@
+{
+  "data": {
+    "name": "danmachi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/danmachi.jpg",
+    "desc": "Bienvenue à Orario, la Cité-Labyrinthe où cohabitent dieux et humains. Sous cette ville, les aventuriers, bénis des dieux, partent en quête de gloire et de fortune dans le Donjon : un dédale mystérieux infesté de monstres. C'est là que nous rencontrons Bell Cranel, qui, malgré son manque d'expérience, part à la conquête du Donjon sous la protection d'Hestia, une déesse impopulaire. Le hasard faisant mal les choses, il tombe sur un terrible Minotaure. Il est alors sauvé par Aiz Wallenstein, une belle épéiste, dont il tombe immédiatement amoureux.",
+    "genres": "Action, Aventure, Comédie, Ecchi, Fantasy, Romance, Seinen",
+    "update": "La suite est prévue pour le printemps 2025",
+    "saisons": {
+      "total": 8,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-6vauntnz4noe.html",
+            "https://vidmoly.to/embed-nf61bj8tbxh5.html",
+            "https://vidmoly.to/embed-khj6kluia4lp.html",
+            "https://vidmoly.to/embed-xr0y42mxz7t1.html",
+            "https://vidmoly.to/embed-vkj92ly0oipf.html",
+            "https://vidmoly.to/embed-oamdhv09ooqs.html",
+            "https://vidmoly.to/embed-4sip1la9mj9n.html",
+            "https://vidmoly.to/embed-ajt2leek05dg.html",
+            "https://vidmoly.to/embed-k5viyiffdjwu.html",
+            "https://vidmoly.to/embed-g0870hoojw6q.html",
+            "https://vidmoly.to/embed-up8z7scqalpm.html",
+            "https://vidmoly.to/embed-zixpp8kc0xmn.html",
+            "https://vidmoly.to/embed-fuzfaxkyi2re.html",
+            "https://oneupload.to/embed-b64i9wybm6l7.html"
+          ],
+          "lec2": [
+            "https://oneupload.to/embed-orth6066sil7.html",
+            "https://oneupload.to/embed-24f26bric7q0.html",
+            "https://oneupload.to/embed-eckj4wyjdebn.html",
+            "https://oneupload.to/embed-4ahq9vxqwbul.html",
+            "https://oneupload.to/embed-n2w9jwpcp5hq.html",
+            "https://oneupload.to/embed-yngy5y8dhccl.html",
+            "https://oneupload.to/embed-zf617bi3pzhq.html",
+            "https://oneupload.to/embed-si4qxvydp9uv.html",
+            "https://oneupload.to/embed-gvvskwl1rfx1.html",
+            "https://oneupload.to/embed-zaq8r999n0od.html",
+            "https://oneupload.to/embed-bersfd3a2mw1.html",
+            "https://oneupload.to/embed-pmnqihy2qkoj.html",
+            "https://oneupload.to/embed-k3dr5u2k917j.html",
+            "https://oneupload.to/embed-b64i9wybm6l7.html"
+          ]
+        }
+      },
+      "Saison 1 (Sword Oratoria)": {
+        "url": "saison1hs/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/jwq2yj3j",
+            "https://sendvid.com/embed/mqckp6z2",
+            "https://sendvid.com/embed/dpevh929",
+            "https://sendvid.com/embed/ct464i7k",
+            "https://sendvid.com/embed/yi0wgr6v",
+            "https://sendvid.com/embed/qu4i4thg",
+            "https://sendvid.com/embed/w222wxl0",
+            "https://sendvid.com/embed/x2iyj618",
+            "https://sendvid.com/embed/djm63fhr",
+            "https://sendvid.com/embed/w33a8dr6",
+            "https://sendvid.com/embed/hprnuuuk",
+            "https://sendvid.com/embed/voa1c1si"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4672343",
+            "https://video.sibnet.ru/shell.php?videoid=4672346",
+            "https://video.sibnet.ru/shell.php?videoid=4672350",
+            "https://video.sibnet.ru/shell.php?videoid=4672352",
+            "https://video.sibnet.ru/shell.php?videoid=4672356",
+            "https://video.sibnet.ru/shell.php?videoid=4672371",
+            "https://video.sibnet.ru/shell.php?videoid=4672374",
+            "https://video.sibnet.ru/shell.php?videoid=4672378",
+            "https://video.sibnet.ru/shell.php?videoid=4672381",
+            "https://video.sibnet.ru/shell.php?videoid=4672385",
+            "https://video.sibnet.ru/shell.php?videoid=4672388",
+            "https://video.sibnet.ru/shell.php?videoid=4672392"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/eyb8j5mmpjwwibc7aon8i6xbkc",
+            "https://www.myvi.top/embed/gye6xx58c69w8qcm7tcwrah3ua",
+            "https://www.myvi.top/embed/f8863g8byi4rij4kbotkywjzso",
+            "https://www.myvi.top/embed/ack3cp4kykqrjqxmtgisn7cgga",
+            "https://www.myvi.top/embed/6eir845hu3nwbxr56x6uni1jao",
+            "https://www.myvi.top/embed/8kj1whgn8hjw3efdzgsj8t5zkw",
+            "https://www.myvi.top/embed/4j1ei91eg1fr9cx6wsq54egnaa",
+            "https://www.myvi.top/embed/h1467oug4mxruqncgpet1nhr4a",
+            "https://www.myvi.top/embed/1mospy19comr5j5xhezdme9krc",
+            "https://www.myvi.top/embed/mj4hecoqqjerukfwy6p3yw5tya",
+            "https://www.myvi.top/embed/hpsg9apzrscrxdfb1arx99rkpr",
+            "https://www.myvi.top/embed/g7he3r1bsoar7yau4reuxcbjjh"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/rowlaf82",
+            "https://sendvid.com/embed/l1buijoy",
+            "https://sendvid.com/embed/wfwp4s5z",
+            "https://sendvid.com/embed/s2xf8qn8",
+            "https://sendvid.com/embed/1m7pb34j",
+            "https://sendvid.com/embed/0u62fh1t",
+            "https://sendvid.com/embed/cl2qlrak",
+            "https://sendvid.com/embed/vlqh1uii",
+            "https://sendvid.com/embed/onivv351",
+            "https://sendvid.com/embed/9l9vbxh7",
+            "https://sendvid.com/embed/zxfd86c4",
+            "https://sendvid.com/embed/1y8rifcf",
+            "https://sendvid.com/embed/dda1zoqp"
+          ],
+          "lec2": [
+            "https://oneupload.to/embed-rdx740mpyulv.html",
+            "https://oneupload.to/embed-s7y54ad6it87.html",
+            "https://oneupload.to/embed-7jj6d4iafxnv.html",
+            "https://oneupload.to/embed-ynjctzrdorhu.html",
+            "https://oneupload.to/embed-047z9ynct3z2.html",
+            "https://vidmoly.to/embed-071of5gs6pu9.html",
+            "https://oneupload.to/embed-ls47jb7neabe.html",
+            "https://oneupload.to/embed-9bms97848re0.html",
+            "https://oneupload.to/embed-zc0e1pdvlhoh.html",
+            "https://oneupload.to/embed-htc7gkguqmqz.html",
+            "https://oneupload.to/embed-01ggz604rprm.html",
+            "https://oneupload.to/embed-pnjrw3c6p7gp.html",
+            "https://oneupload.to/embed-t73zvxb10h0x.html"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-tpalkytl5znd.html",
+            "https://vidmoly.to/embed-v6dfh5vp2t73.html",
+            "https://vidmoly.to/embed-z77cvpaoht0w.html",
+            "https://vidmoly.to/embed-ru2l1ad2xnh5.html",
+            "https://vidmoly.to/embed-khly33l78ph9.html",
+            "https://vidmoly.to/embed-071of5gs6pu9.html",
+            "https://vidmoly.to/embed-z1x9oiiwzwpe.html",
+            "https://vidmoly.to/embed-1gq1fpmvjz0r.html",
+            "https://vidmoly.to/embed-q896its2aixv.html",
+            "https://vidmoly.to/embed-fwfh865jwry7.html",
+            "https://vidmoly.to/embed-go1ppeubxwbu.html",
+            "https://vidmoly.to/embed-epm2jauofrfx.html",
+            "https://vidmoly.to/embed-xi7mr15fbg0e.html"
+          ],
+          "lec4": [
+            "https://video.sibnet.ru/shell.php?videoid=3649949",
+            "https://video.sibnet.ru/shell.php?videoid=3653511",
+            "https://video.sibnet.ru/shell.php?videoid=3659160",
+            "https://video.sibnet.ru/shell.php?videoid=3665943",
+            "https://video.sibnet.ru/shell.php?videoid=3670609",
+            "https://video.sibnet.ru/shell.php?videoid=3674384",
+            "https://video.sibnet.ru/shell.php?videoid=3684393",
+            "https://video.sibnet.ru/shell.php?videoid=3690102",
+            "https://video.sibnet.ru/shell.php?videoid=3693871",
+            "https://video.sibnet.ru/shell.php?videoid=3700535",
+            "https://video.sibnet.ru/shell.php?videoid=3705457",
+            "https://video.sibnet.ru/shell.php?videoid=3708827",
+            "https://video.sibnet.ru/shell.php?videoid=4955981"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_01_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_02_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_03_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_04_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_05_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_06_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_07_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_08_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_09_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_12_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S2/Danmachi_S2_13_VOSTFR.mp4"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/cpde388e",
+            "https://sendvid.com/embed/lfxjgmc0",
+            "https://sendvid.com/embed/wbje9h2o",
+            "https://sendvid.com/embed/16f902on",
+            "https://sendvid.com/embed/lex5s8sm",
+            "https://sendvid.com/embed/vynnfn5z",
+            "https://sendvid.com/embed/u24ohplz",
+            "https://sendvid.com/embed/vzgkcvi2",
+            "https://sendvid.com/embed/8qotxbyp",
+            "https://sendvid.com/embed/76w0m0ae",
+            "https://sendvid.com/embed/r8zet6dw",
+            "https://sendvid.com/embed/jyrwpiq7"
+          ],
+          "lec2": [
+            "https://oneupload.to/embed-3s5koy7mjzfm.html",
+            "https://oneupload.to/embed-lxjw62hwa3me.html",
+            "https://oneupload.to/embed-s9v9ux9x51bz.html",
+            "https://oneupload.to/embed-nr60whhwpg3u.html",
+            "https://oneupload.to/embed-x1dgh9imcivr.html",
+            "https://oneupload.to/embed-pajj85mu2o91.html",
+            "https://oneupload.to/embed-jxj85kpsm4af.html",
+            "https://oneupload.to/embed-e3niij2t8k2q.html",
+            "https://oneupload.to/embed-yyin6986pep7.html",
+            "https://oneupload.to/embed-pf4havs2w1a7.html",
+            "https://oneupload.to/embed-nao8nrzmvdil.html",
+            "https://oneupload.to/embed-isgbmgln78z6.html"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-bccl0av2yxhf.html",
+            "https://vidmoly.to/embed-ngrdysz37gc9.html",
+            "https://vidmoly.to/embed-5m5dl546uhv6.html",
+            "https://vidmoly.to/embed-bndkcw86iibb.html",
+            "https://vidmoly.to/embed-7u1jbpxrncxz.html",
+            "https://vidmoly.to/embed-1kipb5cm18tu.html",
+            "https://vidmoly.to/embed-8z41dw0n81lr.html",
+            "https://vidmoly.to/embed-scnwa6tlz7hj.html",
+            "https://vidmoly.to/embed-1s1hfes42l41.html",
+            "https://vidmoly.to/embed-bzv985lvit1u.html",
+            "https://vidmoly.to/embed-jxefs8wvmpno.html",
+            "https://vidmoly.to/embed-leb08d19tfu9.html"
+          ],
+          "lec4": [
+            "https://video.sibnet.ru/shell.php?videoid=4100147",
+            "https://video.sibnet.ru/shell.php?videoid=4106629",
+            "https://video.sibnet.ru/shell.php?videoid=4114164",
+            "https://video.sibnet.ru/shell.php?videoid=4119199",
+            "https://video.sibnet.ru/shell.php?videoid=4124954",
+            "https://video.sibnet.ru/shell.php?videoid=4132787",
+            "https://video.sibnet.ru/shell.php?videoid=4139592",
+            "https://video.sibnet.ru/shell.php?videoid=4146733",
+            "https://video.sibnet.ru/shell.php?videoid=4155829",
+            "https://video.sibnet.ru/shell.php?videoid=4162972",
+            "https://video.sibnet.ru/shell.php?videoid=4169968",
+            "https://video.sibnet.ru/shell.php?videoid=4176978"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_01_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_02_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/Danmachi_S3_03_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_04_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_05_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_06_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_07_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_08_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_09_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S3/DanMachi_S3_12_VOSTFR.mp4"
+          ]
+        }
+      },
+      "Saison 4 partie 1": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4800475",
+            "https://video.sibnet.ru/shell.php?videoid=4804106",
+            "https://video.sibnet.ru/shell.php?videoid=4813653",
+            "https://video.sibnet.ru/shell.php?videoid=4821858",
+            "https://video.sibnet.ru/shell.php?videoid=4834532",
+            "https://video.sibnet.ru/shell.php?videoid=4844620",
+            "https://video.sibnet.ru/shell.php?videoid=4853527",
+            "https://video.sibnet.ru/shell.php?videoid=4863002",
+            "https://video.sibnet.ru/shell.php?videoid=4872113",
+            "https://video.sibnet.ru/shell.php?videoid=4880269",
+            "https://video.sibnet.ru/shell.php?videoid=4890532"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-3szfbn45wdhx.html",
+            "https://vidmoly.to/embed-nnfo9l3nr35m.html",
+            "https://vidmoly.to/embed-gtg3o9r1pxkb.html",
+            "https://vidmoly.to/embed-8oddnbood17p.html",
+            "https://vidmoly.to/embed-o1a3qos42vst.html",
+            "https://vidmoly.to/embed-l2iqs539p48g.html",
+            "https://vidmoly.to/embed-dmy7t0plcw87.html",
+            "https://vidmoly.to/embed-6jj6fpzb6xtw.html",
+            "https://vidmoly.to/embed-q4fgr47oyktz.html",
+            "https://vidmoly.to/embed-6jyifa1prsrs.html",
+            "https://vidmoly.to/embed-qibqs8qnh5mp.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/daxk7gpz",
+            "https://sendvid.com/embed/1hmnfvhl",
+            "https://sendvid.com/embed/mkb5gsau",
+            "https://sendvid.com/embed/uunxqw0h",
+            "https://sendvid.com/embed/hum44gab",
+            "https://sendvid.com/embed/r6kdocmn",
+            "https://sendvid.com/embed/at1ycnda",
+            "https://sendvid.com/embed/yrl0jdxz",
+            "https://sendvid.com/embed/84bjsbr5",
+            "https://sendvid.com/embed/kfniao2y",
+            "https://sendvid.com/embed/fixh5izl"
+          ]
+        }
+      },
+      "Saison 4 partie 2": {
+        "url": "saison4-2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/33nwlzeq",
+            "https://sendvid.com/embed/k492ca0t",
+            "https://sendvid.com/embed/hjpkc3cj",
+            "https://sendvid.com/embed/o1mst5m0",
+            "https://sendvid.com/embed/p9o8j9at",
+            "https://sendvid.com/embed/wh1m4xdu",
+            "https://sendvid.com/embed/dc59k5s2",
+            "https://sendvid.com/embed/3rtoha0h",
+            "https://sendvid.com/embed/ubzsshqh",
+            "https://sendvid.com/embed/dbw8iz7t",
+            "https://sendvid.com/embed/nqnjh2c9"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-vanuzxml7ul9.html",
+            "https://vidmoly.to/embed-psrqp3hlgi9r.html",
+            "https://vidmoly.to/embed-jqso817h399l.html",
+            "https://vidmoly.to/embed-kr2le4ux8q8g.html",
+            "https://vidmoly.to/embed-dbu4c61q7df5.html",
+            "https://vidmoly.to/embed-4prqxd1g5txh.html",
+            "https://vidmoly.to/embed-js9erfypuu4f.html",
+            "https://vidmoly.to/embed-vzbpy510nm82.html",
+            "https://vidmoly.to/embed-g3dvvk3ulc5a.html",
+            "https://vidmoly.to/embed-7xgeg0l6sl62.html",
+            "https://vidmoly.to/embed-uo7a647zda6c.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4998980",
+            "https://video.sibnet.ru/shell.php?videoid=5007555",
+            "https://video.sibnet.ru/shell.php?videoid=5013763",
+            "https://video.sibnet.ru/shell.php?videoid=5022718",
+            "https://video.sibnet.ru/shell.php?videoid=5029402",
+            "https://video.sibnet.ru/shell.php?videoid=5036864",
+            "https://video.sibnet.ru/shell.php?videoid=5045982",
+            "https://video.sibnet.ru/shell.php?videoid=5056325",
+            "https://video.sibnet.ru/shell.php?videoid=5064950",
+            "https://video.sibnet.ru/shell.php?videoid=5071321",
+            "https://video.sibnet.ru/shell.php?videoid=5077678"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_12_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_13_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_14_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_15_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_16_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_17_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_18_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_19_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_20_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_21_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/DanMachi/VOSTFR/S4/DanMachi_S4_22_VOSTFR.mp4"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5700513",
+            "https://video.sibnet.ru/shell.php?videoid=5710513",
+            "https://video.sibnet.ru/shell.php?videoid=5719038",
+            "https://video.sibnet.ru/shell.php?videoid=5728179",
+            "https://video.sibnet.ru/shell.php?videoid=5736924",
+            "https://video.sibnet.ru/shell.php?videoid=5744111",
+            "https://video.sibnet.ru/shell.php?videoid=5751307",
+            "https://video.sibnet.ru/shell.php?videoid=5758121",
+            "https://video.sibnet.ru/shell.php?videoid=5768448",
+            "https://video.sibnet.ru/shell.php?videoid=5772409",
+            "https://video.sibnet.ru/shell.php?videoid=5777771"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-g0qxmx1u1s8p.html",
+            "https://vidmoly.to/embed-amlupgg1tf9j.html",
+            "https://vidmoly.to/embed-gqyovhgosmll.html",
+            "https://vidmoly.to/embed-n6ksdxwk1ysl.html",
+            "https://vidmoly.to/embed-z81bydtwigd3.html",
+            "https://vidmoly.to/embed-5mijrjzw99k7.html",
+            "https://vidmoly.to/embed-8yeoduh9is8m.html",
+            "https://vidmoly.to/embed-9nkuwpaw7m13.html",
+            "https://vidmoly.to/embed-70m1b8xigbnk.html",
+            "https://vidmoly.to/embed-b6fcbgmcsnnq.html",
+            "https://vidmoly.to/embed-egoxcjvv6jva.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-cfqz1jpdnmbj.html",
+            "https://oneupload.to/embed-e6fpc7noby93.html",
+            "https://oneupload.to/embed-hk0n544x3s5c.html",
+            "https://oneupload.to/embed-zxvv5s5566oh.html",
+            "https://oneupload.to/embed-2n8lb7zgwm7y.html",
+            "https://oneupload.to/embed-3krg9u1mue7f.html",
+            "https://oneupload.to/embed-v2872t2puyyx.html",
+            "https://oneupload.to/embed-qrs9001mput5.html",
+            "https://oneupload.to/embed-15z5nkalrptu.html",
+            "https://oneupload.to/embed-ubki1rhow3vf.html",
+            "https://oneupload.to/embed-650kb36zd8wl.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/gr7dtto0",
+            "https://sendvid.com/embed/kiu2vt13",
+            "https://sendvid.com/embed/cvhjnfmk",
+            "https://sendvid.com/embed/u8dqpr8r",
+            "https://sendvid.com/embed/5irbg659",
+            "https://sendvid.com/embed/h2mfdy7i",
+            "https://sendvid.com/embed/nhzzwxqx",
+            "https://sendvid.com/embed/ravdvel1",
+            "https://sendvid.com/embed/d2mrchxq",
+            "https://sendvid.com/embed/cqtbd5mg",
+            "https://sendvid.com/embed/f94bgsbr"
+          ],
+          "lec5": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456240443&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240496&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240547&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240620&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239123&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240732&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240788&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240848&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240940&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240985&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241032&hd=3"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/goxszyu3ceowfc8pcbycqr71ba\t"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/01havbs6"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4704791"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "drifters",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/drifters.jpg",
+    "desc": "L'histoire suit Shimazu Toyohisa, un jeune samouraï, lors de la bataille de Sekigahara. Ce dernier arrive à blesser gravement Ii Naomasa, le général ennemi mais se retrouve également dans un piteux état. Ce dernier marche alors sur le champ de bataille et se retrouve transportsé dans un couloir rempli de portes où un homme l'attend au fond, cet homme nommé Murasaki l'envoie dans la porte la plus proche.\n\nEn se réveillant, il s'aperçoit que le monde où il est, est différent de celui qu'il connaît. Dans ce monde, il rencontre d'autres guerriers surpuissants qui ont eux aussi été transportsés dans ce monde. Ils font partie d'un groupe nommé \"Drifters\" ou \"Vagabonds\" en français.",
+    "genres": "Action, Aventure, Comédie, Fantasy, Seinen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-sm8mzi2akvom.html",
+            "https://vidmoly.to/embed-yne7pgp0mt6e.html",
+            "https://vidmoly.to/embed-j2owgmy04zoj.html",
+            "https://vidmoly.to/embed-ldg795lnym4p.html",
+            "https://vidmoly.to/embed-9gqj984d52cr.html",
+            "https://vidmoly.to/embed-6nbg4yx2cvsh.html",
+            "https://vidmoly.to/embed-7dkkl5phkvzo.html",
+            "https://vidmoly.to/embed-s71wsv2zhj6l.html",
+            "https://vidmoly.to/embed-nqqmrubxfrfe.html",
+            "https://vidmoly.to/embed-mosn0bpclcy4.html",
+            "https://vidmoly.to/embed-vbcoigen44zs.html",
+            "https://vidmoly.to/embed-0yx3gval25wq.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5121910",
+            "https://video.sibnet.ru/shell.php?videoid=5121912",
+            "https://video.sibnet.ru/shell.php?videoid=5121913",
+            "https://video.sibnet.ru/shell.php?videoid=5121914",
+            "https://video.sibnet.ru/shell.php?videoid=5121915",
+            "https://video.sibnet.ru/shell.php?videoid=5121917",
+            "https://video.sibnet.ru/shell.php?videoid=5121919",
+            "https://video.sibnet.ru/shell.php?videoid=5121921",
+            "https://video.sibnet.ru/shell.php?videoid=5121922",
+            "https://video.sibnet.ru/shell.php?videoid=5121923",
+            "https://video.sibnet.ru/shell.php?videoid=5121924",
+            "https://video.sibnet.ru/shell.php?videoid=5121925"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/shgpc65g",
+            "https://sendvid.com/embed/r6aj38n8",
+            "https://sendvid.com/embed/m1nv1m5s",
+            "https://sendvid.com/embed/9ib1nwjw",
+            "https://sendvid.com/embed/ay58yhld",
+            "https://sendvid.com/embed/0n5gzgfh",
+            "https://sendvid.com/embed/xl41ntag",
+            "https://sendvid.com/embed/9ivvg6si",
+            "https://sendvid.com/embed/c29dtcwl",
+            "https://sendvid.com/embed/co11pidf",
+            "https://sendvid.com/embed/xjuvoqmt",
+            "https://sendvid.com/embed/w5doiiyg"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "data": {
+    "name": "junji-ito-collection",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/junji-ito-collection.jpg",
+    "desc": "Junji Ito Masterpiece Collection est un recueil d'histoires courtes horrifiques réalisées par Junji Ito et publiées dans le journal Asahi Shimbun.",
+    "genres": "Drame, Fantastique, Horreur, Épouvante, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/o7ocegnoso1rdke7ebhg7mpqmc",
+            "https://www.myvi.top/embed/mz8rq8rwq61wxd8ajn6kqk1o8r",
+            "https://www.myvi.top/embed/j5a5dsr8kqswjp9okexhgem9nh",
+            "https://www.myvi.top/embed/a4spifgh61pwfdtiioc7jh4bbh",
+            "https://www.myvi.top/embed/5sjh16qbe63w5buhxodjgcnw6c",
+            "https://www.myvi.top/embed/hk9sjfepu4trdfnpn9yiwigusc",
+            "https://www.myvi.top/embed/65hpikjb6gnrmqrw4djkzsb18c",
+            "https://www.myvi.top/embed/mdwo9uqchwxrdndq4zar5y5qky",
+            "https://www.myvi.top/embed/58fdne8saqhw8fqmgmzu4sksmy",
+            "https://www.myvi.top/embed/fjftoikc5gsrxp8kgn44zskrbe",
+            "https://www.myvi.top/embed/ghk7h7198dcrjrk36nm81wx8ye",
+            "https://www.myvi.top/embed/nikm7es5afbwtpd6g5xq7sja4h",
+            "https://www.myvi.top/embed/uaixq5j546krbdb7ptrexnm4gr",
+            "https://www.myvi.top/embed/ogq61t4j6d8wpyyy1q84oqsyky"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3240795",
+            "https://video.sibnet.ru/shell.php?videoid=3240796",
+            "https://video.sibnet.ru/shell.php?videoid=3240797",
+            "https://video.sibnet.ru/shell.php?videoid=3240798",
+            "https://video.sibnet.ru/shell.php?videoid=3240801",
+            "https://video.sibnet.ru/shell.php?videoid=3240802",
+            "https://video.sibnet.ru/shell.php?videoid=3240803",
+            "https://video.sibnet.ru/shell.php?videoid=3290272",
+            "https://video.sibnet.ru/shell.php?videoid=3290274",
+            "https://video.sibnet.ru/shell.php?videoid=3290277",
+            "https://video.sibnet.ru/shell.php?videoid=3290280",
+            "https://video.sibnet.ru/shell.php?videoid=3290283",
+            "https://video.sibnet.ru/shell.php?videoid=4720461",
+            "https://video.sibnet.ru/shell.php?videoid=4720462"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/6g4pgegl",
+            "https://sendvid.com/embed/6nvby4la",
+            "https://sendvid.com/embed/9bzt5omp",
+            "https://sendvid.com/embed/67mkql81",
+            "https://sendvid.com/embed/l1jkxjp2",
+            "https://sendvid.com/embed/mf1qo2wb",
+            "https://sendvid.com/embed/phyxqj7z",
+            "https://sendvid.com/embed/azmk8ny5",
+            "https://sendvid.com/embed/5sgcfq2i",
+            "https://sendvid.com/embed/watx3zzo",
+            "https://sendvid.com/embed/kandtd52",
+            "https://sendvid.com/embed/skic3v46",
+            "https://sendvid.com/embed/daqpah59",
+            "https://sendvid.com/embed/rolnya8y"
+          ]
+        }
+      }
+    }
+  }
+}

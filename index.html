@@ -1,0 +1,455 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STREAMANIA - Anime Streaming Platform</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
+</head>
+<body>
+  <!-- Background Effects -->
+  <div class="background-effects">
+    <div class="gradient-orb gradient-orb-1"></div>
+    <div class="gradient-orb gradient-orb-2"></div>
+    <div class="gradient-orb gradient-orb-3"></div>
+    <div class="noise-overlay"></div>
+  </div>
+
+  <div class="app-container">
+    <!-- Sidebar -->
+    <aside class="sidebar">
+      <div class="sidebar-inner">
+        <!-- Logo -->
+        <div class="sidebar-header">
+          <a href="index.html" class="logo">
+            <div class="logo-icon">
+              <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+              </svg>
+            </div>
+            <span class="logo-text">STREAMANIA</span>
+          </a>
+        </div>
+
+        <!-- Search Box -->
+        <div class="search-container">
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <circle cx="11" cy="11" r="8"></circle>
+              <path d="m21 21-4.35-4.35"></path>
+            </svg>
+            <input type="text" placeholder="Rechercher un anime..." id="searchInput">
+            <kbd class="search-shortcut">⌘K</kbd>
+          </div>
+          <div class="search-results" id="searchResults"></div>
+        </div>
+
+        <!-- Navigation -->
+        <nav class="nav-section">
+          <span class="nav-label">Vous</span>
+          <ul class="nav-menu">
+            <li class="nav-item active" data-page="menu">
+              <a href="index.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                    <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                  </svg>
+                </div>
+                <span class="nav-text">Menu</span>
+                <div class="nav-indicator"></div>
+              </a>
+            </li>
+            <li class="nav-item" data-page="catalogue">
+              <a href="catalogue.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <rect x="3" y="3" width="7" height="7" rx="1"></rect>
+                    <rect x="14" y="3" width="7" height="7" rx="1"></rect>
+                    <rect x="14" y="14" width="7" height="7" rx="1"></rect>
+                    <rect x="3" y="14" width="7" height="7" rx="1"></rect>
+                  </svg>
+                </div>
+                <span class="nav-text">Catalogue</span>
+              </a>
+            </li>
+            <li class="nav-item" data-page="upcoming">
+              <a href="upcoming.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <rect width="18" height="18" x="3" y="4" rx="2" ry="2"></rect>
+                    <line x1="16" x2="16" y1="2" y2="6"></line>
+                    <line x1="8" x2="8" y1="2" y2="6"></line>
+                    <line x1="3" x2="21" y1="10" y2="10"></line>
+                    <path d="m9 16 2 2 4-4"></path>
+                  </svg>
+                </div>
+                <span class="nav-text">Upcoming</span>
+                <span class="nav-badge">3</span>
+              </a>
+            </li>
+            <li class="nav-item" data-page="favoris">
+              <a href="favoris.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                  </svg>
+                </div>
+                <span class="nav-text">Favoris</span>
+              </a>
+            </li>
+            <li class="nav-item" data-page="watchlater">
+              <a href="watchlater.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <polyline points="12 6 12 12 16 14"></polyline>
+                  </svg>
+                </div>
+                <span class="nav-text">Voir Plus Tard</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+
+        <!-- Divider -->
+        <div class="sidebar-divider">
+          <span></span>
+        </div>
+
+        <!-- Friends Section -->
+        <div class="friends-section">
+          <div class="friends-header">
+            <span class="friends-title">Vos Amis</span>
+            <button class="add-friend-btn" title="Ajouter un ami">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
+                <circle cx="9" cy="7" r="4"></circle>
+                <line x1="19" x2="19" y1="8" y2="14"></line>
+                <line x1="22" x2="16" y1="11" y2="11"></line>
+              </svg>
+            </button>
+          </div>
+          <ul class="friends-list" id="friendsList">
+            <!-- Filled by JS -->
+          </ul>
+        </div>
+
+        
+        <div class="user-account">
+          <span class="account-label">Votre Compte</span>
+          <div class="user-profile">
+            <div class="user-avatar">
+              <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=80&h=80&fit=crop" alt="Profile" id="userAvatar">
+              <span class="user-status-dot"></span>
+            </div>
+            <div class="user-info">
+              <span class="user-name">Vortex</span>
+              <span class="user-plan">Premium Member</span>
+            </div>
+            <button class="user-settings-btn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path>
+                <circle cx="12" cy="12" r="3"></circle>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="main-inner">
+        <!-- Top Bar -->
+        <header class="top-bar">
+          <div class="top-bar-left">
+            <button class="mobile-menu-btn" id="mobileMenuBtn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <line x1="4" x2="20" y1="12" y2="12"></line>
+                <line x1="4" x2="20" y1="6" y2="6"></line>
+                <line x1="4" x2="20" y1="18" y2="18"></line>
+              </svg>
+            </button>
+            <div class="breadcrumb">
+              <span class="breadcrumb-item">Accueil</span>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+              <span class="breadcrumb-item active">Pour Vous</span>
+            </div>
+          </div>
+          <div class="top-bar-right">
+            <button class="icon-btn notification-btn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"></path>
+                <path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"></path>
+              </svg>
+              <span class="notification-dot"></span>
+            </button>
+            <button class="icon-btn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+                <rect width="20" height="14" x="2" y="5" rx="2"></rect>
+                <line x1="2" x2="22" y1="10" y2="10"></line>
+              </svg>
+            </button>
+          </div>
+        </header>
+
+        <!-- Hero Section -->
+        <section class="hero-section" id="heroSection">
+          <div class="hero-background">
+            <img src="https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200&h=500&fit=crop&crop=center" alt="Dandadan" class="hero-bg-image" id="heroBgImage">
+            <div class="hero-overlay"></div>
+            <div class="hero-gradient"></div>
+            <div class="hero-particles" id="heroParticles"></div>
+          </div>
+          <div class="hero-content">
+            <div class="hero-badge-container">
+              <span class="hero-badge trending">
+                <svg viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                </svg>
+                <span>Tendance</span>
+              </span>
+              <span class="hero-badge new">Nouveau</span>
+              <span class="hero-badge rating">
+                <svg viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                </svg>
+                <span id="heroRating">9.2</span>
+              </span>
+            </div>
+            <h1 class="hero-title">
+              <span class="hero-title-main" id="heroTitle">DANDADAN</span>
+              <span class="hero-title-sub" id="heroTitleSub">ダンダダン</span>
+            </h1>
+            <p class="hero-description" id="heroDescription">
+              Une histoire palpitante mêlant fantômes, extraterrestres et romance adolescente. 
+              Suivez Momo et Okarun dans leurs aventures surnaturelles qui défient l'imagination.
+            </p>
+            <div class="hero-meta">
+              <span class="meta-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <rect width="18" height="18" x="3" y="4" rx="2" ry="2"></rect>
+                  <line x1="16" x2="16" y1="2" y2="6"></line>
+                  <line x1="8" x2="8" y1="2" y2="6"></line>
+                  <line x1="3" x2="21" y1="10" y2="10"></line>
+                </svg>
+                <span id="heroYear">2024</span>
+              </span>
+              <span class="meta-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M12 20h9"></path>
+                  <path d="M16.5 3.5a2.12 2.12 0 0 1 3 3L7 19l-4 1 1-4Z"></path>
+                </svg>
+                <span id="heroEpisodes">12 Épisodes</span>
+              </span>
+              <span class="meta-item">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <circle cx="12" cy="12" r="10"></circle>
+                  <polyline points="12 6 12 12 16 14"></polyline>
+                </svg>
+                24 min
+              </span>
+            </div>
+            <div class="hero-tags" id="heroTags">
+              <span class="tag">Action</span>
+              <span class="tag">Comédie</span>
+              <span class="tag">Surnaturel</span>
+              <span class="tag">Romance</span>
+            </div>
+            <div class="hero-actions">
+              <button class="btn btn-primary btn-glow" id="heroWatchBtn">
+                <svg viewBox="0 0 24 24" fill="currentColor">
+                  <polygon points="5 3 19 12 5 21 5 3"></polygon>
+                </svg>
+                <span>Regarder</span>
+              </button>
+              <button class="btn btn-secondary" id="heroAddListBtn">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="M19 21l-7-5-7 5V5a2 2 0 0 1 2-2h10a2 2 0 0 1 2 2z"></path>
+                </svg>
+                <span>Ma Liste</span>
+              </button>
+              <button class="btn btn-icon" id="heroFavBtn">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <!-- Hero Navigation Dots -->
+          <div class="hero-nav">
+            <button class="hero-nav-dot active"></button>
+            <button class="hero-nav-dot"></button>
+            <button class="hero-nav-dot"></button>
+            <button class="hero-nav-dot"></button>
+          </div>
+          <!-- Hero Progress Bar -->
+          <div class="hero-progress">
+            <div class="hero-progress-bar" id="heroProgressBar"></div>
+          </div>
+        </section>
+
+        <!-- Continue Watching Section -->
+        <section class="section continue-watching-section">
+          <div class="section-header">
+            <div class="section-title-group">
+              <h2 class="section-title">Continuer à regarder</h2>
+              <span class="section-count" id="continueCount">0 épisodes</span>
+            </div>
+            <a href="watchlater.html" class="section-link">
+              Voir tout
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+            </a>
+          </div>
+          <div class="continue-grid" id="continueWatching">
+            <!-- Filled by JS -->
+          </div>
+        </section>
+
+        <!-- Recommendations Section -->
+        <section class="section recommendations-section">
+          <div class="section-header">
+            <div class="section-title-group">
+              <h2 class="section-title">Nos recommendations</h2>
+              <span class="section-subtitle">Basé sur vos goûts</span>
+            </div>
+            <div class="section-controls">
+              <button class="scroll-btn scroll-left" id="recScrollLeft">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg>
+              </button>
+              <button class="scroll-btn scroll-right" id="recScrollRight">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="anime-carousel" id="recommendations">
+            <!-- Filled by JS -->
+          </div>
+        </section>
+
+        <!-- Popular This Season -->
+        <section class="section popular-section">
+          <div class="section-header">
+            <div class="section-title-group">
+              <h2 class="section-title">Populaires cette saison</h2>
+              <span class="section-badge">
+                <svg viewBox="0 0 24 24" fill="currentColor">
+                  <path d="M12 2C6.5 2 2 6.5 2 12s4.5 10 10 10 10-4.5 10-10S17.5 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z"/>
+                </svg>
+                Hot
+              </span>
+            </div>
+            <div class="section-controls">
+              <button class="scroll-btn scroll-left" id="popScrollLeft">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="m15 18-6-6 6-6"></path>
+                </svg>
+              </button>
+              <button class="scroll-btn scroll-right" id="popScrollRight">
+                <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                  <path d="m9 18 6-6-6-6"></path>
+                </svg>
+              </button>
+            </div>
+          </div>
+          <div class="anime-carousel" id="popularAnime">
+            <!-- Filled by JS -->
+          </div>
+        </section>
+
+        <!-- Categories Section -->
+        <section class="section categories-section">
+          <div class="section-header">
+            <div class="section-title-group">
+              <h2 class="section-title">Meilleurs Catégories</h2>
+              <span class="section-subtitle">Explorer par genre</span>
+            </div>
+            <a href="catalogue.html" class="section-link">
+              Toutes les catégories
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+            </a>
+          </div>
+          <div class="category-grid" id="categories">
+            <!-- Filled by JS -->
+          </div>
+        </section>
+
+        <!-- Footer -->
+        <footer class="main-footer">
+          <div class="footer-content">
+            <div class="footer-brand">
+              <div class="footer-logo">
+                <div class="logo-icon small">
+                  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2"/>
+                    <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2"/>
+                    <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2"/>
+                  </svg>
+                </div>
+                <span>STREAMANIA</span>
+              </div>
+              <p class="footer-tagline">Votre destination anime préférée</p>
+            </div>
+            <div class="footer-links">
+              <a href="#">À propos</a>
+              <a href="#">Conditions</a>
+              <a href="#">Confidentialité</a>
+              <a href="#">Contact</a>
+            </div>
+            <div class="footer-social">
+              <a href="#" class="social-link">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 4.557c-.883.392-1.832.656-2.828.775 1.017-.609 1.798-1.574 2.165-2.724-.951.564-2.005.974-3.127 1.195-.897-.957-2.178-1.555-3.594-1.555-3.179 0-5.515 2.966-4.797 6.045-4.091-.205-7.719-2.165-10.148-5.144-1.29 2.213-.669 5.108 1.523 6.574-.806-.026-1.566-.247-2.229-.616-.054 2.281 1.581 4.415 3.949 4.89-.693.188-1.452.232-2.224.084.626 1.956 2.444 3.379 4.6 3.419-2.07 1.623-4.678 2.348-7.29 2.04 2.179 1.397 4.768 2.212 7.548 2.212 9.142 0 14.307-7.721 13.995-14.646.962-.695 1.797-1.562 2.457-2.549z"/></svg>
+              </a>
+              <a href="#" class="social-link">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+              </a>
+              <a href="#" class="social-link">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.615 3.184c-3.604-.246-11.631-.245-15.23 0-3.897.266-4.356 2.62-4.385 8.816.029 6.185.484 8.549 4.385 8.816 3.6.245 11.626.246 15.23 0 3.897-.266 4.356-2.62 4.385-8.816-.029-6.185-.484-8.549-4.385-8.816zm-10.615 12.816v-8l8 3.993-8 4.007z"/></svg>
+              </a>
+              <a href="#" class="social-link">
+                <svg viewBox="0 0 24 24" fill="currentColor"><path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/></svg>
+              </a>
+            </div>
+          </div>
+          <div class="footer-bottom">
+            <p>© 2026 STREAMANIA. Tous droits réservés.</p>
+          </div>
+        </footer>
+      </div>
+    </main>
+  </div>
+
+  <!-- Mobile Overlay -->
+  <div class="mobile-overlay" id="mobileOverlay"></div>
+
+  <!-- Toast Container -->
+  <div class="toast-container" id="toastContainer"></div>
+
+  <script src="app.js"></script>
+  <script src="auth-system.js"></script>
+  <script src="friends-system.js"></script>
+  <script src="discord-auth.js"></script>
+</body>
+</html>

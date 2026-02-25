@@ -1,0 +1,57 @@
+{
+  "data": {
+    "name": "hazbin-hotel",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hazbin-hotel.jpg",
+    "desc": "Suivez Charlie Morningstar, une démone princesse des enfers, dans sa quête pour gérer un hôtel dans le but d’offrir la possibilité de rédemption des damnés afin d'éviter leur massacre annuel à cause de leur surpopulation. Dans sa tâche elle est soutenue par sa compagne Vaggie ainsi que son premier pensionnaire Angel Dust. Elle est rejoint par un puissant démon, aux objectifs obscurs, du nom d'Alastor qui a aussi convié deux employés supplémentaire : Niffty une femme de chambre maniaque et Husk le barman taciturne.",
+    "genres": "Comédie, Animation, Musique",
+    "update": "Une saison 2 est en production",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/uqoc8mur",
+            "https://sendvid.com/embed/n5192tkj",
+            "https://sendvid.com/embed/0swgcs2g",
+            "https://sendvid.com/embed/tg0ldafl",
+            "https://sendvid.com/embed/lqtjnfdn",
+            "https://sendvid.com/embed/7by4eqzu",
+            "https://sendvid.com/embed/mhdr1e2f",
+            "https://sendvid.com/embed/z1vv18hj"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-1ktymljave7a.html",
+            "https://vidmoly.to/embed-sjfeo3du6cxe.html",
+            "https://vidmoly.to/embed-g13vpxykc6av.html",
+            "https://vidmoly.to/embed-8tqfaapbb0i4.html",
+            "https://vidmoly.to/embed-fzxrwgjdlhek.html",
+            "https://vidmoly.to/embed-13op10yhtm9f.html",
+            "https://vidmoly.to/embed-f790fwzo82fx.html",
+            "https://vidmoly.to/embed-k7kap35m61gm.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=5407042",
+            "https://video.sibnet.ru/shell.php?videoid=5407046",
+            "https://video.sibnet.ru/shell.php?videoid=5407050",
+            "https://video.sibnet.ru/shell.php?videoid=5407054",
+            "https://video.sibnet.ru/shell.php?videoid=5413405",
+            "https://video.sibnet.ru/shell.php?videoid=5413407",
+            "https://video.sibnet.ru/shell.php?videoid=5420383",
+            "https://video.sibnet.ru/shell.php?videoid=5420385"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/Hazbin%20Hotel/VOSTFR/Hazbin_Hotel_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Hazbin%20Hotel/VOSTFR/Hazbin_Hotel_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Hazbin%20Hotel/VOSTFR/Hazbin_Hotel_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Hazbin%20Hotel/VOSTFR/Hazbin_Hotel_4_VOSTFFR.mp4",
+            "https://s22.anime-sama.fr/videos/Hazbin%20Hotel/VOSTFR/Hazbin_Hotel_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Hazbin%20Hotel/VOSTFR/Hazbin_Hotel_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Hazbin%20Hotel/VOSTFR/Hazbin_Hotel_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Hazbin%20Hotel/VOSTFR/Hazbin_Hotel_8_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

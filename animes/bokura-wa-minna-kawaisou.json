@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "bokura-wa-minna-kawaisou",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bokura-wa-minna-kawaisou.jpg",
+    "desc": "Usa, fraîchement diplômé, aspire à vivre pleinement sa nouvelle vie d'étudiant. Pour ce faire, il s'installe dans une petite pension afin d'apprendre à vivre en autonomie. Cependant, lorsqu'il s'installe, il remarque qu'il va devoir partager sa chambre avec un autre garçon, à la moralité douteuse. Un peu plus tard, il fera également la connaissance de Ritsu, une autre pensionnaire, dont il va rapidement tomber amoureux.",
+    "genres": "Comédie, Romance, Slice-of-Life, School-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/a989yvc6",
+            "https://sendvid.com/embed/1rvy6z9n",
+            "https://sendvid.com/embed/ehyyvslx",
+            "https://sendvid.com/embed/np5mfhws",
+            "https://sendvid.com/embed/3ecgsfta",
+            "https://sendvid.com/embed/w411ull7",
+            "https://sendvid.com/embed/l9sbrduj",
+            "https://sendvid.com/embed/s5g8pf1q",
+            "https://sendvid.com/embed/fufweqrc",
+            "https://sendvid.com/embed/dpj7sv9g",
+            "https://sendvid.com/embed/m1nl3ftl",
+            "https://sendvid.com/embed/zlv6q6zw"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4942423",
+            "https://video.sibnet.ru/shell.php?videoid=4942426",
+            "https://video.sibnet.ru/shell.php?videoid=4942432",
+            "https://video.sibnet.ru/shell.php?videoid=4942433",
+            "https://video.sibnet.ru/shell.php?videoid=4942434",
+            "https://video.sibnet.ru/shell.php?videoid=4942435",
+            "https://video.sibnet.ru/shell.php?videoid=4942438",
+            "https://video.sibnet.ru/shell.php?videoid=4942440",
+            "https://video.sibnet.ru/shell.php?videoid=4942443",
+            "https://video.sibnet.ru/shell.php?videoid=4942447",
+            "https://video.sibnet.ru/shell.php?videoid=4942451",
+            "https://video.sibnet.ru/shell.php?videoid=4942455"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/rttqj5cu99bri89esztsf5d3nw",
+            "https://www.myvi.tv/embed/rwu3ojik884wdnuqdei4sqmpgr",
+            "https://www.myvi.tv/embed/ptp67ndq11xrbyw6q5o184o8nc",
+            "https://www.myvi.tv/embed/bzdhfkewg7iw5rj97jg1tntzho",
+            "https://www.myvi.tv/embed/iw6bfhf11sywmmgzdxzejzqnro",
+            "https://www.myvi.tv/embed/6dntes5b8howie6r11w9d6bjeh",
+            "https://www.myvi.tv/embed/a1god38wwmkwtf9xpxnfxry6hr",
+            "https://www.myvi.tv/embed/gw36nzcnwoew3d6wua9pokcokc",
+            "https://www.myvi.tv/embed/5tt1p3iw3hjw58qx9n17ptx6oa",
+            "https://www.myvi.tv/embed/7jpw1n1y4nhriptjbjbyefaz8a",
+            "https://www.myvi.tv/embed/q79mrhesybnw9ja4xgizkggm3e",
+            "https://www.myvi.tv/embed/3rurncez55fw5xi3ztf7wzh9ey"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/hmrx5a84"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4942457"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/zboytsusc6zr98r35u6q8uhobc"
+          ]
+        }
+      }
+    }
+  }
+}

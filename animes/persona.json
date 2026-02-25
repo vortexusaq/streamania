@@ -1,0 +1,202 @@
+{
+  "data": {
+    "name": "persona",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/persona-5-the-animation.jpg",
+    "desc": "On suit un jeune lycéen qui vient d'arriver à Tokyo après un malheureux incident. Très vite, il devra faire face à des évènements qui vont changer son quotidien lorsqu'il réveillera sa Persona. Au fur et à mesure, entre sa vie de lycéen la journée et celle de Voleur Fantôme le soir, il va découvrir des facettes obscures du monde qui l'entoure...",
+    "genres": "Action, Drame, Fantastique, Mystère, Psychologique, School-Life, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 4,
+      "Persona 3": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/3nochnrw1oww9ezg8ctybmq7uo",
+            "https://www.myvi.tv/embed/xkexb499nyfrbne7y84isy1o6o",
+            "https://www.myvi.tv/embed/4km8ry6woxowfcfu9u86pgyywy",
+            "https://www.myvi.tv/embed/muofk8z3dmor8cn4ebj3ydjsew\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4930442",
+            "https://video.sibnet.ru/shell.php?videoid=4930419",
+            "https://video.sibnet.ru/shell.php?videoid=4930424",
+            "https://video.sibnet.ru/shell.php?videoid=4930463"
+          ]
+        }
+      },
+      "Persona 4": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/5dzyiwyp",
+            "https://sendvid.com/embed/t1ogz6du",
+            "https://sendvid.com/embed/yo3r2eti",
+            "https://sendvid.com/embed/a9j6rp2g",
+            "https://sendvid.com/embed/vzqml233",
+            "https://sendvid.com/embed/996wnuew",
+            "https://sendvid.com/embed/ph3wkove",
+            "https://sendvid.com/embed/55fxlbg7",
+            "https://sendvid.com/embed/1qjn9ab4",
+            "https://sendvid.com/embed/iumcmosc",
+            "https://sendvid.com/embed/umh3m1g1",
+            "https://sendvid.com/embed/684b85jy",
+            "https://sendvid.com/embed/jx5gbg1t",
+            "https://sendvid.com/embed/ix2yojta",
+            "https://sendvid.com/embed/mwohyel4",
+            "https://sendvid.com/embed/xb6e637n",
+            "https://sendvid.com/embed/ntku38o6",
+            "https://sendvid.com/embed/ox6bqi50",
+            "https://sendvid.com/embed/u9mxtxqa",
+            "https://sendvid.com/embed/xrtppve2",
+            "https://sendvid.com/embed/l07rete2",
+            "https://sendvid.com/embed/nymohj3a",
+            "https://sendvid.com/embed/1w1v84ul",
+            "https://sendvid.com/embed/mpuq9dvp",
+            "https://sendvid.com/embed/5umumeke",
+            "https://sendvid.com/embed/32xf1kkr"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-oq3zro7cai98.html",
+            "https://video.sibnet.ru/shell.php?videoid=4933435",
+            "https://video.sibnet.ru/shell.php?videoid=4933436",
+            "https://video.sibnet.ru/shell.php?videoid=4933437",
+            "https://video.sibnet.ru/shell.php?videoid=4933438",
+            "https://video.sibnet.ru/shell.php?videoid=4933439",
+            "https://video.sibnet.ru/shell.php?videoid=4933440",
+            "https://video.sibnet.ru/shell.php?videoid=4933441",
+            "https://video.sibnet.ru/shell.php?videoid=4933443",
+            "https://video.sibnet.ru/shell.php?videoid=4933444",
+            "https://video.sibnet.ru/shell.php?videoid=4933446",
+            "https://video.sibnet.ru/shell.php?videoid=4933447",
+            "https://video.sibnet.ru/shell.php?videoid=4933448",
+            "https://video.sibnet.ru/shell.php?videoid=4933449",
+            "https://video.sibnet.ru/shell.php?videoid=4933450",
+            "https://video.sibnet.ru/shell.php?videoid=4933451",
+            "https://video.sibnet.ru/shell.php?videoid=4933452",
+            "https://video.sibnet.ru/shell.php?videoid=4933454",
+            "https://video.sibnet.ru/shell.php?videoid=4933455",
+            "https://video.sibnet.ru/shell.php?videoid=4933456",
+            "https://video.sibnet.ru/shell.php?videoid=4933457",
+            "https://video.sibnet.ru/shell.php?videoid=4933458",
+            "https://video.sibnet.ru/shell.php?videoid=4933459",
+            "https://video.sibnet.ru/shell.php?videoid=4933460",
+            "https://video.sibnet.ru/shell.php?videoid=4933461",
+            "https://video.sibnet.ru/shell.php?videoid=4933462"
+          ]
+        }
+      },
+      "Persona 5": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ddui8jns",
+            "https://sendvid.com/embed/1l1fnl83",
+            "https://sendvid.com/embed/kp89gnjk",
+            "https://sendvid.com/embed/ndl8qfdw",
+            "https://sendvid.com/embed/qdjjpcer",
+            "https://sendvid.com/embed/le44lgy8",
+            "https://sendvid.com/embed/g1g713q6",
+            "https://sendvid.com/embed/qg2kjc19",
+            "https://sendvid.com/embed/fk3hsi2i",
+            "https://sendvid.com/embed/uogigwao",
+            "https://sendvid.com/embed/ik6ujvcr",
+            "https://sendvid.com/embed/7bf1vcn4",
+            "https://sendvid.com/embed/rhz047js",
+            "https://sendvid.com/embed/ojqkla5b",
+            "https://sendvid.com/embed/oyh6y2ef",
+            "https://sendvid.com/embed/lu23wml4",
+            "https://sendvid.com/embed/lqvuong7",
+            "https://sendvid.com/embed/bie01cot",
+            "https://sendvid.com/embed/et6sort6",
+            "https://sendvid.com/embed/2t4txtm1",
+            "https://sendvid.com/embed/g2nzuce3",
+            "https://sendvid.com/embed/h46ps3h3",
+            "https://sendvid.com/embed/pzxisa4a",
+            "https://sendvid.com/embed/hvvu3v7t",
+            "https://sendvid.com/embed/14b8kzgh",
+            "https://sendvid.com/embed/hk9h77ll\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4862287",
+            "https://video.sibnet.ru/shell.php?videoid=4862289",
+            "https://video.sibnet.ru/shell.php?videoid=4862293",
+            "https://video.sibnet.ru/shell.php?videoid=4862294",
+            "https://video.sibnet.ru/shell.php?videoid=4862296",
+            "https://video.sibnet.ru/shell.php?videoid=4862298",
+            "https://video.sibnet.ru/shell.php?videoid=4862301",
+            "https://video.sibnet.ru/shell.php?videoid=4862303",
+            "https://video.sibnet.ru/shell.php?videoid=4862304",
+            "https://video.sibnet.ru/shell.php?videoid=4862306",
+            "https://video.sibnet.ru/shell.php?videoid=4862308",
+            "https://video.sibnet.ru/shell.php?videoid=4862312",
+            "https://video.sibnet.ru/shell.php?videoid=4862315",
+            "https://video.sibnet.ru/shell.php?videoid=4862318",
+            "https://video.sibnet.ru/shell.php?videoid=4862320",
+            "https://video.sibnet.ru/shell.php?videoid=4862322",
+            "https://video.sibnet.ru/shell.php?videoid=4862323",
+            "https://video.sibnet.ru/shell.php?videoid=4862324",
+            "https://video.sibnet.ru/shell.php?videoid=4862325",
+            "https://video.sibnet.ru/shell.php?videoid=4862326",
+            "https://video.sibnet.ru/shell.php?videoid=4862329",
+            "https://video.sibnet.ru/shell.php?videoid=4862332",
+            "https://video.sibnet.ru/shell.php?videoid=4862333",
+            "https://video.sibnet.ru/shell.php?videoid=4862334",
+            "https://video.sibnet.ru/shell.php?videoid=4862335",
+            "https://video.sibnet.ru/shell.php?videoid=4862336"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/e3hep9kizaawzqez6sff5mcaew",
+            "https://www.myvi.tv/embed/9144u7cqjj5wtc3hg1cqgixt5o",
+            "https://www.myvi.tv/embed/nqg9q9dy16zrpbbzyp8cyrcaeh",
+            "https://www.myvi.tv/embed/8g54f5n749zw5xbjcxzbqgbjtr",
+            "https://www.myvi.tv/embed/pjc3h6j36bsrbrp8fx8nukreuy",
+            "https://www.myvi.tv/embed/do1m8oozdasw7pt6rj5imcdany",
+            "https://www.myvi.tv/embed/pahk7bj9txmwbemzujn9z4oq1e",
+            "https://www.myvi.tv/embed/ru46tbjui7gwdffwia7jk1f8ty",
+            "https://www.myvi.tv/embed/m9oti116w9ywbn47ht1c5b9kmo",
+            "https://www.myvi.tv/embed/yz7fheo5anrr7xpccpj9j5z3xr",
+            "https://www.myvi.tv/embed/8ac7i1amb3qrpjugy34ikreq8c",
+            "https://www.myvi.tv/embed/miwsokgiktmrje1cp38cuue3zo",
+            "https://www.myvi.tv/embed/bcqymtxhetnr3jcs4bsqfxgg9o",
+            "https://www.myvi.tv/embed/igxgdhbyj4ertm6eoojp9ub9he",
+            "https://www.myvi.tv/embed/m8pm5yzpgj7wif8zbn7b5yd8or",
+            "https://www.myvi.tv/embed/x6eb9w5packrufdenwuinx8h8c",
+            "https://www.myvi.tv/embed/gfnrh1m81aerx8obexrrn8dhca",
+            "https://www.myvi.tv/embed/ez7k37gjyjmr7jnruat4oin4mo",
+            "https://www.myvi.tv/embed/ptcq9h6amthw9p1zi4xrzaiyeh",
+            "https://www.myvi.tv/embed/zdajq3f8rrar3xb1z18eph1jtw",
+            "https://www.myvi.tv/embed/mqpketpyy6gwffskp9559cziwe",
+            "https://www.myvi.tv/embed/hytohzci5kar8jtwhm8h5pcror",
+            "https://www.myvi.tv/embed/utkiidg61qnr3ypp6szxhchw1o",
+            "https://www.myvi.tv/embed/196p6r9gzf5rdnyb8ctfhc1ogw",
+            "https://www.myvi.tv/embed/sntpzkczbbaw7b16fo8if1hioe",
+            "https://www.myvi.tv/embed/amnwcdqhcc9w78i6uado3yxhdr"
+          ]
+        }
+      },
+      "Persona 5 OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/a6ndaxqu",
+            "https://sendvid.com/embed/gr13xjdc",
+            "https://sendvid.com/embed/gpij9m11",
+            "https://sendvid.com/embed/va7go992"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5257237",
+            "https://video.sibnet.ru/shell.php?videoid=5257231",
+            "https://video.sibnet.ru/shell.php?videoid=5257234",
+            "https://video.sibnet.ru/shell.php?videoid=5257233"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/f36x4rwp7qxrbjgcmic6dyp3ja",
+            "https://www.myvi.tv/embed/zexxsj7b7mnwbf8ttsjpqx8qmy",
+            "https://www.myvi.tv/embed/seqtj4axaj6w8myqmmpn31s7tr",
+            "https://www.myvi.tv/embed/j6z1misyi33w5kjb7xw7iogw1r"
+          ]
+        }
+      }
+    }
+  }
+}

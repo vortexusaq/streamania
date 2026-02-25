@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "konobi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/konobi.jpg",
+    "desc": "Cette comédie déjantée est centrée sur le quotidien du club d'art et plus particulièrement sur celui de Uchimaki Subaru. Ce lycéen possède un talent fou dans le domaine de l'art, cependant ce dernier ne veux dessiner que des filles venant du monde de la 2D, comme les mangas ou les animes ! Dans ce club d'art, Subaru n'est pas la seule personne à être étrange et complètement farfelue. Il y a le président qui passe sont temps à dormir sur la canapé et Collette qui vient au club que pour jouer ! La seule personne normale est Usami Mizuki. Cette jeune et radieuse lycéenne vient au club pour dessiner et non pour s'amuser. Cependant Mizuki est amoureuse de Subaru ! Ses sentiments vont la mettre dans des situations plus gênantes les unes que les autres. Ce manga suit les journées hilarantes d'un club d'art peu commun.",
+    "genres": "Comédie, Drame, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/w90qtp7j",
+            "https://sendvid.com/embed/lpor6t7n",
+            "https://sendvid.com/embed/lwhrwm9g",
+            "https://sendvid.com/embed/qqtbul11",
+            "https://sendvid.com/embed/novmbqzt",
+            "https://sendvid.com/embed/ikvpe4ew",
+            "https://sendvid.com/embed/b5oqrp3x",
+            "https://sendvid.com/embed/pgc882rt",
+            "https://sendvid.com/embed/330bjvqm",
+            "https://sendvid.com/embed/prijdkxe",
+            "https://sendvid.com/embed/vzoz1jsn",
+            "https://sendvid.com/embed/i7xypv1r\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4877950",
+            "https://video.sibnet.ru/shell.php?videoid=4877953",
+            "https://video.sibnet.ru/shell.php?videoid=4877955",
+            "https://video.sibnet.ru/shell.php?videoid=4877957",
+            "https://video.sibnet.ru/shell.php?videoid=4877960",
+            "https://video.sibnet.ru/shell.php?videoid=4877963",
+            "https://video.sibnet.ru/shell.php?videoid=4877964",
+            "https://video.sibnet.ru/shell.php?videoid=4877968",
+            "https://video.sibnet.ru/shell.php?videoid=4877969",
+            "https://video.sibnet.ru/shell.php?videoid=4877973",
+            "https://video.sibnet.ru/shell.php?videoid=4877976",
+            "https://video.sibnet.ru/shell.php?videoid=4877978"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/3wn491zm5kdw7f1qhpssoha7fh",
+            "https://www.myvi.tv/embed/ds3jfd9bancw8rf8jk68d1k9oo",
+            "https://www.myvi.tv/embed/hph87xkaucmwpfwfg3h5ptd3ma",
+            "https://www.myvi.tv/embed/jygf7kqsxadwupoi67g851566c",
+            "https://www.myvi.tv/embed/y114pxe8gwwrmf3hnqoipk9tuy",
+            "https://www.myvi.tv/embed/pp5kyidmydewpnds7haa9kyzkr",
+            "https://www.myvi.tv/embed/fyp6o89piriw98ogouhdmm7bsa",
+            "https://www.myvi.tv/embed/uffb4fdyy4orbkba4tk6d5wrfy",
+            "https://www.myvi.tv/embed/q3y7yrpsxjorpj655ukqdzqqyr",
+            "https://www.myvi.tv/embed/atrmmeyub99r7gy1usm9bad93y",
+            "https://www.myvi.tv/embed/s6omq683mqbw7xex83f34o57dc",
+            "https://www.myvi.tv/embed/1ejyc8eoasgw3bzub17mir5q5c"
+          ]
+        }
+      }
+    }
+  }
+}

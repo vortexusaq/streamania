@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "7-jours",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/7-jours.jpg",
+    "desc": "Ne supportant plus la pression qu'ils subissent au quotidien de la part de leur parents et de leurs professeurs, un groupe de lycéens décide de se barricader dans une usine abandonnée. Ils y resteront 7 jours.",
+    "genres": "School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/r4ho8z11sjtwzcgbfath5im7ua\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4724389"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/sgxuhm2j"
+          ]
+        }
+      }
+    }
+  }
+}

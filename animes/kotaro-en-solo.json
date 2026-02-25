@@ -1,0 +1,53 @@
+{
+  "data": {
+    "name": "kotaro-en-solo",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kotaro-en-solo.jpg",
+    "desc": "Kotarou wa Hitorigurashi est une comédie qui se concentre sur un garçon de 4 ans nommé Kotarou Sat?u. Contrairement aux enfants de son âge, Kotarou n'a pas de parents et vit seul dans un appartement. Non seulement il semble gagner sa vie, mais il semble aussi plus organisé que ses étranges voisins.",
+    "genres": "Slice-of-Life, Drame",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/fe5undoyni6wxmm3hymfnxkznw",
+            "https://www.myvi.tv/embed/g5chepu1xear3fw9466p1eeojw",
+            "https://www.myvi.tv/embed/m6kb8rsgh69w5mt6uu8u1iuz1e",
+            "https://www.myvi.tv/embed/j47qyjhfcaww9xwiyox3aegp1e",
+            "https://www.myvi.tv/embed/5pqqtkxgwjzwxnt56wxqu9puqc",
+            "https://www.myvi.tv/embed/eaykiae4o3prfk9pojywyjyzdy",
+            "https://www.myvi.tv/embed/39ek3ifawyxw3y6hkyd4nwrzqh",
+            "https://www.myvi.tv/embed/4cmwdkipfk9wxy4jis17wmaj7e",
+            "https://www.myvi.tv/embed/sk1z5yw19pgrudo9aecqqbdwra",
+            "https://www.myvi.tv/embed/hkmnk1aehperfkj7w39tzmb6yc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4726926",
+            "https://video.sibnet.ru/shell.php?videoid=4726931",
+            "https://video.sibnet.ru/shell.php?videoid=4726937",
+            "https://video.sibnet.ru/shell.php?videoid=4726943",
+            "https://video.sibnet.ru/shell.php?videoid=4726954",
+            "https://video.sibnet.ru/shell.php?videoid=4726959",
+            "https://video.sibnet.ru/shell.php?videoid=4726964",
+            "https://video.sibnet.ru/shell.php?videoid=4726972",
+            "https://video.sibnet.ru/shell.php?videoid=4726977",
+            "https://video.sibnet.ru/shell.php?videoid=4726982"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/sggoceb8",
+            "https://sendvid.com/embed/klq7pppn",
+            "https://sendvid.com/embed/z73tyhlw",
+            "https://sendvid.com/embed/0ehymtae",
+            "https://sendvid.com/embed/h3vsv1tx",
+            "https://sendvid.com/embed/th2q70kc",
+            "https://sendvid.com/embed/eq4gjflo",
+            "https://sendvid.com/embed/j9sk9kua",
+            "https://sendvid.com/embed/xg9gh1xs",
+            "https://sendvid.com/embed/gdp3dh2v"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "comic-girl",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/comic-girl.jpg",
+    "desc": "Nous suivons Kaoruko Moeta, une lycéenne de 15 ans emménageant dans un dortoir destiné à de jeunes mangakas. Elle va faire la rencontre de Koyume Koizuka, Ruki Irokawa et Tsubasa Katsuki. Le groupe va s'entraider dans le but de s'améliorer et un jour faire partie des meilleures auteurs de manga.",
+    "genres": "Comédie, Moe, School-Life, Slice-of-Life, Amitié, Ecole, Manga, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/cw0j034n",
+            "https://sendvid.com/embed/jcafln40",
+            "https://sendvid.com/embed/l8cucbtz",
+            "https://sendvid.com/embed/2or57a6v",
+            "https://sendvid.com/embed/s2pzfp1r",
+            "https://sendvid.com/embed/cazjv5sp",
+            "https://sendvid.com/embed/mhy5fe1g",
+            "https://sendvid.com/embed/tq3p3b3m",
+            "https://sendvid.com/embed/i4jfkxzv",
+            "https://sendvid.com/embed/dau1x6my",
+            "https://sendvid.com/embed/mpkmmklp",
+            "https://sendvid.com/embed/n3b72mj5"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5461369",
+            "https://video.sibnet.ru/shell.php?videoid=5461372",
+            "https://video.sibnet.ru/shell.php?videoid=5461376",
+            "https://video.sibnet.ru/shell.php?videoid=5461380",
+            "https://video.sibnet.ru/shell.php?videoid=5461385",
+            "https://video.sibnet.ru/shell.php?videoid=5461386",
+            "https://video.sibnet.ru/shell.php?videoid=5461387",
+            "https://video.sibnet.ru/shell.php?videoid=5461392",
+            "https://video.sibnet.ru/shell.php?videoid=5461393",
+            "https://video.sibnet.ru/shell.php?videoid=5461397",
+            "https://video.sibnet.ru/shell.php?videoid=5461400",
+            "https://video.sibnet.ru/shell.php?videoid=5461402"
+          ]
+        }
+      }
+    }
+  }
+}

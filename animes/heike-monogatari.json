@@ -1,0 +1,56 @@
+{
+  "data": {
+    "name": "heike-monogatari",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/heike-monogatari.jpg",
+    "desc": "Heike Monogatari raconte l'histoire de l'ascension et de la chute du clan Taira pendant la guerre de Genpei. L'anime se centre sur le point de vue de Biwa, une ménestrel voyageuse aveugle. Biwa rencontre Taira no Shigemori, héritier de son clan et porteur d'une vision surnaturelle lui permettant de percevoir les fantômes. Elle lui proclame alors une prophétie de la chute de son clan.",
+    "genres": "Historique, Samouraïs",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5546911",
+            "https://video.sibnet.ru/shell.php?videoid=5546912",
+            "https://video.sibnet.ru/shell.php?videoid=5546913",
+            "https://video.sibnet.ru/shell.php?videoid=5546914",
+            "https://video.sibnet.ru/shell.php?videoid=5546915",
+            "https://video.sibnet.ru/shell.php?videoid=5546916",
+            "https://video.sibnet.ru/shell.php?videoid=5546917",
+            "https://video.sibnet.ru/shell.php?videoid=5546918",
+            "https://video.sibnet.ru/shell.php?videoid=5546919",
+            "https://video.sibnet.ru/shell.php?videoid=5546920",
+            "https://video.sibnet.ru/shell.php?videoid=5546921"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-sfbqt1bb3p3q.html",
+            "https://vidmoly.to/embed-oai85edrd1q2.html",
+            "https://vidmoly.to/embed-50ilii7f4n4m.html",
+            "https://vidmoly.to/embed-7looe6b0dnpd.html",
+            "https://vidmoly.to/embed-iiol133ol8v5.html",
+            "https://vidmoly.to/embed-3btb41podvru.html",
+            "https://vidmoly.to/embed-jtse9wpn9l0c.html",
+            "https://vidmoly.to/embed-u8cayd5035u1.html",
+            "https://vidmoly.to/embed-963p307x1lj3.html",
+            "https://vidmoly.to/embed-8vqcp6k14ubf.html",
+            "https://vidmoly.to/embed-3v2rj7yp0ryn.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/jx5o4tg7",
+            "https://sendvid.com/embed/tyo8zkc3",
+            "https://sendvid.com/embed/v7dgl8o8",
+            "https://sendvid.com/embed/nfb00x65",
+            "https://sendvid.com/embed/59s7g38j",
+            "https://sendvid.com/embed/r7ghuubg",
+            "https://sendvid.com/embed/pdsw39dh",
+            "https://sendvid.com/embed/uxg4ccyf",
+            "https://sendvid.com/embed/w8vrfue5",
+            "https://sendvid.com/embed/de3cg1u6",
+            "https://sendvid.com/embed/oshsfy6j"
+          ]
+        }
+      }
+    }
+  }
+}

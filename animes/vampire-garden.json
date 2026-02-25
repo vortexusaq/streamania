@@ -1,0 +1,38 @@
+{
+  "data": {
+    "name": "vampire-garden",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/vampire-garden.jpg",
+    "desc": "Il était une fois un monde où les vampires et les humains vivaient ensemble au 'Paradis'. L'histoire nous entraîne dans le quotidien d'une jeune fille nommée Momo qui voyage à la recherche du 'Paradis' en compagnie de Fine, la reine vampire.",
+    "genres": "Action, Drame, Fantastique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/s9kmr8z38pmwzxjmmffasy8dfw",
+            "https://www.myvi.tv/embed/wudrt1wyxnkwmfn6b8qdotmz7y",
+            "https://www.myvi.tv/embed/mguhw6g85cpr7yjgppqkeg5nor",
+            "https://www.myvi.tv/embed/88gaehfixz4rur1ae186y3enoo",
+            "https://www.myvi.tv/embed/sq9q495xw55r9yb648kzfou6pa\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4724362",
+            "https://video.sibnet.ru/shell.php?videoid=4724364",
+            "https://video.sibnet.ru/shell.php?videoid=4724366",
+            "https://video.sibnet.ru/shell.php?videoid=4724368",
+            "https://video.sibnet.ru/shell.php?videoid=4724370"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/kcoueb2h",
+            "https://sendvid.com/embed/azzfoawz",
+            "https://sendvid.com/embed/h6e77ux6",
+            "https://sendvid.com/embed/tbl7kdxn",
+            "https://sendvid.com/embed/r0xp6mpv"
+          ]
+        }
+      }
+    }
+  }
+}

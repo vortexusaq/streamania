@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "kyousogiga",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kyousogiga.jpg",
+    "desc": "Dans un monde où les frontières entre le monde des Yôkai et celui des hommes ont disparus, plusieurs groupes s'affrontent pour le pouvoir. Koto et ses deux frères, A et Un se retrouvent malencontreusement coincés dans ce Kyoto agité, causant des dégâts sur leur passage. Ils sont à la recherche d'un certain lapin blanc qui leur permettra de rentrer chez eux. L'aînée, Koto, dotée de pouvoirs surnaturels, est une fille hyperactive et semble être connectée à cet étrange endroit dirigé par un moine, un démon et un prêtre.",
+    "genres": "Action, Comédie, Fantasy, Science-fiction, Slice-of-Life, Combats, Dieux, Déesses, Famille, Magie, Monstres",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/7s84jg7ksdbr7ny118ctje6ahy",
+            "https://www.myvi.tv/embed/qy8ziys3t9ewumm6rtneumy7zr",
+            "https://www.myvi.tv/embed/mwauzqknq5drdr7xusnt7midqh",
+            "https://www.myvi.tv/embed/sxe183pr7xqrxxz88u443innpe",
+            "https://www.myvi.tv/embed/rhje1u9qui4r3fzwa4fdok4chy",
+            "https://www.myvi.tv/embed/yehktoaq914rifnc9u9ac3eiza",
+            "https://www.myvi.tv/embed/x64pqwpw66uwmntqgfjdwzrc3h",
+            "https://www.myvi.tv/embed/ozdwni3m611rxke3r9egsqbwce",
+            "https://www.myvi.tv/embed/koqa5snifzowjx6ch9yp53h95a",
+            "https://www.myvi.tv/embed/hnh7orziud5ri8o4jftp1o9g9a",
+            "https://www.myvi.tv/embed/497obe88taer9pxuqufnwp3yyo",
+            "https://www.myvi.tv/embed/seh9ri8bwerr8qso1huio535kc",
+            "https://www.myvi.tv/embed/yht67w4mt3hwpj1najcmjq8aty"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/ekp8lwh9",
+            "https://sendvid.com/embed/a20lfxo3",
+            "https://sendvid.com/embed/xtn56t57",
+            "https://sendvid.com/embed/w94qm874",
+            "https://sendvid.com/embed/x30p6iwp",
+            "https://sendvid.com/embed/9asgfvqe",
+            "https://sendvid.com/embed/9hk25pwb",
+            "https://sendvid.com/embed/54z3sfih",
+            "https://sendvid.com/embed/ivae2ypj",
+            "https://sendvid.com/embed/j7wyvc0t",
+            "https://sendvid.com/embed/izskq7rs",
+            "https://sendvid.com/embed/93vqbwah",
+            "https://sendvid.com/embed/mzen1u1o"
+          ]
+        }
+      }
+    }
+  }
+}

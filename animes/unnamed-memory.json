@@ -1,0 +1,84 @@
+{
+  "data": {
+    "name": "unnamed-memory",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/unnamed-memory.jpg",
+    "desc": "En escaladant une tour mortelle, Oscar cherche le pouvoir de sa gardienne nommée Tinasha. Il espère que son incroyable magie pourra briser une malédiction qui tue toute femme qu'il prend pour épouse. Mais lorsque le prince voit la beauté de Tinasha, il a une meilleure idée : puisqu'elle est sûrement assez forte pour survivre à la malédiction, elle devrait l'épouser ! Cette dernière n'est pas emballée par cette idée, mais elle accepte de vivre avec Oscar dans son château pendant un an, le temps de faire des recherches sur le sort jeté au prince. Le joli visage de la sorcière cache cependant de sombres secrets qui ont marqué plusieurs vies et qui commencent à refaire surface...",
+    "genres": "Action, Aventure, Comédie, Drame, Fantasy, Romance, Amour, Magie, Malédiction, Royauté, Sorcellerie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5499446",
+            "https://video.sibnet.ru/shell.php?videoid=5506967",
+            "https://video.sibnet.ru/shell.php?videoid=5513954",
+            "https://video.sibnet.ru/shell.php?videoid=5520816",
+            "https://video.sibnet.ru/shell.php?videoid=5528539",
+            "https://video.sibnet.ru/shell.php?videoid=5535464",
+            "https://video.sibnet.ru/shell.php?videoid=5541944",
+            "https://video.sibnet.ru/shell.php?videoid=5548303",
+            "https://video.sibnet.ru/shell.php?videoid=5554280",
+            "https://video.sibnet.ru/shell.php?videoid=5560173",
+            "https://video.sibnet.ru/shell.php?videoid=5567639",
+            "https://video.sibnet.ru/shell.php?videoid=5575200"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-65qr9pwl17pc.html",
+            "https://vidmoly.to/embed-80yihoxxjgs3.html",
+            "https://vidmoly.to/embed-uu59w1s8dwm6.html",
+            "https://vidmoly.to/embed-f46huparjip2.html",
+            "https://vidmoly.to/embed-qznpi9wzwbjf.html",
+            "https://vidmoly.to/embed-r5obxjfbjkbp.html",
+            "https://vidmoly.to/embed-ko0rfg3n4y1e.html",
+            "https://vidmoly.to/embed-yzvg1hpa0mgd.html",
+            "https://vidmoly.to/embed-o1s463lr6zoe.html",
+            "https://vidmoly.to/embed-qudvvstf60w1.html",
+            "https://vidmoly.to/embed-fu684rboh820.html",
+            "https://vidmoly.to/embed-ixhl15kja961.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/9yxuv8fp",
+            "https://sendvid.com/embed/up6b18za",
+            "https://sendvid.com/embed/0fmhj7la",
+            "https://sendvid.com/embed/p1jyp10x",
+            "https://sendvid.com/embed/rw5tywt4",
+            "https://sendvid.com/embed/kbig14hi",
+            "https://sendvid.com/embed/mbm8on79",
+            "https://sendvid.com/embed/9t4ab0iz",
+            "https://sendvid.com/embed/400p6udu",
+            "https://sendvid.com/embed/4o7vo36s",
+            "https://sendvid.com/embed/a1bkx3ob",
+            "https://sendvid.com/embed/qkqvwv8v"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5792533",
+            "https://video.sibnet.ru/shell.php?videoid=5798345"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-i5ouix5h01rt.html",
+            "https://vidmoly.to/embed-b37j9ms60vnx.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-4z6x09cc3oh7.html",
+            "https://oneupload.to/embed-npwekxpu3xac.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/adtl3vce",
+            "https://vidmoly.to/embed-b37j9ms60vnx.html"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241125&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241181&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

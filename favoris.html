@@ -1,0 +1,244 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>STREAMANIA - Favoris</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="pages.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
+</head>
+<body>
+  <div class="background-effects">
+    <div class="gradient-orb gradient-orb-1"></div>
+    <div class="gradient-orb gradient-orb-2"></div>
+    <div class="gradient-orb gradient-orb-3"></div>
+    <div class="noise-overlay"></div>
+  </div>
+
+  <div class="mobile-overlay" id="mobileOverlay"></div>
+  <div class="toast-container" id="toastContainer"></div>
+
+  <div class="app-container">
+    <!-- Sidebar -->
+    <aside class="sidebar" id="sidebar">
+      <div class="sidebar-inner">
+        <div class="sidebar-header">
+          <a href="index.html" class="logo">
+            <div class="logo-icon">
+              <svg viewBox="0 0 24 24" fill="none">
+                <path d="M12 2L2 7L12 12L22 7L12 2Z" stroke="currentColor" stroke-width="2"/>
+                <path d="M2 17L12 22L22 17" stroke="currentColor" stroke-width="2"/>
+                <path d="M2 12L12 17L22 12" stroke="currentColor" stroke-width="2"/>
+              </svg>
+            </div>
+            <span class="logo-text">STREAMANIA</span>
+          </a>
+        </div>
+
+        <div class="search-container">
+          <div class="search-box">
+            <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <circle cx="11" cy="11" r="8"></circle>
+              <path d="m21 21-4.35-4.35"></path>
+            </svg>
+            <input type="text" placeholder="Rechercher un anime..." id="searchInput">
+            <kbd class="search-shortcut">⌘K</kbd>
+          </div>
+          <div class="search-results" id="searchResults"></div>
+        </div>
+
+        <nav class="nav-section">
+          <span class="nav-label">Vous</span>
+          <ul class="nav-menu">
+            <li class="nav-item" data-page="menu">
+              <a href="index.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <path d="m3 9 9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path>
+                    <polyline points="9 22 9 12 15 12 15 22"></polyline>
+                  </svg>
+                </div>
+                <span class="nav-text">Menu</span>
+              </a>
+            </li>
+            <li class="nav-item" data-page="catalogue">
+              <a href="catalogue.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect x="3" y="3" width="7" height="7" rx="1"></rect>
+                    <rect x="14" y="3" width="7" height="7" rx="1"></rect>
+                    <rect x="14" y="14" width="7" height="7" rx="1"></rect>
+                    <rect x="3" y="14" width="7" height="7" rx="1"></rect>
+                  </svg>
+                </div>
+                <span class="nav-text">Catalogue</span>
+              </a>
+            </li>
+            <li class="nav-item" data-page="upcoming">
+              <a href="upcoming.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <rect width="18" height="18" x="3" y="4" rx="2" ry="2"></rect>
+                    <line x1="16" x2="16" y1="2" y2="6"></line>
+                    <line x1="8" x2="8" y1="2" y2="6"></line>
+                    <line x1="3" x2="21" y1="10" y2="10"></line>
+                  </svg>
+                </div>
+                <span class="nav-text">Upcoming</span>
+                <span class="nav-badge">3</span>
+              </a>
+            </li>
+            <li class="nav-item active" data-page="favoris">
+              <a href="favoris.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+                  </svg>
+                </div>
+                <span class="nav-text">Favoris</span>
+                <div class="nav-indicator"></div>
+              </a>
+            </li>
+            <li class="nav-item" data-page="watchlater">
+              <a href="watchlater.html">
+                <div class="nav-item-bg"></div>
+                <div class="nav-icon">
+                  <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                    <circle cx="12" cy="12" r="10"></circle>
+                    <polyline points="12 6 12 12 16 14"></polyline>
+                  </svg>
+                </div>
+                <span class="nav-text">Voir Plus Tard</span>
+              </a>
+            </li>
+          </ul>
+        </nav>
+
+        <div class="sidebar-divider"><span></span></div>
+
+        <div class="friends-section">
+          <div class="friends-header">
+            <span class="friends-title">Vos Amis</span>
+            <button class="add-friend-btn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"></path>
+                <circle cx="9" cy="7" r="4"></circle>
+                <line x1="19" x2="19" y1="8" y2="14"></line>
+                <line x1="22" x2="16" y1="11" y2="11"></line>
+              </svg>
+            </button>
+          </div>
+          <ul class="friends-list" id="friendsList"></ul>
+        </div>
+
+        <div class="user-account">
+          <span class="account-label">Votre Compte</span>
+          <div class="user-profile">
+            <div class="user-avatar">
+              <img src="https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?w=80&h=80&fit=crop" alt="Profile">
+              <span class="user-status-dot"></span>
+            </div>
+            <div class="user-info">
+              <span class="user-name">Vortex</span>
+              <span class="user-plan">Premium Member</span>
+            </div>
+            <button class="user-settings-btn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0 .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.73V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z"></path>
+                <circle cx="12" cy="12" r="3"></circle>
+              </svg>
+            </button>
+          </div>
+        </div>
+      </div>
+    </aside>
+
+    <!-- Main Content -->
+    <main class="main-content">
+      <div class="main-inner">
+        <header class="top-bar">
+          <div class="top-bar-left">
+            <button class="mobile-menu-btn" id="mobileMenuBtn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <line x1="4" x2="20" y1="12" y2="12"></line>
+                <line x1="4" x2="20" y1="6" y2="6"></line>
+                <line x1="4" x2="20" y1="18" y2="18"></line>
+              </svg>
+            </button>
+            <div class="breadcrumb">
+              <a href="index.html" class="breadcrumb-item">Accueil</a>
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="m9 18 6-6-6-6"></path>
+              </svg>
+              <span class="breadcrumb-item active">Favoris</span>
+            </div>
+          </div>
+          <div class="top-bar-right">
+            <button class="icon-btn notification-btn">
+              <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+                <path d="M6 8a6 6 0 0 1 12 0c0 7 3 9 3 9H3s3-2 3-9"></path>
+                <path d="M10.3 21a1.94 1.94 0 0 0 3.4 0"></path>
+              </svg>
+              <span class="notification-dot"></span>
+            </button>
+          </div>
+        </header>
+
+        <div class="page-header">
+          <div class="page-header-icon">
+            <svg viewBox="0 0 24 24" fill="currentColor">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+            </svg>
+          </div>
+          <h1 class="page-title">Mes Favoris</h1>
+          <p class="page-subtitle">Vos animes préférés en un seul endroit</p>
+        </div>
+
+        <div class="list-stats">
+          <span class="stat-item">
+            <svg viewBox="0 0 24 24" fill="currentColor">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+            </svg>
+            <span id="favorisCount">0</span> animes
+          </span>
+        </div>
+
+        <!-- Empty State -->
+        <div class="empty-state" id="emptyState">
+          <div class="empty-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5">
+              <polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"></polygon>
+            </svg>
+          </div>
+          <h3 class="empty-title">Aucun favori pour le moment</h3>
+          <p class="empty-description">Commencez à ajouter des animes à vos favoris en cliquant sur l'étoile</p>
+          <a href="catalogue.html" class="btn btn-primary">
+            Explorer le catalogue
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="m9 18 6-6-6-6"></path>
+            </svg>
+          </a>
+        </div>
+
+        <!-- Anime Grid -->
+        <div class="anime-grid hidden" id="favorisGrid">
+          <!-- Filled by JS -->
+        </div>
+      </div>
+    </main>
+  </div>
+
+<script src="app.js"></script>
+  <script src="auth-system.js"></script>
+  <script src="friends-system.js"></script>
+  <script src="pages.js"></script>
+</body>
+</html>

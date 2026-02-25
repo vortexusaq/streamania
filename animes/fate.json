@@ -1,0 +1,655 @@
+{
+  "data": {
+    "name": "fate",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fate.jpg",
+    "desc": "L'histoire suit sept Masters s'affrontant dans la ville de Fuyuki. Dotés de pouvoirs magiques, et pouvant compter sur l'aide de Servants qu'ils ont invoqués, le dernier d'entre eux pourra s'approprier le Graal et exaucer son vœu le plus cher.",
+    "genres": "Action, Aventure, Drame, Fantasy, Romance, Surnaturel, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 18,
+      "Stay Night": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-7bzstvxy7szf.html",
+            "https://vidmoly.to/embed-win1rdc8hkuc.html",
+            "https://vidmoly.to/embed-9zy7ogetb45q.html",
+            "https://vidmoly.to/embed-3leh2yeph6fo.html",
+            "https://vidmoly.to/embed-uj1kosvm0cwx.html",
+            "https://vidmoly.to/embed-yr2bdndceo1a.html",
+            "https://vidmoly.to/embed-rhdhusn08snc.html",
+            "https://vidmoly.to/embed-75r3onk6ijhm.html",
+            "https://vidmoly.to/embed-5opbgm8deya7.html",
+            "https://vidmoly.to/embed-gvdghthbm4co.html",
+            "https://vidmoly.to/embed-d5ouqs2hr9jl.html",
+            "https://vidmoly.to/embed-t7lmy8s94nxg.html",
+            "https://vidmoly.to/embed-6yz8a13lydd3.html",
+            "https://vidmoly.to/embed-6x9r6vxqar71.html",
+            "https://vidmoly.to/embed-5vubap7gjeod.html",
+            "https://vidmoly.to/embed-dg0jeilwjhxc.html",
+            "https://vidmoly.to/embed-x5g2bnmfghpv.html",
+            "https://vidmoly.to/embed-l7cu3ug7g1aq.html",
+            "https://vidmoly.to/embed-93ncpd7hd3q9.html",
+            "https://vidmoly.to/embed-2i30u2dku8mu.html",
+            "https://vidmoly.to/embed-4nedcow33trq.html",
+            "https://vidmoly.to/embed-wm37ez6cgxhd.html",
+            "https://vidmoly.to/embed-zvfl6pbj4wgw.html",
+            "https://vidmoly.to/embed-ubw0j7v5durv.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/8lkz6oq1",
+            "https://sendvid.com/embed/8xo4p448",
+            "https://sendvid.com/embed/p6q7ljb0",
+            "https://sendvid.com/embed/8e6gowjm",
+            "https://sendvid.com/embed/zg771jvc",
+            "https://sendvid.com/embed/zk1kwezy",
+            "https://sendvid.com/embed/20tkxp5a",
+            "https://sendvid.com/embed/mc73c49r",
+            "https://sendvid.com/embed/s55k0dxj",
+            "https://sendvid.com/embed/33ktmg15",
+            "https://sendvid.com/embed/cj7glspr",
+            "https://sendvid.com/embed/09d3zzz0",
+            "https://sendvid.com/embed/tlbko8bn",
+            "https://sendvid.com/embed/svwwfqdq",
+            "https://sendvid.com/embed/52ugb9sc",
+            "https://sendvid.com/embed/mcqicxxh",
+            "https://sendvid.com/embed/qqhvumyr",
+            "https://sendvid.com/embed/36o1lklj",
+            "https://sendvid.com/embed/mrm9te7f",
+            "https://sendvid.com/embed/5j824dsi",
+            "https://sendvid.com/embed/lreiepo0",
+            "https://sendvid.com/embed/zfh6kdu3",
+            "https://sendvid.com/embed/mojx47x9",
+            "https://sendvid.com/embed/r0o5wdos"
+          ]
+        }
+      },
+      "Stay Night Unlimited Blade Works": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5108471",
+            "https://sendvid.com/embed/hlk93mi3",
+            "https://sendvid.com/embed/0b7ufopz",
+            "https://sendvid.com/embed/5jbge2lh",
+            "https://sendvid.com/embed/xj12rtgs",
+            "https://sendvid.com/embed/jiy2pfph",
+            "https://sendvid.com/embed/06eenxc0",
+            "https://sendvid.com/embed/h8wm13gk",
+            "https://sendvid.com/embed/joinu0am",
+            "https://sendvid.com/embed/mjv5xfs6",
+            "https://sendvid.com/embed/bqx5q5uk",
+            "https://sendvid.com/embed/a8ygmbj4",
+            "https://sendvid.com/embed/1p8j0114",
+            "https://sendvid.com/embed/3hjt3cbw",
+            "https://sendvid.com/embed/cg6z2zys",
+            "https://sendvid.com/embed/gkg4y4no",
+            "https://sendvid.com/embed/rpamwk9n",
+            "https://vidmoly.to/embed-fio33o03o6ki.html",
+            "https://sendvid.com/embed/zmdtqdjf",
+            "https://sendvid.com/embed/ccqjotvf",
+            "https://sendvid.com/embed/nxj4qdfx",
+            "https://sendvid.com/embed/l4haekrg",
+            "https://sendvid.com/embed/vlospq87",
+            "https://sendvid.com/embed/aakklv2i",
+            "https://sendvid.com/embed/wzs2wj0j",
+            "https://sendvid.com/embed/2f9a8cbb"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-fxia4i4b275m.html",
+            "https://vidmoly.to/embed-dylrjyvm73x4.html",
+            "https://vidmoly.to/embed-jakbvmn6a85x.html",
+            "https://vidmoly.to/embed-syevp9jf7gk1.html",
+            "https://vidmoly.to/embed-7ftog9qefv6j.html",
+            "https://vidmoly.to/embed-q3fi12fbyhla.html",
+            "https://vidmoly.to/embed-4oaknp415wyn.html",
+            "https://vidmoly.to/embed-sjh00f1t6tyg.html",
+            "https://vidmoly.to/embed-664zzr19qk1y.html",
+            "https://vidmoly.to/embed-rx9daazxbnhi.html",
+            "https://vidmoly.to/embed-0n4rbnccs2tt.html",
+            "https://vidmoly.to/embed-vgffz0s5dfmn.html",
+            "https://vidmoly.to/embed-6ram2f8mu6cd.html",
+            "https://vidmoly.to/embed-y7khl1gpg5gn.html",
+            "https://vidmoly.to/embed-4weqhbznaeit.html",
+            "https://vidmoly.to/embed-h1vnq8eco9jp.html",
+            "https://vidmoly.to/embed-0o83rmxa4egm.html",
+            "https://vidmoly.to/embed-4rkh1xnr3f6r.html",
+            "https://vidmoly.to/embed-u5wae7h9ogwj.html",
+            "https://vidmoly.to/embed-xkns3ea8av47.html",
+            "https://vidmoly.to/embed-mlh9t34oy9i4.html",
+            "https://vidmoly.to/embed-h7fq45ju55td.html",
+            "https://vidmoly.to/embed-ypyqxpa7arr9.html",
+            "https://vidmoly.to/embed-6xua55t6o3hb.html",
+            "https://vidmoly.to/embed-0yjbyf8sl28j.html",
+            "https://vidmoly.to/embed-4veipegbp5bw.html"
+          ]
+        }
+      },
+      "Heaven's Feel": {
+        "url": "saison5/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5032271",
+            "https://video.sibnet.ru/shell.php?videoid=5032268",
+            "https://video.sibnet.ru/shell.php?videoid=5032274"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-dwgtdltgwwi2.html",
+            "https://vidmoly.to/embed-fdo6xp3scf2h.html",
+            "https://vidmoly.to/embed-47lx1x2f2342.html"
+          ]
+        }
+      },
+      "Zero": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-l8i919l0x5wf.html",
+            "https://vidmoly.to/embed-0webs8284zr1.html",
+            "https://vidmoly.to/embed-mnm7jm5r8vbv.html",
+            "https://vidmoly.to/embed-exp95b6zog65.html",
+            "https://vidmoly.to/embed-j1m49vzatx5p.html",
+            "https://vidmoly.to/embed-tpgm8zuwb4k5.html",
+            "https://vidmoly.to/embed-0svb4emjqthb.html",
+            "https://vidmoly.to/embed-njwibuw5lxk1.html",
+            "https://vidmoly.to/embed-zwrgwckkdsfx.html",
+            "https://vidmoly.to/embed-coid38akpqtp.html",
+            "https://vidmoly.to/embed-x2zaps5zs5bg.html",
+            "https://vidmoly.to/embed-cpx1scsjmu8v.html",
+            "https://vidmoly.to/embed-l9d23db6awzj.html",
+            "https://vidmoly.to/embed-islqsr9z9phq.html",
+            "https://vidmoly.to/embed-3u4czb622qt6.html",
+            "https://vidmoly.to/embed-w0znx26glscd.html",
+            "https://vidmoly.to/embed-y0kxmyehgcx4.html",
+            "https://vidmoly.to/embed-34oblb5mdak8.html",
+            "https://vidmoly.to/embed-qniqz6h3uu1z.html",
+            "https://vidmoly.to/embed-45r4ecyc4qxd.html",
+            "https://vidmoly.to/embed-gsl4oe51ijm9.html",
+            "https://vidmoly.to/embed-ywkeefiwn0o6.html",
+            "https://vidmoly.to/embed-grdw7gacxkl3.html",
+            "https://vidmoly.to/embed-n86e44erjp2i.html",
+            "https://vidmoly.to/embed-klobc2odgd45.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/ky47l4kf",
+            "https://sendvid.com/embed/lbfe7cdr",
+            "https://sendvid.com/embed/cj8l0fw0",
+            "https://sendvid.com/embed/h1eqf4uq",
+            "https://sendvid.com/embed/w0wkh7be",
+            "https://sendvid.com/embed/u0zgam7c",
+            "https://sendvid.com/embed/a0edsav2",
+            "https://sendvid.com/embed/g7qzrpka",
+            "https://sendvid.com/embed/8mdk508w",
+            "https://sendvid.com/embed/zktpbj2u",
+            "https://sendvid.com/embed/i7brl0jr",
+            "https://sendvid.com/embed/ddgtk4wy",
+            "https://sendvid.com/embed/8lpgyjp0",
+            "https://sendvid.com/embed/ei9x19wn",
+            "https://sendvid.com/embed/jvgpkep5",
+            "https://sendvid.com/embed/3rtqqjz9",
+            "https://sendvid.com/embed/2ujn8ezc",
+            "https://sendvid.com/embed/dh7kz3c5",
+            "https://sendvid.com/embed/e111gf3z",
+            "https://sendvid.com/embed/fgk1k6j3",
+            "https://sendvid.com/embed/1f8zhluq",
+            "https://sendvid.com/embed/vyjuai3w",
+            "https://sendvid.com/embed/k0z3bck7",
+            "https://sendvid.com/embed/wnk9h1dr",
+            "https://sendvid.com/embed/xz8vow9n"
+          ]
+        }
+      },
+      "Today's Menu for Emiya Family": {
+        "url": "saison10/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/q3lzinit",
+            "https://sendvid.com/embed/yr18yge6",
+            "https://sendvid.com/embed/6814jn0k",
+            "https://sendvid.com/embed/0vgjrgo0",
+            "https://sendvid.com/embed/vttjyd2y",
+            "https://sendvid.com/embed/6iwzihcm",
+            "https://sendvid.com/embed/xkh4uerq",
+            "https://sendvid.com/embed/hqabvsd1",
+            "https://sendvid.com/embed/4g5rlgm6",
+            "https://sendvid.com/embed/duw4glj7",
+            "https://sendvid.com/embed/zrhzn3a6",
+            "https://sendvid.com/embed/klxvl8bp",
+            "https://sendvid.com/embed/jy60fxvm"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-fomgql55buby.html",
+            "https://vidmoly.to/embed-eobh5x0m3qo6.html",
+            "https://vidmoly.to/embed-sada4c5m6etz.html",
+            "https://vidmoly.to/embed-slvuhvw9dfj7.html",
+            "https://vidmoly.to/embed-xc3qh972bk1v.html",
+            "https://vidmoly.to/embed-fyy3tbrtdqb0.html",
+            "https://vidmoly.to/embed-b7i8q3hpa7wh.html",
+            "https://vidmoly.to/embed-ltx7vg5d3r50.html",
+            "https://vidmoly.to/embed-o0tvftvf7u5d.html",
+            "https://vidmoly.to/embed-w6167svkdovh.html",
+            "https://vidmoly.to/embed-ewlqv482klnn.html",
+            "https://vidmoly.to/embed-avk5g4mv6aph.html",
+            "https://vidmoly.to/embed-wa49i1b9fflc.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=5291901",
+            "https://video.sibnet.ru/shell.php?videoid=5291903",
+            "https://video.sibnet.ru/shell.php?videoid=5291904",
+            "https://video.sibnet.ru/shell.php?videoid=5291906",
+            "https://video.sibnet.ru/shell.php?videoid=5291907",
+            "https://video.sibnet.ru/shell.php?videoid=5291908",
+            "https://video.sibnet.ru/shell.php?videoid=5291909",
+            "https://video.sibnet.ru/shell.php?videoid=5291911",
+            "https://video.sibnet.ru/shell.php?videoid=5291913",
+            "https://video.sibnet.ru/shell.php?videoid=5291916",
+            "https://video.sibnet.ru/shell.php?videoid=5291918",
+            "https://video.sibnet.ru/shell.php?videoid=5291920",
+            "https://video.sibnet.ru/shell.php?videoid=5291922"
+          ]
+        }
+      },
+      "Lord El-Melloi": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/sn5tw30f",
+            "https://sendvid.com/embed/iotzb0d5",
+            "https://sendvid.com/embed/17hmq6xc",
+            "https://sendvid.com/embed/waj7iilb",
+            "https://sendvid.com/embed/dftvp541",
+            "https://sendvid.com/embed/rj0gkbis",
+            "https://sendvid.com/embed/ds4uinzy",
+            "https://sendvid.com/embed/fyskn6qv",
+            "https://sendvid.com/embed/rj3hqjdn",
+            "https://sendvid.com/embed/izmnqvjv",
+            "https://sendvid.com/embed/4k0cqo7z",
+            "https://sendvid.com/embed/a3q4saef",
+            "https://sendvid.com/embed/84wwea6s",
+            "https://sendvid.com/embed/754uay4x"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-1eovehjmlt3c.html",
+            "https://vidmoly.to/embed-56uxlmj5tk9w.html",
+            "https://vidmoly.to/embed-ojvyz0nt6kvg.html",
+            "https://vidmoly.to/embed-uagvl5ebp17z.html",
+            "https://vidmoly.to/embed-3yns10x1rxub.html",
+            "https://vidmoly.to/embed-cy3qwnjf82gi.html",
+            "https://vidmoly.to/embed-9of4bfi5x1ct.html",
+            "https://vidmoly.to/embed-oqk8417vk21t.html",
+            "https://vidmoly.to/embed-hyr2ghx8retd.html",
+            "https://vidmoly.to/embed-dxlr50tq0r35.html",
+            "https://vidmoly.to/embed-yrj72f3f3uw2.html",
+            "https://vidmoly.to/embed-7txd8o6q69xt.html",
+            "https://vidmoly.to/embed-2z2rwyjgc6o4.html",
+            "https://vidmoly.to/embed-1tpn7oktap9p.html"
+          ]
+        }
+      },
+      "Lord El-Melloi II Sei no Jikennbo": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/untnj81z"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-ohzert4qszj2.html"
+          ]
+        }
+      },
+      "Strange Fake": {
+        "url": "film3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/udesnk35",
+            "https://sendvid.com/embed/csau8mzw"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-rtvlmexaygr7.html",
+            "https://vidmoly.to/embed-73w04cf5h31w.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=5186068",
+            "https://video.sibnet.ru/shell.php?videoid=5787597"
+          ]
+        }
+      },
+      "Apocrypha": {
+        "url": "saison7/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/uudkk81g",
+            "https://sendvid.com/embed/i2gp26kk",
+            "https://sendvid.com/embed/fmzs95vz",
+            "https://sendvid.com/embed/q1c7mhdx",
+            "https://sendvid.com/embed/dkcagzgk",
+            "https://sendvid.com/embed/397fbj12",
+            "https://sendvid.com/embed/l9dpkkaw",
+            "https://sendvid.com/embed/qbm7d3o0",
+            "https://sendvid.com/embed/n343ek5i",
+            "https://sendvid.com/embed/0iujdl1i",
+            "https://sendvid.com/embed/72tef6ei",
+            "https://sendvid.com/embed/hmueuh9l",
+            "https://sendvid.com/embed/5w59htbm",
+            "https://sendvid.com/embed/7rnrlb8p",
+            "https://sendvid.com/embed/jygpzbsa",
+            "https://sendvid.com/embed/h1iia2gs",
+            "https://sendvid.com/embed/5vi9jw6p",
+            "https://video.sibnet.ru/shell.php?videoid=5371153",
+            "https://video.sibnet.ru/shell.php?videoid=5428921",
+            "https://sendvid.com/embed/3t7y8wx7",
+            "https://sendvid.com/embed/8wueuwac",
+            "https://sendvid.com/embed/7xqlo0rl",
+            "https://sendvid.com/embed/zaaadd61",
+            "https://sendvid.com/embed/moww8dmr",
+            "https://sendvid.com/embed/srv9kl4m"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-7ebzt2oysxke.html",
+            "https://vidmoly.to/embed-go2yl51fkih8.html",
+            "https://vidmoly.to/embed-1eu2r5zwp5ci.html",
+            "https://vidmoly.to/embed-18m3rzpfxw08.html",
+            "https://vidmoly.to/embed-uko9j14lq5j6.html",
+            "https://vidmoly.to/embed-unyngw3fsyfn.html",
+            "https://vidmoly.to/embed-k4zdk033a52k.html",
+            "https://vidmoly.to/embed-n8lwwdsilvtz.html",
+            "https://vidmoly.to/embed-oydn86v8sp1i.html",
+            "https://vidmoly.to/embed-vzkacm9wqta4.html",
+            "https://vidmoly.to/embed-zku1i8hu43mb.html",
+            "https://vidmoly.to/embed-0ctdzsf456zn.html",
+            "https://vidmoly.to/embed-u23m6ukwyqgt.html",
+            "https://vidmoly.to/embed-c4kikr8hr9jh.html",
+            "https://vidmoly.to/embed-9038dcak9e5c.html",
+            "https://vidmoly.to/embed-7vgbsny77ida.html",
+            "https://vidmoly.to/embed-cwcxb2c8jv4h.html",
+            "https://vidmoly.to/embed-ft0hxi278ynu.html",
+            "https://vidmoly.to/embed-eb2pf8af85x0.html",
+            "https://vidmoly.to/embed-fgcow8aymfji.html",
+            "https://vidmoly.to/embed-1dxjo63z2hwx.html",
+            "https://vidmoly.to/embed-yt8nk9wtlyzu.html",
+            "https://vidmoly.to/embed-a6nio8gns7km.html",
+            "https://vidmoly.to/embed-pqc9mt1f1qdt.html",
+            "https://vidmoly.to/embed-022j1j32cbst.html"
+          ]
+        }
+      },
+      "Last Encore": {
+        "url": "saison9/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/5ssi2swx",
+            "https://sendvid.com/embed/g3hsj04p",
+            "https://sendvid.com/embed/le2nkiof",
+            "https://sendvid.com/embed/h6bpv9wr",
+            "https://sendvid.com/embed/peo5675w",
+            "https://sendvid.com/embed/ddszwf0t",
+            "https://sendvid.com/embed/kqcx3pny",
+            "https://sendvid.com/embed/kb9pbloa",
+            "https://sendvid.com/embed/7itbx7a5",
+            "https://sendvid.com/embed/ukb89e4i",
+            "https://sendvid.com/embed/nht9ho8g",
+            "https://sendvid.com/embed/f5oxn1fb",
+            "https://sendvid.com/embed/n4zko7mk"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-ap1weze7tzh1.html",
+            "https://vidmoly.to/embed-l35qawwibt8z.html",
+            "https://vidmoly.to/embed-d1l1otfp4g6u.html",
+            "https://vidmoly.to/embed-36awjhuzol3k.html",
+            "https://vidmoly.to/embed-43vvo78bnpye.html",
+            "https://vidmoly.to/embed-8fe6yydkiibf.html",
+            "https://vidmoly.to/embed-5q39if3wdc00.html",
+            "https://vidmoly.to/embed-ofwd1monfgjk.html",
+            "https://vidmoly.to/embed-860ac13jondb.html",
+            "https://vidmoly.to/embed-7pa3v6ws8cwd.html",
+            "https://vidmoly.to/embed-2ase6dlq8ucs.html",
+            "https://vidmoly.to/embed-v8nnfohmnqj6.html",
+            "https://vidmoly.to/embed-iy6qapl0p12e.html"
+          ]
+        }
+      },
+      "Kaleid": {
+        "url": "saison6/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-3rshe195en5c.html",
+            "https://vidmoly.to/embed-kgilmlxgc8l3.html",
+            "https://vidmoly.to/embed-u4y4dnjg3948.html",
+            "https://vidmoly.to/embed-qnsqnvkz5mav.html",
+            "https://vidmoly.to/embed-6wm86oln5i5u.html",
+            "https://vidmoly.to/embed-gdkrekm6su64.html",
+            "https://vidmoly.to/embed-s5oz2at78p48.html",
+            "https://vidmoly.to/embed-451d63pcpzmh.html",
+            "https://vidmoly.to/embed-qpkqo1o950f1.html",
+            "https://vidmoly.to/embed-2zquji9ba7nh.html",
+            "https://vidmoly.to/embed-o5sgw6a89dry.html",
+            "https://vidmoly.to/embed-syuty6z90b33.html",
+            "https://vidmoly.to/embed-dggewqzkb8dm.html",
+            "https://vidmoly.to/embed-eg2yl7v44czj.html",
+            "https://vidmoly.to/embed-86s8h81orxqm.html",
+            "https://vidmoly.to/embed-yopnl19ap3oz.html",
+            "https://vidmoly.to/embed-y15afsn9dx51.html",
+            "https://vidmoly.to/embed-i3chgwuq7uxo.html",
+            "https://vidmoly.to/embed-0w20ljgrrjoe.html",
+            "https://vidmoly.to/embed-tsbqkt1n6ei4.html",
+            "https://vidmoly.to/embed-1z2qsfepg9d3.html",
+            "https://vidmoly.to/embed-chuitz47t8lc.html",
+            "https://vidmoly.to/embed-b0uqad43x9wf.html",
+            "https://vidmoly.to/embed-n7cikavg27pq.html",
+            "https://vidmoly.to/embed-g0cgfb8k161l.html",
+            "https://vidmoly.to/embed-jj9i5umkbq53.html",
+            "https://vidmoly.to/embed-5f9e7dyik7op.html",
+            "https://vidmoly.to/embed-aum9jnpu6ymw.html",
+            "https://vidmoly.to/embed-3l2zwogrlrex.html",
+            "https://vidmoly.to/embed-iio0vi87qrmv.html",
+            "https://vidmoly.to/embed-suwbopz9dy3m.html",
+            "https://vidmoly.to/embed-cndd1dbdiwxg.html",
+            "https://vidmoly.to/embed-uomi4glttz70.html",
+            "https://vidmoly.to/embed-pv4h29aizjb4.html",
+            "https://vidmoly.to/embed-nxbh7xj2yeej.html",
+            "https://vidmoly.to/embed-cxjc4b40juoa.html",
+            "https://vidmoly.to/embed-7p747m6lnk2v.html",
+            "https://vidmoly.to/embed-0gcd01snslj6.html",
+            "https://vidmoly.to/embed-e49lhh1yzrsu.html",
+            "https://vidmoly.to/embed-g62r2nd3ll0g.html",
+            "https://vidmoly.to/embed-oyynak08smeq.html",
+            "https://vidmoly.to/embed-ug5b2skivt2s.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/4hf26w11",
+            "https://sendvid.com/embed/hgpimfmy",
+            "https://sendvid.com/embed/fe6p2cuo",
+            "https://sendvid.com/embed/ebli52dy",
+            "https://sendvid.com/embed/gczcd7sb",
+            "https://sendvid.com/embed/4kg8bokx",
+            "https://sendvid.com/embed/i7sb829a",
+            "https://sendvid.com/embed/l0ncrnzh",
+            "https://sendvid.com/embed/hfw8s11b",
+            "https://sendvid.com/embed/r3kjh4gb",
+            "https://sendvid.com/embed/8me9aose",
+            "https://sendvid.com/embed/meo41rco",
+            "https://sendvid.com/embed/nv58bugk",
+            "https://sendvid.com/embed/qn78g16u",
+            "https://sendvid.com/embed/m4ao1csv",
+            "https://sendvid.com/embed/2ckfdn12",
+            "https://sendvid.com/embed/ixjsm9et",
+            "https://sendvid.com/embed/sgdzv14k",
+            "https://sendvid.com/embed/g9k2enxm",
+            "https://sendvid.com/embed/29wh32ix",
+            "https://sendvid.com/embed/oe8ai885",
+            "https://sendvid.com/embed/bxfnhskr",
+            "https://sendvid.com/embed/dnp2qhxj",
+            "https://sendvid.com/embed/s74u1uv5",
+            "https://sendvid.com/embed/nthvqa5d",
+            "https://sendvid.com/embed/7v7ly4b0",
+            "https://sendvid.com/embed/pzpgi3zx",
+            "https://sendvid.com/embed/6a9j4h6r",
+            "https://sendvid.com/embed/l11hlj69",
+            "https://sendvid.com/embed/814nq62u",
+            "https://sendvid.com/embed/wc0by8q1",
+            "https://sendvid.com/embed/syx3djbg",
+            "https://sendvid.com/embed/8zka83ex",
+            "https://sendvid.com/embed/rf95k0ny",
+            "https://sendvid.com/embed/4hazpr19",
+            "https://sendvid.com/embed/rx2xc89v",
+            "https://sendvid.com/embed/akuaodtx",
+            "https://sendvid.com/embed/ib24gw4e",
+            "https://sendvid.com/embed/hnhl8edw",
+            "https://sendvid.com/embed/jtexs5hf",
+            "https://sendvid.com/embed/1e4wdn4k",
+            "https://sendvid.com/embed/mdwmzgjt"
+          ]
+        }
+      },
+      "Kaleid film": {
+        "url": "film2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4924741"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/y25wnfwn"
+          ]
+        }
+      },
+      "Carnival Phantasm": {
+        "url": "oav4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/i4jlv4qf",
+            "https://sendvid.com/embed/4cvow3eu",
+            "https://sendvid.com/embed/u97zqxp1",
+            "https://sendvid.com/embed/zs2177va",
+            "https://sendvid.com/embed/jcpw9kh8",
+            "https://sendvid.com/embed/cpol509q",
+            "https://sendvid.com/embed/m7qm7l63",
+            "https://sendvid.com/embed/wsobqy7p",
+            "https://sendvid.com/embed/a85b490p",
+            "https://sendvid.com/embed/jtfmj5kf",
+            "https://sendvid.com/embed/r24cdawq",
+            "https://sendvid.com/embed/f8wyq4ts"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5452480",
+            "https://video.sibnet.ru/shell.php?videoid=5452482",
+            "https://video.sibnet.ru/shell.php?videoid=5452484",
+            "https://video.sibnet.ru/shell.php?videoid=5452487",
+            "https://video.sibnet.ru/shell.php?videoid=5452489",
+            "https://video.sibnet.ru/shell.php?videoid=5452490",
+            "https://video.sibnet.ru/shell.php?videoid=5452492",
+            "https://video.sibnet.ru/shell.php?videoid=5452494",
+            "https://video.sibnet.ru/shell.php?videoid=5452496",
+            "https://video.sibnet.ru/shell.php?videoid=5452499",
+            "https://video.sibnet.ru/shell.php?videoid=5452502",
+            "https://video.sibnet.ru/shell.php?videoid=5452503"
+          ]
+        }
+      },
+      "Grand Order First Order": {
+        "url": "oav3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/8skw91wa"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4924859"
+          ]
+        }
+      },
+      "Grand Order Camelot": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5054096",
+            "https://video.sibnet.ru/shell.php?videoid=5054071"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-177oy15m9fwg.html",
+            "https://vidmoly.to/embed-3j670xghgy9n.html"
+          ]
+        }
+      },
+      "Grand Order Absolute Demonic Front": {
+        "url": "saison8/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/jjei434e",
+            "https://sendvid.com/embed/xt5qo9m2",
+            "https://sendvid.com/embed/k91knykz",
+            "https://sendvid.com/embed/au24l6xt",
+            "https://sendvid.com/embed/dg1l26hn",
+            "https://sendvid.com/embed/8vuev0jx",
+            "https://sendvid.com/embed/x8qukrqx",
+            "https://sendvid.com/embed/nk97bcyy",
+            "https://sendvid.com/embed/1ea86plp",
+            "https://sendvid.com/embed/a9w7io6u",
+            "https://sendvid.com/embed/p5zu5rgh",
+            "https://sendvid.com/embed/p3ga7ero",
+            "https://sendvid.com/embed/xlme42wr",
+            "https://sendvid.com/embed/z57o1pnf",
+            "https://sendvid.com/embed/p9c38i6m",
+            "https://sendvid.com/embed/y63sa9sp",
+            "https://sendvid.com/embed/h07w4ylw",
+            "https://sendvid.com/embed/skebb2op",
+            "https://sendvid.com/embed/z3dswj8s",
+            "https://sendvid.com/embed/8p30tjv4",
+            "https://sendvid.com/embed/8lgtykrc",
+            "https://sendvid.com/embed/45lk64ag"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-5qrep2yhqzu1.html",
+            "https://vidmoly.to/embed-bdilbqmltdc0.html",
+            "https://vidmoly.to/embed-cmgcmuj32yc9.html",
+            "https://vidmoly.to/embed-p0la6my5mvj6.html",
+            "https://vidmoly.to/embed-z0a5xrwzwsnw.html",
+            "https://vidmoly.to/embed-b8c3xuok5q2r.html",
+            "https://vidmoly.to/embed-mscfvazb535c.html",
+            "https://vidmoly.to/embed-lzpqv1ptahp0.html",
+            "https://vidmoly.to/embed-6z5mwmp05ktj.html",
+            "https://vidmoly.to/embed-phncffasxqtf.html",
+            "https://vidmoly.to/embed-8yr5w9d22fyn.html",
+            "https://vidmoly.to/embed-vjlccqx5r7wj.html",
+            "https://vidmoly.to/embed-etcdw3mog6ob.html",
+            "https://vidmoly.to/embed-fb2xfsw6m45n.html",
+            "https://vidmoly.to/embed-rlogrekp8jon.html",
+            "https://vidmoly.to/embed-0zjscy22r70x.html",
+            "https://vidmoly.to/embed-4l2pnezzo5ya.html",
+            "https://vidmoly.to/embed-n8a39g96wtt6.html",
+            "https://vidmoly.to/embed-kbrdqehx4vsr.html",
+            "https://vidmoly.to/embed-8thjza2nrmks.html",
+            "https://vidmoly.to/embed-pllpha9o4nx6.html",
+            "https://vidmoly.to/embed-ycj8kusn3guy.html"
+          ]
+        }
+      },
+      "Grand Order Final Singularity Solomon": {
+        "url": "film4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5054128"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-ezedhykbciwa.html"
+          ]
+        }
+      },
+      "Grand Carnival": {
+        "url": "oav2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/67mjk4ml",
+            "https://sendvid.com/embed/9yr9504m"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-rlhseiztq2nv.html",
+            "https://vidmoly.to/embed-tk92upidvsrd.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4815641",
+            "https://video.sibnet.ru/shell.php?videoid=4815652"
+          ]
+        }
+      }
+    }
+  }
+}

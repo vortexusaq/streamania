@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "shakunetsu-kabaddi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shakunetsu-kabaddi.jpg",
+    "desc": "L'histoire nous entraîne dans le quotidien de Tatsuya Yoigoshi, un lycéen et ancien joueur de football qui déteste le sports. Un jour, il est invité à rejoindre une équipe de kabaddi. Au début, il se moque de ce sports mais devient intéressé après avoir regardé un match.\nAinsi, nous allons suivre le quotidien d'un ancien excellent joueur de foot intégrant une équipe de kabaddi.",
+    "genres": "Comédie, School-Life, Slice-of-Life, Tournois",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/mbvjq5et",
+            "https://sendvid.com/embed/4xrnjk9y",
+            "https://sendvid.com/embed/j042pb7e",
+            "https://sendvid.com/embed/xk5sgl8y",
+            "https://sendvid.com/embed/s2bnan86",
+            "https://sendvid.com/embed/xjdk6sj2",
+            "https://sendvid.com/embed/ui23s1yr",
+            "https://sendvid.com/embed/ywo7ggez",
+            "https://sendvid.com/embed/65u266ev",
+            "https://sendvid.com/embed/9fuktvh8",
+            "https://sendvid.com/embed/tdprqtx6",
+            "https://sendvid.com/embed/a9o7p89t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4284973",
+            "https://video.sibnet.ru/shell.php?videoid=4290075",
+            "https://video.sibnet.ru/shell.php?videoid=4295029",
+            "https://video.sibnet.ru/shell.php?videoid=4300402",
+            "https://video.sibnet.ru/shell.php?videoid=4305972",
+            "https://video.sibnet.ru/shell.php?videoid=4310339",
+            "https://video.sibnet.ru/shell.php?videoid=4315334",
+            "https://video.sibnet.ru/shell.php?videoid=4319344",
+            "https://video.sibnet.ru/shell.php?videoid=4323462",
+            "https://video.sibnet.ru/shell.php?videoid=4327493",
+            "https://video.sibnet.ru/shell.php?videoid=4332486",
+            "https://video.sibnet.ru/shell.php?videoid=4336414"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/zdhr7jmuuecrfxty7jhjsaqk9a",
+            "https://www.myvi.top/embed/ust1oyi9ueywfndj531amjqwur",
+            "https://www.myvi.top/embed/g9pprjzfy4swfy37b71445k1uy",
+            "https://www.myvi.top/embed/hr4p1m9mi4prxpcob8ic7tp63e",
+            "https://www.myvi.top/embed/rm9ay9mqecswxyfjw5m9k5pahc",
+            "https://www.myvi.top/embed/3id3io5ckhzrbdz8wur4qmuoiw",
+            "https://www.myvi.top/embed/ytex9k7rbqgw8pu1zfhakz5uwc",
+            "https://www.myvi.top/embed/jfonmorgex3w8b1stu8hdkpfby",
+            "https://www.myvi.top/embed/j17coipemdyrzeoxygs84qzwje",
+            "https://www.myvi.top/embed/uj16tnq6atqrxgtezawbhuigpy",
+            "https://www.myvi.top/embed/apcq8zchgagrpxnj1xdercjncc",
+            "https://www.myvi.top/embed/7tg1e6537zzw9pprqze7dptm4h"
+          ]
+        }
+      }
+    }
+  }
+}

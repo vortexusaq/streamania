@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "tonari-no-kyuuketsuki-san",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tonari-no-kyuuketsuki-san.jpg",
+    "desc": "L'histoire tourne autour d'Akari, une jeune lycéenne qui a été sauvée par une vampire du nom de Sophie lorsqu'elle s'était perdue en forêt. Depuis cet incident, Akari s'est attachée à Sophie, qui, elle, préfère être seule.",
+    "genres": "Comédie, Slice-of-Life, Surnaturel, Amitié, Quotidien, Vampires",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/c8umro3r",
+            "https://sendvid.com/embed/3cu2jcsu",
+            "https://sendvid.com/embed/6hqsscfm",
+            "https://sendvid.com/embed/j1rejfoo",
+            "https://sendvid.com/embed/49nxyt3q",
+            "https://sendvid.com/embed/144yxuhx",
+            "https://sendvid.com/embed/71je7zg6",
+            "https://sendvid.com/embed/cf1002pe",
+            "https://sendvid.com/embed/73j6663r",
+            "https://sendvid.com/embed/08hx00ud",
+            "https://sendvid.com/embed/tw3r8ebn",
+            "https://sendvid.com/embed/rev3cvqa"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5372918",
+            "https://video.sibnet.ru/shell.php?videoid=5372920",
+            "https://video.sibnet.ru/shell.php?videoid=5372922",
+            "https://video.sibnet.ru/shell.php?videoid=5372925",
+            "https://video.sibnet.ru/shell.php?videoid=5372926",
+            "https://video.sibnet.ru/shell.php?videoid=5372930",
+            "https://video.sibnet.ru/shell.php?videoid=5372932",
+            "https://video.sibnet.ru/shell.php?videoid=5372933",
+            "https://video.sibnet.ru/shell.php?videoid=5372936",
+            "https://video.sibnet.ru/shell.php?videoid=5372937",
+            "https://video.sibnet.ru/shell.php?videoid=5372940",
+            "https://video.sibnet.ru/shell.php?videoid=5372943"
+          ]
+        }
+      }
+    }
+  }
+}

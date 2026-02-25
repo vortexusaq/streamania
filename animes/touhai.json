@@ -1,0 +1,85 @@
+{
+  "data": {
+    "name": "touhai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/touhai.jpg",
+    "desc": "Peu de gens savent que l'un des joueurs de Mahjong le plus talentueux et impitoyable de la ville est un jeune lycéen. Kei est un adolescent peu loquace, mais son sens de l'observation, sa volonté inébranlable et son expérience du jeu lui permettent de survivre dans un monde rempli de personnages puissants, riches et dangereux. Kei cache actuellement une jeune fille nommée Amina qui est entrée illégalement dans le pays et la protège de l'expulsion. Il passe ses journées à dormir en classe et ses nuits à jouer au Mahjong, en attendant qu'un adversaire de taille arrive.",
+    "genres": "Drame, Psychologique, Romance, Ecole, Jeux, Mahjong, Sport",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5730063",
+            "https://video.sibnet.ru/shell.php?videoid=5730065",
+            "https://video.sibnet.ru/shell.php?videoid=5791074",
+            "https://video.sibnet.ru/shell.php?videoid=5791076",
+            "https://video.sibnet.ru/shell.php?videoid=5791077",
+            "https://video.sibnet.ru/shell.php?videoid=5791078"
+          ],
+          "lec2": [
+            "https://oneupload.to/embed-y10ypgoru2d2.html",
+            "https://oneupload.to/embed-k846dw0dmdm4.html",
+            "https://oneupload.to/embed-f3biggq1xz7n.html",
+            "https://oneupload.to/embed-5qbl8hsrp8ea.html",
+            "https://oneupload.to/embed-sz95gx4u8tlm.html",
+            "https://oneupload.to/embed-tdhytc8lyyft.html"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-zbwsqxdrg0w2.html",
+            "https://vidmoly.to/embed-6le0xku1vtjy.html",
+            "https://vidmoly.to/embed-lvrln7jkarin.html",
+            "https://vidmoly.to/embed-g6add4ta8qtd.html",
+            "https://vidmoly.to/embed-a1ap2s4anfjn.html",
+            "https://vidmoly.to/embed-o7dsy0ymybe1.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {}
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {}
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {}
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

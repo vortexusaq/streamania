@@ -1,0 +1,88 @@
+{
+  "data": {
+    "name": "kimisen",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kimisen.jpg",
+    "desc": "L'Empire est doté d'un grand niveau de connaissances et Nebulis est craint comme étant le «Pays des Sorcières». Sur le champ de bataille opposant ces deux pays, un jeune homme et une jeune femme se sont rencontrés : Iska, le plus jeune épéiste de l'histoire de l'Empire et Aliceliese Lou Nebulis IX, la princesse de la famille impériale surnommée \"sorcière de glace\". Étant tous les deux ennemis jurés, ils doivent s'entretuer. Cependant, Iska est tombé sous le charme de la beauté et la noblesse de Aliceliese. De son côté, elle est attirée par la force et le mode de vie du jeune homme. Ensemble, ils vont essayer d'instaurer la paix entre les deux royaumes.",
+    "genres": "Action, Drame, Fantasy, Romance, Guerre, Magie, Militaire, Politique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/8yrbng9u",
+            "https://sendvid.com/embed/m8jm4d7y",
+            "https://sendvid.com/embed/w89ea39e",
+            "https://sendvid.com/embed/snac9vtf",
+            "https://sendvid.com/embed/0vfzp1nh",
+            "https://sendvid.com/embed/wv5o6uwj",
+            "https://sendvid.com/embed/3gtynu77",
+            "https://sendvid.com/embed/slimvb53",
+            "https://sendvid.com/embed/rpl75xxa",
+            "https://sendvid.com/embed/5j414yh8",
+            "https://sendvid.com/embed/0wfoqz9p",
+            "https://sendvid.com/embed/aq2fv5gt"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4978426",
+            "https://video.sibnet.ru/shell.php?videoid=4978428",
+            "https://video.sibnet.ru/shell.php?videoid=4978431",
+            "https://video.sibnet.ru/shell.php?videoid=4978432",
+            "https://video.sibnet.ru/shell.php?videoid=4978433",
+            "https://video.sibnet.ru/shell.php?videoid=4978434",
+            "https://video.sibnet.ru/shell.php?videoid=4978435",
+            "https://video.sibnet.ru/shell.php?videoid=4978436",
+            "https://video.sibnet.ru/shell.php?videoid=4978437",
+            "https://video.sibnet.ru/shell.php?videoid=4978439",
+            "https://video.sibnet.ru/shell.php?videoid=4978441",
+            "https://video.sibnet.ru/shell.php?videoid=4978443"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/pgo4eykwrmkw5go8zeka4ac68w",
+            "https://www.myvi.tv/embed/t6zn8hsuj3swmrzqhced4pkane",
+            "https://www.myvi.tv/embed/4wp8cbkfwqdw3nn8byff1pr81a",
+            "https://www.myvi.tv/embed/ebiu4xofuc3wxgcsqjmdyyrqfr",
+            "https://www.myvi.tv/embed/qsysqb4u6kxw8qesfc4yqfkj6e",
+            "https://www.myvi.tv/embed/iqrkpuc3c7nrxqwwk6bn5ydq3a",
+            "https://www.myvi.tv/embed/ufpq6kncw75wd8say8y7oumk4y",
+            "https://www.myvi.tv/embed/anuemwsxx9gwzkm3zupjek5tka",
+            "https://www.myvi.tv/embed/bmy3mycciqarjbmrba8jo88rtc",
+            "https://www.myvi.tv/embed/ad3xu7gyhpurmj46h15t7u4swc",
+            "https://www.myvi.tv/embed/m7zou7nyn8mrzqiuy1cd1qrz3a",
+            "https://www.myvi.tv/embed/s4bj8zqok8iw5q8f6uwc6dwgsh"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5591840",
+            "https://video.sibnet.ru/shell.php?videoid=5599433",
+            "https://video.sibnet.ru/shell.php?videoid=5608295",
+            "https://video.sibnet.ru/shell.php?videoid=5616170"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-a13axakele6f.html",
+            "https://vidmoly.to/embed-f6a7eie3b3gy.html",
+            "https://vidmoly.to/embed-c0o6ff8yb8ow.html",
+            "https://vidmoly.to/embed-i5tedhl2g43t.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/xxopfuwr",
+            "https://sendvid.com/embed/f3bem7l4",
+            "https://sendvid.com/embed/53l3deym",
+            "https://sendvid.com/embed/b7pzafqv"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239924&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239968&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240012&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240054&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

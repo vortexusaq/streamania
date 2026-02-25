@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "houseki-no-kuni",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/houseki-no-kuni.jpg",
+    "desc": "Dans ce monde, la terre a été frappée d'une chute de météores, réduisant sa surface à une simple île en forme de croissant, totalement infertile. Les continents ayant été détruits se sont réunis dans le ciel pour former 6 lunes Cependant, la terre est maintenant peuplée par une nouvelle espèce: Les cristaux. Ils sont immortels et se nourrissent de lumière. Ils sont régulièrement attaquées par les Séléniens, les habitants des 6 lunes, qui veulent récupérer le cristal dont ils sont faits pour en faire des armes et des ornements. Phosphophyllite est l'un d'eux. Elle veut combattre les séléniens, mais à cause de sa maladresse et de sa très faible solidité, ça lui est impossible, et Phosphophyllite n'a donc pas encore de tâche assignée. Mais un jour, maître Varja, le plus vieux des cristaux, lui donne l'ordre d'écrire une encyclopédie qui relate l'histoire des cristaux et leur environnement, ce qui l'amènera à rencontrer un certain cristal nommé Cinabre...",
+    "genres": "Seinen, Action, Drame, Fantasy, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/8igufj0o",
+            "https://sendvid.com/embed/y2zggych",
+            "https://sendvid.com/embed/5y0108tz",
+            "https://sendvid.com/embed/tonbtr43",
+            "https://sendvid.com/embed/77ic4xkt",
+            "https://sendvid.com/embed/bdcf3kmf",
+            "https://sendvid.com/embed/dxi61930",
+            "https://sendvid.com/embed/o2wq7u9n",
+            "https://sendvid.com/embed/09l5hme3",
+            "https://sendvid.com/embed/n40fvef7",
+            "https://sendvid.com/embed/jk23k356",
+            "https://sendvid.com/embed/h6tht0yy\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4753252",
+            "https://video.sibnet.ru/shell.php?videoid=4753257",
+            "https://video.sibnet.ru/shell.php?videoid=4753260",
+            "https://video.sibnet.ru/shell.php?videoid=4753264",
+            "https://video.sibnet.ru/shell.php?videoid=4753267",
+            "https://video.sibnet.ru/shell.php?videoid=4753270",
+            "https://video.sibnet.ru/shell.php?videoid=4753276",
+            "https://video.sibnet.ru/shell.php?videoid=4753279",
+            "https://video.sibnet.ru/shell.php?videoid=4753282",
+            "https://video.sibnet.ru/shell.php?videoid=4753286",
+            "https://video.sibnet.ru/shell.php?videoid=4753293",
+            "https://video.sibnet.ru/shell.php?videoid=4753296"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/fre6gujwrxzrdjah3dawqs1jje",
+            "https://www.myvi.tv/embed/5aqx4ja5f96rfqn1jzz59tu19a",
+            "https://www.myvi.tv/embed/q6hwk9633f6wbfhu5ug4u8bc4e",
+            "https://www.myvi.tv/embed/ghpcxmysssordp5b4os7m6fpdo",
+            "https://www.myvi.tv/embed/46nsc9ntny5wpk3wmzdn8w1z7a",
+            "https://www.myvi.tv/embed/oeq8jt6qy5kwmgrm6y7x1dknth",
+            "https://www.myvi.tv/embed/bm9ozthzk8xrdrha8e74j6ho6r",
+            "https://www.myvi.tv/embed/bqkhf1cz8wbruk77ahubuxc41w",
+            "https://www.myvi.tv/embed/r44pyshxjzjw7m86e9rh5gachr",
+            "https://www.myvi.tv/embed/m8gf5pmhckiwxxm4jji3t9yc3e",
+            "https://www.myvi.tv/embed/bi8re6fkripw8bguiks5jaefia",
+            "https://www.myvi.tv/embed/xzwfmod1weawxd5p9c496qtefc"
+          ]
+        }
+      }
+    }
+  }
+}

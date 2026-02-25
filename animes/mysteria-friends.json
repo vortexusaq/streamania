@@ -1,0 +1,53 @@
+{
+  "data": {
+    "name": "mysteria-friends",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mysteria-friends.jpg",
+    "desc": "L'histoire nous transportse dans l'académie Mysteria, une école de magie qui réuni trois races (hommes, dieux et démons) sans aucune forme de discrimination. Nous y suivons le quotidien de deux élèves : Anne et Grea.",
+    "genres": "Action, Aventure, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/due92lu0",
+            "https://sendvid.com/embed/q002h218",
+            "https://sendvid.com/embed/fms8vp8s",
+            "https://sendvid.com/embed/d7ld33xu",
+            "https://sendvid.com/embed/ljj96pa6",
+            "https://sendvid.com/embed/afb762q7",
+            "https://sendvid.com/embed/ju1ojqfp",
+            "https://sendvid.com/embed/yowogobu",
+            "https://sendvid.com/embed/dd85gnzu",
+            "https://sendvid.com/embed/u4x8bivp"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4960929",
+            "https://video.sibnet.ru/shell.php?videoid=4960932",
+            "https://video.sibnet.ru/shell.php?videoid=4960934",
+            "https://video.sibnet.ru/shell.php?videoid=4960936",
+            "https://video.sibnet.ru/shell.php?videoid=4960939",
+            "https://video.sibnet.ru/shell.php?videoid=4960942",
+            "https://video.sibnet.ru/shell.php?videoid=4960943",
+            "https://video.sibnet.ru/shell.php?videoid=4960945",
+            "https://video.sibnet.ru/shell.php?videoid=4960946",
+            "https://video.sibnet.ru/shell.php?videoid=4960948"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/yon99uiw7amw7fbnenxi736x3a",
+            "https://www.myvi.top/embed/pw7cg6symuiw8bor97i3wn8d3c",
+            "https://www.myvi.top/embed/do1ub87jjxxr8y1mkz7ymtzheo",
+            "https://www.myvi.top/embed/zma6xt1kp4iwmpzyr1gc9h3r6o",
+            "https://www.myvi.top/embed/tcwhdhxtse5rmmtm53t4fptyfe",
+            "https://www.myvi.top/embed/d474i771t6pwbrp75zoqswhx7w",
+            "https://www.myvi.top/embed/dcm4dpr46kir7m79de57rrasge",
+            "https://www.myvi.top/embed/yyjisygzcr3rxmjpwwpw35ppih",
+            "https://www.myvi.top/embed/hdns9jbcaoiwtn5wmi8b51znxh",
+            "https://www.myvi.top/embed/yx84nq8uupcrxmsi5j7o9str7o"
+          ]
+        }
+      }
+    }
+  }
+}

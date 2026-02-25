@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "la-tortue-rouge",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-tortue-rouge.jpg",
+    "desc": "À travers l'histoire d'un naufragé échoué sur une île peuplée de tortues, de crabes et d'oiseaux, on suit les différentes grandes étapes de la vie d'un être humain. L'homme nouera notamment un lien d'amitié fort avec une tortue à carapace rouge, qui l'entraînera vers de fabuleuses aventures.",
+    "genres": "Aventure, Drame, Fantastique\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vf",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4729074"
+          ]
+        }
+      }
+    }
+  }
+}

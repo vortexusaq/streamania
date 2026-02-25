@@ -1,0 +1,43 @@
+{
+  "data": {
+    "name": "thermae-romae-novae",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/thermae-romae-novae.jpg",
+    "desc": "L'action de Thermæ Romæ débute en 128 après Jésus-Christ, à Rome.\nQuand l'architecte romain Lucius Modestus est critiqué sur son plan \"ringard\" de thermes, il s'en va aux bains locaux pour rassembler ses pensées. Tout ce que Lucius souhaite, c'est capturer l'essence première de Rome : lorsque les gens pouvaient apprécier un bain relaxant sans la pression de marchands ou de clients impolis.\nAlors qu'il s'enfonce dans l'eau chaude, Lucius est soudainement aspiré et se retrouve dans les tuyaux ! Il émerge en toussant et crachotant parmi un groupe d'étrangers aux allures bizarres et qui ont des manières très particulières au bain... Il se retrouve 1500 ans dans le futur, dans le Japon d'aujourd'hui ! Ses contemporains voulaient qu'il modernise et donc, empruntant les manières bizarres et les techniques modernes de ces étrangers qui adorent les bains, Lucius ouvre ce qui devient rapidement le plus populaire des bans publics romains à Rome",
+    "genres": "Comédie, Historique, Romance, Slice-of-Life, Surnaturel, Autre-monde, Politique, Voyage temporel, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/8qtkxfojjazr5n6bonmm64qbkw",
+            "https://www.myvi.tv/embed/jaksigi81dfrff4sthpukndfca",
+            "https://www.myvi.tv/embed/iwiy1b5853mrbxqb8c8zqaedqw",
+            "https://www.myvi.tv/embed/nonopu3gibhwtpfdk6i6m9i4ga",
+            "https://www.myvi.tv/embed/khxpmoqfs4dw7d35fqcare489a",
+            "https://www.myvi.tv/embed/dog5h9cs4nsrmnm4sz48knj6rc",
+            "https://www.myvi.tv/embed/4wmk66o7tyyr3qtk9qus45r9be",
+            "https://www.myvi.tv/embed/bk9s3sn4mnzrzbtsbjqzahtnch",
+            "https://www.myvi.tv/embed/nr61rrm6wckrxebik5d58iks7w",
+            "https://www.myvi.tv/embed/y8p5r6bkxe3wxkpr8x9ijonawo",
+            "https://www.myvi.tv/embed/jm3dcj9ha4tr7xo87pj5qyubtw"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/kmst847m",
+            "https://sendvid.com/embed/u71o2rxh",
+            "https://sendvid.com/embed/lubknzdv",
+            "https://sendvid.com/embed/e9h59rjh",
+            "https://sendvid.com/embed/fer1btds",
+            "https://sendvid.com/embed/0w7vkria",
+            "https://sendvid.com/embed/oajl0eh3",
+            "https://sendvid.com/embed/r75oypys",
+            "https://sendvid.com/embed/rgwob2fy",
+            "https://sendvid.com/embed/usntpht6",
+            "https://sendvid.com/embed/spki4uov"
+          ]
+        }
+      }
+    }
+  }
+}

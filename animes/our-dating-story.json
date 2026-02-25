@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "our-dating-story",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/our-dating-story.jpg",
+    "desc": "A cause d'un gage, Ryuuto Kashima, un lycéen introverti, est contraint de déclarer ses sentiments à Shirakawa Luna, la fille la plus populaire de l'école. Etonnement, cette dernière accepte de sortir avec lui parce qu'elle ne sort avec personne en ce moment. Malgré leurs différences, ces deux lycéens vont apprendre à se connaître et ainsi se rapprocher l'un de l'autre.",
+    "genres": "Comédie, Romance, School-Life, Slice-of-Life, Amour",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5270052",
+            "https://video.sibnet.ru/shell.php?videoid=5279109",
+            "https://video.sibnet.ru/shell.php?videoid=5289012",
+            "https://video.sibnet.ru/shell.php?videoid=5298984",
+            "https://video.sibnet.ru/shell.php?videoid=5307066",
+            "https://video.sibnet.ru/shell.php?videoid=5315356",
+            "https://video.sibnet.ru/shell.php?videoid=5325493",
+            "https://video.sibnet.ru/shell.php?videoid=5335764",
+            "https://video.sibnet.ru/shell.php?videoid=5346695",
+            "https://video.sibnet.ru/shell.php?videoid=5356580",
+            "https://video.sibnet.ru/shell.php?videoid=5365185",
+            "https://video.sibnet.ru/shell.php?videoid=5373343"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-y4o8144cnnbt.html",
+            "https://vidmoly.to/embed-grblauler4v4.html",
+            "https://vidmoly.to/embed-28j2xfyilqav.html",
+            "https://vidmoly.to/embed-p87b0a5gjd4f.html",
+            "https://vidmoly.to/embed-eldeezv8yoi1.html",
+            "https://vidmoly.to/embed-i9bc9jskzlgg.html",
+            "https://vidmoly.to/embed-571r43yvj3su.html",
+            "https://vidmoly.to/embed-n6vqnva91h85.html",
+            "https://vidmoly.to/embed-c4hjnbbg6lp8.html",
+            "https://vidmoly.to/embed-g55cm25twq5l.html",
+            "https://vidmoly.to/embed-0oefkswkk7ox.html",
+            "https://vidmoly.to/embed-4hp9fdlvx37o.html"
+          ],
+          "lec3": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456240196&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240251&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240296&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240345&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240390&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240430&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240474&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240507&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240539&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240569&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240599&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240628&hd=3"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/i2yksw7a",
+            "https://sendvid.com/embed/dzhngwc3",
+            "https://sendvid.com/embed/r9whct0k",
+            "https://sendvid.com/embed/2kj2klh1",
+            "https://sendvid.com/embed/n9am51jn",
+            "https://sendvid.com/embed/fmmegscw",
+            "https://sendvid.com/embed/6jznzyci",
+            "https://sendvid.com/embed/jipl8lc6",
+            "https://sendvid.com/embed/3o2tq9md",
+            "https://sendvid.com/embed/fnn6tma5",
+            "https://sendvid.com/embed/wc2weou6",
+            "https://sendvid.com/embed/986gmff3"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Our%20Dating%20Story/Our_Dating_Story_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

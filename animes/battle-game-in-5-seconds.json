@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "battle-game-in-5-seconds",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/battle-game-in-5-seconds.jpg",
+    "desc": "L'histoire nous entraîne dans le quotidien de Akira Shiroyanagi, un lycéen adorant les jeux vidéo et les sucreries. Un matin, il est soudainement entraîné sur un champ de bataille par une mystérieuse jeune fille répondant au nom de Mion. Les participants, dont Akira, vont rapidement apprendre qu'ils ont été \"effacés du registre de leur famille, impliqués dans une expérience et qu'ils possèdent désormais des pouvoirs\".\n\nAkira va donc devoir utiliser ses nouveaux pouvoirs pour survivre et détruire l'organisation derrière cette expérience.",
+    "genres": "Action, Drame, Fantastique, Shônen, Surnaturel",
+    "update": "Saison 1 Episode 12 -> Chapitre 64",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/zafs6n6v",
+            "https://sendvid.com/embed/xb92hyxn",
+            "https://sendvid.com/embed/i9bxaptw",
+            "https://sendvid.com/embed/x2tgpuxx",
+            "https://sendvid.com/embed/uke26h8o",
+            "https://sendvid.com/embed/4u89degv",
+            "https://sendvid.com/embed/13nmh0n0",
+            "https://sendvid.com/embed/hjqlg8r7",
+            "https://sendvid.com/embed/uvdwer77",
+            "https://sendvid.com/embed/xew389as",
+            "https://sendvid.com/embed/w2j9sqds",
+            "https://sendvid.com/embed/6bimsh79"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4354479",
+            "https://video.sibnet.ru/shell.php?videoid=4362720",
+            "https://video.sibnet.ru/shell.php?videoid=4370504",
+            "https://video.sibnet.ru/shell.php?videoid=4376833",
+            "https://video.sibnet.ru/shell.php?videoid=4382374",
+            "https://video.sibnet.ru/shell.php?videoid=4389058",
+            "https://video.sibnet.ru/shell.php?videoid=4395194",
+            "https://video.sibnet.ru/shell.php?videoid=4401497",
+            "https://video.sibnet.ru/shell.php?videoid=4409529",
+            "https://video.sibnet.ru/shell.php?videoid=4415751",
+            "https://video.sibnet.ru/shell.php?videoid=4422429",
+            "https://video.sibnet.ru/shell.php?videoid=4429114"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/s3i33iz8g8aw7rzdabtb3bha8y",
+            "https://www.myvi.top/embed/86qqpmsyeper7eyxx981ty84to",
+            "https://www.myvi.top/embed/tittzsitup9wdr7itzecfanena",
+            "https://www.myvi.top/embed/ot6wm73yddrwjpd81qwaus6x6r",
+            "https://myvi.ru/player/embed/html/oAqA-QTT3siBeQfsyYzaGxOK133FXIfa-uUGsu7bDijbeirg9I2S5GfTqr7Yx1T-E0",
+            "https://www.myvi.top/embed/awyqk7zdpc1r5knfsjburihheh",
+            "https://www.myvi.top/embed/67zw74krgqzwxfht44iwqxm1ur",
+            "https://www.myvi.top/embed/xugwhf9fidnrujne9dfxo6j3kc",
+            "https://www.myvi.top/embed/k5p6dtnnsdur9847nxtk3uxgoe",
+            "https://www.myvi.top/embed/nenwqe64h9iwixnu3u1fqur6aa",
+            "https://www.myvi.top/embed/uhmujcex75nr3dfuprgs6uqono",
+            "https://www.myvi.top/embed/4re7j9g4uq8r7xxr8wcb96mfhr"
+          ]
+        }
+      }
+    }
+  }
+}

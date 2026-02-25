@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "beautiful-bones",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/beautiful-bones.jpg",
+    "desc": "L'histoire se déroule autour de Shōtarō Tatewaki qui est un lycéen normal et sérieux et de Sakurako Kujō qui est belle femme riche spécialisée dans l'analyse de squelette humain. Ensemble, ils vont résoudre des diverses enquêtes qui en général tournent autour de personnes mortes de diverses manières. Cette histoire suit ces deux personnes au travers d'enquêtes.",
+    "genres": "Drame, Mystère, Psychologique, Slice-of-Life, Crime, Détective, Mort, Nostalgie, Police, Poésie, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/6n8lzrxo",
+            "https://sendvid.com/embed/piv3pwjp",
+            "https://sendvid.com/embed/y7d84tyv",
+            "https://sendvid.com/embed/2r4q9uib",
+            "https://sendvid.com/embed/uucr0cgw",
+            "https://sendvid.com/embed/kaqmonlw",
+            "https://sendvid.com/embed/o7l4pe74",
+            "https://sendvid.com/embed/d8n0ekaa",
+            "https://sendvid.com/embed/ng2u1wj7",
+            "https://sendvid.com/embed/sgebbw0f",
+            "https://sendvid.com/embed/p35p2tyz",
+            "https://sendvid.com/embed/lm9s768f"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5308919",
+            "https://video.sibnet.ru/shell.php?videoid=5308920",
+            "https://video.sibnet.ru/shell.php?videoid=5308921",
+            "https://video.sibnet.ru/shell.php?videoid=5308922",
+            "https://video.sibnet.ru/shell.php?videoid=5308923",
+            "https://video.sibnet.ru/shell.php?videoid=5308925",
+            "https://video.sibnet.ru/shell.php?videoid=5308926",
+            "https://video.sibnet.ru/shell.php?videoid=5308927",
+            "https://video.sibnet.ru/shell.php?videoid=5308928",
+            "https://video.sibnet.ru/shell.php?videoid=5308929",
+            "https://video.sibnet.ru/shell.php?videoid=5308930",
+            "https://video.sibnet.ru/shell.php?videoid=5308931"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "voyage-vers-agartha",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/voyage-vers-agartha.jpg",
+    "desc": "C'est l'histoire d'Asuna, une jeune fille qui passe ses journées dehors avec une radio en cristal que son père lui avait donnée. Une mystérieuse musique émane de la radio et va l'embarquer dans un voyage étrange qui va lui faire découvrir les merveilles et les vices cachés du Monde.",
+    "genres": "Aventure, Fantasy, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4835137\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/54tqrd9gfs9rbgeahr6isaw5so"
+          ]
+        }
+      }
+    }
+  }
+}

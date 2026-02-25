@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "assassins-pride",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/assassins-pride.jpg",
+    "desc": "L'histoire se déroule dans un monde où seuls les Nobles sont capables d'utiliser le Mana. Ils sont donc les seuls à pouvoir défendre villes et villages de ce qui les menacent.\n\nMelida est une jeune fille exceptionnelle, mais dans le mauvais sens du terme : bien que née noble, elle est incapable d'utiliser le Mana. Le jeune Kûfa est choisi pour l'aider à développer son potentiel... ou l'assassiner si elle demeure incompétente.",
+    "genres": "Aventure, Fantasy",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/wr8ipcf5w8rrtb57j4q3hn3hsa",
+            "https://www.myvi.top/embed/kuoywgn46izw8ruqnjib4bxknw",
+            "https://www.myvi.top/embed/xffdypbcjo4wtdz35zsxo74gkh",
+            "https://www.myvi.top/embed/s8ziwwma317rxbyf3ebtunkykc",
+            "https://www.myvi.top/embed/t3y1fjjkjcswicmdridu7zib7y",
+            "https://www.myvi.top/embed/fdj6zrnzjkdrpjdjdao4nauz7e",
+            "https://www.myvi.top/embed/k1z7784waukri8uahziushspnc",
+            "https://www.myvi.top/embed/nt3erwkj7fzwikscuymcnpcyih",
+            "https://www.myvi.top/embed/zs3em3s6zm4wjg8ktzyjn3zpzh",
+            "https://www.myvi.top/embed/gka4xihehtzwidt9yeoypqwcbw",
+            "https://www.myvi.top/embed/ym3peedbhcswzq8r8qscqfjzsr",
+            "https://www.myvi.top/embed/ok3zerox5rmwtjwh1xig6asdza"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3719330",
+            "https://video.sibnet.ru/shell.php?videoid=3723339",
+            "https://video.sibnet.ru/shell.php?videoid=3728201",
+            "https://video.sibnet.ru/shell.php?videoid=3734171",
+            "https://video.sibnet.ru/shell.php?videoid=3740318",
+            "https://video.sibnet.ru/shell.php?videoid=3745868",
+            "https://video.sibnet.ru/shell.php?videoid=3753816",
+            "https://video.sibnet.ru/shell.php?videoid=3759998",
+            "https://video.sibnet.ru/shell.php?videoid=3765208",
+            "https://video.sibnet.ru/shell.php?videoid=3769569",
+            "https://video.sibnet.ru/shell.php?videoid=3774372",
+            "https://video.sibnet.ru/shell.php?videoid=3778393"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/79rnf455",
+            "https://sendvid.com/embed/yfm9vxew",
+            "https://sendvid.com/embed/a5gh3qcj",
+            "https://sendvid.com/embed/zs8jip6m",
+            "https://sendvid.com/embed/irb0l5pk",
+            "https://sendvid.com/embed/41y8r6o9",
+            "https://sendvid.com/embed/w1i4pfst",
+            "https://sendvid.com/embed/wmg3x33d",
+            "https://sendvid.com/embed/az04ur50",
+            "https://sendvid.com/embed/mpzpowxv",
+            "https://sendvid.com/embed/86q2o472",
+            "https://sendvid.com/embed/227e3sji"
+          ]
+        }
+      }
+    }
+  }
+}

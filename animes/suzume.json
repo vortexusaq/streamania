@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "suzume",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/suzume.jpg",
+    "desc": "Suzume est une jeune fille de 17 ans qui habite une petite ville tranquille sur l'île de Kyushu, au Japon. Un jour, elle rencontre un vagabond qui lui dit qu'il est à la recherche d'une porte. Curieuse, elle le suit et découvre avec lui, au milieu de ruines, la porte tant convoitée. Celle-ci se tient, presque intacte, au milieu des décombres. Attirée par cette mystérieuse porte, Suzume tend la main et lorsque celle-ci s'ouvre, c'est une multitude de portails qui s'ouvrent avec elle à travers le Japon, causant par la même occasion des catastrophes...",
+    "genres": "Action, Drame, Surnaturel, Adolescence, Catastrophe naturelle, Malédiction, Séisme, Voyage",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5325342"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-hgk2g5gxaq6e.html"
+          ]
+        }
+      }
+    }
+  }
+}

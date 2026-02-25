@@ -1,0 +1,37 @@
+{
+  "data": {
+    "name": "my-name",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-name.jpg",
+    "desc": "Après le meurtre de son père, Yun Ji Wu veut se venger. Avec l'aide d'un puissant gang dont elle est membre, elle va s'infiltrer au sein même de la police afin d'en découvrir plus sur la mort de son père.\nElle va alors être affectée à l'unité d'enquêtes sur les drogues, où un partenaire, l'inspecteur Jeon Pil Do, va lui être attribué.",
+    "genres": "Action, Drame, Policier, Suspense, Thriller, Délinquance, Mafia, Police, Vengeance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/zfijyhrp1ezwtnchof6w9p4xdr",
+            "https://www.myvi.top/embed/9hof4w4ukwfrtqi4c8e3cw87jw",
+            "https://www.myvi.top/embed/thsshnpbyfrr8fg9fc3y6egfaw",
+            "https://www.myvi.top/embed/4u3ny18pn1gr88asswsubjrgia",
+            "https://www.myvi.top/embed/xwb1g6mmskirzmh6u771o58fpe",
+            "https://www.myvi.top/embed/w48rr6ixurswbptdw5t9upt9qc",
+            "https://www.myvi.top/embed/ir15numhmhew9jqktauthipsnw",
+            "https://www.myvi.top/embed/rhef6ygi7ctw7883rnra1uyxxo"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/agzg9ku9",
+            "https://sendvid.com/embed/y4aijcf6",
+            "https://sendvid.com/embed/r5cgmhhp",
+            "https://sendvid.com/embed/zgbflcb3",
+            "https://sendvid.com/embed/6jcfr9b0",
+            "https://sendvid.com/embed/hfvtfay3",
+            "https://sendvid.com/embed/qlvixdyq",
+            "https://sendvid.com/embed/7871tdlk"
+          ]
+        }
+      }
+    }
+  }
+}

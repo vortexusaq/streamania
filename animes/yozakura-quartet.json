@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "yozakura-quartet",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yozakura-quartet.jpg",
+    "desc": "L'histoire est centrée autour de quatre adolescents : Hime, une jeune fille très forte, Ao lit dans les pensées, Kotoha lance des sorts et Akina, un garçon très ordinaire. Les trois jeunes filles et Akina protègent la cité de Sakurashin des menaces supernaturelles.",
+    "genres": "Action, Comédie, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/6l3wq8an",
+            "https://sendvid.com/embed/vq74oem5",
+            "https://sendvid.com/embed/n1vzoyho",
+            "https://sendvid.com/embed/vbkro3c9",
+            "https://sendvid.com/embed/qle3yc4l",
+            "https://sendvid.com/embed/cy2ngkxn",
+            "https://sendvid.com/embed/bfein8x9",
+            "https://sendvid.com/embed/ix7zwtgk",
+            "https://sendvid.com/embed/suq4feeb",
+            "https://sendvid.com/embed/wl9lnxah",
+            "https://sendvid.com/embed/teljmlci",
+            "https://sendvid.com/embed/inuk5l7p",
+            "https://sendvid.com/embed/mqnwo0wz\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4756041",
+            "https://video.sibnet.ru/shell.php?videoid=4756043",
+            "https://video.sibnet.ru/shell.php?videoid=4756045",
+            "https://video.sibnet.ru/shell.php?videoid=4756046",
+            "https://video.sibnet.ru/shell.php?videoid=4756048",
+            "https://video.sibnet.ru/shell.php?videoid=4756050",
+            "https://video.sibnet.ru/shell.php?videoid=4756051",
+            "https://video.sibnet.ru/shell.php?videoid=4756052",
+            "https://video.sibnet.ru/shell.php?videoid=4756054",
+            "https://video.sibnet.ru/shell.php?videoid=4756055",
+            "https://video.sibnet.ru/shell.php?videoid=4756056",
+            "https://video.sibnet.ru/shell.php?videoid=4756057",
+            "https://video.sibnet.ru/shell.php?videoid=4756058"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/uykz5mtu9njwxne7ku41az6huw",
+            "https://www.myvi.tv/embed/pycsq9eaz7cwbdmepngbaaxb9e",
+            "https://www.myvi.tv/embed/xxnasybdczer7b3za4m8jstrga",
+            "https://www.myvi.tv/embed/rwehswy5enxridxrphxna6h8hy",
+            "https://www.myvi.tv/embed/yoxiuu7hd6hrxkce3ocjg7w6xa",
+            "https://www.myvi.tv/embed/g9p8e1omd44wud49frjam3tejr",
+            "https://www.myvi.tv/embed/n75eeq5bfjiwxjagsuw54xhguo",
+            "https://www.myvi.tv/embed/zrbqtnqixzywdqrc6y6f39erie",
+            "https://www.myvi.tv/embed/x9pspbwr9nowbn6quqdcdryner",
+            "https://www.myvi.tv/embed/97ybfrrc6rcwu8q53m73y9ouio",
+            "https://www.myvi.tv/embed/8teosq9ac54w9c488acx86b81h",
+            "https://www.myvi.tv/embed/5j9sehfm6hew9qriwzj9g67wjr",
+            "https://www.myvi.tv/embed/7ehq6s1g4dkwikbxbad4ncckrc"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "romantic-killer",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/romantic-killer.jpg",
+    "desc": "Anzu Hoshino est une lycéenne menant la belle vie. Chaque jour, elle passe son temps à jouer aux jeux vidéo, à manger des collations et à caresser son chat. Cependant, son quotidien change radicalement lorsqu'une créature magique la transportse dans un monde dépourvu des choses qu'elle adore. À la place, elle se retrouve coincée dans un monde peuplé de beaux garçons.",
+    "genres": "Comédie, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/cfykd8w1",
+            "https://sendvid.com/embed/h00ye48q",
+            "https://sendvid.com/embed/4hf47k17",
+            "https://sendvid.com/embed/ytakaa3p",
+            "https://sendvid.com/embed/jmhvqigm",
+            "https://sendvid.com/embed/3u3ekvws",
+            "https://sendvid.com/embed/e7phj9i3",
+            "https://sendvid.com/embed/ggqtffzh",
+            "https://sendvid.com/embed/8q65cf5q",
+            "https://sendvid.com/embed/7d04j40b",
+            "https://sendvid.com/embed/ip3srs1y",
+            "https://sendvid.com/embed/rvchyvdu"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4934454",
+            "https://video.sibnet.ru/shell.php?videoid=4934456",
+            "https://video.sibnet.ru/shell.php?videoid=4934459",
+            "https://video.sibnet.ru/shell.php?videoid=4934461",
+            "https://video.sibnet.ru/shell.php?videoid=4934463",
+            "https://video.sibnet.ru/shell.php?videoid=4934465",
+            "https://video.sibnet.ru/shell.php?videoid=4934466",
+            "https://video.sibnet.ru/shell.php?videoid=4934474",
+            "https://video.sibnet.ru/shell.php?videoid=4934469",
+            "https://video.sibnet.ru/shell.php?videoid=4934470",
+            "https://video.sibnet.ru/shell.php?videoid=4934471",
+            "https://video.sibnet.ru/shell.php?videoid=4934472"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/udkg3jwgyxgwjjamhzbewpqhgy",
+            "https://www.myvi.tv/embed/xpre66rhwj9wbddm8qiojbnbiy",
+            "https://www.myvi.tv/embed/h7rjp8kwj7ywiy9gz7s8rit89r",
+            "https://www.myvi.tv/embed/8h9ckfjyto3rdfa85ow94ycssr",
+            "https://www.myvi.tv/embed/pb1pcdmpxtsw9q86phboz6ji7a",
+            "https://www.myvi.tv/embed/3swqukinzgzrb8rnif9hxa68br",
+            "https://www.myvi.tv/embed/3jepguoaazerpky3ykdhqs8k4o",
+            "https://www.myvi.tv/embed/nhuxgtfk4z7wikfsz9fbujdt6h",
+            "https://www.myvi.tv/embed/s9qpbt7akgdwmy7wnks7roukee",
+            "https://www.myvi.tv/embed/h6x41xwmz1sw5xmm4eggpcunye",
+            "https://www.myvi.tv/embed/wh6nubdfxh6rmjokawghyx4nky",
+            "https://www.myvi.tv/embed/5qzgqeisjdtwbjrpseqnpp68gr"
+          ]
+        }
+      }
+    }
+  }
+}

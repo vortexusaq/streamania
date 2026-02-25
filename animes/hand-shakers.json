@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "hand-shakers",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hand-shakers.jpg",
+    "desc": "L'histoire se déroule à Osaka et tourne autour de duos baptisés Hand Shakers. Lorsqu'ils se tiennent par la main, ces duos ont le pouvoir d'invoquer de puissantes armes, les Nimrodes, dans le but d'affronter d'autres Hand Shakers. Car selon la légende, seul le meilleur duo obtiendra le droit de défier 'Dieu'.",
+    "genres": "Action, Fantastique, Science-fiction, Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/1fyugnd8",
+            "https://sendvid.com/embed/oyzuesk8",
+            "https://sendvid.com/embed/l8ffy38e",
+            "https://sendvid.com/embed/r33idhe5",
+            "https://sendvid.com/embed/yhohb1mf",
+            "https://sendvid.com/embed/g7dvjdcm",
+            "https://sendvid.com/embed/qjjmahw6",
+            "https://sendvid.com/embed/xe7gaqko",
+            "https://sendvid.com/embed/k1eb8sow",
+            "https://sendvid.com/embed/2hd21uyy",
+            "https://sendvid.com/embed/mvf5tgpd",
+            "https://sendvid.com/embed/xvq3p253\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4946354",
+            "https://video.sibnet.ru/shell.php?videoid=4856839",
+            "https://video.sibnet.ru/shell.php?videoid=4856844",
+            "https://video.sibnet.ru/shell.php?videoid=4856851",
+            "https://video.sibnet.ru/shell.php?videoid=4856860",
+            "https://video.sibnet.ru/shell.php?videoid=4856865",
+            "https://video.sibnet.ru/shell.php?videoid=4856872",
+            "https://video.sibnet.ru/shell.php?videoid=4856877",
+            "https://video.sibnet.ru/shell.php?videoid=4856879",
+            "https://video.sibnet.ru/shell.php?videoid=4856884",
+            "https://video.sibnet.ru/shell.php?videoid=4856887",
+            "https://video.sibnet.ru/shell.php?videoid=4856893"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/aqofead6hmwwipa8ihguy867fc",
+            "https://www.myvi.tv/embed/dtx4f1rxduirfy59b68346gpiy",
+            "https://www.myvi.tv/embed/q6h4tagfio4rukiz5aguf57gfe",
+            "https://www.myvi.tv/embed/n1x7yu8g4nfwbejrddbnhxrhne",
+            "https://www.myvi.tv/embed/qtfudg3uwx3wpkuwhuq4t9rmco",
+            "https://www.myvi.tv/embed/8cqohs4qqrfrzcfwdfupgwfuuh",
+            "https://www.myvi.tv/embed/k4op9cdt5ukw5g157mud44b69c",
+            "https://www.myvi.tv/embed/fsihjwbqrm1rbx44qanu7xhj1h",
+            "https://www.myvi.tv/embed/tt4etu6s8i1wmniuuaywcp7cbw",
+            "https://www.myvi.tv/embed/qdhp53wep3awfkxhob6kpm91do",
+            "https://www.myvi.tv/embed/j6ai3pcpe8brdee9nzt156mepw",
+            "https://www.myvi.tv/embed/fpwuceosgzyrjf76ema77f9yew"
+          ]
+        }
+      }
+    }
+  }
+}

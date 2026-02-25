@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "araburu-kisetsu",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/araburu-kisetsu.jpg",
+    "desc": "Nous suivons le quotidien de cinq jeunes filles appartenant au club de littérature, qui vont finir par aborder un sujet tabou jusque là : le sexe.\n\nEn parallèle, chacune d'entre elles va vivre sa première histoire d'amour.",
+    "genres": "Drame, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/465edd6ty7frjfdtju9qdxep3a",
+            "https://www.myvi.top/embed/unesy4fpp45wjc75j9og67ygzr",
+            "https://www.myvi.top/embed/s5zf4mrohwswppnm4chj46y3pc",
+            "https://www.myvi.top/embed/fjfe8hzgea9wtyf1brzdfch55a",
+            "https://www.myvi.top/embed/8kc7m7gjm81wtxn3pqrg11ogjo",
+            "https://www.myvi.top/embed/cr9hqcmmjzsrdyw5p5p34uf1jh",
+            "https://www.myvi.top/embed/eq7e9qpqnufrmk5qcrm91shdho",
+            "https://www.myvi.top/embed/sxf9cqdmaopwxg4adm8rucybpy",
+            "https://www.myvi.top/embed/p474ze3bjtnw5mfsfwuibno9qh",
+            "https://www.myvi.top/embed/emsh5rqpxh7r3rn9zcg9hk4j8w",
+            "https://www.myvi.top/embed/mbd56tuz3a5ruybpw6scmpjbbh",
+            "https://www.myvi.top/embed/i85tfikzyo4wdbdsywygkrpppo"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3646732",
+            "https://video.sibnet.ru/shell.php?videoid=3651624",
+            "https://video.sibnet.ru/shell.php?videoid=3654040",
+            "https://video.sibnet.ru/shell.php?videoid=3662690",
+            "https://video.sibnet.ru/shell.php?videoid=3668878",
+            "https://video.sibnet.ru/shell.php?videoid=3677078",
+            "https://video.sibnet.ru/shell.php?videoid=3677080",
+            "https://video.sibnet.ru/shell.php?videoid=3697533",
+            "https://video.sibnet.ru/shell.php?videoid=3697535",
+            "https://video.sibnet.ru/shell.php?videoid=3697536",
+            "https://video.sibnet.ru/shell.php?videoid=3708805",
+            "https://video.sibnet.ru/shell.php?videoid=3711177"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/8jfbcmno",
+            "https://sendvid.com/embed/2g78ddzw",
+            "https://sendvid.com/embed/rh1fp2ua",
+            "https://sendvid.com/embed/atlkq2hs",
+            "https://sendvid.com/embed/yl31pabe",
+            "https://sendvid.com/embed/85zq0bdm",
+            "https://sendvid.com/embed/nk3yx5au",
+            "https://sendvid.com/embed/iu18mr27",
+            "https://sendvid.com/embed/hrt1ip3l",
+            "https://sendvid.com/embed/8srvgl39",
+            "https://sendvid.com/embed/13vrkckd",
+            "https://sendvid.com/embed/9e36vxw3"
+          ]
+        }
+      }
+    }
+  }
+}

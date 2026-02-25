@@ -1,0 +1,84 @@
+{
+  "data": {
+    "name": "scissor-seven",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/scissor-seven.jpg",
+    "desc": "Sept, un assassin capable de se déguiser en n'importe quoi et se battant à l'aide d'une paire de ciseau, tente de rassembler de l'argent afin de retrouver la mémoire.",
+    "genres": "Action, Comédie, Drame, Mystère, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 4,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-jnyvr48l2oxj.html",
+            "https://vidmoly.to/embed-c7ub91q8d2rx.html",
+            "https://vidmoly.to/embed-eod8r6l2eyt9.html",
+            "https://vidmoly.to/embed-xinzvga2q1eo.html",
+            "https://vidmoly.to/embed-b8pqh616pkav.html",
+            "https://vidmoly.to/embed-cvimktz6fcp9.html",
+            "https://vidmoly.to/embed-fgh3uvbbb3bq.html",
+            "https://vidmoly.to/embed-cete3deysjjw.html",
+            "https://vidmoly.to/embed-rwkonj9ihr86.html",
+            "https://vidmoly.to/embed-5fc3gmkigqso.html",
+            "https://vidmoly.to/embed-xp0mdtqj3f8h.html",
+            "https://vidmoly.to/embed-9zt4f3nhnfvl.html",
+            "https://vidmoly.to/embed-cz9kyycgivoh.html",
+            "https://vidmoly.to/embed-f9jg3qdj10k8.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-ker3u9flbwj9.html",
+            "https://vidmoly.to/embed-8njlw76yroeb.html",
+            "https://vidmoly.to/embed-f4n6uw92nvhi.html",
+            "https://vidmoly.to/embed-quspbkd65iah.html",
+            "https://vidmoly.to/embed-5w5ekdsvh46d.html",
+            "https://vidmoly.to/embed-a9xea18unuda.html",
+            "https://vidmoly.to/embed-57vbwvx7z9ge.html",
+            "https://vidmoly.to/embed-cd9rkozgusmn.html",
+            "https://vidmoly.to/embed-h586dpk9cytf.html",
+            "https://vidmoly.to/embed-50qq0bzrgr8c.html"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-8c696qowxql5.html",
+            "https://vidmoly.to/embed-zrkd4b7s8o2v.html",
+            "https://vidmoly.to/embed-p5228h3fundr.html",
+            "https://vidmoly.to/embed-uiz8u80r5372.html",
+            "https://vidmoly.to/embed-lrvaf7be9ter.html",
+            "https://vidmoly.to/embed-6pzqgw38f8kd.html",
+            "https://vidmoly.to/embed-swgta88qim0i.html",
+            "https://vidmoly.to/embed-rm2fw12st2dx.html",
+            "https://vidmoly.to/embed-sjw4y0p0h7pn.html",
+            "https://vidmoly.to/embed-07xq1uiseatf.html"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-vhofrajsnjny.html",
+            "https://vidmoly.to/embed-a1qkbrs9tz2j.html",
+            "https://vidmoly.to/embed-m9z5nj2bf95s.html",
+            "https://vidmoly.to/embed-mxyq4d1csot9.html",
+            "https://vidmoly.to/embed-ez5ff575m5r7.html",
+            "https://vidmoly.to/embed-c8xtsrvu8a9l.html",
+            "https://vidmoly.to/embed-j0ta94yjpc2j.html",
+            "https://vidmoly.to/embed-wspw90fhvkrr.html",
+            "https://vidmoly.to/embed-173k0nngzq3q.html",
+            "https://vidmoly.to/embed-sk0v4uvw24zl.html"
+          ]
+        }
+      }
+    }
+  }
+}

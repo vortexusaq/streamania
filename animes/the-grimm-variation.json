@@ -1,0 +1,41 @@
+{
+  "data": {
+    "name": "the-grimm-variation",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-grimm-variation.jpg",
+    "desc": "Inspirée des Contes des frères Grimm, cette série d'anthologie va nous faire redécouvrir six contes de fées avec une touche sombre, exposant le côté obscur du désir humain.",
+    "genres": "Drame, Historique, Mystère, Contes et légendes",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5547241",
+            "https://video.sibnet.ru/shell.php?videoid=5547242",
+            "https://video.sibnet.ru/shell.php?videoid=5547243",
+            "https://video.sibnet.ru/shell.php?videoid=5547245",
+            "https://video.sibnet.ru/shell.php?videoid=5547247",
+            "https://video.sibnet.ru/shell.php?videoid=5547249"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-zrih1iursowm.html",
+            "https://vidmoly.to/embed-2w3q5rbr3kt9.html",
+            "https://vidmoly.to/embed-6tufo4eacsac.html",
+            "https://vidmoly.to/embed-m66co08ub1yy.html",
+            "https://vidmoly.to/embed-bxo18vk0j8is.html",
+            "https://vidmoly.to/embed-srvwko36pmdp.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/t2cfnxl4",
+            "https://sendvid.com/embed/8pfd14a1",
+            "https://sendvid.com/embed/2x8safz5",
+            "https://sendvid.com/embed/v9rpwlcc",
+            "https://sendvid.com/embed/ir7elc9n",
+            "https://sendvid.com/embed/zsotsnuw"
+          ]
+        }
+      }
+    }
+  }
+}

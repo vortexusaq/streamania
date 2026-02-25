@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "grand-blue",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/grand-blue.jpg",
+    "desc": "Pour son entrée à l'université, le jeune Iori emménage chez son oncle, propriétaire d'une boutique de plongée en bord de mer. Plein d'entrain pour cette nouvelle vie d'adulte qui commence, il n'était pas préparé à se faire recruter de force dans le club de plongée totalement désinhibé de sa fac, qui enchaîne les beuveries sans aucune retenue ! En plus de ça, Iori a peur de l'eau...\n\nPeut-on vraiment apprendre à aimer la plongée quand on ne sait pas nager ?!",
+    "genres": "Comédie, Ecchi, School-Life, Slice-of-Life",
+    "update": "Une saison 2 est en production",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-hyx6ggy7e3dp.html",
+            "https://vidmoly.to/embed-qfbu9lcbhg7a.html",
+            "https://vidmoly.to/embed-5d5xr9c3m304.html",
+            "https://vidmoly.to/embed-nfsyhha8h121.html",
+            "https://vidmoly.to/embed-16o3ovxo5p1i.html",
+            "https://vidmoly.to/embed-082xq9p9w8zp.html",
+            "https://vidmoly.to/embed-c18gggt8vl0j.html",
+            "https://vidmoly.to/embed-r7x453gx34jz.html",
+            "https://vidmoly.to/embed-hkzytz82umyp.html",
+            "https://vidmoly.to/embed-hxfi9d80ubg7.html",
+            "https://vidmoly.to/embed-vj06pyj30rf9.html",
+            "https://vidmoly.to/embed-uqowsvqk4eco.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5467893",
+            "https://video.sibnet.ru/shell.php?videoid=5467894",
+            "https://video.sibnet.ru/shell.php?videoid=5467895",
+            "https://video.sibnet.ru/shell.php?videoid=5467896",
+            "https://video.sibnet.ru/shell.php?videoid=5467898",
+            "https://video.sibnet.ru/shell.php?videoid=5467900",
+            "https://video.sibnet.ru/shell.php?videoid=5467901",
+            "https://video.sibnet.ru/shell.php?videoid=5467902",
+            "https://video.sibnet.ru/shell.php?videoid=5467903",
+            "https://video.sibnet.ru/shell.php?videoid=5467904",
+            "https://video.sibnet.ru/shell.php?videoid=5467906",
+            "https://video.sibnet.ru/shell.php?videoid=5467907"
+          ]
+        }
+      }
+    }
+  }
+}

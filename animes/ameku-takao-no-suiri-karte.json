@@ -1,0 +1,125 @@
+{
+  "data": {
+    "name": "ameku-takao-no-suiri-karte",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ameku-takao-no-suiri-karte.jpg",
+    "desc": "L'histoire nous entraîne dans le quotidien d'un médecin qui résout des meurtres et des mystères liés au domaine médical.",
+    "genres": "Mystère, Détective",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5788510",
+            "https://video.sibnet.ru/shell.php?videoid=5788520",
+            "https://video.sibnet.ru/shell.php?videoid=5793376"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-mbcbori7t80z.html",
+            "https://vidmoly.to/embed-k2k230pth9ps.html",
+            "https://vidmoly.to/embed-thm0zkmzvk2h.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-p95421f6iw76.html",
+            "https://oneupload.to/embed-esb0oxfi9q15.html",
+            "https://oneupload.to/embed-2zv64rdhjg1q.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/ex40lwoi",
+            "https://sendvid.com/embed/e6qeajje",
+            "https://sendvid.com/embed/5jh63yon"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241096&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241097&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241132&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

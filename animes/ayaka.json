@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "ayaka",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ayaka.jpg",
+    "desc": "L'histoire se déroule sur l'archipel d'Ayaka. Yukito est né sur l'une de ces îles mais a dû déménager alors qu'il n'était qu'un enfant. Bien des années plus tard, il décide d'y retourner en compagnie de Jingi, mais le mystérieux pouvoir qu'il possède et qui lui permet de contrôler l'eau semble attirer quelques convoitises.",
+    "genres": "Mystère, Surnaturel, Super-pouvoirs",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5185523",
+            "https://video.sibnet.ru/shell.php?videoid=5192232",
+            "https://video.sibnet.ru/shell.php?videoid=5198950",
+            "https://video.sibnet.ru/shell.php?videoid=5205029",
+            "https://video.sibnet.ru/shell.php?videoid=5211573",
+            "https://video.sibnet.ru/shell.php?videoid=5219754",
+            "https://video.sibnet.ru/shell.php?videoid=5226815",
+            "https://sendvid.com/embed/zg58zcm9",
+            "https://sendvid.com/embed/5wee9yc2",
+            "https://video.sibnet.ru/shell.php?videoid=5240820",
+            "https://video.sibnet.ru/shell.php?videoid=5248325",
+            "https://video.sibnet.ru/shell.php?videoid=5254562"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456239862&hash=8f4d3af44aecea6f&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239896&hash=b4460fd8e355e66b&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239927&hash=d3f88e1f2cb38267&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239958&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239994&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240030&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240056&hd=3",
+            "https://video.sibnet.ru/shell.php?videoid=5230639",
+            "https://video.sibnet.ru/shell.php?videoid=5235021",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240087&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240114&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240143&hd=3"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/kvqfi061",
+            "https://sendvid.com/embed/goo9ymhv",
+            "https://sendvid.com/embed/8gdxs6fs",
+            "https://sendvid.com/embed/qizxvuk0",
+            "https://sendvid.com/embed/zy30sz9e",
+            "https://sendvid.com/embed/hhrgba6k",
+            "https://sendvid.com/embed/idbfh6bd",
+            "https://www.myvi.tv/embed/us45trephkrrxbzi3z8yk6xh1h",
+            "https://www.myvi.tv/embed/5wijs9tf9o3rxcqwau15xippda",
+            "https://sendvid.com/embed/dagb3wcc",
+            "https://sendvid.com/embed/u5ata180",
+            "https://sendvid.com/embed/2byxsri9"
+          ],
+          "lec4": [
+            "https://www.myvi.tv/embed/3fjh8h5g1s6wdxxhakadr435oa",
+            "https://www.myvi.tv/embed/xwqsrkij83mric53x3zaugjb6a",
+            "https://www.myvi.tv/embed/yian8i5nm45rbeq5p7eouhjf6h",
+            "https://www.myvi.tv/embed/j15bpoy6xgywbye7xb6yzfabgo",
+            "https://www.myvi.tv/embed/886s6x49fi4rtmj9zkdzunqiyh",
+            "https://www.myvi.tv/embed/fzo5eo6ssumr9xjq6emk1sp5kr",
+            "https://www.myvi.tv/embed/kpht6t4oyqprjj8a3b7qbqos5e",
+            "https://www.myvi.tv/embed/us45trephkrrxbzi3z8yk6xh1h",
+            "https://www.myvi.tv/embed/5wijs9tf9o3rxcqwau15xippda",
+            "https://www.myvi.tv/embed/eup6a4zko84wfpzoo8pkyknyuw",
+            "https://www.myvi.tv/embed/uongocupg6kwur3fez4m3suxsc",
+            "https://www.myvi.tv/embed/hd3gxyi5tf1r5b1t1g47raeuna"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/AYAKA/Ayaka_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

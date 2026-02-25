@@ -1,0 +1,31 @@
+{
+  "data": {
+    "name": "sirius-the-jaeger",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sirius-the-jaeger.jpg",
+    "desc": "Un groupe d'étranges personnes atterrissent à la gare de Tokyo. Ils se font appelés les \"Jaegers\" et sont des chasseurs de vampires.\n\nParmi eux, il y a Yuliy, un loup-garou doté d'une sérénité flagrante et d'une aura inhabituelle, dont le village natal a été détruit par des vampires.\n\nCes derniers s'engagent dans une bataille mortelle pour la mystérieuse \"Arche de Sirius\", ils ne savent cependant pas ce qui se cache à cet endroit.",
+    "genres": "Action, Drame, Horreur, Épouvante, Mystère, Surnaturel, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-8ew77k42aadl.html",
+            "https://vidmoly.to/embed-c8dzdif03syl.html",
+            "https://vidmoly.to/embed-92baq4w8kwgt.html",
+            "https://vidmoly.to/embed-d8jj3opt2wy8.html",
+            "https://vidmoly.to/embed-rguoc2h1k5y9.html",
+            "https://vidmoly.to/embed-mg60qifhmfwp.html",
+            "https://vidmoly.to/embed-krac0fonnnek.html",
+            "https://vidmoly.to/embed-usl9rhb1ej3y.html",
+            "https://vidmoly.to/embed-qktouq4fnqv9.html",
+            "https://vidmoly.to/embed-15y4dfmmwuf5.html",
+            "https://vidmoly.to/embed-7txkw3ib1425.html",
+            "https://vidmoly.to/embed-urtm0to7at23.html"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "uramichi-oniisan",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/uramichi-oniisan.jpg",
+    "desc": "L'histoire se centre sur Uramichi Omota, un animateur de 31 ans dont la personnalité a deux \"aspects\". En effet, lorsque ce dernier anime le programme éducatif \"Mom to Together\", il semble être joyeux et optimiste mais en dehors il se révèle être quelque peu instable émotionnellement.\n\nAinsi, nous allons suivre les aspects les moins ensoleillés d'une vie d'adulte.",
+    "genres": "Comédie, Josei, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/yu7carzk",
+            "https://sendvid.com/embed/i1a7eafj",
+            "https://sendvid.com/embed/5pv9mhdq",
+            "https://sendvid.com/embed/ik9brndf",
+            "https://sendvid.com/embed/b5np0xq5",
+            "https://sendvid.com/embed/ttqg54b6",
+            "https://sendvid.com/embed/oan53boq",
+            "https://sendvid.com/embed/khmuwo68",
+            "https://sendvid.com/embed/3zd0lv1w",
+            "https://sendvid.com/embed/nn6cpnya",
+            "https://sendvid.com/embed/2vkvcn97",
+            "https://sendvid.com/embed/mckkw6m9",
+            "https://sendvid.com/embed/vbl0qdoc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4347606",
+            "https://video.sibnet.ru/shell.php?videoid=4354392",
+            "https://video.sibnet.ru/shell.php?videoid=4362721",
+            "https://video.sibnet.ru/shell.php?videoid=4370505",
+            "https://video.sibnet.ru/shell.php?videoid=4376839",
+            "https://video.sibnet.ru/shell.php?videoid=4382372",
+            "https://video.sibnet.ru/shell.php?videoid=4389061",
+            "https://video.sibnet.ru/shell.php?videoid=4395198",
+            "https://video.sibnet.ru/shell.php?videoid=4401498",
+            "https://video.sibnet.ru/shell.php?videoid=4409246",
+            "https://video.sibnet.ru/shell.php?videoid=4415533",
+            "https://video.sibnet.ru/shell.php?videoid=4422407",
+            "https://video.sibnet.ru/shell.php?videoid=4429346"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/44jm44tcc7gr7mgboust84gk7r",
+            "https://www.myvi.top/embed/c7y8rampkw7rdpgucy3g57nemh",
+            "https://www.myvi.top/embed/jukwhfasf1hwjjn9a18rs8sc8w",
+            "https://www.myvi.top/embed/4kstdfgzha1rppraeoj3dbww1e",
+            "https://www.myvi.top/embed/t9tnpijhcuiwxxpt6daz8qqo7y",
+            "https://myvi.ru/player/embed/html/okUHcgByHh5gJ93WtSoxC41seBdaNRhQ_-RnxEwfmlT3xIP_dcuQAfnDcNuD9re1C0",
+            "https://www.myvi.top/embed/ndnmbj7arexw9geh15f3suahxy",
+            "https://www.myvi.top/embed/u5wp3cqgch5wujq9977gf3oo3r",
+            "https://www.myvi.top/embed/opkzfh9kjg4w9xqr1ohrut7m1e",
+            "https://www.myvi.top/embed/zcwtt3dajz8wbpzdu5z57xu5eo",
+            "https://www.myvi.top/embed/rhddsuhyr8erbe6fbd7bb8jo3a",
+            "https://www.myvi.top/embed/zwm8nh893gmwu8ejg983daeo8r",
+            "https://www.myvi.top/embed/9dqosonmtx4rmjij4csx1p513a"
+          ]
+        }
+      }
+    }
+  }
+}

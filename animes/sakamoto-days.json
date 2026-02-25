@@ -1,0 +1,37 @@
+{
+  "data": {
+    "name": "sakamoto-days",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sakamoto-days0.jpg",
+    "desc": "Taro Sakamoto est un assassin légendaire, le meilleur d'entre tous, craint par tous les gangsters, adulé par ses pairs. Mais un beau jour... il tombe amoureux ! S'ensuivent retraite, mariage, paternité... et prise de poids.\nSakamoto est aujourd'hui patron d'une petite épicerie de quartier et coule des jours heureux avec sa famille. Mais lorsque son passé le rattrape sous les traits de Shin, un jeune assassin télépathe, Sakamoto reprend du service...\nEt malgré son apparence, il est toujours aussi charismatique lorsqu'il passe à l'action !",
+    "genres": "Assassinat, Chasseur de prime, Combats, Mariage, Parodie, Pouvoirs psychiques, Action, Comédie, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5795817",
+            "https://video.sibnet.ru/shell.php?videoid=5801271"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-so5s7j4e5mp7.html",
+            "https://vidmoly.to/embed-u5exxivghhoa.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-qwfaw6ow624o.html",
+            "https://oneupload.to/embed-hebqoc4han66.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/3xrxz7tl",
+            "https://sendvid.com/embed/6rata96b"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241151&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241218&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

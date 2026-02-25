@@ -1,0 +1,90 @@
+{
+  "data": {
+    "name": "beyond-the-boundary",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/beyond-the-boundary.jpg",
+    "desc": "Akihito Kanbara est un jeune lycéen âgé d'une quinzaine d'années. Passionné par la littérature, il est un membre actif du club de littérature de son lycée.\nDifférent des autres jeunes hommes de son âge, Akihito est à la fois mi-humain et mi-yomu.\nCette fascinante combinaison a permis à notre héros de posséder l'incroyable faculté de régénérer instantanément ses cellules, le rendant ainsi presque invincible, voire immortel.\n\nLa vie de d'Akihito Kanbara bascule le jour où il sauve une jeune fille répondant au nom de Mirai Kuriyama.\nCette dernière, scolarisée dans le même établissement que lui, désirait mettre fin à ses jours pour une obscure raison.\nIl s'avère finalement qu'à l'instar d'Akihito, elle possède également d'étranges pouvoirs spirituels.\nEn effet, Mirai détient la surprenante faculté de manipuler le sang à sa guise, un pouvoir jugé particulièrement dangereux et néfaste par les hautes instances du monde des esprits.\n\nDe ce fait, Akihito s'embarquera bien malgré lui dans une sombre histoire.",
+    "genres": "Action, Drame, Comedie, Psychologique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-2p1jwpuufmf8.html",
+            "https://vidmoly.to/embed-dyk1n0mzl81h.html",
+            "https://vidmoly.to/embed-hxtm54hp1grs.html",
+            "https://vidmoly.to/embed-v2niq4ptv0z1.html",
+            "https://vidmoly.to/embed-u6iyp4ltql22.html",
+            "https://vidmoly.to/embed-tpxcr00chkba.html",
+            "https://vidmoly.to/embed-i2bu8konjd22.html",
+            "https://vidmoly.to/embed-qghjt6hytzst.html",
+            "https://vidmoly.to/embed-hr0umwbpx4p7.html",
+            "https://vidmoly.to/embed-rvq08mw63g3p.html",
+            "https://vidmoly.to/embed-v6ij08bbt6zu.html",
+            "https://vidmoly.to/embed-ah2shtwcw9g8.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4815756",
+            "https://video.sibnet.ru/shell.php?videoid=4815758",
+            "https://video.sibnet.ru/shell.php?videoid=4815759",
+            "https://video.sibnet.ru/shell.php?videoid=4815760",
+            "https://video.sibnet.ru/shell.php?videoid=4815763",
+            "https://video.sibnet.ru/shell.php?videoid=4815764",
+            "https://video.sibnet.ru/shell.php?videoid=4815766",
+            "https://video.sibnet.ru/shell.php?videoid=4815767",
+            "https://video.sibnet.ru/shell.php?videoid=4815768",
+            "https://video.sibnet.ru/shell.php?videoid=4815771",
+            "https://video.sibnet.ru/shell.php?videoid=4815772",
+            "https://video.sibnet.ru/shell.php?videoid=4815773"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/5w3l5u27",
+            "https://sendvid.com/embed/gvc4uod3",
+            "https://sendvid.com/embed/c2wrgapn",
+            "https://sendvid.com/embed/0294piba",
+            "https://sendvid.com/embed/vm90nugh",
+            "https://sendvid.com/embed/zjofxo1k",
+            "https://sendvid.com/embed/t9knl61d",
+            "https://sendvid.com/embed/4ug1s5x4",
+            "https://sendvid.com/embed/vx3h8ij2",
+            "https://sendvid.com/embed/blig68wj",
+            "https://sendvid.com/embed/g2xluvs4",
+            "https://sendvid.com/embed/eimrfask"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4815681\t",
+            "https://video.sibnet.ru/shell.php?videoid=4815683"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/hj34rkmv",
+            "https://sendvid.com/embed/v5g51ty4"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/hzzsdwo8q9cr5yhchezpjzmboy",
+            "https://www.myvi.tv/embed/hhaw8enhu5irmqyeur4ukh1zar"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/iz3qgeb6"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4815658"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-fljsh2ck589n.html"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "data": {
+    "name": "relife",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/relife.jpg",
+    "desc": "Arata Kaizaki a 27 ans et est sans emploi. En effet, il rate tous ses entretiens et n'a tenu que trois mois dans sa dernière entreprise. Un jour, il fait la rencontre de Ryo Yoake, membre de l'institut ReLife Research qui lui propose d'être cobaye pour leur dernier projet ; un médicament qui lui permettra d'avoir l'apparence d'un lycéen de 17 ans et de pouvoir retourner au lycée, l'espace d'un an.\n\nGrâce à ce médicament, il va pouvoir rattraper ses précédents échecs dans la vie et donc avoir une seconde chance.",
+    "genres": "Comédie, Drame, Romance, School-Life, Science-fiction, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/rbn3bassehnrdjjarm77ybahse",
+            "https://www.myvi.top/embed/9hfofmqmydpwfj4k6k89kaxyia",
+            "https://www.myvi.top/embed/86zbecmitydripszx3unk85pzc",
+            "https://www.myvi.top/embed/s5okp3zqj1tw7qxf9t9tgwxi4a",
+            "https://www.myvi.top/embed/e8reu4wmph1ruyyuno9eph4gde",
+            "https://www.myvi.top/embed/zb3pthdkbk6rpbs4jg41qe5xfy",
+            "https://www.myvi.top/embed/gd5zxr9p1yyrtrugg4f551ihro",
+            "https://www.myvi.top/embed/dr58q5opcyiwdpt7ry315cybnw",
+            "https://www.myvi.top/embed/shzn47gonj6rpbh4dic4abutfw",
+            "https://www.myvi.top/embed/14xtrbo4jdjrjkexr8n4ex7ior",
+            "https://www.myvi.top/embed/aqnj7i6mou3r88fnj774zduysc",
+            "https://www.myvi.top/embed/uajjficgptdwzy5rq6mpryprse",
+            "https://www.myvi.top/embed/kyutsd5oorawppm96ikdxr78pr"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4769995",
+            "https://video.sibnet.ru/shell.php?videoid=4769999",
+            "https://video.sibnet.ru/shell.php?videoid=4770003",
+            "https://video.sibnet.ru/shell.php?videoid=4770008",
+            "https://video.sibnet.ru/shell.php?videoid=4770018",
+            "https://video.sibnet.ru/shell.php?videoid=4770021",
+            "https://video.sibnet.ru/shell.php?videoid=4770025",
+            "https://video.sibnet.ru/shell.php?videoid=4770027",
+            "https://video.sibnet.ru/shell.php?videoid=4770032",
+            "https://video.sibnet.ru/shell.php?videoid=4770035",
+            "https://video.sibnet.ru/shell.php?videoid=4770038",
+            "https://video.sibnet.ru/shell.php?videoid=4770042",
+            "https://video.sibnet.ru/shell.php?videoid=4770044"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/adzpw4xj",
+            "https://sendvid.com/embed/hmx15ykm",
+            "https://sendvid.com/embed/rzjfwtnd",
+            "https://sendvid.com/embed/q9wcgv3u",
+            "https://sendvid.com/embed/1ahsjujj",
+            "https://sendvid.com/embed/7mx84v95",
+            "https://sendvid.com/embed/kiksq27u",
+            "https://sendvid.com/embed/cvd0wo1e",
+            "https://sendvid.com/embed/seurvchq",
+            "https://sendvid.com/embed/27hvgm7e",
+            "https://sendvid.com/embed/rl7qh34w",
+            "https://sendvid.com/embed/b8bwo22o",
+            "https://sendvid.com/embed/gmu4dmd4"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/y6sgca91e7uwiphawge3666kja",
+            "https://www.myvi.top/embed/3rsz9cx3whmwtmud798f69ik1y",
+            "https://www.myvi.top/embed/bkx3bwzdsotrpdjjsiwkrfk1ko",
+            "https://www.myvi.top/embed/w7kk3c7oapdr9juao1r3jfi3ya"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4770047",
+            "https://video.sibnet.ru/shell.php?videoid=4770050",
+            "https://video.sibnet.ru/shell.php?videoid=4770053",
+            "https://video.sibnet.ru/shell.php?videoid=4770058"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/kumnd24p",
+            "https://sendvid.com/embed/2yqj7vm3",
+            "https://sendvid.com/embed/o8wingst",
+            "https://sendvid.com/embed/55prw4yg"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "data": {
+    "name": "shimoseka",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shimoseka.jpg",
+    "desc": "L'histoire se passe 16 années après l'application de la « Loi au maintien à l'ordre public et de la morale pour le développement de la Jeunesse » qui interdit le langage grossier ou les situations jugées indécentes en public dans le pays. Nous suivons Tanukichi Okuma qui s'inscrit dans une école d'élite de bonnes mœurs mais qui est enrôlé par l'Organisation Anti-Système (SOX). Tanukichi va prendre part aux actes obscènes contre l'école.",
+    "genres": "Comédie, Ecchi, School-Life, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/mtv68eoj",
+            "https://sendvid.com/embed/hpe73eyj",
+            "https://sendvid.com/embed/tjmiiav1",
+            "https://www.yourupload.com/embed/Oe8J88I28EaB",
+            "https://sendvid.com/embed/glg1mpsi",
+            "https://sendvid.com/embed/mnihxu79",
+            "https://sendvid.com/embed/85s7qqp6",
+            "https://sendvid.com/embed/aou0x6r9",
+            "https://sendvid.com/embed/ddodlntv",
+            "https://sendvid.com/embed/ugrt2j5c",
+            "https://sendvid.com/embed/j7uolvwa",
+            "https://sendvid.com/embed/ycvyba0n"
+          ]
+        }
+      }
+    }
+  }
+}

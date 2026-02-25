@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "suzumiya-haruhi-no-yuuutsu",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/suzumiya-haruhi-no-yuuutsu.jpg",
+    "desc": "À première vue, Suzumiya Haruhi est une lycéenne comme les autres, jolie et intelligente. Mais lorsqu'elle va déclarer devant toute sa classe, de façon très sérieuse, que seuls les aliens, les voyageurs temporels ou les espers l'intéressent et qu'elle n'a rien à faire avec les humains, tout va basculer. Kyon, intriguée par cette fille si différente va être le seul à lui adresser la parole et va lui donner l'idée de créer son propre club. C'est ainsi que va naître la Brigade SOS, dirigée par Haruhi et très vite rejointe par Kyon mais également par Nagato, une fille qui ne fait que lire sans dire un mot, Mikuru, timide et peureuse qui fera office de mascotte et Koizumi, un garçon mystérieux et toujours souriant. Apparemment, ils ne sont pas là par hasard.",
+    "genres": "Comédie, Mystère, School-Life, Science-fiction, Slice-of-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/wue29332",
+            "https://sendvid.com/embed/j0tvzctc",
+            "https://sendvid.com/embed/fbkfmwvc",
+            "https://sendvid.com/embed/xy8zmsjc",
+            "https://sendvid.com/embed/4a3yvvji",
+            "https://sendvid.com/embed/ru9ab7ju",
+            "https://sendvid.com/embed/djg361t2",
+            "https://sendvid.com/embed/17bx31bw",
+            "https://sendvid.com/embed/nmiggkjb",
+            "https://sendvid.com/embed/ywyw122d",
+            "https://sendvid.com/embed/jumyt45l",
+            "https://sendvid.com/embed/pblfueia",
+            "https://sendvid.com/embed/nu0bviqk",
+            "https://sendvid.com/embed/23t6gi38",
+            "https://sendvid.com/embed/7469bzi7",
+            "https://sendvid.com/embed/6bkti5uk",
+            "https://sendvid.com/embed/sbthz9m9",
+            "https://sendvid.com/embed/v9kpabo7",
+            "https://sendvid.com/embed/ik8y1r89",
+            "https://sendvid.com/embed/5m278qbe",
+            "https://sendvid.com/embed/vt5fsyft",
+            "https://sendvid.com/embed/ynmmtgyi",
+            "https://sendvid.com/embed/xd7q56t1",
+            "https://sendvid.com/embed/76x7e4si",
+            "https://sendvid.com/embed/hezyllpt",
+            "https://sendvid.com/embed/0avjheud",
+            "https://sendvid.com/embed/twhbici0",
+            "https://sendvid.com/embed/avm6gmom"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5072119",
+            "https://video.sibnet.ru/shell.php?videoid=5072121",
+            "https://video.sibnet.ru/shell.php?videoid=5072124",
+            "https://video.sibnet.ru/shell.php?videoid=5072128",
+            "https://video.sibnet.ru/shell.php?videoid=5072131",
+            "https://video.sibnet.ru/shell.php?videoid=5072133",
+            "https://video.sibnet.ru/shell.php?videoid=5072136",
+            "https://video.sibnet.ru/shell.php?videoid=5072142",
+            "https://video.sibnet.ru/shell.php?videoid=5072144",
+            "https://video.sibnet.ru/shell.php?videoid=5072149",
+            "https://video.sibnet.ru/shell.php?videoid=5072151",
+            "https://video.sibnet.ru/shell.php?videoid=5072155",
+            "https://video.sibnet.ru/shell.php?videoid=5072157",
+            "https://video.sibnet.ru/shell.php?videoid=5072159",
+            "https://video.sibnet.ru/shell.php?videoid=5072163",
+            "https://video.sibnet.ru/shell.php?videoid=5072167",
+            "https://video.sibnet.ru/shell.php?videoid=5072169",
+            "https://video.sibnet.ru/shell.php?videoid=5072172",
+            "https://video.sibnet.ru/shell.php?videoid=5072175",
+            "https://video.sibnet.ru/shell.php?videoid=5072178",
+            "https://video.sibnet.ru/shell.php?videoid=5072181",
+            "https://video.sibnet.ru/shell.php?videoid=5072184",
+            "https://video.sibnet.ru/shell.php?videoid=5072186",
+            "https://video.sibnet.ru/shell.php?videoid=5072187",
+            "https://video.sibnet.ru/shell.php?videoid=5072189",
+            "https://video.sibnet.ru/shell.php?videoid=5072191",
+            "https://video.sibnet.ru/shell.php?videoid=5072195"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4813310\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/psk67w3mykkwmyzi591hsyfi4a"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "arcana-famiglia",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/arcana-famiglia.jpg",
+    "desc": "L'histoire se concentre sur Arcana Famiglia, une mystérieuse organisation qui protège une petite île nommée Regalo. L'organisation s'occupe des affaires commerciales, de la sécurité et de la santé sur Regalo depuis un long moment. Cette année, le chef de la famille de l'organisation appelé Mondo, prend la décision de prendre sa retraite. Pour choisir celui qui prendra sa place, celui-ci décide alors d'organiser un tournoi. Le vainqueur aura droit à la main de sa fille 'Félicita' et aussi à un vœu exaucé par Mondo.",
+    "genres": "Action, Aventure, Comédie, Drame, Romance, Harem-inversé, Mafia, Tournois",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/b5p3xwvk",
+            "https://sendvid.com/embed/rrkypmmx",
+            "https://sendvid.com/embed/yhji2jnm",
+            "https://sendvid.com/embed/335wrpab",
+            "https://sendvid.com/embed/t7kpc1vr",
+            "https://sendvid.com/embed/ugeij7g0",
+            "https://sendvid.com/embed/gixaq7r8",
+            "https://sendvid.com/embed/mk666esf",
+            "https://sendvid.com/embed/evx5w4k1",
+            "https://sendvid.com/embed/mnomqiba",
+            "https://sendvid.com/embed/y7ygzd80",
+            "https://sendvid.com/embed/khntf458",
+            "https://sendvid.com/embed/dhf25vgb"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4676871",
+            "https://video.sibnet.ru/shell.php?videoid=4676872",
+            "https://video.sibnet.ru/shell.php?videoid=4676874",
+            "https://video.sibnet.ru/shell.php?videoid=4676876",
+            "https://video.sibnet.ru/shell.php?videoid=4676878",
+            "https://video.sibnet.ru/shell.php?videoid=4676879",
+            "https://video.sibnet.ru/shell.php?videoid=4676880",
+            "https://video.sibnet.ru/shell.php?videoid=4676881",
+            "https://video.sibnet.ru/shell.php?videoid=4676882",
+            "https://video.sibnet.ru/shell.php?videoid=4676884",
+            "https://video.sibnet.ru/shell.php?videoid=4676886",
+            "https://video.sibnet.ru/shell.php?videoid=4676887",
+            "https://video.sibnet.ru/shell.php?videoid=4676889"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/czojz5fuujpwxgb68az5rx9hfa",
+            "https://www.myvi.tv/embed/wxg8dj7uaehrpcjih7babcm7se",
+            "https://www.myvi.tv/embed/pn5ew14a3tcw7y3j6yi3aqkphr",
+            "https://www.myvi.tv/embed/5ek94rj4fbpwmp1t9b63ora6xh",
+            "https://www.myvi.tv/embed/at5dsjceptur8y4zg41qjcx7oy",
+            "https://www.myvi.tv/embed/z5nhqzqhxstrfnhxk866to6bja",
+            "https://www.myvi.tv/embed/ny6intfmffcr5kf9fe6fcbw9ue",
+            "https://www.myvi.tv/embed/qyifobwqfdcw7ybwt8g7ha3mpw",
+            "https://www.myvi.tv/embed/urn5imb3xbwrtjfewk477apbsw",
+            "https://www.myvi.tv/embed/e6c38bu4p7aw3f3y8azyer71kr",
+            "https://www.myvi.tv/embed/rq4c9i5qrfxrzbkhukapqi3f9c",
+            "https://www.myvi.tv/embed/uzt8ced9o47rmy99xts4z6xuna",
+            "https://www.myvi.tv/embed/9nkiatwoz39wxcfogwosdfbgpc"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "kokkoku",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kokkoku.jpg",
+    "desc": "Dans le but de sauver son frère et son neveu, qui ont été kidnappés par un mystérieux groupe religieux connu sous le nom de Genuine Love Society, Yukawa Juri et sa famille lancent un sort en utilisant une pierre cachée par son grand-père pour entrer dans le monde où le temps est arrêté : Stasis. Toutefois, alors qu'ils infiltrent la base des kidnappeurs, ils rencontrent d'autres personnes qui peuvent bouger librement dans ce monde parallèle. Avec des créatures grotesques qui rôdent, pourront-ils s'échapper de ce monde parallèle et retourner à leur vie normale ?",
+    "genres": "Action, Drame, Mystère, Psychologique, Science-fiction, Surnaturel, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/znhtbw7mbtdripasyqwyxstojy",
+            "https://www.myvi.tv/embed/trbrmxgmsmgwmy3use4tt1f9ia",
+            "https://www.myvi.tv/embed/qiioh1oodh8wpxn45e17zkr47h",
+            "https://www.myvi.tv/embed/erxtx7htw4rwdnhc5mnbztamrh",
+            "https://www.myvi.tv/embed/kcgz6o5fw5kw9ff6c9ny5qn8th",
+            "https://www.myvi.tv/embed/9h5g3ucpa8trir6iba3pwjc96c",
+            "https://www.myvi.tv/embed/ab4oncn8gtorifyb3okqit1twr",
+            "https://www.myvi.tv/embed/6m3f1ostaxirdqzrcgcm5ds66c",
+            "https://www.myvi.tv/embed/x3xnp64muj3rb8tdinj3doadkh",
+            "https://www.myvi.tv/embed/xu6tnchcpb1ruciw4qgq8x3zqr",
+            "https://www.myvi.tv/embed/36wk93rwscdr9dapimmx9fpu3e",
+            "https://www.myvi.tv/embed/yrcn6kx1dcdrdcwgtzxa9c1ony"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3340258",
+            "https://video.sibnet.ru/shell.php?videoid=3340260",
+            "https://video.sibnet.ru/shell.php?videoid=3340261",
+            "https://video.sibnet.ru/shell.php?videoid=3340262",
+            "https://video.sibnet.ru/shell.php?videoid=3340264",
+            "https://video.sibnet.ru/shell.php?videoid=3340266",
+            "https://video.sibnet.ru/shell.php?videoid=3340268",
+            "https://video.sibnet.ru/shell.php?videoid=3340270",
+            "https://video.sibnet.ru/shell.php?videoid=3340271",
+            "https://video.sibnet.ru/shell.php?videoid=3340272",
+            "https://video.sibnet.ru/shell.php?videoid=3340273",
+            "https://video.sibnet.ru/shell.php?videoid=3340274"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/mepqwg22",
+            "https://sendvid.com/embed/znsow0t1",
+            "https://sendvid.com/embed/enkk13dh",
+            "https://sendvid.com/embed/6atc4d3n",
+            "https://sendvid.com/embed/lqa14qpo",
+            "https://sendvid.com/embed/3exc1gh4",
+            "https://sendvid.com/embed/xz1lq5gi",
+            "https://sendvid.com/embed/m7gfvo8o",
+            "https://sendvid.com/embed/n0ssl3g4",
+            "https://sendvid.com/embed/4bouv73u",
+            "https://sendvid.com/embed/aitm5p6l",
+            "https://sendvid.com/embed/ufcolyd4"
+          ]
+        }
+      }
+    }
+  }
+}

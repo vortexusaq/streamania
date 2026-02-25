@@ -1,0 +1,77 @@
+{
+  "data": {
+    "name": "the-tatami-galaxy",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-tatami-galaxy.jpg",
+    "desc": "L'animé suis l'histoire d'un jeune étudiant, Watashi ('moi' en français), c'est à dire un personnage dont le nom est inconnu. A la fin de sa première année de faculté, il se retrouvera projeté dans le passé, pour revenir au début de sa première année. A la fin de celle-ci, il retournera encore dans le passé, encore et encore... Chaque nouvelles années, il choisira un nouveau club, et fera ainsi de nouvelles rencontres. Le phénomène se répètera et nous suivrons ses différents choix dans ce cycle sans fin.",
+    "genres": "Comédie, Drame, Psychologique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/26emgbri",
+            "https://sendvid.com/embed/4azgnmxu",
+            "https://sendvid.com/embed/2zpg41tr",
+            "https://sendvid.com/embed/m0wp7o2v",
+            "https://sendvid.com/embed/q97br39t",
+            "https://sendvid.com/embed/j06zd2t8",
+            "https://sendvid.com/embed/e6pfixo5",
+            "https://sendvid.com/embed/u6osz7i8",
+            "https://sendvid.com/embed/szr49d3s",
+            "https://sendvid.com/embed/6iqupdm1",
+            "https://sendvid.com/embed/ymbpshuq\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4813367",
+            "https://video.sibnet.ru/shell.php?videoid=4813370",
+            "https://video.sibnet.ru/shell.php?videoid=4813373",
+            "https://video.sibnet.ru/shell.php?videoid=4813375",
+            "https://video.sibnet.ru/shell.php?videoid=4813376",
+            "https://video.sibnet.ru/shell.php?videoid=4813378",
+            "https://video.sibnet.ru/shell.php?videoid=4813379",
+            "https://video.sibnet.ru/shell.php?videoid=4813382",
+            "https://video.sibnet.ru/shell.php?videoid=4813383",
+            "https://video.sibnet.ru/shell.php?videoid=4813387",
+            "https://video.sibnet.ru/shell.php?videoid=4813389"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/1xutxxkpexzrfx7k1kzhykpgde",
+            "https://www.myvi.tv/embed/8jg9tpig5kxrpquessnhscdkty",
+            "https://www.myvi.tv/embed/awy4j8ia9rrrzcqa6bfua6qt4r",
+            "https://www.myvi.tv/embed/5ay56a4o8zuwfbchqt1bjuozxa",
+            "https://www.myvi.tv/embed/pe8zuzqa14ardpzpdhy76jimea",
+            "https://www.myvi.tv/embed/t7bxe1uzijerif8rfzffi68dmh",
+            "https://www.myvi.tv/embed/oa8cj19fpcuwmknon9d4bmr3jo",
+            "https://www.myvi.tv/embed/kfq9azn3qnqwzmqgb739r6ibfa",
+            "https://www.myvi.tv/embed/gyy8dbk8647rtb1kuuooosoa6o",
+            "https://www.myvi.tv/embed/xp18cpkk18przymohb1s17zz4a",
+            "https://www.myvi.tv/embed/anbn8yofrnfr9ba94176pzjuga"
+          ]
+        }
+      },
+      "Tatami Time Machine Blues": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/kmcfpaec",
+            "https://sendvid.com/embed/82fr3j3i",
+            "https://sendvid.com/embed/n5or62vb",
+            "https://sendvid.com/embed/bnpk7fpl",
+            "https://sendvid.com/embed/n3klgbm2",
+            "https://sendvid.com/embed/kpojwj26"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5280145",
+            "https://video.sibnet.ru/shell.php?videoid=5280146",
+            "https://video.sibnet.ru/shell.php?videoid=5280147",
+            "https://video.sibnet.ru/shell.php?videoid=5280148",
+            "https://video.sibnet.ru/shell.php?videoid=5280149",
+            "https://video.sibnet.ru/shell.php?videoid=5280150"
+          ]
+        }
+      }
+    }
+  }
+}

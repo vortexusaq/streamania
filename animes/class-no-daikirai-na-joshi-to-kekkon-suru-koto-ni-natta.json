@@ -1,0 +1,125 @@
+{
+  "data": {
+    "name": "class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/class-no-daikirai-na-joshi-to-kekkon-suru-koto-ni-natta.jpg",
+    "desc": "L'histoire se centre sur Saito Hojo, un jeune lycéen qui a épousé Akane Sakuramori, sa plus grande rivale à l'école. Ils n'arrivent pas à s'entendre mais leur vie de jeunes mariés est sur le point de commencer !",
+    "genres": "Comédie, Romance, School-Life, Mariage",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5789771",
+            "https://video.sibnet.ru/shell.php?videoid=5795056",
+            "https://video.sibnet.ru/shell.php?videoid=5800554"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-1uin2ew0ny9k.html",
+            "https://vidmoly.to/embed-831oe3qtp32w.html",
+            "https://vidmoly.to/embed-e8h2p6b3w0ld.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-2bqd1dmidifq.html",
+            "https://oneupload.to/embed-oqevxorrgsbr.html",
+            "https://oneupload.to/embed-olknjky7zg8h.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/bapgdthn",
+            "https://sendvid.com/embed/dhqw3sj7",
+            "https://sendvid.com/embed/cyydwkcs"
+          ],
+          "lec5": [
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241103&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241147&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241213&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

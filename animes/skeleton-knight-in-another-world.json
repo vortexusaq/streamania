@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "skeleton-knight-in-another-world",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/skeleton-knight-in-another-world.jpg",
+    "desc": "Le protagoniste s'est endormi en jouant à un jeu en ligne. Cependant, à son réveil, il se retrouve dans un monde étrange avec l'apparence de son personnage. Après avoir retrouvé ses esprits, il remarque qu'il est équipé de son arme et de son armure les plus puissantes. Pour ne rien arranger, l'apparence de notre héros est celle d'un squelette, l'un des nombreux avatar du jeu. Le protagoniste veut vivre sans attirer l'attention, mais il fait la rencontre de Arianne, une elfe noire qui veut l'embaucher pour sauver son peuple...",
+    "genres": "Autre monde, Combats, Magie, Monstres, Isekai, Action, Aventure, Comédie, Drame, Fantasy, Mystère",
+    "update": "Une saison 2 a été annoncée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/p9k5r20o",
+            "https://sendvid.com/embed/xl1738qr",
+            "https://sendvid.com/embed/h0szo6tv",
+            "https://sendvid.com/embed/chbbnxqn",
+            "https://sendvid.com/embed/c5vvgkdt",
+            "https://sendvid.com/embed/v13zx1hu",
+            "https://sendvid.com/embed/d6f2bthy",
+            "https://sendvid.com/embed/mqk3aat8",
+            "https://sendvid.com/embed/njy8h3ht",
+            "https://sendvid.com/embed/sydzbpb3",
+            "https://sendvid.com/embed/cjxe0gm5",
+            "https://sendvid.com/embed/956zz77o"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4665128",
+            "https://video.sibnet.ru/shell.php?videoid=4672762",
+            "https://video.sibnet.ru/shell.php?videoid=4680373",
+            "https://video.sibnet.ru/shell.php?videoid=4692585",
+            "https://video.sibnet.ru/shell.php?videoid=4703563",
+            "https://video.sibnet.ru/shell.php?videoid=4710137",
+            "https://video.sibnet.ru/shell.php?videoid=4719105",
+            "https://video.sibnet.ru/shell.php?videoid=4728987",
+            "https://video.sibnet.ru/shell.php?videoid=4736471",
+            "https://video.sibnet.ru/shell.php?videoid=4744818",
+            "https://video.sibnet.ru/shell.php?videoid=4754186",
+            "https://video.sibnet.ru/shell.php?videoid=4762203"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-2c8qlsv0vai5.html",
+            "https://vidmoly.to/embed-q281k3pylo43.html",
+            "https://vidmoly.to/embed-4znats929dsg.html",
+            "https://vidmoly.to/embed-lqrwc9tc0sg2.html",
+            "https://vidmoly.to/embed-anno3zrb6g8g.html",
+            "https://vidmoly.to/embed-zzufi21tgz9e.html",
+            "https://vidmoly.to/embed-n6snrydm4z9n.html",
+            "https://vidmoly.to/embed-77kjmjremcx6.html",
+            "https://vidmoly.to/embed-v0j2veark8pi.html",
+            "https://vidmoly.to/embed-7cmwn1rlmbcs.html",
+            "https://vidmoly.to/embed-4l5paj3me4wk.html",
+            "https://vidmoly.to/embed-vyx0ia5pmvmj.html"
+          ]
+        }
+      }
+    }
+  }
+}

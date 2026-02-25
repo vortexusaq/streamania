@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "mirai-nikki",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mirai-nikki.jpg",
+    "desc": "L'histoire nous entraîne dans le quotidien de Yukiteru Amano un jeune adolescent solitaire se renfermant sur lui-même détaché de la réalité. Il préfère se réfugier dans son monde avec ses amis imaginaires plutôt que de s'en faire de vrais dans la réalité.\n\nSeulement un jour, sa vie va basculer, lorsque Deus l'une de ses nombreuses créations se révèle être plus qu'un être imaginaire. Deus offre alors à Yukiteru la possibilité de voir dans le \"futur\" seulement, Deus est un dieu qui décide de céder sa place à celui qui survivra à un jeu de survie impitoyable.",
+    "genres": "Action, Drame, Mystère, Psychologique, Romance, Shônen, Surnaturel, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4783184",
+            "https://video.sibnet.ru/shell.php?videoid=4783187",
+            "https://video.sibnet.ru/shell.php?videoid=4783191",
+            "https://video.sibnet.ru/shell.php?videoid=4783197",
+            "https://video.sibnet.ru/shell.php?videoid=4783201",
+            "https://video.sibnet.ru/shell.php?videoid=4783204",
+            "https://video.sibnet.ru/shell.php?videoid=4783207",
+            "https://video.sibnet.ru/shell.php?videoid=4783208",
+            "https://video.sibnet.ru/shell.php?videoid=4783211",
+            "https://video.sibnet.ru/shell.php?videoid=4783212",
+            "https://video.sibnet.ru/shell.php?videoid=4783214",
+            "https://video.sibnet.ru/shell.php?videoid=4783216",
+            "https://video.sibnet.ru/shell.php?videoid=4783217",
+            "https://video.sibnet.ru/shell.php?videoid=4783220",
+            "https://video.sibnet.ru/shell.php?videoid=4783222",
+            "https://video.sibnet.ru/shell.php?videoid=4783227",
+            "https://video.sibnet.ru/shell.php?videoid=4783229",
+            "https://video.sibnet.ru/shell.php?videoid=4783230",
+            "https://video.sibnet.ru/shell.php?videoid=4783235",
+            "https://video.sibnet.ru/shell.php?videoid=4783236",
+            "https://video.sibnet.ru/shell.php?videoid=4783238",
+            "https://sendvid.com/embed/05wjvd1a",
+            "https://video.sibnet.ru/shell.php?videoid=4783240",
+            "https://video.sibnet.ru/shell.php?videoid=4783243",
+            "https://video.sibnet.ru/shell.php?videoid=4783245",
+            "https://video.sibnet.ru/shell.php?videoid=4783248"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/u2ujsgpy",
+            "https://sendvid.com/embed/55tewt0y",
+            "https://sendvid.com/embed/3xottl4n",
+            "https://sendvid.com/embed/pj92qu7k",
+            "https://sendvid.com/embed/yatjga3o",
+            "https://sendvid.com/embed/ejhxch6z",
+            "https://sendvid.com/embed/l38iwo41",
+            "https://sendvid.com/embed/6gg2pbnp",
+            "https://sendvid.com/embed/fw8yruhl",
+            "https://sendvid.com/embed/8us4fkkt",
+            "https://sendvid.com/embed/hcwv7mt8",
+            "https://sendvid.com/embed/mbdert4x",
+            "https://sendvid.com/embed/cnqutsge",
+            "https://sendvid.com/embed/40qn406d",
+            "https://sendvid.com/embed/6hn6w269",
+            "https://sendvid.com/embed/6qf3eppj",
+            "https://sendvid.com/embed/w48mnix1",
+            "https://sendvid.com/embed/u2wmyskw",
+            "https://sendvid.com/embed/0tjaid3n",
+            "https://sendvid.com/embed/g4vkzga3",
+            "https://sendvid.com/embed/l5ry4yzj",
+            "https://sendvid.com/embed/05wjvd1a",
+            "https://sendvid.com/embed/hvtx20f2",
+            "https://sendvid.com/embed/o3d9guaz",
+            "https://sendvid.com/embed/hxvxlffx",
+            "https://sendvid.com/embed/cohnue9x"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/3gi3snsa9k6wpgdos5pstcbw7r"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4783253"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/epfsgt3y"
+          ]
+        }
+      }
+    }
+  }
+}

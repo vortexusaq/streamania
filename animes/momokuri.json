@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "momokuri",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/momokuri.jpg",
+    "desc": "Yuki Kurihara a finalement acceptée de sortir avec son ami Momo. Au premier coup d'œil, Yuki ressemble juste à une fille normale, mais en la regardant de plus près, elle est vraiment mignonne. En vérité, elle est folle amoureuse de Momo, prenant des notes de ses activités et ne manque jamais la chance de le voir dans des moments mignons. Momo, d'autre part, est inexpérimenté en amour et veut juste rendre Yuki heureuse.",
+    "genres": "Comédie, Romance, School-Life, Slice-of-Life, Ecole, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/juifnyo8",
+            "https://sendvid.com/embed/3ku22ac4",
+            "https://sendvid.com/embed/htzpoxk1",
+            "https://sendvid.com/embed/u4gmse31",
+            "https://sendvid.com/embed/i96koxty",
+            "https://sendvid.com/embed/ew6q5ymf",
+            "https://sendvid.com/embed/02jgdmjg",
+            "https://sendvid.com/embed/vqmnx33t",
+            "https://sendvid.com/embed/k21qnwhv",
+            "https://sendvid.com/embed/4ed1jn9g",
+            "https://sendvid.com/embed/d4zz0x1q",
+            "https://sendvid.com/embed/mlso64da",
+            "https://sendvid.com/embed/b6usq00m"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5364964",
+            "https://video.sibnet.ru/shell.php?videoid=5364966",
+            "https://video.sibnet.ru/shell.php?videoid=5364968",
+            "https://video.sibnet.ru/shell.php?videoid=5364971",
+            "https://video.sibnet.ru/shell.php?videoid=5364972",
+            "https://video.sibnet.ru/shell.php?videoid=5364974",
+            "https://video.sibnet.ru/shell.php?videoid=5364976",
+            "https://video.sibnet.ru/shell.php?videoid=5364979",
+            "https://video.sibnet.ru/shell.php?videoid=5364980",
+            "https://video.sibnet.ru/shell.php?videoid=5364984",
+            "https://video.sibnet.ru/shell.php?videoid=5364985",
+            "https://video.sibnet.ru/shell.php?videoid=5364987",
+            "https://video.sibnet.ru/shell.php?videoid=5364989"
+          ]
+        }
+      }
+    }
+  }
+}

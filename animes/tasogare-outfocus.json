@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "tasogare-outfocus",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tasogare-outfocus.jpg",
+    "desc": "Hisashi et Mao partagent une chambre dans un dortoir au sein d'une école de garçons. Hisashi est un loup solitaire et Mao est le caméraman du ciné-club de l'école. Leur colocation se déroule pour le mieux, jusqu'au jour où le club décide de tourner une histoire d'amour entre deux garçons, avec Hisashi dans le rôle principal. Mao va alors ressentir des émotions nouvelles vis-à-vis de son colocataire. Mais les choses sont compliquées car Hisashi a déjà un petit ami !",
+    "genres": "Romance, School-Life, Amour, Club, Homosexualité, LGBT+",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5585521",
+            "https://video.sibnet.ru/shell.php?videoid=5593260",
+            "https://video.sibnet.ru/shell.php?videoid=5600880",
+            "https://video.sibnet.ru/shell.php?videoid=5609313",
+            "https://video.sibnet.ru/shell.php?videoid=5617192",
+            "https://video.sibnet.ru/shell.php?videoid=5627097",
+            "https://video.sibnet.ru/shell.php?videoid=5637759",
+            "https://video.sibnet.ru/shell.php?videoid=5648339",
+            "https://video.sibnet.ru/shell.php?videoid=5656073",
+            "https://video.sibnet.ru/shell.php?videoid=5664181",
+            "https://video.sibnet.ru/shell.php?videoid=5673369",
+            "https://video.sibnet.ru/shell.php?videoid=5682726"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-1os5lhzrkdlf.html",
+            "https://vidmoly.to/embed-xqyt6e6nf7w0.html",
+            "https://vidmoly.to/embed-e437imofllqv.html",
+            "https://vidmoly.to/embed-buy05qinr3t6.html",
+            "https://vidmoly.to/embed-kkirxz7wvo4b.html",
+            "https://vidmoly.to/embed-h5ews1cyq8uv.html",
+            "https://vidmoly.to/embed-u11shbyywf7w.html",
+            "https://vidmoly.to/embed-m6zpvseu3a7p.html",
+            "https://vidmoly.to/embed-qhqwnfvupmpd.html",
+            "https://vidmoly.to/embed-vbp917d9g3kd.html",
+            "https://vidmoly.to/embed-4wd4l0hu4y0o.html",
+            "https://vidmoly.to/embed-gtupaxlt9icp.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/q9feyrak",
+            "https://sendvid.com/embed/i84rd8z5",
+            "https://sendvid.com/embed/yjrbzciu",
+            "https://video.sibnet.ru/shell.php?videoid=5609313",
+            "https://sendvid.com/embed/ifjsp005",
+            "https://sendvid.com/embed/i1bystfa",
+            "https://sendvid.com/embed/xd5zavif",
+            "https://sendvid.com/embed/rxp1j46z",
+            "https://sendvid.com/embed/rfrho4w7",
+            "https://sendvid.com/embed/p1i1vvi4",
+            "https://sendvid.com/embed/lk0n9njd",
+            "https://sendvid.com/embed/276th482"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239887&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239930&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239975&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240021&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240062&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240099&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240146&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240196&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240241&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240293&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240341&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240400&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

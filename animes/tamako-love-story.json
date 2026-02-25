@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "tamako-love-story",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tamako-love-story.jpg",
+    "desc": "A travers Tamako et l'élu de son coeur, le film aborde la difficulté des amours adolescentes. A noter que le film sera diffusé avec un court métrage, Minami no Shima no Dera-chan, basé sur le \"personnage\" de Dera-chan.",
+    "genres": "Comédie, Romance, Slice-of-Life, Quotidien",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ccdrrcwv"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5257572"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/mwpx3jismyhwdkkw3uoio9giac"
+          ]
+        }
+      }
+    }
+  }
+}

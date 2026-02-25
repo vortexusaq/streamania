@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "shika-no-ou",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shika-no-ou.jpg",
+    "desc": "Dans un Japon féodal dominé par l'Empire, Van est l'ancien chef d'une unité de guerriers qui s'est rebellée contre l'ordre. Défait et désormais esclave, il travaille à la mine dans de rudes conditions, jusqu'au jour où une horde de loups vient l'attaquer. Dans le combat, il est mordu par l'un d'eux et sa blessure, en plus d'être profonde, s'infecte : il s'évanouit. Au réveil, il découvre que tous les prisonniers qui travaillaient avec lui à la mine sont morts. Seule Yuna, une jeune enfant qu'il décide de prendre sous son aile, semble avoir survécu... Ailleurs, dans d'autres contrées, des attaques similaires se produisent. Il est temps de lever le voile sur ce mystère.",
+    "genres": "Action - Aventure - Fantasy - Mystère - Slice-of-Life - Animaux - Médiéval",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5093232"
+          ]
+        }
+      }
+    }
+  }
+}

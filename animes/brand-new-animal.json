@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "brand-new-animal",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/brand-new-animal.jpg",
+    "desc": "Au XXIè siècle, alors que leur existence avait toujours été cachée, surgissent de l'ombre des animaux anthropomorphiques. Michiru, une jeune humaine, se transforme un jour en tanuki : choquée par sa nouvelle forme, elle se réfugie à Anima City, un gigantesque complexe créé il y a 10 ans dans l'optique d'accueillir les animaux-humains. Là, elle fait la rencontre de Shirou, un homme-loup qui dit détester les humains. À son contact, Michiru commence doucement à comprendre tous les enjeux qui entourent le mystère des hommes-animaux. Mais une énigme persiste : pourquoi s'est-elle transformée en tanuki, alors qu'elle avait toujours été humaine jusqu'ici ? Michiru la femme-tanuki et Shirou l'homme-loup se retrouvent bientôt happés au cœur d'un incident de grande envergure...",
+    "genres": "Action, Comédie, Fantasy, Mystère",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-b5vi9onreh9a.html",
+            "https://vidmoly.to/embed-hvyh4qa7pj0j.html",
+            "https://vidmoly.to/embed-03aw3w0ryx9k.html",
+            "https://vidmoly.to/embed-t8yt90lp60d4.html",
+            "https://vidmoly.to/embed-hszf4durj9rr.html",
+            "https://vidmoly.to/embed-4utundsp7g66.html",
+            "https://vidmoly.to/embed-9efvr58v79sy.html",
+            "https://vidmoly.to/embed-sa4lc7q1u7gs.html",
+            "https://vidmoly.to/embed-us223or645ob.html",
+            "https://vidmoly.to/embed-0uw7bbz5gagj.html",
+            "https://vidmoly.to/embed-21l86c7pi0rr.html",
+            "https://vidmoly.to/embed-a02x1noqrrw4.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/u9gdxjga",
+            "https://sendvid.com/embed/le0l4nzy",
+            "https://sendvid.com/embed/smch6u17",
+            "https://sendvid.com/embed/esk5cayp",
+            "https://sendvid.com/embed/umumfluk",
+            "https://sendvid.com/embed/btp3b6gr",
+            "https://sendvid.com/embed/jiwqhakq",
+            "https://sendvid.com/embed/5z3d8ryz",
+            "https://sendvid.com/embed/caqueyst",
+            "https://sendvid.com/embed/sjfpdei2",
+            "https://sendvid.com/embed/crizge43",
+            "https://sendvid.com/embed/8i5i5gpr"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=3892792",
+            "https://video.sibnet.ru/shell.php?videoid=3892793",
+            "https://video.sibnet.ru/shell.php?videoid=3892794",
+            "https://video.sibnet.ru/shell.php?videoid=3902229",
+            "https://video.sibnet.ru/shell.php?videoid=3923293",
+            "https://video.sibnet.ru/shell.php?videoid=3923295",
+            "https://video.sibnet.ru/shell.php?videoid=3948932",
+            "https://video.sibnet.ru/shell.php?videoid=3990591",
+            "https://video.sibnet.ru/shell.php?videoid=3990592",
+            "https://video.sibnet.ru/shell.php?videoid=3990593",
+            "https://video.sibnet.ru/shell.php?videoid=3990594",
+            "https://video.sibnet.ru/shell.php?videoid=3990595"
+          ]
+        }
+      }
+    }
+  }
+}

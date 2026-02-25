@@ -1,0 +1,53 @@
+{
+  "data": {
+    "name": "suicide-squad-isekai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/suicide-squad-isekai.jpg",
+    "desc": "Dans la ville de Gotham rongée par le crime, Amanda Waller, cheffe de l'A.R.G.U.S., a rassemblé un groupe de criminels notoires pour une mission : Harley Quinn, Deadshot, Peacemaker, Gueule d'argile et King Shark. Ces super-vilains sont envoyés dans un autre-monde relié au nôtre par une porte. À cause des puces explosives plantées dans leur cou, ils ne peuvent ni s'enfuir, ni se cacher et échouer à la mission signifie un aller simple pour l'au-delà ! Harley Quinn et son équipe parviendront-ils à conquérir ce nouveau monde ?",
+    "genres": "Action, Aventure, Isekai, Combats, Crime",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5576918",
+            "https://video.sibnet.ru/shell.php?videoid=5576922",
+            "https://video.sibnet.ru/shell.php?videoid=5576923",
+            "https://video.sibnet.ru/shell.php?videoid=5584962",
+            "https://video.sibnet.ru/shell.php?videoid=5592797",
+            "https://video.sibnet.ru/shell.php?videoid=5600406",
+            "https://video.sibnet.ru/shell.php?videoid=5609042",
+            "https://video.sibnet.ru/shell.php?videoid=5616929",
+            "https://video.sibnet.ru/shell.php?videoid=5626190",
+            "https://video.sibnet.ru/shell.php?videoid=5637437"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-13ctwht3ji80.html",
+            "https://vidmoly.to/embed-lryreonzukng.html",
+            "https://vidmoly.to/embed-p1jpktw4fkgi.html",
+            "https://vidmoly.to/embed-5uge4o6uqnx2.html",
+            "https://vidmoly.to/embed-rnsyvnw85h4h.html",
+            "https://vidmoly.to/embed-u32o179rxee8.html",
+            "https://vidmoly.to/embed-bybhti9us0ik.html",
+            "https://vidmoly.to/embed-9sl0021alp59.html",
+            "https://vidmoly.to/embed-821cocd3a24n.html",
+            "https://vidmoly.to/embed-jywy5rgwz7hk.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/svrqplf9",
+            "https://sendvid.com/embed/z9slpu57",
+            "https://sendvid.com/embed/8a89lya1",
+            "https://sendvid.com/embed/m71ioa7u",
+            "https://sendvid.com/embed/14j46ejq",
+            "https://sendvid.com/embed/dlgraq6h",
+            "https://sendvid.com/embed/0s1m836n",
+            "https://sendvid.com/embed/vnasmsm2",
+            "https://sendvid.com/embed/dn541xrc",
+            "https://sendvid.com/embed/b9dwl2gk"
+          ]
+        }
+      }
+    }
+  }
+}

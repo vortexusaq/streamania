@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "shokei-shoujo-no-ikiru-michi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shokei-shoujo-no-ikiru-michi.jpg",
+    "desc": "Les Perdus sont des vagabonds qui viennent d'un monde lointain appelé 'Japon'. Personne ne sait comment ni pourquoi ils quittent leur monde mais ce qui est certain, c'est qu'ils provoquent le désastre et la calamité. Le devoir de les exterminer sans remords est confié à Menou, une jeune exécutrice. Lorsqu'elle rencontre Akari, cela lui semble être un travail comme un autre jusqu'à ce qu'elle découvre qu'il est impossible de tuer cette fille. Pour pouvoir trouver un moyen de la tuer, elle décide d'emmener Akari. Étonnement, la jeune immortelle est plus qu'heureuse de pouvoir partir en voyage avec l'exécutrice. C'est ainsi que commence un voyage qui changera Menou à jamais.",
+    "genres": "Action, Aventure, Fantasy, Romance, Shôjo-Ai, Isekai, Autre-monde",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/0cd7tdxc",
+            "https://sendvid.com/embed/46af5wj6",
+            "https://sendvid.com/embed/zasp6lm1",
+            "https://sendvid.com/embed/0vz6te6s",
+            "https://sendvid.com/embed/13nzv56i",
+            "https://sendvid.com/embed/nt61zhll",
+            "https://sendvid.com/embed/0p97xlgd",
+            "https://sendvid.com/embed/3bu56dfl",
+            "https://sendvid.com/embed/aqg8avcx",
+            "https://sendvid.com/embed/dw8olwuf",
+            "https://sendvid.com/embed/my2bicct",
+            "https://sendvid.com/embed/pmsuxlwo"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4666222",
+            "https://video.sibnet.ru/shell.php?videoid=4666861",
+            "https://video.sibnet.ru/shell.php?videoid=4675657",
+            "https://video.sibnet.ru/shell.php?videoid=4684464",
+            "https://video.sibnet.ru/shell.php?videoid=4698034",
+            "https://video.sibnet.ru/shell.php?videoid=4706198",
+            "https://video.sibnet.ru/shell.php?videoid=4713737",
+            "https://video.sibnet.ru/shell.php?videoid=4724195",
+            "https://video.sibnet.ru/shell.php?videoid=4732699",
+            "https://video.sibnet.ru/shell.php?videoid=4740209",
+            "https://video.sibnet.ru/shell.php?videoid=4749557",
+            "https://video.sibnet.ru/shell.php?videoid=4757285"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/q1rjph1fb45rzgj56o1jceietr",
+            "https://www.myvi.tv/embed/jbiwro5ut91rtyggmjybdoqmkr",
+            "https://www.myvi.tv/embed/ysqd3ocy7z4rxrjw91m1zxzixa",
+            "https://www.myvi.tv/embed/th67b9yey8sr7esuwo5p7dce7a",
+            "https://www.myvi.tv/embed/3gi9gzyiduwrtbjxfcpo51ts1h",
+            "https://www.myvi.tv/embed/wwkbfhfdj6gwx8fprzo4o1s85e",
+            "https://www.myvi.tv/embed/4w5o5d7jzemruftuoxo9yj6xfe",
+            "https://www.myvi.tv/embed/bmgsrgudqk1rjgfensn4pue1te",
+            "https://www.myvi.tv/embed/e4p6hug5f75rfdbbb7r3kqgzco",
+            "https://www.myvi.tv/embed/w8w8dudoadww5cbahgf3z7ccfc",
+            "https://www.myvi.tv/embed/54aqrmx1oj4rpp99b3b64zfixr",
+            "https://www.myvi.tv/embed/9cy3aena3xkw3kmwbwzsyn8hsw"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "akuma-no-riddle",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/akuma-no-riddle.jpg",
+    "desc": "L'Académie Myôjô est une prestigieuse école privée qui réunit primaire, collège, lycée et université. Au sein de cette académie, il existe une classe spécial, la 'Black Class', qui ne compte que 13 lycéennes. C'est là que Tokaku Azuma, assassin entrainée depuis son plus jeune âge, rencontre sa nouvelle cible : Haru Ichinose. Mais Tokaku n'est pas la seule à vouloir assassiner Haru : toutes les filles de la classe, à l'exception de la cible, sont des assassins hors pairs.",
+    "genres": "Action, Drame, School-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/7tdxc8oq",
+            "https://sendvid.com/embed/4t2016mc",
+            "https://sendvid.com/embed/qmkhgk04",
+            "https://sendvid.com/embed/klcxtmpn",
+            "https://sendvid.com/embed/ioir6lh8",
+            "https://sendvid.com/embed/32ru24l7",
+            "https://sendvid.com/embed/seyxljs1",
+            "https://sendvid.com/embed/n7e3hbcc",
+            "https://sendvid.com/embed/cxxc3cua",
+            "https://sendvid.com/embed/bpq1t7mg",
+            "https://sendvid.com/embed/d0vbwbxr",
+            "https://sendvid.com/embed/vbd7mjar",
+            "https://sendvid.com/embed/nb2qpr9b"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4942190",
+            "https://video.sibnet.ru/shell.php?videoid=4942193",
+            "https://video.sibnet.ru/shell.php?videoid=4942196",
+            "https://video.sibnet.ru/shell.php?videoid=4942197",
+            "https://video.sibnet.ru/shell.php?videoid=4942200",
+            "https://video.sibnet.ru/shell.php?videoid=4942201",
+            "https://video.sibnet.ru/shell.php?videoid=4942202",
+            "https://video.sibnet.ru/shell.php?videoid=4942204",
+            "https://video.sibnet.ru/shell.php?videoid=4942205",
+            "https://video.sibnet.ru/shell.php?videoid=4942206",
+            "https://video.sibnet.ru/shell.php?videoid=4942207",
+            "https://video.sibnet.ru/shell.php?videoid=4942208",
+            "https://video.sibnet.ru/shell.php?videoid=4942209"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/6ij5sgoqrshruq89ran6pmu1go",
+            "https://www.myvi.top/embed/znb415yodc8w88mdgkf94ejgdw",
+            "https://www.myvi.top/embed/zzoekjpjupwrdk6fsrjh8ja98c",
+            "https://www.myvi.top/embed/c4rn3gcdpe1r3ncs6p44jtr4xc",
+            "https://www.myvi.top/embed/j3zfiqqayxrr3no7oequw5z13h",
+            "https://www.myvi.top/embed/nyxqko663herurxse8a39in9dh",
+            "https://www.myvi.top/embed/zy4yuq9syeyrjy15pqwg5n481e",
+            "https://www.myvi.top/embed/j8gkux8pg8er8bnqiow67rkj7o",
+            "https://www.myvi.top/embed/468zmj9c3j4wbgjt6rmx4mb1ke",
+            "https://www.myvi.top/embed/codfxrtq7gawfg4xr86esq44hc",
+            "https://www.myvi.top/embed/ps9hr365kd4w8jdq7wzx6m9cea",
+            "https://www.myvi.top/embed/a8e11njyiekw7pjbjrkug6biqc",
+            "https://www.myvi.top/embed/nf16smm6shcwdrznrb7537ywho"
+          ]
+        }
+      }
+    }
+  }
+}

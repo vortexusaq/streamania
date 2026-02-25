@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "aho-girl",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/aho-girl.jpg",
+    "desc": "Hanabatake Yoshiko est une jeune lycéenne vraiment étourdie et stupide.\n\nElle passe ses journées au lycée avec son meilleur ami d'enfance, Akutsu Akuru. Cette dernière clame, haut et fort, qu'elle est amoureuse de Akuru.\n\nAyant le don pour se mettre dans des situations plus farfelues les unes que les autres, Akuru sera là pour \"épauler\" Yoshiko.",
+    "genres": "Comédie, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/j3h3bovi",
+            "https://sendvid.com/embed/b6b7xwcs",
+            "https://sendvid.com/embed/msebxa6w",
+            "https://sendvid.com/embed/hw2e5pum",
+            "https://sendvid.com/embed/m0sjbyvu",
+            "https://sendvid.com/embed/lfxnjv37",
+            "https://sendvid.com/embed/rndy70wg",
+            "https://sendvid.com/embed/q7dtqt8l",
+            "https://sendvid.com/embed/t6cv7sxy",
+            "https://sendvid.com/embed/dj7r2b8v",
+            "https://sendvid.com/embed/aipwxmwf",
+            "https://sendvid.com/embed/gxnsiumk"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5352636",
+            "https://video.sibnet.ru/shell.php?videoid=5352637",
+            "https://video.sibnet.ru/shell.php?videoid=5352638",
+            "https://video.sibnet.ru/shell.php?videoid=5352639",
+            "https://video.sibnet.ru/shell.php?videoid=5352640",
+            "https://video.sibnet.ru/shell.php?videoid=5352641",
+            "https://video.sibnet.ru/shell.php?videoid=5352642",
+            "https://video.sibnet.ru/shell.php?videoid=5352643",
+            "https://video.sibnet.ru/shell.php?videoid=5352644",
+            "https://video.sibnet.ru/shell.php?videoid=5352645",
+            "https://video.sibnet.ru/shell.php?videoid=5352646",
+            "https://video.sibnet.ru/shell.php?videoid=5352647"
+          ]
+        }
+      }
+    }
+  }
+}

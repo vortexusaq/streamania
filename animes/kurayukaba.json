@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "kurayukaba",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kurayukaba.jpg",
+    "desc": "Les affaires tournent au ralenti à l'agence de détectives Ootsuji, et c'est pourquoi Sotaro et son jeune assistant, Saki, ne peuvent se permettre de refuser du travail, même si le contrat offert comporte un risque qui n'en vaut probablement pas la peine. En ville, la saison des festivals bat son plein, mais quelque chose ne tourne pas rond : récemment, plusieurs disparitions inexpliquées se sont succédé. Un reporter croit que la clef du mystère se trouve dans les méandres de la cité anarchique qu'on appelle l'Obscurité, c'est-à-dire un véritable labyrinthe souterrain où se trament les crimes les plus odieux et où vivent les parias de la société. Ainsi donc, le reporter embauche Sotaro pour descendre sous terre et mener une enquête, mais Sotaro délègue l'affaire à Saki. Quand celui-ci disparaît aussi, Sotaro regrette de l'avoir envoyé tout droit dans la gueule du loup. C'est maintenant au tour de Sotaro de s'aventurer dans l'Obscurité et d'y faire face aux habitants des profondeurs, comme le malicieux gang des Laughing Masks, ou l'escouade de flics renégats qui pilote le Demon 463, un terrifiant train blindé!",
+    "genres": "Action, Aventure, Steampunk, Train",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5502867"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-xwajkcypd1xd.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/e202mcor"
+          ]
+        }
+      }
+    }
+  }
+}

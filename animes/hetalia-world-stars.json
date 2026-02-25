@@ -1,0 +1,79 @@
+{
+  "data": {
+    "name": "hetalia-world-stars",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hetalia-world-stars.jpg",
+    "desc": "Comme pour la série originale, Hetalia World Stars se déroule dans un univers où les personnages sont des pays anthropomorphisés.",
+    "genres": "Comédie, Historique, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/nxksnmvg",
+            "https://sendvid.com/embed/trp9rrfq",
+            "https://sendvid.com/embed/56ogj0ty",
+            "https://sendvid.com/embed/rlpgzb6p",
+            "https://sendvid.com/embed/0is8flb9",
+            "https://sendvid.com/embed/f7yz9hie",
+            "https://sendvid.com/embed/ugpzj0h1",
+            "https://sendvid.com/embed/gt0ge2jf",
+            "https://sendvid.com/embed/ylfwq4m8",
+            "https://sendvid.com/embed/p9r402di",
+            "https://sendvid.com/embed/hxj1u528",
+            "https://sendvid.com/embed/skfcpua5"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4946700",
+            "https://video.sibnet.ru/shell.php?videoid=4946701",
+            "https://video.sibnet.ru/shell.php?videoid=4946703",
+            "https://video.sibnet.ru/shell.php?videoid=4946705",
+            "https://video.sibnet.ru/shell.php?videoid=4946706",
+            "https://video.sibnet.ru/shell.php?videoid=4946707",
+            "https://video.sibnet.ru/shell.php?videoid=4946708",
+            "https://video.sibnet.ru/shell.php?videoid=4946711",
+            "https://video.sibnet.ru/shell.php?videoid=4946712",
+            "https://video.sibnet.ru/shell.php?videoid=4946713",
+            "https://video.sibnet.ru/shell.php?videoid=4946715",
+            "https://video.sibnet.ru/shell.php?videoid=4946717"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/76fgkw1sdiswbcn7py9nycemuh",
+            "https://www.myvi.top/embed/ynnw1qub1odr98or4tz484bt1c",
+            "https://www.myvi.top/embed/jgtrwx9hu9ar7dmknr87nxeh7h",
+            "https://www.myvi.top/embed/cpm3z8uhm7gwbrnrq5nmsgo5ey",
+            "https://www.myvi.top/embed/qoecwcgep7aw3yaznmiin6zppe",
+            "https://www.myvi.top/embed/d59qcd63bd6w3gtz6kzz6kuoua",
+            "https://www.myvi.top/embed/pfq89sth6ynwdbeemz14j47aaa",
+            "https://www.myvi.top/embed/zet635t77eew3ccy9a9dfgwhfr",
+            "https://www.myvi.top/embed/omea5c5cz39w7q5sja9am1mqcc",
+            "https://www.myvi.top/embed/56n418b88bnr9qhktsmtqoixtw",
+            "https://www.myvi.top/embed/xg3umnz4gwqw5b33q7sdaffpqc",
+            "https://www.myvi.top/embed/ih93ohf4ykarukndmoxuh99cna"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/7xrstobn",
+            "https://sendvid.com/embed/e3i1o4w3",
+            "https://sendvid.com/embed/zb7kdzdd"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4946719",
+            "https://video.sibnet.ru/shell.php?videoid=4946720",
+            "https://video.sibnet.ru/shell.php?videoid=4946721"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/3u4q5945ebbwdqt6n3sumd5cmc",
+            "https://www.myvi.top/embed/n5zc5th9kw8w98kr9wh6xotwna",
+            "https://www.myvi.top/embed/ompzqqjnr66rpgt33zgcpmtb5w"
+          ]
+        }
+      }
+    }
+  }
+}

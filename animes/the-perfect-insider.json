@@ -1,0 +1,43 @@
+{
+  "data": {
+    "name": "the-perfect-insider",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-perfect-insider.jpg",
+    "desc": "L'histoire tourne autour de Souhei Saikawa, un membre du Laboratoire de Recherche de Saikawa. Lors d'un voyage scolaire avec ses étudiants et Moe Nishinosono, la fille de son mentor, qui rejoint le groupe malgré le fait qu'elle ne fasse pas partie du laboratoire. Dans le centre de recherche sur l'île, une femme à l'intelligence sur-développée, vit cachée du reste du monde et sous haute protection. Cependant, elle sera retrouvée assassinée, nos deux protagonistes vont alors enquêter sur ce mystérieux meurtre.",
+    "genres": "Drame, Mystère, Détective",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/dhi1183ixo1rx8oesrbk7i4c5a",
+            "https://www.myvi.top/embed/rfibk7ap8oywbpau53d7f4o8ue",
+            "https://www.myvi.top/embed/h36qjtwn8w5rbkj3p36k95zy7c",
+            "https://www.myvi.top/embed/ssgcpgmapnwrjp3z75uczxjoxh",
+            "https://www.myvi.top/embed/4h55byyk3ybwzmikuf15g7tuwy",
+            "https://www.myvi.top/embed/1r4sub35qrgrzgwu91is54atie",
+            "https://www.myvi.top/embed/gpjixwdykkyri8966mnie8zdth",
+            "https://www.myvi.top/embed/5i75zbgokm6wjj1zsj8czb6mjh",
+            "https://www.myvi.top/embed/5dms713wpjhrmdnkmmcddr495w",
+            "https://www.myvi.top/embed/tjyp8n6dc6ywmfkmbr8fmg4agc",
+            "https://www.myvi.top/embed/8wt3qya4zhew8fajrgmkmio57e"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/of0sbv03",
+            "https://sendvid.com/embed/k5aqpzbi",
+            "https://sendvid.com/embed/16rfytwe",
+            "https://sendvid.com/embed/wbznpap2",
+            "https://sendvid.com/embed/t8p3kfpn",
+            "https://sendvid.com/embed/bwzxp8bo",
+            "https://sendvid.com/embed/x58k7pu7",
+            "https://sendvid.com/embed/zej54neb",
+            "https://sendvid.com/embed/5fklaica",
+            "https://sendvid.com/embed/vlwvlwty",
+            "https://sendvid.com/embed/onz1ipbs"
+          ]
+        }
+      }
+    }
+  }
+}

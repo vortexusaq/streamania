@@ -1,0 +1,91 @@
+{
+  "data": {
+    "name": "terminator-zero",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/terminator-zero.jpg",
+    "desc": "2022. Une guerre fait rage depuis des décennies entre les quelques survivants humains et une armée infinie de machines. 1997. L’IA connue sous le nom de Skynet a pris conscience d’elle-même et a commencé sa guerre contre l’humanité",
+    "genres": "Action, Animation, Science-Fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5669312",
+            "https://video.sibnet.ru/shell.php?videoid=5669316",
+            "https://video.sibnet.ru/shell.php?videoid=5669321",
+            "https://video.sibnet.ru/shell.php?videoid=5669325",
+            "https://video.sibnet.ru/shell.php?videoid=5669337",
+            "https://video.sibnet.ru/shell.php?videoid=5669341",
+            "https://video.sibnet.ru/shell.php?videoid=5669346",
+            "https://video.sibnet.ru/shell.php?videoid=5669352"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-r2nlmlfcjr3h.html",
+            "https://vidmoly.to/embed-fu38503kt8s6.html",
+            "https://vidmoly.to/embed-o6255hd7ovqg.html",
+            "https://vidmoly.to/embed-lvr0z6hz65j3.html",
+            "https://vidmoly.to/embed-kgeyy9qniamb.html",
+            "https://vidmoly.to/embed-3t2mi2dr5hib.html",
+            "https://vidmoly.to/embed-oyqy45s9mbuo.html",
+            "https://vidmoly.to/embed-kpiw7pkoh717.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/red4qt62",
+            "https://sendvid.com/embed/cfyc3j2w",
+            "https://sendvid.com/embed/p4qfjkx5",
+            "https://sendvid.com/embed/evt97cdt",
+            "https://sendvid.com/embed/sr8xmzsk",
+            "https://sendvid.com/embed/593c81i3",
+            "https://sendvid.com/embed/cu6bhseb",
+            "https://sendvid.com/embed/xwiloxr0"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {}
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {}
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {}
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

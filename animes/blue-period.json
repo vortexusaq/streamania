@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "blue-period",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/blue-period.jpg",
+    "desc": "L'histoire nous entraîne dans le quotidien de Yatora Yaguchi, un lycéen avec de bonnes notes mais sans réelles ambitions. Un jour, alors qu'il entre dans la salle d'art, une peinture isolée attire son regard, le faisant découvrir une beauté qu'il n'avait jamais connue.\n\nGrâce à cette peinture, Yatora a enfin trouvé sa voie. Dans l'optique de pouvoir intégrer une université d'art, ce jeune lycéen va plonger dans ce monde sans expériences préalable.",
+    "genres": "Drame, School-Life, Seinen, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/6k6xdu0o",
+            "https://sendvid.com/embed/a7fwu0ye",
+            "https://sendvid.com/embed/5f1fjgyx",
+            "https://sendvid.com/embed/73r3dcij",
+            "https://sendvid.com/embed/hn0b14lw",
+            "https://sendvid.com/embed/8a5dmka9",
+            "https://sendvid.com/embed/9y1q96kd",
+            "https://sendvid.com/embed/szxdsw7x",
+            "https://sendvid.com/embed/fq1evili",
+            "https://sendvid.com/embed/um7k2pvw",
+            "https://sendvid.com/embed/jbkcwt4q",
+            "https://sendvid.com/embed/71jbjv91"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-vfa1rl8b4k3w.html",
+            "https://vidmoly.to/embed-095rhehf6ozy.html",
+            "https://vidmoly.to/embed-2lw4h9t04xpq.html",
+            "https://vidmoly.to/embed-0vdlqfkx4u0r.html",
+            "https://vidmoly.to/embed-igs5ftseye82.html",
+            "https://vidmoly.to/embed-msgnpqbhzfmd.html",
+            "https://vidmoly.to/embed-jvwr9lia0o2a.html",
+            "https://vidmoly.to/embed-sd9caeeuweh5.html",
+            "https://vidmoly.to/embed-yynnkcbvlwvw.html",
+            "https://vidmoly.to/embed-i05dti6kkce9.html",
+            "https://vidmoly.to/embed-nbzqsijd0mlc.html",
+            "https://vidmoly.to/embed-hkpl0behlzbb.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4444243",
+            "https://video.sibnet.ru/shell.php?videoid=4448338",
+            "https://video.sibnet.ru/shell.php?videoid=4455897",
+            "https://video.sibnet.ru/shell.php?videoid=4467310",
+            "https://video.sibnet.ru/shell.php?videoid=4493586",
+            "https://video.sibnet.ru/shell.php?videoid=4496405",
+            "https://video.sibnet.ru/shell.php?videoid=4533334",
+            "https://video.sibnet.ru/shell.php?videoid=4532495",
+            "https://video.sibnet.ru/shell.php?videoid=4539394",
+            "https://video.sibnet.ru/shell.php?videoid=4547912",
+            "https://video.sibnet.ru/shell.php?videoid=4556920",
+            "https://video.sibnet.ru/shell.php?videoid=4670994"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "sanrio-boys",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sanrio-boys.jpg",
+    "desc": "On suit le quotidien d'un groupe de cinq jeunes garçons qui sont chacun fans d'un personnage du groupe Sanrio.",
+    "genres": "Comédie, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/rkwha6yx",
+            "https://sendvid.com/embed/5apc3dy7",
+            "https://sendvid.com/embed/a7pi31cj",
+            "https://sendvid.com/embed/ksz4suss",
+            "https://sendvid.com/embed/tizf2kd3",
+            "https://sendvid.com/embed/r5sdeq4t",
+            "https://sendvid.com/embed/08ymhuqx",
+            "https://sendvid.com/embed/8ztzi5we",
+            "https://sendvid.com/embed/lz43vawe",
+            "https://sendvid.com/embed/i477i5gc",
+            "https://sendvid.com/embed/ptira7yb",
+            "https://sendvid.com/embed/7f4xxzei\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4781615",
+            "https://video.sibnet.ru/shell.php?videoid=4781616",
+            "https://video.sibnet.ru/shell.php?videoid=4781617",
+            "https://video.sibnet.ru/shell.php?videoid=4781618",
+            "https://video.sibnet.ru/shell.php?videoid=4781619",
+            "https://video.sibnet.ru/shell.php?videoid=4781623",
+            "https://video.sibnet.ru/shell.php?videoid=4781624",
+            "https://video.sibnet.ru/shell.php?videoid=4781626",
+            "https://video.sibnet.ru/shell.php?videoid=4781627",
+            "https://video.sibnet.ru/shell.php?videoid=4781628",
+            "https://video.sibnet.ru/shell.php?videoid=4781629",
+            "https://video.sibnet.ru/shell.php?videoid=4781630"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/bbeotwfbq19w9ruizspqxpe7py",
+            "https://www.myvi.tv/embed/kdtdura7hzzwiyq4hiekace5kr",
+            "https://www.myvi.tv/embed/eisgcgkctn7w9b18xmu3e1nqyc",
+            "https://www.myvi.tv/embed/w9fyjnspcfqw3ptowxzqizinio",
+            "https://www.myvi.tv/embed/fkaceb47jwcwd8xxbtch57qw6y",
+            "https://www.myvi.tv/embed/x5k36a9hazirfdo1xomqf1iaxh",
+            "https://www.myvi.tv/embed/f74c4m364zqw9fyrocdgnyyczy",
+            "https://www.myvi.tv/embed/npdm4kq8p35r8y8njhmk14nhzw",
+            "https://www.myvi.tv/embed/jmex7767a85wbxonfnd9pnnpwo",
+            "https://www.myvi.tv/embed/nbrucre4m8pwjnykah1uua1dko",
+            "https://www.myvi.tv/embed/q33dqm4uqrhw8cg5z34hi589yr",
+            "https://www.myvi.tv/embed/7rm596smge4wjgpf1qpcq7gunw"
+          ]
+        }
+      }
+    }
+  }
+}

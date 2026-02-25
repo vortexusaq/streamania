@@ -1,0 +1,29 @@
+{
+  "data": {
+    "name": "le-roi-lion",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-roi-lion.jpg",
+    "desc": "Au fond de la savane africaine, tous les animaux célèbrent la naissance de Simba, leur futur roi. Les mois passent. Simba idolâtre son père, le roi Mufasa, qui prend à cœur de lui faire comprendre les enjeux de sa royale destinée. Mais tout le monde ne semble pas de cet avis. Scar, le frère de Mufasa, l'ancien héritier du trône, a ses propres plans. La bataille pour la prise de contrôle de la Terre des Lions est ravagée par la trahison, la tragédie et le drame, ce qui finit par entraîner l'exil de Simba. Avec l'aide de deux nouveaux amis, Timon et Pumbaa, le jeune lion va devoir trouver comment grandir et reprendre ce qui lui revient de droit…",
+    "genres": "Aventure, Animation, Famille",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4761928",
+            "https://video.sibnet.ru/shell.php?videoid=4761955",
+            "https://video.sibnet.ru/shell.php?videoid=4762000",
+            "https://video.sibnet.ru/shell.php?videoid=4762866\t"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/wpneed95",
+            "https://sendvid.com/embed/10xvacdn",
+            "https://sendvid.com/embed/7ayphrf9",
+            "https://video.sibnet.ru/shell.php?videoid=4762866\t"
+          ]
+        }
+      }
+    }
+  }
+}

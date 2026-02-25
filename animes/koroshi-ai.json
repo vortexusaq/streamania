@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "koroshi-ai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/koroshi-ai.jpg",
+    "desc": "Un jour, \"Chateau Dankworth\", une chasseuse de prime appartenant à la compagnie de soutien Ritzland, rencontre le mystérieux criminel nommé Ryang-Ha. Après un affrontement remporté par le criminel, ce dernier fait une demande particulière. En effet, il demande à Chateau son nom ainsi que ses coordonnées.\n\nEt ainsi commence un jeu du chat et de la souris, dans lequel les mains des participants sont entièrement couvertes de sang...",
+    "genres": "Action, Psychologique, Romance, Assassinat, Chasseur de prime, Enquête",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/tbatnrcf",
+            "https://sendvid.com/embed/uezqy72q",
+            "https://sendvid.com/embed/rxbl778s",
+            "https://sendvid.com/embed/36f2pwk6",
+            "https://sendvid.com/embed/7qysw3lz",
+            "https://sendvid.com/embed/upm5u0dy",
+            "https://sendvid.com/embed/977e6n8y",
+            "https://sendvid.com/embed/6vwqzhgz",
+            "https://sendvid.com/embed/m7dg2dsq",
+            "https://sendvid.com/embed/twd589tc",
+            "https://sendvid.com/embed/fds7x435",
+            "https://sendvid.com/embed/so57fihl"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4574069",
+            "https://video.sibnet.ru/shell.php?videoid=4581794",
+            "https://video.sibnet.ru/shell.php?videoid=4589078",
+            "https://video.sibnet.ru/shell.php?videoid=4594887",
+            "https://video.sibnet.ru/shell.php?videoid=4601357",
+            "https://video.sibnet.ru/shell.php?videoid=4614529",
+            "https://video.sibnet.ru/shell.php?videoid=4614466",
+            "https://video.sibnet.ru/shell.php?videoid=4623329",
+            "https://video.sibnet.ru/shell.php?videoid=4629847",
+            "https://video.sibnet.ru/shell.php?videoid=4638116",
+            "https://video.sibnet.ru/shell.php?videoid=4645975",
+            "https://video.sibnet.ru/shell.php?videoid=4652365"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/p6zbw4hsqmtrbqxbz87ae6dh3w",
+            "https://www.myvi.top/embed/reqgfij6m1zwjnuuz7oi4yxarh",
+            "https://www.myvi.top/embed/mcpgihp6oq8wtgn3zod4tgthbr",
+            "https://www.myvi.top/embed/gqzf7au839twxxph5hfddk3kra",
+            "https://www.myvi.top/embed/fhnt81cr1ffwtjrc4tkpzb3uso",
+            "https://www.myvi.top/embed/gbudz3km5fewiyxqw68sptbrbw",
+            "https://www.myvi.top/embed/rohk8fo35hrwxep3jq9i4qdc4o",
+            "https://www.myvi.top/embed/1mp14h4iradwub4bbqhxaemz6w",
+            "https://www.myvi.top/embed/wb79jqor15uw3gt6w3xeuqz35o",
+            "https://www.myvi.tv/embed/1npcbpczgx3wfkju7f6sqgztbe",
+            "https://www.myvi.top/embed/jrr9eabpqt8r9xofw8txxo5pac",
+            "https://www.myvi.tv/embed/ai65efc45b4rpf49hbsdbp6r8a"
+          ]
+        }
+      }
+    }
+  }
+}

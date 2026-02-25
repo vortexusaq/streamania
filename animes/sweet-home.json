@@ -1,0 +1,41 @@
+{
+  "data": {
+    "name": "sweet-home",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sweet-home.jpg",
+    "desc": "Cha Hyeon Su, un lycéen victime de harcèlement scolaire, emménage dans l'immeuble Green Home après le décès de toute sa famille. Au bord du suicide, il ne doit sa survie qu'à la jeune Lee Eun Yu, une ex-ballerine aux allures rebelles.\nSoudain, les locataires de l'immeuble Green Homme vont devoir combattre des gens qui se transforment en monstres après l'apparition de symptômes inquiétants et tenter désespérément d'assurer leur survie.",
+    "genres": "Drame, Horreur, Mystère, Psychologique, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/havlfxcu",
+            "https://sendvid.com/embed/52u3owsk",
+            "https://sendvid.com/embed/vih27m08",
+            "https://sendvid.com/embed/c246w9qf",
+            "https://sendvid.com/embed/9k9mapxd",
+            "https://sendvid.com/embed/xeueo50t",
+            "https://sendvid.com/embed/ex2b6f8w",
+            "https://sendvid.com/embed/fuod06e2",
+            "https://sendvid.com/embed/qmee5spx",
+            "https://sendvid.com/embed/ct4dxfy6"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5331822",
+            "https://video.sibnet.ru/shell.php?videoid=5331825",
+            "https://video.sibnet.ru/shell.php?videoid=5331829",
+            "https://video.sibnet.ru/shell.php?videoid=5331832",
+            "https://video.sibnet.ru/shell.php?videoid=5331834",
+            "https://video.sibnet.ru/shell.php?videoid=5331836",
+            "https://video.sibnet.ru/shell.php?videoid=5331842",
+            "https://video.sibnet.ru/shell.php?videoid=5331843",
+            "https://video.sibnet.ru/shell.php?videoid=5331845",
+            "https://video.sibnet.ru/shell.php?videoid=5331850"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "data": {
+    "name": "kancolle",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kancolle.jpg",
+    "desc": "L'espèce humaine a perdu le contrôle des mers du monde entier face à une mystérieuse organisation nommée 'Deep Sea Fleet'. La seule riposte possible pour l'humanité réside dans l'utilisation des 'Kan-Musume', des filles qui possèdent les esprits d'anciens navires de guerre... Ces 'Kan-Musume' sont réunies à la base de Chinjufu où elles doivent vivre ensemble, travailler et suivre une formation. C'est en ces lieux qu'arrive Fubuki, une jeune fille qui a en elle l'esprit d'un navire de type destroyer.",
+    "genres": "Action, Moe, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/zphapplu",
+            "https://sendvid.com/embed/wnr9jgsw",
+            "https://sendvid.com/embed/dlcvszyl",
+            "https://sendvid.com/embed/el0vj2iv",
+            "https://sendvid.com/embed/5emqgg4i",
+            "https://sendvid.com/embed/uefnps9s",
+            "https://sendvid.com/embed/fyg7g272",
+            "https://sendvid.com/embed/tv1z4hyj",
+            "https://sendvid.com/embed/xtwl3s4l",
+            "https://sendvid.com/embed/xhecfq0a",
+            "https://sendvid.com/embed/bnmxrg2s",
+            "https://sendvid.com/embed/rey2x1se"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4956019",
+            "https://video.sibnet.ru/shell.php?videoid=4956021",
+            "https://video.sibnet.ru/shell.php?videoid=4956022",
+            "https://video.sibnet.ru/shell.php?videoid=4956023",
+            "https://video.sibnet.ru/shell.php?videoid=4956025",
+            "https://video.sibnet.ru/shell.php?videoid=4956027",
+            "https://video.sibnet.ru/shell.php?videoid=4956028",
+            "https://video.sibnet.ru/shell.php?videoid=4956029",
+            "https://video.sibnet.ru/shell.php?videoid=4956031",
+            "https://video.sibnet.ru/shell.php?videoid=4956033",
+            "https://video.sibnet.ru/shell.php?videoid=4956034",
+            "https://video.sibnet.ru/shell.php?videoid=4956035"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/cak1rers3mqw9ycajnzcw6exic",
+            "https://www.myvi.tv/embed/tea8nq9gnkrw5r6uidh5q4by1e",
+            "https://www.myvi.tv/embed/ypze4oaqjxyrfeakzb6hen5o5o",
+            "https://www.myvi.tv/embed/gq14b7e5ipywj8bjptz9pj8oby",
+            "https://www.myvi.tv/embed/atdeog3n1swrfkmo1w31b6fdpa",
+            "https://www.myvi.tv/embed/bib8u11yt7ywmxgrw4q3prgt4r",
+            "https://www.myvi.tv/embed/yaf1ru8jgsuwfxsj95x1krmwwy",
+            "https://www.myvi.tv/embed/qicu3c4e87gwpdzexunno6koxc",
+            "https://www.myvi.tv/embed/5xk991wqs9urmpibdg9wz5z1sy",
+            "https://www.myvi.tv/embed/yfaijaei7otrzczc4xpg7apkir",
+            "https://www.myvi.tv/embed/utur8dpx4gjwmkr3tbzdsms5pr",
+            "https://www.myvi.tv/embed/h9tdehjhd8arpq3kdgd7q3o3mo"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/1kmynf2t",
+            "https://sendvid.com/embed/pmngav22",
+            "https://sendvid.com/embed/w50l5kge",
+            "https://sendvid.com/embed/qwgzwk0k",
+            "https://sendvid.com/embed/i76e44ke",
+            "https://sendvid.com/embed/pooclf07",
+            "https://sendvid.com/embed/1yxqgows",
+            "https://sendvid.com/embed/imnbg872"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4957192",
+            "https://video.sibnet.ru/shell.php?videoid=4957194",
+            "https://video.sibnet.ru/shell.php?videoid=4957197",
+            "https://video.sibnet.ru/shell.php?videoid=4979379",
+            "https://video.sibnet.ru/shell.php?videoid=4987038",
+            "https://video.sibnet.ru/shell.php?videoid=5014025",
+            "https://video.sibnet.ru/shell.php?videoid=5040405",
+            "https://video.sibnet.ru/shell.php?videoid=5086554"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/8weswyq7gtyrtceaamnrp6jx4c",
+            "https://www.myvi.tv/embed/9xn8rj4ha6erdqeku6gz7yyhbw",
+            "https://www.myvi.tv/embed/tcdy56sy3x5wbksjy71ip3psjr",
+            "https://www.myvi.tv/embed/eeaueouw87drjeqb34pwmbhbsr",
+            "https://www.myvi.tv/embed/bfqpn1i69zrw7xcywsgedugdeo",
+            "https://www.myvi.tv/embed/6fkq1739g8erf8ef94t7tzfhgo",
+            "https://www.myvi.tv/embed/yknmjuo6c6pr5rmzkxdpepkoge",
+            "https://www.myvi.tv/embed/xsatio5kwomwpk1669ss7z8p1r"
+          ]
+        }
+      }
+    }
+  }
+}

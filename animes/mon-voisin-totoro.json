@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "mon-voisin-totoro",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mon-voisin-totoro.jpg",
+    "desc": "Un professeur d'université, M. Kusakabe, et ses deux filles, Satsuki, onze ans, et Mei, cinq ans, s'installent dans leur nouvelle maison à la campagne. Celle-ci est proche de l'hôpital où sa femme est hospitalisée.\n\nExplorant les alentours, Mei rencontre Totoro, sorte de créature gigantesque et maître de la forêt. Cet étonnant personnage est accompagné de deux de ses semblables, bien qu'ils soient de moindres tailles : le plus petit est blanc et le moyen est bleu. Dès lors, Mei n'a de cesse de rechercher Totoro et de passer du temps en sa compagnie. Elle découvrira notamment les divers et impressionnants pouvoirs de son nouveau compagnon, ainsi que son entourage pour le moins singulier...",
+    "genres": "Aventure, Comédie, Surnaturel\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4740100"
+          ]
+        }
+      }
+    }
+  }
+}

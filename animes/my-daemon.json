@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "my-daemon",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/my-daemon.jpg",
+    "desc": "Pour sauver sa mère, un garçon au grand cœur entreprend avec sa minuscule amie daémon un périple à travers un Japon post-apocalyptique menacé par des forces obscures.",
+    "genres": "Aventure, Fantastique, Animation",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5580229",
+            "https://video.sibnet.ru/shell.php?videoid=5580230",
+            "https://video.sibnet.ru/shell.php?videoid=5580232",
+            "https://video.sibnet.ru/shell.php?videoid=5580234",
+            "https://video.sibnet.ru/shell.php?videoid=5580236",
+            "https://video.sibnet.ru/shell.php?videoid=5580237",
+            "https://video.sibnet.ru/shell.php?videoid=5580238",
+            "https://video.sibnet.ru/shell.php?videoid=5580239",
+            "https://video.sibnet.ru/shell.php?videoid=5580240",
+            "https://video.sibnet.ru/shell.php?videoid=5580242",
+            "https://video.sibnet.ru/shell.php?videoid=5580243",
+            "https://video.sibnet.ru/shell.php?videoid=5580244",
+            "https://video.sibnet.ru/shell.php?videoid=5580245"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-az0o1w0ffjvu.html",
+            "https://vidmoly.to/embed-spp9hdixp6t2.html",
+            "https://vidmoly.to/embed-at251mzql7mm.html",
+            "https://vidmoly.to/embed-0o79k5mim1rf.html",
+            "https://vidmoly.to/embed-2z9av0pt7owf.html",
+            "https://vidmoly.to/embed-sv4s8ele02js.html",
+            "https://vidmoly.to/embed-berw1682wp7o.html",
+            "https://vidmoly.to/embed-10eeidpkrvn3.html",
+            "https://vidmoly.to/embed-zzi06cps1ezb.html",
+            "https://vidmoly.to/embed-wh5ae7m2hneh.html",
+            "https://vidmoly.to/embed-bd2j762gqu1t.html",
+            "https://vidmoly.to/embed-hcjd2vu47lpu.html",
+            "https://vidmoly.to/embed-4p45yr5vp2ry.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/cosknqju",
+            "https://sendvid.com/embed/hezjuzem",
+            "https://sendvid.com/embed/ttw0g1u6",
+            "https://sendvid.com/embed/gbo8mj8t",
+            "https://sendvid.com/embed/4wmwdyg5",
+            "https://sendvid.com/embed/ulxg5baw",
+            "https://sendvid.com/embed/g1lcq2rv",
+            "https://sendvid.com/embed/f791ph76",
+            "https://sendvid.com/embed/6u0mx7qu",
+            "https://sendvid.com/embed/87275fzt",
+            "https://sendvid.com/embed/m82dtw2n",
+            "https://sendvid.com/embed/dhk4fmqj",
+            "https://sendvid.com/embed/dub56tv3"
+          ]
+        }
+      }
+    }
+  }
+}

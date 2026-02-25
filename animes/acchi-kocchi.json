@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "acchi-kocchi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/acchi-kocchi.jpg",
+    "desc": "Acchi Kocchi est un anime adapté du manga du même nom de Ishiki dont la publication débute en 2007. Cet anime nous propose de découvrir une nouvelle génération tsundere. L'histoire est centrée sur deux camarades de classe : Tsumiki et Io, ainsi que sur leur quotidien accompagné des drôles d'énergumènes que sont Hime, Mayoi et Sakaki. Tandis que la jeune Tsumiki semble insensible, Io lui est insociable. Pourtant, un lien d'amitié va les unir...",
+    "genres": "Comédie, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/qfqe42pq",
+            "https://sendvid.com/embed/952paumk",
+            "https://sendvid.com/embed/sqlzcutj",
+            "https://sendvid.com/embed/5lohmjbt",
+            "https://sendvid.com/embed/lpf6nv2n",
+            "https://sendvid.com/embed/jrev2bwx",
+            "https://sendvid.com/embed/4lgh56or",
+            "https://sendvid.com/embed/os41rj05",
+            "https://sendvid.com/embed/yfhy1qny",
+            "https://sendvid.com/embed/uuyifwya",
+            "https://sendvid.com/embed/34q1iyx1",
+            "https://sendvid.com/embed/e4xuexh5",
+            "https://sendvid.com/embed/u70h67py"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5365478",
+            "https://video.sibnet.ru/shell.php?videoid=5365480",
+            "https://video.sibnet.ru/shell.php?videoid=5365481",
+            "https://video.sibnet.ru/shell.php?videoid=5365482",
+            "https://video.sibnet.ru/shell.php?videoid=5365483",
+            "https://video.sibnet.ru/shell.php?videoid=5365484",
+            "https://video.sibnet.ru/shell.php?videoid=5365485",
+            "https://video.sibnet.ru/shell.php?videoid=5365486",
+            "https://video.sibnet.ru/shell.php?videoid=5365488",
+            "https://video.sibnet.ru/shell.php?videoid=5365490",
+            "https://video.sibnet.ru/shell.php?videoid=5365491",
+            "https://video.sibnet.ru/shell.php?videoid=5365493",
+            "https://video.sibnet.ru/shell.php?videoid=5365494"
+          ]
+        }
+      }
+    }
+  }
+}

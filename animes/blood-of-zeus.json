@@ -1,0 +1,72 @@
+{
+  "data": {
+    "name": "blood-of-zeus",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/blood-of-zeus.jpg",
+    "desc": "Le fils illégitime de Zeus est chargé de sauver le ciel et la terre face à une déesse vengeresse.",
+    "genres": "Fantastique, Action, Animation",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5547256",
+            "https://video.sibnet.ru/shell.php?videoid=5547258",
+            "https://video.sibnet.ru/shell.php?videoid=5547260",
+            "https://video.sibnet.ru/shell.php?videoid=5547262",
+            "https://video.sibnet.ru/shell.php?videoid=5547264",
+            "https://video.sibnet.ru/shell.php?videoid=5547266",
+            "https://video.sibnet.ru/shell.php?videoid=5547268",
+            "https://video.sibnet.ru/shell.php?videoid=5547270"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5547256",
+            "https://vidmoly.to/embed-6uqdqlydgkjj.html",
+            "https://vidmoly.to/embed-n54va7a8ee61.html",
+            "https://vidmoly.to/embed-yauguu4gti6u.html",
+            "https://vidmoly.to/embed-n9cdn2rjlepz.html",
+            "https://vidmoly.to/embed-h6yjulfma2pj.html",
+            "https://vidmoly.to/embed-6xa2nlh8le79.html",
+            "https://vidmoly.to/embed-0lhjo4cusk0r.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/5bunjm0c",
+            "https://sendvid.com/embed/12k4mf58",
+            "https://sendvid.com/embed/zpxug1id",
+            "https://sendvid.com/embed/5wybucj0",
+            "https://sendvid.com/embed/6gjs9in6",
+            "https://sendvid.com/embed/eqe3rz6m",
+            "https://sendvid.com/embed/6v4wazvl",
+            "https://sendvid.com/embed/ts77wti4"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5677757",
+            "https://video.sibnet.ru/shell.php?videoid=5547274",
+            "https://video.sibnet.ru/shell.php?videoid=5547275",
+            "https://video.sibnet.ru/shell.php?videoid=5547277",
+            "https://video.sibnet.ru/shell.php?videoid=5547279",
+            "https://video.sibnet.ru/shell.php?videoid=5547281",
+            "https://video.sibnet.ru/shell.php?videoid=5547283",
+            "https://video.sibnet.ru/shell.php?videoid=5547284"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-0a2nqbzo9kfv.html",
+            "https://vidmoly.to/embed-cuuthzwodo4k.html",
+            "https://vidmoly.to/embed-7aj6uql4kxn5.html",
+            "https://vidmoly.to/embed-dokxj2lmg7km.html",
+            "https://vidmoly.to/embed-i273a0jk0o22.html",
+            "https://vidmoly.to/embed-r7r29orrfp4u.html",
+            "https://vidmoly.to/embed-7887a71b5xei.html",
+            "https://vidmoly.to/embed-ghazmj4wurm2.html"
+          ]
+        }
+      }
+    }
+  }
+}

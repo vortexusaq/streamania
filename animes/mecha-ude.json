@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "mecha-ude",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mecha-ude.jpg",
+    "desc": "L'histoire nous entraîne dans le quotidien de Hikaru, un jeune lycéen qui croise le chemin d'un puissant bras mécanique doté d'une intelligence (un Mecha-Ude). Après divers événements ce bras nommé Alma élit domicile dans la capuche de Hikaru.\n\nUn jour, Hikaru rencontre Aki, une jeune femme impulsive qui héberge deux Mecha-ude (Sinis et Dex) sous sa jupe. Nos héros vont, au fur et à mesure, rencontrer d'autres utilisateurs de Mecha-Ude qui sont à la recherche du secret de ces armes dotées d'intelligences et de sentiments.\n\n",
+    "genres": "Action, Surnaturel, Combats, Super pouvoirs",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5721955",
+            "https://video.sibnet.ru/shell.php?videoid=5721957",
+            "https://video.sibnet.ru/shell.php?videoid=5721958",
+            "https://video.sibnet.ru/shell.php?videoid=5728397",
+            "https://video.sibnet.ru/shell.php?videoid=5737022",
+            "https://video.sibnet.ru/shell.php?videoid=5744270",
+            "https://video.sibnet.ru/shell.php?videoid=5751511",
+            "https://video.sibnet.ru/shell.php?videoid=5758320",
+            "https://video.sibnet.ru/shell.php?videoid=5764436",
+            "https://video.sibnet.ru/shell.php?videoid=5768586",
+            "https://video.sibnet.ru/shell.php?videoid=5772541",
+            "https://video.sibnet.ru/shell.php?videoid=5778025"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-kfiwq9bco25z.html",
+            "https://vidmoly.to/embed-y8vyl1zy8jlj.html",
+            "https://vidmoly.to/embed-aa6lucw2kvl1.html",
+            "https://vidmoly.to/embed-wtiour4apenu.html",
+            "https://vidmoly.to/embed-s4ccqdk40ap9.html",
+            "https://vidmoly.to/embed-jr1mmxdzzjvw.html",
+            "https://vidmoly.to/embed-bx0qc2onve1t.html",
+            "https://vidmoly.to/embed-4dgu8ssyk0gu.html",
+            "https://vidmoly.to/embed-tye3fy1fdww8.html",
+            "https://vidmoly.to/embed-s7cx1pp2b2jc.html",
+            "https://vidmoly.to/embed-39r0jnm3jm4m.html",
+            "https://vidmoly.to/embed-c25l1vzva1gd.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-ea2dmaw8mg02.html",
+            "https://oneupload.to/embed-vt9kth7minvn.html",
+            "https://oneupload.to/embed-cea6gaanapq4.html",
+            "https://oneupload.to/embed-w0ptg2enrt6f.html",
+            "https://oneupload.to/embed-oxszswbua48w.html",
+            "https://oneupload.to/embed-ewfdhtcc7j3b.html",
+            "https://oneupload.to/embed-uk1b9u0q032i.html",
+            "https://oneupload.to/embed-ked2b4j3x4l5.html",
+            "https://oneupload.to/embed-qhckseckt5zo.html",
+            "https://oneupload.to/embed-kb8hetn72t86.html",
+            "https://oneupload.to/embed-m990uvglqqmg.html",
+            "https://oneupload.to/embed-7u7h57e6d76i.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/wk9a9855",
+            "https://sendvid.com/embed/o2h69vz9",
+            "https://sendvid.com/embed/vlhowd75",
+            "https://sendvid.com/embed/aa98i7ga",
+            "https://sendvid.com/embed/wg2i1a9s",
+            "https://sendvid.com/embed/ljmxszu4",
+            "https://sendvid.com/embed/pa7i4zea",
+            "https://sendvid.com/embed/eq3krxcn",
+            "https://sendvid.com/embed/dobsiofa",
+            "https://sendvid.com/embed/a45v806r",
+            "https://sendvid.com/embed/dhuoslf7",
+            "https://sendvid.com/embed/ub3j1fo2"
+          ],
+          "lec5": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456240576&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240578&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240579&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240630&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239128&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240738&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240795&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240854&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240901&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240947&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240993&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241039&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "wonder-egg-priority",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/wonder-egg-priority.jpg",
+    "desc": "Ai Ohto est une jeune fille de 14 ans qui, en raison des harcèlements qu'elle a subie, passe ses journées enfermée dans sa chambre. Un soir, lors d'une de ses escapades nocturnes, elle entend une mystérieuse voix l'appeler. Cette voix lui donne un œuf et lui dit qu'elle trouvera à l'intérieur ce qu'elle désire. Pour ce faire, elle doit casser cet œuf.\n\nQue va-t-il arriver à Ai lorsqu'elle cassera ce mystérieux œuf ?",
+    "genres": "Drame, Fantastique, Horreur, Épouvante, Mystère, Psychologique, Slice-of-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/1gke5vng",
+            "https://sendvid.com/embed/tfp8lj3e",
+            "https://sendvid.com/embed/o47ru14d",
+            "https://sendvid.com/embed/t653vp47",
+            "https://sendvid.com/embed/nt8xpahh",
+            "https://sendvid.com/embed/lraeftd5",
+            "https://sendvid.com/embed/qat75xt8",
+            "https://sendvid.com/embed/iorotqil",
+            "https://sendvid.com/embed/w9ptkyou",
+            "https://sendvid.com/embed/74yqptmd",
+            "https://sendvid.com/embed/fttiz9qy",
+            "https://sendvid.com/embed/cychjw4f",
+            "https://sendvid.com/embed/8e1dgjbn"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4207816",
+            "https://video.sibnet.ru/shell.php?videoid=4212584",
+            "https://video.sibnet.ru/shell.php?videoid=4217109",
+            "https://video.sibnet.ru/shell.php?videoid=4223622",
+            "https://video.sibnet.ru/shell.php?videoid=4229198",
+            "https://video.sibnet.ru/shell.php?videoid=4234512",
+            "https://video.sibnet.ru/shell.php?videoid=4243445",
+            "https://video.sibnet.ru/shell.php?videoid=4671692",
+            "https://video.sibnet.ru/shell.php?videoid=4257938",
+            "https://video.sibnet.ru/shell.php?videoid=4262537",
+            "https://video.sibnet.ru/shell.php?videoid=4268443",
+            "https://video.sibnet.ru/shell.php?videoid=4282582",
+            "https://video.sibnet.ru/shell.php?videoid=4671691"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-kq22prf9f244.html",
+            "https://vidmoly.to/embed-u1f06wbq054b.html",
+            "https://vidmoly.to/embed-e8unwj77fl4m.html",
+            "https://vidmoly.to/embed-72xhkqm41h9b.html",
+            "https://vidmoly.to/embed-mh948xd1kqmj.html",
+            "https://vidmoly.to/embed-3cw5dhq8vz0v.html",
+            "https://vidmoly.to/embed-fykalm8rl906.html",
+            "https://vidmoly.to/embed-bbjnf1ip4xwu.html",
+            "https://vidmoly.to/embed-6ebzbp8qx5ba.html",
+            "https://vidmoly.to/embed-5ngge5xed6co.html",
+            "https://vidmoly.to/embed-8y6dwl6gqdgw.html",
+            "https://vidmoly.to/embed-icc27m8zqkdo.html",
+            "https://video.sibnet.ru/shell.php?videoid=4671691"
+          ]
+        }
+      }
+    }
+  }
+}

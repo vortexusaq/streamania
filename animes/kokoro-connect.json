@@ -1,0 +1,74 @@
+{
+  "data": {
+    "name": "kokoro-connect",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kokoro-connect.jpg",
+    "desc": "Il s'agit du club de culture générale, mais celui-ci se démarque des autres en raison des activités particulières qui s'y déroulent. En effet, être capable d'échanger mutuellement son corps avec celui d'un autre est un phénomène pas très banal... Et ces cinq membres le prouvent. De cette étrange manière, ils vont peu à peu tisser des liens au delà de l'amitié...",
+    "genres": "Comédie, Drame, Psychologique, Romance, School-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/xmyrb10f",
+            "https://sendvid.com/embed/b882bvls",
+            "https://sendvid.com/embed/mq8svpi4",
+            "https://sendvid.com/embed/g1we5asi",
+            "https://sendvid.com/embed/zc2vqv2f",
+            "https://sendvid.com/embed/wpy9ih11",
+            "https://sendvid.com/embed/l6zncppz",
+            "https://sendvid.com/embed/b3t223kv",
+            "https://sendvid.com/embed/g80qi5gk",
+            "https://sendvid.com/embed/bif8dmyo",
+            "https://sendvid.com/embed/r2f7izlt",
+            "https://sendvid.com/embed/8g8s3fl6",
+            "https://sendvid.com/embed/m3eo4ltv",
+            "https://sendvid.com/embed/2an55ukh",
+            "https://sendvid.com/embed/j0fjpqi6",
+            "https://sendvid.com/embed/9vk8hydt",
+            "https://sendvid.com/embed/n90bofym"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4996696",
+            "https://video.sibnet.ru/shell.php?videoid=4996698",
+            "https://video.sibnet.ru/shell.php?videoid=4996699",
+            "https://video.sibnet.ru/shell.php?videoid=4996700",
+            "https://video.sibnet.ru/shell.php?videoid=4996701",
+            "https://video.sibnet.ru/shell.php?videoid=4996703",
+            "https://video.sibnet.ru/shell.php?videoid=4996704",
+            "https://video.sibnet.ru/shell.php?videoid=4996705",
+            "https://video.sibnet.ru/shell.php?videoid=4996706",
+            "https://video.sibnet.ru/shell.php?videoid=4996707",
+            "https://video.sibnet.ru/shell.php?videoid=4996708",
+            "https://video.sibnet.ru/shell.php?videoid=4996709",
+            "https://video.sibnet.ru/shell.php?videoid=4996711",
+            "https://video.sibnet.ru/shell.php?videoid=4996713",
+            "https://video.sibnet.ru/shell.php?videoid=4996716",
+            "https://video.sibnet.ru/shell.php?videoid=4996717",
+            "https://video.sibnet.ru/shell.php?videoid=4996718"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/y4jc8ios747wxqbnz4sjo9uuso",
+            "https://www.myvi.tv/embed/h5h5jeoiktrwxms5ycbntp9bbh",
+            "https://www.myvi.tv/embed/mb1773ogn3wwzeqxtk34yjfd9a",
+            "https://www.myvi.tv/embed/o3h31nq4wdnr5p7exaga3jux8c",
+            "https://www.myvi.tv/embed/p9ckgdezgnrrbbyohzac5mhwxa",
+            "https://www.myvi.tv/embed/woom11qj9aqw3khgion6tiuisw",
+            "https://www.myvi.tv/embed/hrz16m7zfgir5ratrfnt8psdah",
+            "https://www.myvi.tv/embed/ojyi99gm5x9wieyaswghgtjjwy",
+            "https://www.myvi.tv/embed/9oyuqzbwd9swikpi3ucoh1ubrw",
+            "https://www.myvi.tv/embed/tdcqs79ji3frtecp31c1c1eehh",
+            "https://www.myvi.tv/embed/qcr53am6g7xribsc3snropgg1w",
+            "https://www.myvi.tv/embed/tgajnyfgnbmr7rgdtt3pbn7frr",
+            "https://www.myvi.tv/embed/acnifq1cseowicpbt3ac6epkka",
+            "https://www.myvi.tv/embed/6zh5wwmd8w1rfkftsmjqhzcc1y",
+            "https://www.myvi.tv/embed/8dsyqtjya9yw7k8ibzise74rir",
+            "https://www.myvi.tv/embed/ecm716ycz4brpr9d5p5epm3kdh",
+            "https://www.myvi.tv/embed/b7exgqwh4quwijb8t6obs6pdxw"
+          ]
+        }
+      }
+    }
+  }
+}

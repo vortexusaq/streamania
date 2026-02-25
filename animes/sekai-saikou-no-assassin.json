@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "sekai-saikou-no-assassin",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sekai-saikou-no-assassin.jpg",
+    "desc": "Quand le plus grand assassin de l'époque est tué, il se réveille devant une Déesse qui lui propose de le réincarner dans un autre monde. Cependant, elle a une condition : il doit assassiner le héros de ce monde.\n\nAyant désormais un objectif précis, il se réincarne en tant que Lugh Tuatha, le dernier-né de la lignée d'assassins de la famille Tuatha Dé.",
+    "genres": "Action, Aventure, Comédie, Drame, Fantasy, Romance, Isekai",
+    "update": "Une saison 2 a été annoncée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4671295",
+            "https://video.sibnet.ru/shell.php?videoid=4671297",
+            "https://video.sibnet.ru/shell.php?videoid=4671300",
+            "https://video.sibnet.ru/shell.php?videoid=4671301",
+            "https://video.sibnet.ru/shell.php?videoid=4671305",
+            "https://video.sibnet.ru/shell.php?videoid=4671307",
+            "https://video.sibnet.ru/shell.php?videoid=4671311",
+            "https://video.sibnet.ru/shell.php?videoid=4671313",
+            "https://video.sibnet.ru/shell.php?videoid=4671315",
+            "https://video.sibnet.ru/shell.php?videoid=4671319",
+            "https://video.sibnet.ru/shell.php?videoid=4671323",
+            "https://video.sibnet.ru/shell.php?videoid=4671325"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/svhk96u4",
+            "https://sendvid.com/embed/omx2xzil",
+            "https://sendvid.com/embed/mrfe0nke",
+            "https://sendvid.com/embed/nn7t1th7",
+            "https://sendvid.com/embed/nqtxmfp3",
+            "https://sendvid.com/embed/2we3vgue",
+            "https://sendvid.com/embed/pfft2e8o",
+            "https://sendvid.com/embed/kfaci370",
+            "https://sendvid.com/embed/sf0jvzgw",
+            "https://sendvid.com/embed/w8yl6a05",
+            "https://sendvid.com/embed/50org3u1",
+            "https://sendvid.com/embed/dxrv04cl"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-k38vz6a86tn2.html",
+            "https://vidmoly.to/embed-b64whejc00g1.html",
+            "https://vidmoly.to/embed-mbxi2ixbda2u.html",
+            "https://vidmoly.to/embed-0k3jo4aphian.html",
+            "https://vidmoly.to/embed-6z21pd95b78g.html",
+            "https://vidmoly.to/embed-azfgwcoq83ir.html",
+            "https://vidmoly.to/embed-xsrmegn9sx9d.html",
+            "https://vidmoly.to/embed-22sgd2p0z0jc.html",
+            "https://vidmoly.to/embed-h02v5azk2dsz.html",
+            "https://vidmoly.to/embed-26poagzbz7m9.html",
+            "https://vidmoly.to/embed-6lmj4tj8oezk.html",
+            "https://vidmoly.to/embed-ylevk6jbkblr.html"
+          ]
+        }
+      }
+    }
+  }
+}

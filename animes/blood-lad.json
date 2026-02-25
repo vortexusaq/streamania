@@ -1,0 +1,67 @@
+{
+  "data": {
+    "name": "blood-lad",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/blood-lad.jpg",
+    "desc": "Staz C.Vlad est un vampire pas tout à fait comme les autres : il est totalement accro à la culture humaine, et plus particulièrement à la culture japonaise. Alors le jour où il apprend qu'une japonaise s'est égarée aux enfers, il se précipite à sa rencontre. Malheureusement, la jeune Yanagi Fuyumi meurt peu après leur rencontre et se transforme en fantôme. Staz se jure alors de la ramener à la vie, quelles qu'en soit les conséquences.\n\nLe problème, c'est qu'il ne sait absolument pas comment faire.",
+    "genres": "Action, Comédie, Ecchi, Romance, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/bqo89nb3m65rfgqbpcr6fuknio",
+            "https://www.myvi.top/embed/yo8boijoq79rzdb341a51wanqo",
+            "https://www.myvi.top/embed/s41pgnkzuh6w8y5aqjre1o3g1o",
+            "https://www.myvi.top/embed/sze3fkp9stzwbf69efw4w59irw",
+            "https://www.myvi.top/embed/ucw547d1y4ewmk4gqmjedqymqe",
+            "https://www.myvi.top/embed/13rt546msqywxxx5859hxacrmy",
+            "https://www.myvi.top/embed/au464cxr85jwmc5y5po8n1ohsr",
+            "https://www.myvi.top/embed/8thubd514adwjqiu7ra6kpwdir",
+            "https://www.myvi.top/embed/k1duda61xj6r7cbf6e6trpskew",
+            "https://www.myvi.top/embed/9tcw1is78b8rfdozfgbnnixhqw"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4705772",
+            "https://video.sibnet.ru/shell.php?videoid=4705774",
+            "https://video.sibnet.ru/shell.php?videoid=4705776",
+            "https://video.sibnet.ru/shell.php?videoid=4705779",
+            "https://video.sibnet.ru/shell.php?videoid=4705781",
+            "https://video.sibnet.ru/shell.php?videoid=4705785",
+            "https://video.sibnet.ru/shell.php?videoid=4705786",
+            "https://video.sibnet.ru/shell.php?videoid=4705788",
+            "https://video.sibnet.ru/shell.php?videoid=4705790",
+            "https://video.sibnet.ru/shell.php?videoid=4705792"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/tias50a0",
+            "https://sendvid.com/embed/c2lfkit4",
+            "https://sendvid.com/embed/j6h3lyaf",
+            "https://sendvid.com/embed/dapzixbt",
+            "https://sendvid.com/embed/5hkcvovd",
+            "https://sendvid.com/embed/4ofiwo30",
+            "https://sendvid.com/embed/sk0mj8z7",
+            "https://sendvid.com/embed/od6cd2t9",
+            "https://sendvid.com/embed/ch4x6kz9",
+            "https://sendvid.com/embed/qaofwhwi"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/irgkfwxhsk1rub6qxb3gwysn9a"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4705794"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/l3wdt72f"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "vermeil-in-gold",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/vermeil-in-gold.jpg",
+    "desc": "Alto Goldfilled est étudiant dans une académie magique et vise à devenir un maître de toute magie. Cependant, alors qu'il est sur le point d'échouer lors d'un cours, il trouve un vieux grimoire d'invocations. Suivant les instructions du grimoire, Alto inscrit un cercle magique et finit par invoquer un puissant démon nommé Vermeil. Ce dernier fut scellé il y a longtemps, mais Alto décide d'en faire son familier. En échange, Vermeil demande occasionnellement de l'énergie magique à Alto.\n\n",
+    "genres": "Comédie, Fantasy",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/nblz9eyl",
+            "https://sendvid.com/embed/90t584bi",
+            "https://sendvid.com/embed/84dx3rnd",
+            "https://sendvid.com/embed/gb9ra9og",
+            "https://sendvid.com/embed/t79ehjy2",
+            "https://sendvid.com/embed/r2cz4nje",
+            "https://sendvid.com/embed/bzmo7lv4",
+            "https://sendvid.com/embed/bhysv7nt",
+            "https://sendvid.com/embed/0gnzkt5r",
+            "https://sendvid.com/embed/qhcl8asc",
+            "https://sendvid.com/embed/hed9akdg",
+            "https://sendvid.com/embed/w9phbz8c"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4796287",
+            "https://video.sibnet.ru/shell.php?videoid=4796288",
+            "https://video.sibnet.ru/shell.php?videoid=4797850",
+            "https://video.sibnet.ru/shell.php?videoid=4802162",
+            "https://video.sibnet.ru/shell.php?videoid=4811040",
+            "https://video.sibnet.ru/shell.php?videoid=4819464",
+            "https://video.sibnet.ru/shell.php?videoid=4831123",
+            "https://video.sibnet.ru/shell.php?videoid=4841197",
+            "https://video.sibnet.ru/shell.php?videoid=4851279",
+            "https://video.sibnet.ru/shell.php?videoid=4861039",
+            "https://video.sibnet.ru/shell.php?videoid=4869869",
+            "https://video.sibnet.ru/shell.php?videoid=4878272"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ci96x58bsqardnb9resacjsgxh",
+            "https://www.myvi.tv/embed/4jxcb9pgkfarjfh81xnrj4uu3o",
+            "https://www.myvi.tv/embed/di9r4hxu9zywbq6m7eq6baokor",
+            "https://www.myvi.tv/embed/tgsjkqbytriwpx86c3yho5en8r",
+            "https://www.myvi.tv/embed/uw4i8f6pcxhrdykq74ouf3mj9w",
+            "https://www.myvi.tv/embed/xtr1tod5bpxrzkcmzmuwapjeay",
+            "https://www.myvi.tv/embed/6zgxistbrterbm1ybes8hnwsqw",
+            "https://www.myvi.tv/embed/ph4cmmcj93iwzgbfoskfofxt4e",
+            "https://www.myvi.tv/embed/fgwbpkighxawxyickkopjeg44c",
+            "https://www.myvi.tv/embed/nrnjj1gdm3jrdn5jr3tgdk7kqy",
+            "https://www.myvi.tv/embed/gti6bq8ouzow9pze454w7kqz7r",
+            "https://www.myvi.tv/embed/h63tdbbsoiswtdwecr1ia8xu6a"
+          ]
+        }
+      }
+    }
+  }
+}

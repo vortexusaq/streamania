@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "kimi-no-koe-wo-todoketai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kimi-no-koe-wo-todoketai.jpg",
+    "desc": "L'histoire narre les inquiétudes, les conflits et les rêves de jeunes lycéennes. Dans ce village près de la mer, Nagisa, une jeune femme âgée de 16 ans vivant dans la ville de Hinosakacho, est inquiète de ne pas trouver son propre rêve. Lorsqu'elle était enfant sa grand-mère lui racontait que la langue a une âme nommée Kotodama. Depuis un incident, elle a commencé à y croire. Un jour, Nagisa erre dans une petite station de radio abandonnée et fait semblant d'être une DJ. Ce qu'elle va enregistrer va dépasser tout ce qu'elle espérait.",
+    "genres": "Drame, Slice-of-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4813102\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/8abywj1qk7orxjxqd7csasqnyh"
+          ]
+        }
+      }
+    }
+  }
+}

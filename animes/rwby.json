@@ -1,0 +1,522 @@
+{
+  "data": {
+    "name": "rwby",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/rwby-ice-queendom.jpg",
+    "desc": "RWBY dépeint un monde rempli d'horribles monstres qui s'acharnent à tuer et à détruire, et le seul espoir de l'humanité repose sur de puissants chasseurs et chasseresses. Ruby Rose, Weiss Schnee, Blake Belladonna et Yang Xiao Long sont quatre de ces chasseresses en formation dont les voyages les mèneront bien au-delà de l'enceinte de leur école. Cependant, il semblerait qu'une nouvelle menace soit sur le point de les attaquer...",
+    "genres": "Action, Aventure, Fantastique, Surnaturel, Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 10,
+      "Ice Queendom": {
+        "url": "saison1hs/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/1iaqh6fy",
+            "https://sendvid.com/embed/zluw24uy",
+            "https://sendvid.com/embed/yew0jjeb",
+            "https://sendvid.com/embed/0prgeilj",
+            "https://sendvid.com/embed/w3ul196r",
+            "https://sendvid.com/embed/2vprkpsm",
+            "https://sendvid.com/embed/h958u0fl",
+            "https://sendvid.com/embed/f1ggrwqg",
+            "https://sendvid.com/embed/44gvrkfx",
+            "https://sendvid.com/embed/f50fxrb6",
+            "https://sendvid.com/embed/0bmsqlfi",
+            "https://sendvid.com/embed/k9w70jpv"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4776623",
+            "https://video.sibnet.ru/shell.php?videoid=4784529",
+            "https://video.sibnet.ru/shell.php?videoid=4796433",
+            "https://video.sibnet.ru/shell.php?videoid=4799985",
+            "https://video.sibnet.ru/shell.php?videoid=4808362",
+            "https://video.sibnet.ru/shell.php?videoid=4816692",
+            "https://video.sibnet.ru/shell.php?videoid=4825926",
+            "https://video.sibnet.ru/shell.php?videoid=4838380",
+            "https://video.sibnet.ru/shell.php?videoid=4849068",
+            "https://video.sibnet.ru/shell.php?videoid=4857851",
+            "https://video.sibnet.ru/shell.php?videoid=4866493",
+            "https://video.sibnet.ru/shell.php?videoid=4876057"
+          ]
+        }
+      },
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523367",
+            "https://video.sibnet.ru/shell.php?videoid=5523368",
+            "https://video.sibnet.ru/shell.php?videoid=5523369",
+            "https://video.sibnet.ru/shell.php?videoid=5523370",
+            "https://video.sibnet.ru/shell.php?videoid=5523372",
+            "https://video.sibnet.ru/shell.php?videoid=5523373",
+            "https://video.sibnet.ru/shell.php?videoid=5523374",
+            "https://video.sibnet.ru/shell.php?videoid=5523375",
+            "https://video.sibnet.ru/shell.php?videoid=5523376",
+            "https://video.sibnet.ru/shell.php?videoid=5523378",
+            "https://video.sibnet.ru/shell.php?videoid=5523379",
+            "https://video.sibnet.ru/shell.php?videoid=5523380",
+            "https://video.sibnet.ru/shell.php?videoid=5523381",
+            "https://video.sibnet.ru/shell.php?videoid=5523382",
+            "https://video.sibnet.ru/shell.php?videoid=5523383",
+            "https://video.sibnet.ru/shell.php?videoid=5523384"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-dqlue27439p0.html",
+            "https://vidmoly.to/embed-o8yhde4dil6r.html",
+            "https://vidmoly.to/embed-2vdma6r6ik88.html",
+            "https://vidmoly.to/embed-sb3hp7fnqnlm.html",
+            "https://vidmoly.to/embed-0kqz6bs0izgk.html",
+            "https://vidmoly.to/embed-5txa8fgjm7ow.html",
+            "https://vidmoly.to/embed-9mt67qxdj5a0.html",
+            "https://vidmoly.to/embed-pjfrc2s1igea.html",
+            "https://vidmoly.to/embed-fu29b2onsbiv.html",
+            "https://vidmoly.to/embed-v6p7tbhqzlh7.html",
+            "https://vidmoly.to/embed-jmj6ql3q55po.html",
+            "https://vidmoly.to/embed-85wq5fiz8rb9.html",
+            "https://vidmoly.to/embed-nbu613ucou3c.html",
+            "https://vidmoly.to/embed-h3vtqlmtope8.html",
+            "https://vidmoly.to/embed-ba81tv2ym8ox.html",
+            "https://vidmoly.to/embed-5nixahigmsc8.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/bga1psx9",
+            "https://sendvid.com/embed/mvvgei0q",
+            "https://sendvid.com/embed/tbc9qdm0",
+            "https://sendvid.com/embed/xapry4kr",
+            "https://sendvid.com/embed/wsmv8pek",
+            "https://sendvid.com/embed/w6xsr7pq",
+            "https://sendvid.com/embed/wdcmmiad",
+            "https://sendvid.com/embed/uu2k42tw",
+            "https://sendvid.com/embed/u3ppf5rq",
+            "https://sendvid.com/embed/ymd1p2wi",
+            "https://sendvid.com/embed/lf58ytyh",
+            "https://sendvid.com/embed/ocz04hrq",
+            "https://sendvid.com/embed/wagw29w3",
+            "https://sendvid.com/embed/tfqqhng4",
+            "https://sendvid.com/embed/945zua4u",
+            "https://sendvid.com/embed/3iwwg0sb"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523385",
+            "https://video.sibnet.ru/shell.php?videoid=5523386",
+            "https://video.sibnet.ru/shell.php?videoid=5523387",
+            "https://video.sibnet.ru/shell.php?videoid=5523388",
+            "https://video.sibnet.ru/shell.php?videoid=5523389",
+            "https://video.sibnet.ru/shell.php?videoid=5523390",
+            "https://video.sibnet.ru/shell.php?videoid=5523392",
+            "https://video.sibnet.ru/shell.php?videoid=5523393",
+            "https://video.sibnet.ru/shell.php?videoid=5523394",
+            "https://video.sibnet.ru/shell.php?videoid=5523395",
+            "https://video.sibnet.ru/shell.php?videoid=5523396",
+            "https://video.sibnet.ru/shell.php?videoid=5523398",
+            "https://video.sibnet.ru/shell.php?videoid=5523399",
+            "https://video.sibnet.ru/shell.php?videoid=5523400",
+            "https://video.sibnet.ru/shell.php?videoid=5523401"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-zqwnwlcj631c.html",
+            "https://vidmoly.to/embed-0qzxuvogrbxa.html",
+            "https://vidmoly.to/embed-ji767spcyphf.html",
+            "https://vidmoly.to/embed-hucxkxacsf0o.html",
+            "https://vidmoly.to/embed-rfj12qiwh5dw.html",
+            "https://vidmoly.to/embed-hto4vofht1zo.html",
+            "https://vidmoly.to/embed-615pglszp3g5.html",
+            "https://vidmoly.to/embed-92tkgdlsmkem.html",
+            "https://vidmoly.to/embed-f7wn5nzatz7f.html",
+            "https://vidmoly.to/embed-u1ukrwj60bfw.html",
+            "https://vidmoly.to/embed-0piey6m6ranb.html",
+            "https://vidmoly.to/embed-rmef2xoekfal.html",
+            "https://vidmoly.to/embed-pwdswwhklg7d.html",
+            "https://vidmoly.to/embed-y0ou9zr2147t.html",
+            "https://vidmoly.to/embed-83c0sdi8qx88.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/mg8geusj",
+            "https://sendvid.com/embed/kus209jz",
+            "https://sendvid.com/embed/i0hnk2pm",
+            "https://sendvid.com/embed/1vrf446w",
+            "https://sendvid.com/embed/mtduj7cj",
+            "https://sendvid.com/embed/rmxouia8",
+            "https://sendvid.com/embed/myedjz6o",
+            "https://sendvid.com/embed/bc5zkos9",
+            "https://sendvid.com/embed/poiutfiv",
+            "https://sendvid.com/embed/9x7xss99",
+            "https://sendvid.com/embed/sm90vkku",
+            "https://sendvid.com/embed/4ygvdf8a",
+            "https://sendvid.com/embed/mfyvefmg",
+            "https://sendvid.com/embed/yrbqpvbz",
+            "https://sendvid.com/embed/g3nyvnwj"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523403",
+            "https://video.sibnet.ru/shell.php?videoid=5523406",
+            "https://video.sibnet.ru/shell.php?videoid=5523407",
+            "https://video.sibnet.ru/shell.php?videoid=5523410",
+            "https://video.sibnet.ru/shell.php?videoid=5523411",
+            "https://video.sibnet.ru/shell.php?videoid=5523412",
+            "https://video.sibnet.ru/shell.php?videoid=5523413",
+            "https://video.sibnet.ru/shell.php?videoid=5523414",
+            "https://video.sibnet.ru/shell.php?videoid=5523415",
+            "https://video.sibnet.ru/shell.php?videoid=5523416",
+            "https://video.sibnet.ru/shell.php?videoid=5523417",
+            "https://video.sibnet.ru/shell.php?videoid=5523419",
+            "https://video.sibnet.ru/shell.php?videoid=5523420",
+            "https://video.sibnet.ru/shell.php?videoid=5523422",
+            "https://video.sibnet.ru/shell.php?videoid=5523423"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-sk910davhuii.html",
+            "https://vidmoly.to/embed-wr8z1wlkjubb.html",
+            "https://vidmoly.to/embed-9a2fcc92s3k0.html",
+            "https://vidmoly.to/embed-2ftksbm6094e.html",
+            "https://vidmoly.to/embed-4vif4qr763z1.html",
+            "https://vidmoly.to/embed-ubjupft85pp6.html",
+            "https://vidmoly.to/embed-tz9d2eoaz2fd.html",
+            "https://vidmoly.to/embed-hxid3oce5n2m.html",
+            "https://vidmoly.to/embed-sj7ya1tlkdjp.html",
+            "https://vidmoly.to/embed-l5udxk295szm.html",
+            "https://vidmoly.to/embed-d0epzlk4hog4.html",
+            "https://vidmoly.to/embed-fcgr27tq703p.html",
+            "https://vidmoly.to/embed-sibl1un3ovub.html",
+            "https://vidmoly.to/embed-e6ueei8f5adb.html",
+            "https://vidmoly.to/embed-rskdjco9en3c.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/2r9d4u32",
+            "https://sendvid.com/embed/g1dg1a4t",
+            "https://sendvid.com/embed/y2hrhneu",
+            "https://sendvid.com/embed/j3mvb520",
+            "https://sendvid.com/embed/hhihp2bq",
+            "https://sendvid.com/embed/eycycgrd",
+            "https://sendvid.com/embed/aqz8qv55",
+            "https://sendvid.com/embed/5jeiev4q",
+            "https://sendvid.com/embed/skleb8en",
+            "https://sendvid.com/embed/di09axt5",
+            "https://sendvid.com/embed/uoenhh6z",
+            "https://sendvid.com/embed/120606ng",
+            "https://sendvid.com/embed/1von3rkj",
+            "https://sendvid.com/embed/hogj7vc4",
+            "https://sendvid.com/embed/warr5sfj"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523424",
+            "https://video.sibnet.ru/shell.php?videoid=5523425",
+            "https://video.sibnet.ru/shell.php?videoid=5523426",
+            "https://video.sibnet.ru/shell.php?videoid=5523428",
+            "https://video.sibnet.ru/shell.php?videoid=5523429",
+            "https://video.sibnet.ru/shell.php?videoid=5523430",
+            "https://video.sibnet.ru/shell.php?videoid=5523431",
+            "https://video.sibnet.ru/shell.php?videoid=5523432",
+            "https://video.sibnet.ru/shell.php?videoid=5523434",
+            "https://video.sibnet.ru/shell.php?videoid=5523435",
+            "https://video.sibnet.ru/shell.php?videoid=5523436",
+            "https://video.sibnet.ru/shell.php?videoid=5523437",
+            "https://video.sibnet.ru/shell.php?videoid=5523438",
+            "https://video.sibnet.ru/shell.php?videoid=5523440",
+            "https://video.sibnet.ru/shell.php?videoid=5523441",
+            "https://video.sibnet.ru/shell.php?videoid=5523443"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-fqqn06kwgndv.html",
+            "https://vidmoly.to/embed-wsff5acq7kx6.html",
+            "https://vidmoly.to/embed-d2cepbvl8b0k.html",
+            "https://vidmoly.to/embed-g4r3qpppjfv5.html",
+            "https://vidmoly.to/embed-b0f0dz98xry2.html",
+            "https://vidmoly.to/embed-qzpkxsnd05v7.html",
+            "https://vidmoly.to/embed-avnuhj3ympjn.html",
+            "https://vidmoly.to/embed-ictbv2u04jku.html",
+            "https://vidmoly.to/embed-6zj2yi4cxcme.html",
+            "https://vidmoly.to/embed-tjbtb6cm40p3.html",
+            "https://vidmoly.to/embed-0wd4dx7j6va1.html",
+            "https://vidmoly.to/embed-psxg7h5z2s5n.html",
+            "https://vidmoly.to/embed-k0nt5ycro9ub.html",
+            "https://vidmoly.to/embed-l6ze0lwyuz0i.html",
+            "https://vidmoly.to/embed-i7nzgte0juar.html",
+            "https://vidmoly.to/embed-0eyek739l70k.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/zgf2y5mz",
+            "https://sendvid.com/embed/3osk91zk",
+            "https://sendvid.com/embed/csgwbn7p",
+            "https://sendvid.com/embed/a16v02sn",
+            "https://sendvid.com/embed/1hmdtefx",
+            "https://sendvid.com/embed/4qgytdla",
+            "https://sendvid.com/embed/lyipjr4s",
+            "https://sendvid.com/embed/okn0wery",
+            "https://sendvid.com/embed/rdgd32t5",
+            "https://sendvid.com/embed/2k4kgl9o",
+            "https://sendvid.com/embed/1uo522z1",
+            "https://sendvid.com/embed/j2hc7rmp",
+            "https://sendvid.com/embed/fzm7qq53",
+            "https://sendvid.com/embed/698ib13b",
+            "https://sendvid.com/embed/l0fkuzlq",
+            "https://sendvid.com/embed/mnwm1o4z"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523445",
+            "https://video.sibnet.ru/shell.php?videoid=5523446",
+            "https://video.sibnet.ru/shell.php?videoid=5523447",
+            "https://video.sibnet.ru/shell.php?videoid=5523448",
+            "https://video.sibnet.ru/shell.php?videoid=5523449",
+            "https://video.sibnet.ru/shell.php?videoid=5523450",
+            "https://video.sibnet.ru/shell.php?videoid=5523451",
+            "https://video.sibnet.ru/shell.php?videoid=5523452",
+            "https://video.sibnet.ru/shell.php?videoid=5523454",
+            "https://video.sibnet.ru/shell.php?videoid=5523455",
+            "https://video.sibnet.ru/shell.php?videoid=5523456",
+            "https://video.sibnet.ru/shell.php?videoid=5523457",
+            "https://video.sibnet.ru/shell.php?videoid=5523458",
+            "https://video.sibnet.ru/shell.php?videoid=5523460"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-mwnkdnge7ono.html",
+            "https://vidmoly.to/embed-qggwj39ly28o.html",
+            "https://vidmoly.to/embed-w31ppvgeh12j.html",
+            "https://vidmoly.to/embed-m2iw5f90je92.html",
+            "https://vidmoly.to/embed-376mt5comfts.html",
+            "https://vidmoly.to/embed-wdg54eimndnx.html",
+            "https://vidmoly.to/embed-wg4fo9lywvmc.html",
+            "https://vidmoly.to/embed-7b656rd0g4ps.html",
+            "https://vidmoly.to/embed-wt7d21v2822g.html",
+            "https://vidmoly.to/embed-prmdftktp97v.html",
+            "https://vidmoly.to/embed-29im2owwc28x.html",
+            "https://vidmoly.to/embed-sl4cla4loq2v.html",
+            "https://vidmoly.to/embed-xhise2ooqiam.html",
+            "https://vidmoly.to/embed-7ulxeuhf46wf.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/xt4diivl",
+            "https://sendvid.com/embed/nqrl95ro",
+            "https://sendvid.com/embed/41353lja",
+            "https://sendvid.com/embed/vp9vnoec",
+            "https://sendvid.com/embed/n4p84m9z",
+            "https://sendvid.com/embed/56rncl8s",
+            "https://sendvid.com/embed/hldgcfj0",
+            "https://sendvid.com/embed/iud6a7dr",
+            "https://sendvid.com/embed/ltz9biog",
+            "https://sendvid.com/embed/vjl1yr8g",
+            "https://sendvid.com/embed/2mxc6sfn",
+            "https://sendvid.com/embed/bp3eow8o",
+            "https://sendvid.com/embed/fvdq3qkt",
+            "https://sendvid.com/embed/39tmf8lb"
+          ]
+        }
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523461",
+            "https://video.sibnet.ru/shell.php?videoid=5523463",
+            "https://video.sibnet.ru/shell.php?videoid=5523464",
+            "https://video.sibnet.ru/shell.php?videoid=5523467",
+            "https://video.sibnet.ru/shell.php?videoid=5523468",
+            "https://video.sibnet.ru/shell.php?videoid=5523470",
+            "https://video.sibnet.ru/shell.php?videoid=5523472",
+            "https://video.sibnet.ru/shell.php?videoid=5523474",
+            "https://video.sibnet.ru/shell.php?videoid=5523475",
+            "https://video.sibnet.ru/shell.php?videoid=5523476",
+            "https://video.sibnet.ru/shell.php?videoid=5523478",
+            "https://video.sibnet.ru/shell.php?videoid=5523481",
+            "https://video.sibnet.ru/shell.php?videoid=5523482"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-3wj20momonr7.html",
+            "https://vidmoly.to/embed-0mbj7zqpyo9e.html",
+            "https://vidmoly.to/embed-4ugfxv7hiuw0.html",
+            "https://vidmoly.to/embed-sgft6hnx72np.html",
+            "https://vidmoly.to/embed-0sfn7m9dhpcp.html",
+            "https://vidmoly.to/embed-dmhvju7na0zs.html",
+            "https://vidmoly.to/embed-r4z20gu6pkh8.html",
+            "https://vidmoly.to/embed-e070gs4pfy7j.html",
+            "https://vidmoly.to/embed-cykigeeql4q0.html",
+            "https://vidmoly.to/embed-glsvqknhe9it.html",
+            "https://vidmoly.to/embed-zhvtc3kagn6z.html",
+            "https://vidmoly.to/embed-6ncurvd4s8vk.html",
+            "https://vidmoly.to/embed-sk15vwc8e83t.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/ow5vk7pl",
+            "https://sendvid.com/embed/obdu95pd",
+            "https://sendvid.com/embed/z7imo42u",
+            "https://sendvid.com/embed/zjlzcmel",
+            "https://sendvid.com/embed/y2a9z5v5",
+            "https://sendvid.com/embed/xhje27j3",
+            "https://sendvid.com/embed/ggppcww0",
+            "https://sendvid.com/embed/z3jlxuux",
+            "https://sendvid.com/embed/mp9216sk",
+            "https://sendvid.com/embed/44cw7f2x",
+            "https://sendvid.com/embed/a056our0",
+            "https://sendvid.com/embed/rzneg9ds",
+            "https://sendvid.com/embed/8orxj6co"
+          ]
+        }
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523484",
+            "https://video.sibnet.ru/shell.php?videoid=5523485",
+            "https://video.sibnet.ru/shell.php?videoid=5523486",
+            "https://video.sibnet.ru/shell.php?videoid=5523487",
+            "https://video.sibnet.ru/shell.php?videoid=5523488",
+            "https://video.sibnet.ru/shell.php?videoid=5523490",
+            "https://video.sibnet.ru/shell.php?videoid=5523491",
+            "https://video.sibnet.ru/shell.php?videoid=5523492",
+            "https://video.sibnet.ru/shell.php?videoid=5523493",
+            "https://video.sibnet.ru/shell.php?videoid=5523494",
+            "https://video.sibnet.ru/shell.php?videoid=5523495",
+            "https://video.sibnet.ru/shell.php?videoid=5523496",
+            "https://video.sibnet.ru/shell.php?videoid=5523497"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-2zdpoxkylt54.html",
+            "https://vidmoly.to/embed-zcwsot7n3fh0.html",
+            "https://vidmoly.to/embed-qqzwdewo39iq.html",
+            "https://vidmoly.to/embed-332632rnypn7.html",
+            "https://vidmoly.to/embed-b0ujtatszbeq.html",
+            "https://vidmoly.to/embed-0a1f0ifqbl1i.html",
+            "https://vidmoly.to/embed-vyvmrclxewvp.html",
+            "https://vidmoly.to/embed-ngxidz67ogel.html",
+            "https://vidmoly.to/embed-2h7i5vgie4ke.html",
+            "https://vidmoly.to/embed-5h6gdpq9wjjd.html",
+            "https://vidmoly.to/embed-dmp81y3xk494.html",
+            "https://vidmoly.to/embed-p4qqyxsi67kr.html",
+            "https://vidmoly.to/embed-rdh8q1ni4fc5.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/haiyi8ef",
+            "https://sendvid.com/embed/eom4dzev",
+            "https://sendvid.com/embed/leuw6zp3",
+            "https://sendvid.com/embed/600wcm2o",
+            "https://sendvid.com/embed/vdzg4co5",
+            "https://sendvid.com/embed/mcrs26o1",
+            "https://sendvid.com/embed/yv6051fa",
+            "https://sendvid.com/embed/kbh3yvdg",
+            "https://sendvid.com/embed/aagydod7",
+            "https://sendvid.com/embed/25iuldac",
+            "https://sendvid.com/embed/mng1utxg",
+            "https://sendvid.com/embed/wsjcjk5b",
+            "https://sendvid.com/embed/9rsyuy5u"
+          ]
+        }
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523498",
+            "https://video.sibnet.ru/shell.php?videoid=5523499",
+            "https://video.sibnet.ru/shell.php?videoid=5523500",
+            "https://video.sibnet.ru/shell.php?videoid=5523502",
+            "https://video.sibnet.ru/shell.php?videoid=5523503",
+            "https://video.sibnet.ru/shell.php?videoid=5523506",
+            "https://video.sibnet.ru/shell.php?videoid=5523507",
+            "https://video.sibnet.ru/shell.php?videoid=5523508",
+            "https://video.sibnet.ru/shell.php?videoid=5523510",
+            "https://video.sibnet.ru/shell.php?videoid=5523512",
+            "https://video.sibnet.ru/shell.php?videoid=5523513",
+            "https://video.sibnet.ru/shell.php?videoid=5523514",
+            "https://video.sibnet.ru/shell.php?videoid=5523515",
+            "https://video.sibnet.ru/shell.php?videoid=5523517"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-kd7w4t8lnokk.html",
+            "https://vidmoly.to/embed-rv5e0jewb5pp.html",
+            "https://vidmoly.to/embed-1mps6601jm78.html",
+            "https://vidmoly.to/embed-2evtrqanbpwf.html",
+            "https://vidmoly.to/embed-qhbr6ivtnquz.html",
+            "https://vidmoly.to/embed-kc8c6f2ie2u1.html",
+            "https://vidmoly.to/embed-y2mlmvmmjcix.html",
+            "https://vidmoly.to/embed-6rfc0ptlddwf.html",
+            "https://vidmoly.to/embed-6hb29esnc6vv.html",
+            "https://vidmoly.to/embed-y9fwf1wy3hsf.html",
+            "https://vidmoly.to/embed-nmpclvkmkpzu.html",
+            "https://vidmoly.to/embed-7tdtrqukriuf.html",
+            "https://vidmoly.to/embed-4w2p3ul1cseq.html",
+            "https://vidmoly.to/embed-az4v87hnfnx9.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/2ijkidqn",
+            "https://sendvid.com/embed/xbuk5pkd",
+            "https://sendvid.com/embed/049yk61c",
+            "https://sendvid.com/embed/n8sidfsr",
+            "https://sendvid.com/embed/lbp8n946",
+            "https://sendvid.com/embed/zc4gp4l5",
+            "https://sendvid.com/embed/5nnizuc9",
+            "https://sendvid.com/embed/bclmcjuw",
+            "https://sendvid.com/embed/btnso3yw",
+            "https://sendvid.com/embed/995xm1g5",
+            "https://sendvid.com/embed/zws2th30",
+            "https://sendvid.com/embed/ufl5r0tf",
+            "https://sendvid.com/embed/u5sq9jfj",
+            "https://sendvid.com/embed/e8rp0dar"
+          ]
+        }
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5523518",
+            "https://video.sibnet.ru/shell.php?videoid=5523521",
+            "https://video.sibnet.ru/shell.php?videoid=5523522",
+            "https://video.sibnet.ru/shell.php?videoid=5523524",
+            "https://video.sibnet.ru/shell.php?videoid=5523525",
+            "https://video.sibnet.ru/shell.php?videoid=5523526",
+            "https://video.sibnet.ru/shell.php?videoid=5523527",
+            "https://video.sibnet.ru/shell.php?videoid=5523528",
+            "https://video.sibnet.ru/shell.php?videoid=5523529",
+            "https://video.sibnet.ru/shell.php?videoid=5523519"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-3dzuk0ajfhry.html",
+            "https://vidmoly.to/embed-pk0ywwbpktmp.html",
+            "https://vidmoly.to/embed-pd8bo9uc0x5n.html",
+            "https://vidmoly.to/embed-vaci8tefaxox.html",
+            "https://vidmoly.to/embed-agam6myi29q4.html",
+            "https://vidmoly.to/embed-jv8tp2dulam0.html",
+            "https://vidmoly.to/embed-whxnqnlkf4a9.html",
+            "https://vidmoly.to/embed-brjo7grg9oyk.html",
+            "https://vidmoly.to/embed-h87yvatqnq8u.html",
+            "https://vidmoly.to/embed-u9haf756seov.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/j76qz7zd",
+            "https://sendvid.com/embed/hpukkhqv",
+            "https://sendvid.com/embed/u21b7vp1",
+            "https://sendvid.com/embed/g95un0ty",
+            "https://sendvid.com/embed/ek8mtaoc",
+            "https://sendvid.com/embed/s24x24ia",
+            "https://sendvid.com/embed/a5tlc13v",
+            "https://sendvid.com/embed/msywh9it",
+            "https://sendvid.com/embed/9tmz31br",
+            "https://sendvid.com/embed/kus1tqca"
+          ]
+        }
+      }
+    }
+  }
+}

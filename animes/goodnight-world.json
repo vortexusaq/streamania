@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "goodnight-world",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/goodnight-world.jpg",
+    "desc": "Taichiro est en rupture sociale complète. Détestant sa famille du plus profond de son être, il s'est réfugié dans PLANET, le MMO en réalité virtuelle le plus en vogue du moment. Dans cette autre réalité, il est membre d'Akabane, l'une des plus prestigieuses guildes de ce jeu en ligne. Au sein de cet autre univers, il s'est créé une famille de substitution. Aux côtés de Shiro, Mei et AAAAA, il espère bien vaincre le légendaire Black Bird of Happiness. Mais l'équilibre précaire de sa vie bascule quand, un jour, son véritable père est hospitalisé... Rappelé brutalement à la réalité par sa famille qu'il exècre, ne risque-t-il pas d'aller de désillusion en déception en découvrant ceux qui se cachent derrière ses camarades de guilde ?",
+    "genres": "Action, Aventure, Drame, Fantasy, Science-fiction, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/c390ocor",
+            "https://sendvid.com/embed/16pfz9g6",
+            "https://sendvid.com/embed/etasjudp",
+            "https://sendvid.com/embed/9271dxxb",
+            "https://sendvid.com/embed/t8akopnw",
+            "https://sendvid.com/embed/8m9qzw8x",
+            "https://sendvid.com/embed/pae1tptv",
+            "https://sendvid.com/embed/6ogte3i3",
+            "https://sendvid.com/embed/8zg459rw",
+            "https://sendvid.com/embed/yvxb6lil",
+            "https://sendvid.com/embed/h0n0bxd3",
+            "https://sendvid.com/embed/72j1978u"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5277705",
+            "https://video.sibnet.ru/shell.php?videoid=5277707",
+            "https://video.sibnet.ru/shell.php?videoid=5277709",
+            "https://video.sibnet.ru/shell.php?videoid=5277712",
+            "https://video.sibnet.ru/shell.php?videoid=5277716",
+            "https://video.sibnet.ru/shell.php?videoid=5277718",
+            "https://video.sibnet.ru/shell.php?videoid=5277721",
+            "https://video.sibnet.ru/shell.php?videoid=5277723",
+            "https://video.sibnet.ru/shell.php?videoid=5277726",
+            "https://video.sibnet.ru/shell.php?videoid=5277727",
+            "https://video.sibnet.ru/shell.php?videoid=5277730",
+            "https://video.sibnet.ru/shell.php?videoid=5277732"
+          ],
+          "lec3": [
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_01_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_02_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_03_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_04_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_05_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_06_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_07_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_08_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_09_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Goodnight%20World/Goodnight_World_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

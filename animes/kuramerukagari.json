@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "kuramerukagari",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kuramerukagari.jpg",
+    "desc": "L'histoire se déroule dans une ville minière ayant la particularité de changer de configuration chaque jour, tel un labyrinthe. Kagari, une cartographe particulièrement douée, rencontre un jour Yuya, qui rêve de quitter la ville.",
+    "genres": "Surnaturel, Aventure, Action, Steampunk",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5505651"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-s477ua1tqymd.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/247l1oed"
+          ]
+        }
+      }
+    }
+  }
+}

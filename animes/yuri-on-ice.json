@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "yuri-on-ice",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yuri-on-ice.jpg",
+    "desc": "Alors qu'il participe à une compétition particulièrement importante, Yûri Katsuki, talentueux patineur japonais, est écrasé par la pression et voit s'envoler toute chance de victoire. De retour chez lui, à Kyushu, il s'enferme chez ses parents, ne sachant plus très bien s'il doit continuer à patiner ou tout abandonner. Mais les choses changent lorsque le célèbre patineur russe Victor Nikiforov, son idole, se présente chez lui avec la ferme intention de l'entraîner.",
+    "genres": "Comédie, Drame, Slice-of-Life, Tournois",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/41iji8n6",
+            "https://sendvid.com/embed/9fvy1idv",
+            "https://sendvid.com/embed/94y4q9r5",
+            "https://sendvid.com/embed/j8h8ze32",
+            "https://sendvid.com/embed/7ocraxd9",
+            "https://sendvid.com/embed/hfdryz9f",
+            "https://sendvid.com/embed/g3r15u2f",
+            "https://sendvid.com/embed/e5spbvxx",
+            "https://sendvid.com/embed/jp8im5la",
+            "https://sendvid.com/embed/2ddbw1ov",
+            "https://sendvid.com/embed/p61zzgey",
+            "https://sendvid.com/embed/2swimsd0"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-4g5yhmqnz9ni.html",
+            "https://vidmoly.to/embed-6sm877lhosv4.html",
+            "https://vidmoly.to/embed-z6td01n5cwxo.html",
+            "https://vidmoly.to/embed-zfswn5jszgjp.html",
+            "https://vidmoly.to/embed-gtncbkgmylih.html",
+            "https://vidmoly.to/embed-f3ml70eogh9g.html",
+            "https://vidmoly.to/embed-4w7u7jvbx16s.html",
+            "https://vidmoly.to/embed-bl17mrajdiap.html",
+            "https://vidmoly.to/embed-ie2ctznwbi5t.html",
+            "https://vidmoly.to/embed-zuge0d9f7k5g.html",
+            "https://vidmoly.to/embed-236fvzbdtqnw.html",
+            "https://vidmoly.to/embed-rhyvux94g2ek.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=4958878",
+            "https://video.sibnet.ru/shell.php?videoid=4958882",
+            "https://video.sibnet.ru/shell.php?videoid=4958886",
+            "https://video.sibnet.ru/shell.php?videoid=4958893",
+            "https://video.sibnet.ru/shell.php?videoid=4958896",
+            "https://video.sibnet.ru/shell.php?videoid=4958898",
+            "https://video.sibnet.ru/shell.php?videoid=4958901",
+            "https://video.sibnet.ru/shell.php?videoid=4958904",
+            "https://video.sibnet.ru/shell.php?videoid=4958908",
+            "https://video.sibnet.ru/shell.php?videoid=4958910",
+            "https://video.sibnet.ru/shell.php?videoid=4958911",
+            "https://video.sibnet.ru/shell.php?videoid=4958914"
+          ]
+        }
+      }
+    }
+  }
+}

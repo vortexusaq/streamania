@@ -1,0 +1,65 @@
+{
+  "data": {
+    "name": "amagi-brillant-park",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/amagi-brillant-park.jpg",
+    "desc": "Seiya Kanie est un lycéen un peu prétentieux mais aussi très solitaire, qui se retrouve du jour au lendemain propulsé à la tête d'un parc à thème : Amagi Brilliant Park. Ce dernier est au bord de la faillite et doit impérativement avoir accueilli 500 000 visiteurs avant le 31 juillet. Le problème, c'est que le parc n'attire plus grand monde et certaines infrastructures sont à l'abandon. Seiya, épaulé par Izusu Sento, va alors tenter de redresser la situation, mais il n'a plus que 3 mois pour attirer les 250 000 visiteurs manquants.",
+    "genres": "Comédie, Drame, Fantasy",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/4vdcm80k",
+            "https://sendvid.com/embed/in271jfz",
+            "https://sendvid.com/embed/m1jacm5v",
+            "https://sendvid.com/embed/5jz20uzd",
+            "https://sendvid.com/embed/idwe55lt",
+            "https://sendvid.com/embed/31xl3jqr",
+            "https://sendvid.com/embed/w9cmx5gp",
+            "https://sendvid.com/embed/54ch1ljy",
+            "https://sendvid.com/embed/opk4co25",
+            "https://sendvid.com/embed/31g08j58",
+            "https://sendvid.com/embed/mtaox26q",
+            "https://sendvid.com/embed/fnje2fdg",
+            "https://sendvid.com/embed/xcbsvtbn",
+            "https://sendvid.com/embed/4ag3gy0i\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4845527",
+            "https://video.sibnet.ru/shell.php?videoid=4845529",
+            "https://video.sibnet.ru/shell.php?videoid=4845531",
+            "https://video.sibnet.ru/shell.php?videoid=4845532",
+            "https://video.sibnet.ru/shell.php?videoid=4845533",
+            "https://video.sibnet.ru/shell.php?videoid=4845534",
+            "https://video.sibnet.ru/shell.php?videoid=4845535",
+            "https://video.sibnet.ru/shell.php?videoid=4845536",
+            "https://video.sibnet.ru/shell.php?videoid=4845537",
+            "https://video.sibnet.ru/shell.php?videoid=4845538",
+            "https://video.sibnet.ru/shell.php?videoid=4845539",
+            "https://video.sibnet.ru/shell.php?videoid=4845540",
+            "https://video.sibnet.ru/shell.php?videoid=4845541",
+            "https://video.sibnet.ru/shell.php?videoid=4845542"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/z89rwhpikrcrpnwbis9es87aic",
+            "https://www.myvi.tv/embed/wpui7mw6tinwxqwnxms4atuh5c",
+            "https://www.myvi.tv/embed/guazk613m6pwjrwbuszzkw1ggo",
+            "https://www.myvi.tv/embed/5jndyu1og3zrijkgtzoskboxoh",
+            "https://www.myvi.tv/embed/6b8g57ijwseruf554co1hy737e",
+            "https://www.myvi.tv/embed/gyfe8tgfso8wpfx4nqnzc9zyir",
+            "https://www.myvi.tv/embed/tkwwoj6ayr3riqow8sjohsqayh",
+            "https://www.myvi.tv/embed/7zkapu4rb5dwigen5kkj94ifwr",
+            "https://www.myvi.tv/embed/rzs7wabefewwzypoh3f39i7tza",
+            "https://www.myvi.tv/embed/gh5msx4kwamr8yu1tu5ba7gqur",
+            "https://www.myvi.tv/embed/pfocbfqda7urz8srt15pco5whr",
+            "https://www.myvi.tv/embed/myu57e4h19awupnt5reku97mie",
+            "https://www.myvi.tv/embed/ond7ckjkwbfr7f1gsam9r8x1ow",
+            "https://www.myvi.tv/embed/1k5rbqnu6u5r5pqj1epkrjqmko"
+          ]
+        }
+      }
+    }
+  }
+}

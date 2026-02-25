@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "fuuka",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fuuka.jpg",
+    "desc": "Suite à la mutation de son père aux États-Unis, Yû Haruna se voit contraint de déménager et de vivre avec ses trois soeurs dans une maison à Tokyo. Accro aux réseaux sociaux, et plus particulièrement à Twitter, il vit tout cela avec un certain détachement jusqu'à sa rencontre avec Fûka Akitsuki, fille d'athlètes japonais et grande passionnée de musique.",
+    "genres": "Comédie, Drame, Ecchi, Romance, School-Life, Slice-of-Life, Musique, Quotidien, Triangle amoureux",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/co9mgdif",
+            "https://sendvid.com/embed/p9msuyrg",
+            "https://sendvid.com/embed/m9bc35te",
+            "https://sendvid.com/embed/rpicrss5",
+            "https://sendvid.com/embed/9tv8wsqg",
+            "https://sendvid.com/embed/solg499d",
+            "https://sendvid.com/embed/a0z0u1ah",
+            "https://sendvid.com/embed/kpln96ju",
+            "https://sendvid.com/embed/fuhr1exi",
+            "https://sendvid.com/embed/zdfrlz4h",
+            "https://sendvid.com/embed/vz35eg1v",
+            "https://sendvid.com/embed/dsyhlzsc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4978409",
+            "https://video.sibnet.ru/shell.php?videoid=4978410",
+            "https://video.sibnet.ru/shell.php?videoid=4978412",
+            "https://video.sibnet.ru/shell.php?videoid=4978413",
+            "https://video.sibnet.ru/shell.php?videoid=4978414",
+            "https://video.sibnet.ru/shell.php?videoid=4978416",
+            "https://video.sibnet.ru/shell.php?videoid=4978417",
+            "https://video.sibnet.ru/shell.php?videoid=4978418",
+            "https://video.sibnet.ru/shell.php?videoid=4978419",
+            "https://video.sibnet.ru/shell.php?videoid=4978422",
+            "https://video.sibnet.ru/shell.php?videoid=4978423",
+            "https://video.sibnet.ru/shell.php?videoid=4978425"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/aktyhfi43mtw8r8jemjusejf8c",
+            "https://www.myvi.tv/embed/cynejfcu6fnruchbnrfaf74wmw",
+            "https://www.myvi.tv/embed/dgqnr98uxmrwmnqxfix1ta8wza",
+            "https://www.myvi.tv/embed/crxfshnu7utr5qs64sohc4gkza",
+            "https://www.myvi.tv/embed/iqpyqra8qjgwmehusycejrjj3e",
+            "https://www.myvi.tv/embed/ws4szydfbmbwtpgj4azuwfxpfo",
+            "https://www.myvi.tv/embed/7pgitatmu6grjnu3751bxowpor",
+            "https://www.myvi.tv/embed/6zoc445hmt5wzy5yzw8upcnwew",
+            "https://www.myvi.tv/embed/tyryrcj94qyrxmtmkogf9hh6yw",
+            "https://www.myvi.tv/embed/axe1z4ri4ncwbjncp5bd87p1qa",
+            "https://www.myvi.tv/embed/j3zjbg5y8k1rz8op35mu5j69sh",
+            "https://www.myvi.tv/embed/jehsm8uoe1kruc6t98qrdm9zqo"
+          ]
+        }
+      }
+    }
+  }
+}

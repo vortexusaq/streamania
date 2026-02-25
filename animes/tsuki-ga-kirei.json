@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "tsuki-ga-kirei",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tsuki-ga-kirei.jpg",
+    "desc": "Kotarô Azumi et Akane Mizuno sont en troisième année de collège et sont pour la première fois camarade de classe. Ces deux personnes, très timides, vont peu à peu se rapprocher en développant des sentiments mutuels. Au fur et à mesure de leur dernière année de collège, les protagonistes vont surmonter les défis de la maturité et prendre conscience des changements en eux-mêmes ainsi que de la signification du mot 'amour'.",
+    "genres": "Drame, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/9p6om8oe",
+            "https://sendvid.com/embed/s06xe0x3",
+            "https://sendvid.com/embed/7h709xho",
+            "https://sendvid.com/embed/cd3ddwtg",
+            "https://sendvid.com/embed/gisosuz2",
+            "https://sendvid.com/embed/mxgu0q5e",
+            "https://sendvid.com/embed/4t1q2vdm",
+            "https://sendvid.com/embed/w96thdil",
+            "https://sendvid.com/embed/s6fn2s7a",
+            "https://sendvid.com/embed/eitlgj15",
+            "https://sendvid.com/embed/cfjxaf84",
+            "https://sendvid.com/embed/fjlo2mph\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4842288",
+            "https://video.sibnet.ru/shell.php?videoid=4842291",
+            "https://video.sibnet.ru/shell.php?videoid=4842293",
+            "https://video.sibnet.ru/shell.php?videoid=4842296",
+            "https://video.sibnet.ru/shell.php?videoid=4842298",
+            "https://video.sibnet.ru/shell.php?videoid=4842301",
+            "https://video.sibnet.ru/shell.php?videoid=4842305",
+            "https://video.sibnet.ru/shell.php?videoid=4842308",
+            "https://video.sibnet.ru/shell.php?videoid=4842312",
+            "https://video.sibnet.ru/shell.php?videoid=4842313",
+            "https://video.sibnet.ru/shell.php?videoid=4842316",
+            "https://video.sibnet.ru/shell.php?videoid=4842317"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/8jy6c9cy71ww8eismjsiawfgxy",
+            "https://www.myvi.tv/embed/afhyzk9fhdxwdkoepr5zzqwntc",
+            "https://www.myvi.tv/embed/bk68mcqsws9wxmhx96ergco3na",
+            "https://www.myvi.tv/embed/h77co3jh5p8w5d5yhxm1wsgf9a",
+            "https://www.myvi.tv/embed/eiwn7ajhxriwdq8k13ire17hno",
+            "https://www.myvi.tv/embed/58ck3d1em7jrjf51wc7ua4mnsy",
+            "https://www.myvi.tv/embed/rg3kzcekjstw5pnr5mb5kqfeze",
+            "https://www.myvi.tv/embed/mwpsets9fw7w3xz1x83ub9ge7w",
+            "https://www.myvi.tv/embed/6hb8ymxi3udwtn3qpf6wacto7y",
+            "https://www.myvi.tv/embed/73nwhxgrjjnwpg3q7q7x3aur4h",
+            "https://www.myvi.tv/embed/fuk7c7jokt3rpr6xsnj9o55iah",
+            "https://www.myvi.tv/embed/4d4tazaik6zr7yzz5hu64cb7oo"
+          ]
+        }
+      }
+    }
+  }
+}

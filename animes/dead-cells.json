@@ -1,0 +1,136 @@
+{
+  "data": {
+    "name": "dead-cells",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dead-cells.jpg",
+    "desc": "Sur une île maudite, rongée par une étrange peste appelée le Mal-Être, un roi fait développer un remède par ses alchimistes afin de sauver son peuple de la maladie… mais le remède transforme les habitants du royaume en monstres ! Il décide alors de créer une armée en utilisant ce fameux remède, mais très vite la situation devient incontrôlable… Une prophétie révèle l’avènement d’un héros immortel à la tête enflammée, qui ramènera la paix en tuant le Roi Démon, responsable de ce chaos. En vérité, trouver le remède au Mal-Être, il s’en tape. Ramener la paix ? Il veut surtout qu’on la lui foute !",
+    "genres": "Animation, Aventure, Action, Fantastique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vf",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5766312",
+            "https://video.sibnet.ru/shell.php?videoid=5766313",
+            "https://video.sibnet.ru/shell.php?videoid=5766314",
+            "https://video.sibnet.ru/shell.php?videoid=5766315",
+            "https://video.sibnet.ru/shell.php?videoid=5766317",
+            "https://video.sibnet.ru/shell.php?videoid=5766318",
+            "https://video.sibnet.ru/shell.php?videoid=5766323",
+            "https://video.sibnet.ru/shell.php?videoid=5766319",
+            "https://video.sibnet.ru/shell.php?videoid=5766320",
+            "https://video.sibnet.ru/shell.php?videoid=5766321"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-nns0gil5eh8v.html",
+            "https://vidmoly.to/embed-a9q1yfeooxoz.html",
+            "https://vidmoly.to/embed-gyjfsk64nrgq.html",
+            "https://vidmoly.to/embed-dtx3jibd6ipw.html",
+            "https://vidmoly.to/embed-k5d0svaih43d.html",
+            "https://vidmoly.to/embed-63ruy6taa0id.html",
+            "https://vidmoly.to/embed-nrcd55m6aoq9.html",
+            "https://vidmoly.to/embed-8rk3ar08vswz.html",
+            "https://vidmoly.to/embed-kf05hevnban0.html",
+            "https://vidmoly.to/embed-ya2lmtaz2wsb.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-r50l8li441wg.html",
+            "https://oneupload.to/embed-lc8pydmfvdnd.html",
+            "https://oneupload.to/embed-7viakna9r41d.html",
+            "https://oneupload.to/embed-9ezkv7r7tk0f.html",
+            "https://oneupload.to/embed-8uusre0rs308.html",
+            "https://oneupload.to/embed-hjkxelfczz8i.html",
+            "https://oneupload.to/embed-t4rusn23pmdn.html",
+            "https://oneupload.to/embed-wtzeqxe25qmq.html",
+            "https://oneupload.to/embed-ahab17rin2x1.html",
+            "https://oneupload.to/embed-zlcqywj8e4n5.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid="
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=&hd=3"
+          ]
+        }
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

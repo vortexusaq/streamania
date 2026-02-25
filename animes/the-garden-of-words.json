@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "the-garden-of-words",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-garden-of-words.jpg",
+    "desc": "Malgré son jeune âge, Takao a pour but bien précis de devenir cordonnier. Pour cela, il prend pour habitude de ne pas se rendre à l'école afin de dessiner au calme dans un jardin. Il y croise alors Yukino, une femme de douze ans son aîné semblant solitaire. Elle suggère qu'ils se rencontrent de nouveau, mais uniquement les jours pluvieux. Au fil des rendez-vous, ils nouent une forte relation et Takao se met alors en tête de lui confectionner des chaussures lui donnant envie d'avancer. Cependant, la saison des pluies s'entamant en été est sur le point de se terminer.",
+    "genres": "Drame, Romance, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5336122"
+          ]
+        }
+      }
+    }
+  }
+}

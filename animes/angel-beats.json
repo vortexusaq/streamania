@@ -1,0 +1,75 @@
+{
+  "data": {
+    "name": "angel-beats",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/angel-beats.jpg",
+    "desc": "Dans le monde de l'au-delà existe un lieu, un immense campus, où sont envoyés les adolescents après leur décès. C'est là que se réveille Yuzuru Otonashi après son trépas, mais il n'a pas vraiment le temps de comprendre ce qui lui arrive qu'il est subitement pris dans un feu croisé entre les membres de la Shinda Sekai Sensen (SSS) et Tenshi.\n",
+    "genres": "Action, Comédie, Drame, Fantasy, School-Life, Science-fiction, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-hr7f4ct44va7.html",
+            "https://vidmoly.to/embed-apve08cgb2hf.html",
+            "https://vidmoly.to/embed-la31vtmxdlpt.html",
+            "https://vidmoly.to/embed-xdovngfe53kn.html",
+            "https://vidmoly.to/embed-36bjy6d3od4d.html",
+            "https://vidmoly.to/embed-21ryjnc531k9.html",
+            "https://vidmoly.to/embed-m1xgplqc7rfv.html",
+            "https://vidmoly.to/embed-fczg6jzcmim2.html",
+            "https://vidmoly.to/embed-ap0678apm7yj.html",
+            "https://vidmoly.to/embed-7m2j06rbr36z.html",
+            "https://vidmoly.to/embed-nljv4utu5fc1.html",
+            "https://vidmoly.to/embed-qrl1sz6lgmpd.html",
+            "https://vidmoly.to/embed-ogru2hkozxy4.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4731007",
+            "https://video.sibnet.ru/shell.php?videoid=4731011",
+            "https://video.sibnet.ru/shell.php?videoid=4731022",
+            "https://video.sibnet.ru/shell.php?videoid=4731025",
+            "https://video.sibnet.ru/shell.php?videoid=4731029",
+            "https://video.sibnet.ru/shell.php?videoid=4731032",
+            "https://video.sibnet.ru/shell.php?videoid=4731036",
+            "https://video.sibnet.ru/shell.php?videoid=4731041",
+            "https://video.sibnet.ru/shell.php?videoid=4731043",
+            "https://video.sibnet.ru/shell.php?videoid=4731045",
+            "https://video.sibnet.ru/shell.php?videoid=4731049",
+            "https://video.sibnet.ru/shell.php?videoid=4731051",
+            "https://video.sibnet.ru/shell.php?videoid=4731053"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/nnvcdckw",
+            "https://sendvid.com/embed/wc8w19vk",
+            "https://sendvid.com/embed/fc63g7hm",
+            "https://sendvid.com/embed/os7ho8ca",
+            "https://sendvid.com/embed/8bnqgaqn",
+            "https://sendvid.com/embed/bbezieud",
+            "https://sendvid.com/embed/3355zw3f",
+            "https://sendvid.com/embed/9190la7b",
+            "https://sendvid.com/embed/y77jlh4z",
+            "https://sendvid.com/embed/vsaea2r8",
+            "https://sendvid.com/embed/4aj59qqp",
+            "https://sendvid.com/embed/mkp5fo79",
+            "https://sendvid.com/embed/f0dtl9km"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-za76yc7f3dty.html",
+            "https://vidmoly.to/embed-9gwand6m3yip.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/z6uce65g",
+            "https://sendvid.com/embed/n0hbjfvu"
+          ]
+        }
+      }
+    }
+  }
+}

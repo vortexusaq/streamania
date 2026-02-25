@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "vivid-strike",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/vivid-strike.jpg",
+    "desc": "L'intrigue se déroule un an après Mahou Shoujo Lyrical Nanoha Vivid.\n\nOn y retrouve Vivio Takamachi et ses amis. Et surtout, deux nouvelles héroines : Fuuka Reventon et son amie Rinne Berlinetta, deux orphelines. Rinne a été adopté par une famille riche alors que Fuuka, vit de petits boulots pour survivre. Fuuka s'est jurée de devenir plus forte pour protéger ceux qu'elle aime.\n\nElle croise alors, la route de Einhard Stratos...\n\n",
+    "genres": "Action, Aventure, Drame, Magical girls, Science-fiction, Tournois",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/zyp4z1a7etywxfb5p6e4o3gyje",
+            "https://www.myvi.top/embed/xgcr6jf6sktrzk4kuydscfduzc",
+            "https://www.myvi.top/embed/th8r4ypwxujw8kk1u4yhbqe96a",
+            "https://www.myvi.top/embed/ko1chrccubrwu8w6oitbxrhx6a",
+            "https://www.myvi.top/embed/cyhtjcbxtrjr3pj4jks15wzt1y",
+            "https://www.myvi.top/embed/s19i88bf5jarm8bga9f35fetwa",
+            "https://www.myvi.top/embed/ahz5xptoxbardrb9gcr5p1wbga",
+            "https://www.myvi.top/embed/cw8zo3kt17aw3rwjauxto5bsky",
+            "https://www.myvi.top/embed/mh5yyfjenx1r9kg4pm3tpbmm4w",
+            "https://www.myvi.top/embed/b8n78zsrpoaw3ctqph8i9p4sbr",
+            "https://www.myvi.top/embed/75hmgetfwsfr3mwyof51j6qixo",
+            "https://www.myvi.top/embed/ddttftpta8ywfpbrh4adecphfw"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/lqo09dri",
+            "https://sendvid.com/embed/q0zatx55",
+            "https://sendvid.com/embed/ke1fw6fm",
+            "https://sendvid.com/embed/p8blwuv4",
+            "https://sendvid.com/embed/e64mpuge",
+            "https://sendvid.com/embed/y6t6rlxe",
+            "https://sendvid.com/embed/15c0j2ei",
+            "https://sendvid.com/embed/c4nhg30a",
+            "https://sendvid.com/embed/ixxjsqb3",
+            "https://sendvid.com/embed/wu6q6ayy",
+            "https://sendvid.com/embed/etnjxosi",
+            "https://sendvid.com/embed/8826b9d4"
+          ]
+        }
+      }
+    }
+  }
+}

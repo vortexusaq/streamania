@@ -1,0 +1,27 @@
+{
+  "data": {
+    "name": "fog-of-five-elements",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/fog-of-five-elements.jpg",
+    "desc": "Une légende raconte qu'il y a fort longtemps, des monstres pouvaient donner la capacité à certains élus de maitriser les cinq éléments. Mais pour cela, il faut passer par les dangereuses montagnes brumeuses... Nous suivons les aventures d'un de ces élus !",
+    "genres": "Action, Fantasy, Historique, Arts-martiaux",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/kp1qrbja",
+            "https://sendvid.com/embed/bcirrwb1",
+            "https://sendvid.com/embed/dnj71qk0"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5306581",
+            "https://video.sibnet.ru/shell.php?videoid=5306584",
+            "https://video.sibnet.ru/shell.php?videoid=5306588"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "lost-song",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lost-song.jpg",
+    "desc": "Rin est une jeune fille énergique qui adore manger. Elle vit dans un petit village frontalier verdoyant. Au fond du palais royal de la capitale, la chanteuse Finis passe ses journées dans la solitude. Ces deux jeunes filles partagent un pouvoir spécial qu'aucune autre personne n'a. Un miraculeux pouvoir pouvant guérir les plaies, créer l'eau et invoquer le vent : le pouvoir de la musique. Guidées par leurs destinées, ces deux jeunes femmes vont faire face à une aventure difficile avec leur pouvoir. L'ombre de la guerre se profile sur le Royaume, tuant même les chants miraculeux avec le sang des innocents. Les personnes aimées rencontrent la mort, alors que des cris silencieux font échos dans une prison de pierre. Destinées à se rencontrer un jour, Rin et Finis vont-elles réussir à sauver le monde grâce à leur chanson finale ?",
+    "genres": "Drame, Fantasy, Autre-monde, Guerre, Musique, Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/o2rxk9vo",
+            "https://sendvid.com/embed/r57vve7p",
+            "https://sendvid.com/embed/sff2111m",
+            "https://sendvid.com/embed/a6swth5w",
+            "https://sendvid.com/embed/zqh49vex",
+            "https://sendvid.com/embed/u0xzgj7p",
+            "https://sendvid.com/embed/nnvkbil8",
+            "https://sendvid.com/embed/x3mane10",
+            "https://sendvid.com/embed/h3p2gnbq",
+            "https://sendvid.com/embed/3ayn9jvc",
+            "https://sendvid.com/embed/gj9qsqp8",
+            "https://sendvid.com/embed/0wszlb67\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4677248",
+            "https://video.sibnet.ru/shell.php?videoid=4677252",
+            "https://video.sibnet.ru/shell.php?videoid=4677256",
+            "https://video.sibnet.ru/shell.php?videoid=4677259",
+            "https://video.sibnet.ru/shell.php?videoid=4677262",
+            "https://video.sibnet.ru/shell.php?videoid=4677264",
+            "https://video.sibnet.ru/shell.php?videoid=4677266",
+            "https://video.sibnet.ru/shell.php?videoid=4677267",
+            "https://video.sibnet.ru/shell.php?videoid=4677269",
+            "https://video.sibnet.ru/shell.php?videoid=4677274",
+            "https://video.sibnet.ru/shell.php?videoid=4677279",
+            "https://video.sibnet.ru/shell.php?videoid=4677280"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/1ii4b34jupew5nw55gkejurdsc",
+            "https://www.myvi.tv/embed/68hk9hs6wqnrzp4rzxwifkbs7c",
+            "https://www.myvi.tv/embed/3wssbe8do7qrpfzp4tanh68stw",
+            "https://www.myvi.tv/embed/9wotsykyrumwu8zdzoc1a1gqqw",
+            "https://www.myvi.tv/embed/a4jnmchs77bw9m4gkj7rkd83so",
+            "https://www.myvi.tv/embed/9k9junp6w9er8rc9pbcoedn4yr",
+            "https://www.myvi.tv/embed/6s3e1o5fmh9w8d3k15156ptcth",
+            "https://www.myvi.tv/embed/ddx3pwsnsqxw9dejkch8w9marc",
+            "https://www.myvi.tv/embed/y64rd8hddz8wjjujspdyrecm8c",
+            "https://www.myvi.tv/embed/bgbxn6yuegmwdq87qgdbq7birw",
+            "https://www.myvi.tv/embed/mnyt67h4z6crpbo4e4633yawky",
+            "https://www.myvi.tv/embed/rmi3szzcbaprj81romsj7upaoe"
+          ]
+        }
+      }
+    }
+  }
+}

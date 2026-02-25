@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "blood-c",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/blood-c.jpg",
+    "desc": "Saya Kisaragi est une jeune fille somme toute ordinaire vivant avec son père Tadayoshi, prêtre d'un temple shintoïste. Elle va au lycée, a des amis et est une incurable gloutonne, mais lorsque son devoir l'appelle, celle-ci part combattre des créatures appelées les Âgés (ou Anciens) avec l'épée sacrée qui se transmet dans sa famille. Cependant cet équilibre entre ses deux vies est petit à petit bouleversé lorsque son devoir rattrape son quotidien.",
+    "genres": "Action, Drame, Horreur, Épouvante, Mystère, Psychologique, Surnaturel, Démons, Ecole, Gore, Monstres, Mort, Secrets, Vampires, School-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/kd6z3k5u",
+            "https://sendvid.com/embed/9rrguvhd",
+            "https://sendvid.com/embed/7h7kvydc",
+            "https://sendvid.com/embed/qf0oxax5",
+            "https://sendvid.com/embed/czbf3xbr",
+            "https://sendvid.com/embed/ocrgbr3a",
+            "https://sendvid.com/embed/dtxrnxe0",
+            "https://sendvid.com/embed/nbtjfvre",
+            "https://sendvid.com/embed/e27ae2c7",
+            "https://sendvid.com/embed/g87dsidm",
+            "https://sendvid.com/embed/j0pxm9kp",
+            "https://sendvid.com/embed/yonep5kx"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4676900",
+            "https://video.sibnet.ru/shell.php?videoid=4676901",
+            "https://video.sibnet.ru/shell.php?videoid=4676903",
+            "https://video.sibnet.ru/shell.php?videoid=4676904",
+            "https://video.sibnet.ru/shell.php?videoid=4676906",
+            "https://video.sibnet.ru/shell.php?videoid=4676908",
+            "https://video.sibnet.ru/shell.php?videoid=4676910",
+            "https://video.sibnet.ru/shell.php?videoid=4676911",
+            "https://video.sibnet.ru/shell.php?videoid=4676913",
+            "https://video.sibnet.ru/shell.php?videoid=4676916",
+            "https://video.sibnet.ru/shell.php?videoid=4676918",
+            "https://video.sibnet.ru/shell.php?videoid=4676920"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/9axj5kgfkkfw9g3mruzgzx9eth",
+            "https://www.myvi.tv/embed/ykjfoaehu77w9rdpi4p84a3cmo",
+            "https://www.myvi.tv/embed/oscw36pud3irxg1i7eo6dbt4yh",
+            "https://www.myvi.tv/embed/o1scaqnfm7rrpynaa3hw3ss3qw",
+            "https://www.myvi.tv/embed/bgf56mga8ubr3rngmmerb83ujy",
+            "https://www.myvi.tv/embed/hmh6sezfdf6r3rbp9icjqp51by",
+            "https://www.myvi.tv/embed/dwznekuiiubrbnx531xsbfekmo",
+            "https://www.myvi.tv/embed/rpsrsbi5ecqr5y6486y3kh1q9r",
+            "https://www.myvi.tv/embed/bwddmr4kbbwrdne1ucju5ajdfe",
+            "https://www.myvi.tv/embed/6iwimiag4rdrpq95yyaga66x5o",
+            "https://www.myvi.tv/embed/uicjtmrmr63rfcu3dp7jgo869y",
+            "https://www.myvi.tv/embed/yj73gao9znewxbqqudo4pt6azr"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4676921\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4676921"
+          ]
+        }
+      }
+    }
+  }
+}

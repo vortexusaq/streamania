@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "la-colline-aux-coquelicots",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-colline-aux-coquelicots.jpg",
+    "desc": "L'histoire se déroule dans les années soixante, plus précisément en 1963, tout juste un an avant les jeux olympiques de Tokyo. On suit ainsi le quotidien de la jeune lycéenne Matsuzaki Umi, membre du journal de son école...\n",
+    "genres": "Drame, Romance, School-Life, Slice-of-Life\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/qsgny07p"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5366060"
+          ]
+        }
+      }
+    }
+  }
+}

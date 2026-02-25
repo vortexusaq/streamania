@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "hakata-tonkotsu-ramens",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hakata-tonkotsu-ramens.jpg",
+    "desc": "Fukuoka. Au premier abord, cette ville semble paisible et calme, en réalité le crime ne cesse d'augmenter ces dernières années.\n\nLe quartier d'Hakata regorge de professionnels en tout genre : tueurs à gages, détectives, informateurs, des demandeurs de vengeance professionnels, des professionnels de la torture et bien plus encore.\n\nD'après une légende urbaine, un exterminateur de tueurs à gages existe dans cette ville.\n\nL'histoire prend place aux côtés de Yoshiharu Baba et de son agence un peu particulière cherchant des indices sur ce fameux exterminateur de tueurs à gages.",
+    "genres": "Action, Drame, Mystère",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/1ju4zf6rpunwpbgoaege1re1xc",
+            "https://www.myvi.top/embed/ebpwdde9hharbm9e4z6utph7se",
+            "https://www.myvi.top/embed/s3rhkfjj78nr8yjja43qmhmuoh",
+            "https://www.myvi.top/embed/y4s7ctwqgsnrxxrm1g584sam7a",
+            "https://www.myvi.top/embed/zqqf3gakj8aw7ezi36oxpuagwa",
+            "https://www.myvi.top/embed/goz1uh4sc35r9e9riir84bjehh",
+            "https://www.myvi.top/embed/te64ampz87qrun64fht9jgpqcc",
+            "https://www.myvi.top/embed/4fb61t7cea8wmpkkm8na871w6y",
+            "https://www.myvi.top/embed/67qbrdu8kfxwidx6oc9rpnnmdo",
+            "https://www.myvi.top/embed/3ra77i74cocrzpg5ccqhakhhjh",
+            "https://www.myvi.top/embed/izfm97x5n66wjbynuepe7ax1ja",
+            "https://www.myvi.top/embed/5y7t8jzowmbwfpijzomwd1po4a"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3297736",
+            "https://video.sibnet.ru/shell.php?videoid=3297737",
+            "https://video.sibnet.ru/shell.php?videoid=3297738",
+            "https://video.sibnet.ru/shell.php?videoid=3297740",
+            "https://video.sibnet.ru/shell.php?videoid=3297742",
+            "https://video.sibnet.ru/shell.php?videoid=3297746",
+            "https://video.sibnet.ru/shell.php?videoid=3297749",
+            "https://video.sibnet.ru/shell.php?videoid=3297753",
+            "https://video.sibnet.ru/shell.php?videoid=3297755",
+            "https://video.sibnet.ru/shell.php?videoid=3297756",
+            "https://video.sibnet.ru/shell.php?videoid=3297758",
+            "https://video.sibnet.ru/shell.php?videoid=3297759"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/58ba5ej6",
+            "https://sendvid.com/embed/gr0qy4qu",
+            "https://sendvid.com/embed/p5s3onj5",
+            "https://sendvid.com/embed/fdcl9str",
+            "https://sendvid.com/embed/gig0wwft",
+            "https://sendvid.com/embed/6zbsefyv",
+            "https://sendvid.com/embed/fq7xx1i2",
+            "https://sendvid.com/embed/r3fhzhz2",
+            "https://sendvid.com/embed/1rkithxt",
+            "https://sendvid.com/embed/37b0n57g",
+            "https://sendvid.com/embed/gpr06gko",
+            "https://sendvid.com/embed/pggqs4yd"
+          ]
+        }
+      }
+    }
+  }
+}

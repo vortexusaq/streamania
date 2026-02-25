@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "eden-of-the-east",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/eden-of-the-east.jpg",
+    "desc": "En 2010, dix missiles se sont abattus à travers tout le Japon sans faire la moindre victime. Trois mois après cette attaque, Misaki Mori une jeune étudiante en voyage scolaire aux États-Unis pour la remise des diplômes se retrouve mêlée à une terrible affaire, elle est alors sauvée par un japonais amnésique du nom d'Akira Takizawa qui n'a sur lui qu'un téléphone et un pistolet.",
+    "genres": "Action, Aventure, Drame, Mystère",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/vjuyfv77",
+            "https://sendvid.com/embed/w3w916pd",
+            "https://sendvid.com/embed/u1yyx0s5",
+            "https://sendvid.com/embed/sr2x2j3g",
+            "https://sendvid.com/embed/ve2en9q2",
+            "https://sendvid.com/embed/26sb4503",
+            "https://sendvid.com/embed/cylbz0hi",
+            "https://sendvid.com/embed/c7t8n9s3",
+            "https://sendvid.com/embed/2jzarren",
+            "https://sendvid.com/embed/qu6uxn33",
+            "https://sendvid.com/embed/s5r3j2t4"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4943969",
+            "https://video.sibnet.ru/shell.php?videoid=4943970",
+            "https://video.sibnet.ru/shell.php?videoid=4943974",
+            "https://video.sibnet.ru/shell.php?videoid=4943976",
+            "https://video.sibnet.ru/shell.php?videoid=4943978",
+            "https://video.sibnet.ru/shell.php?videoid=4943982",
+            "https://video.sibnet.ru/shell.php?videoid=4943985",
+            "https://video.sibnet.ru/shell.php?videoid=4943987",
+            "https://video.sibnet.ru/shell.php?videoid=4943989",
+            "https://video.sibnet.ru/shell.php?videoid=4943990",
+            "https://video.sibnet.ru/shell.php?videoid=4943992"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/9s18419bnx4rmjk9uwqsby4zfh",
+            "https://www.myvi.top/embed/z99wimdgiq5rdgswhwdrqptu8r",
+            "https://www.myvi.top/embed/pn9aj5qq8bfrpegobki4syxy4o",
+            "https://www.myvi.top/embed/z9twxp5hh3brimthwzip7j6bsc",
+            "https://www.myvi.top/embed/jj7cde3zsc3w8mpsd1ja47gr6h",
+            "https://www.myvi.top/embed/giodzur6trjr8jccsb7fgucsrc",
+            "https://www.myvi.top/embed/18yhw5b9g16rmnidiiwbykrgpo",
+            "https://www.myvi.top/embed/iqo4yymuhrnwzjmjdzxhmbmgke",
+            "https://www.myvi.top/embed/ouox47cmz44rbxic7wtoh8d9ca",
+            "https://www.myvi.top/embed/gk9mt9pdtaxw7gjtibbgk3rmah",
+            "https://www.myvi.top/embed/dc85dd6rds7wjnp8w65a3w4doh"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4943997"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/klbdmgbe"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/w87ngy7ab49rung1a9ptzkjphe"
+          ]
+        }
+      }
+    }
+  }
+}

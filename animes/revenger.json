@@ -1,0 +1,87 @@
+{
+  "data": {
+    "name": "revenger",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/revenger.jpg",
+    "desc": "Il s'agit d'un projet original ayant pour thème la vengeance.",
+    "genres": "Action, Samouraïs, Vengeance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4998986",
+            "https://video.sibnet.ru/shell.php?videoid=5007410",
+            "https://video.sibnet.ru/shell.php?videoid=5013736",
+            "https://video.sibnet.ru/shell.php?videoid=5022640",
+            "https://video.sibnet.ru/shell.php?videoid=5029359",
+            "https://video.sibnet.ru/shell.php?videoid=5036841",
+            "https://video.sibnet.ru/shell.php?videoid=5045951",
+            "https://video.sibnet.ru/shell.php?videoid=5056273",
+            "https://video.sibnet.ru/shell.php?videoid=5064932",
+            "https://video.sibnet.ru/shell.php?videoid=5071296",
+            "https://video.sibnet.ru/shell.php?videoid=5077680",
+            "https://video.sibnet.ru/shell.php?videoid=5085221"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239239&hash=67173c1a11dc9d10&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239240&hash=579861d5c96088e2&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239241&hash=378f143173be9118&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239177&hash=03feefa8432e6445&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239228&hash=eeed7241b673d05a&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239271&hash=2f8252e9448e5e46&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239311&hash=6dcbe5a9705ef7d8&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239348&hash=4188cc2ab3ab2274&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239385&hash=3932dfbb4348d7e9&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239430&hash=dc25fdd760769c57&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239465&hash=6e366e063728dea4&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239499&hash=2863b0f8fe5631b5&hd=3"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/dgnkn6qh",
+            "https://sendvid.com/embed/17etrbvn",
+            "https://sendvid.com/embed/efvgz84g",
+            "https://sendvid.com/embed/3v1tj9zg",
+            "https://sendvid.com/embed/gl4ormjf",
+            "https://sendvid.com/embed/0m7hdrur",
+            "https://sendvid.com/embed/6j3uiij8",
+            "https://sendvid.com/embed/fmp24tzb",
+            "https://sendvid.com/embed/i4zdsggs",
+            "https://sendvid.com/embed/nko7symo",
+            "https://sendvid.com/embed/w27sh0nc",
+            "https://sendvid.com/embed/849fin8n"
+          ],
+          "lec4": [
+            "https://www.myvi.tv/embed/6csmor1tdqywzqgduz1z9m91uh",
+            "https://www.myvi.tv/embed/8sx4ik9z5qiwpxau87cc4qsxia",
+            "https://www.myvi.tv/embed/hi58skox31krfneh3uhuz3zdfo",
+            "https://www.myvi.tv/embed/z6ur8osba64rue3ej9rhprb9mc",
+            "https://www.myvi.tv/embed/czai7sob3wmwu8i3c7dukjkm8h",
+            "https://www.myvi.tv/embed/9xwxooaapcgr5kywduqfry6pac",
+            "https://www.myvi.tv/embed/dhprb8498kdrbek9mjitxmz6be",
+            "https://www.myvi.tv/embed/x14knhc9jznrigsqddponryoaw",
+            "https://www.myvi.tv/embed/gxpqbmwn8gururx74jdktptpfa",
+            "https://www.myvi.tv/embed/iwq11grrfiiw7eowtjrn6u8gno",
+            "https://www.myvi.tv/embed/qgyp3roiw4urjd9du3wiz547ue",
+            "https://www.myvi.tv/embed/erymy59myq8w8msboy8x6hp4qo"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Revenger/Revenger_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

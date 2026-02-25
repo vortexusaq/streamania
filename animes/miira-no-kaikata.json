@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "miira-no-kaikata",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/miira-no-kaikata.jpg",
+    "desc": "Sora Kashiwagi est un jeune lycéen dont le père, \"aventurier\" autoproclamé, est parti faire le tour du monde. Un beau jour, il reçoit un gigantesque colis de sa part, et s'il s'attend à recevoir quelque chose d'énorme, lorsqu'il l'ouvre, il y trouve une toute petite momie qui tient dans la paume de sa main... Sora, jusqu'ici bien seul, a désormais un nouvel ami pour l'accompagner au quotidien !",
+    "genres": "Comédie, Fantastique, Slice-of-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/wc3zhcz8myzrxye4nrsb5y4uoo",
+            "https://www.myvi.top/embed/6cfuoend81fw7cnf5txyghsajy",
+            "https://www.myvi.top/embed/bjgi9h1n6gbwdrhjk1idwpy7qr",
+            "https://www.myvi.top/embed/9xyin5k6rzcrj8sjtti4mmrfdo",
+            "https://www.myvi.top/embed/pf6o9otzz3yr3cziqd6fy9qgch",
+            "https://www.myvi.top/embed/zjw1iaueopuwdf3zrar9ukpsne",
+            "https://www.myvi.top/embed/9q9awce66qzw7g9i9snxk4fmkw",
+            "https://www.myvi.top/embed/wistxktqijqwmcbi7nz5cbzkoc",
+            "https://www.myvi.top/embed/b39czh43weawd87wose6yz36de",
+            "https://www.myvi.top/embed/opy1hz8hu7xrfno1e1pqoterkc",
+            "https://www.myvi.top/embed/ea59yiaygcsw8ct85ujagkjo7y",
+            "https://www.myvi.top/embed/u95n5mqwfporjd88wt77asnony"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4940525",
+            "https://video.sibnet.ru/shell.php?videoid=4940528",
+            "https://video.sibnet.ru/shell.php?videoid=4940533",
+            "https://video.sibnet.ru/shell.php?videoid=4940537",
+            "https://video.sibnet.ru/shell.php?videoid=4940542",
+            "https://video.sibnet.ru/shell.php?videoid=4940549",
+            "https://video.sibnet.ru/shell.php?videoid=4940552",
+            "https://video.sibnet.ru/shell.php?videoid=4940554",
+            "https://video.sibnet.ru/shell.php?videoid=4940556",
+            "https://video.sibnet.ru/shell.php?videoid=4940558",
+            "https://video.sibnet.ru/shell.php?videoid=4940561",
+            "https://video.sibnet.ru/shell.php?videoid=4940565"
+          ],
+          "lec3": [
+            "https://sendvid.com/iframe/4qyi421j",
+            "https://sendvid.com/iframe/wsk8vlu0",
+            "https://sendvid.com/iframe/2eh11dbb",
+            "https://sendvid.com/iframe/6r1dxlww",
+            "https://sendvid.com/iframe/k23kayve",
+            "https://sendvid.com/iframe/gxj08wl9",
+            "https://sendvid.com/iframe/9imqm7np",
+            "https://sendvid.com/iframe/ypqdoetk",
+            "https://sendvid.com/iframe/3q12hpnx",
+            "https://sendvid.com/iframe/fw373jgx",
+            "https://sendvid.com/iframe/w2zhj4o3",
+            "https://sendvid.com/iframe/1vlm9wqk"
+          ]
+        }
+      }
+    }
+  }
+}

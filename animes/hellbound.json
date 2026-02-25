@@ -1,0 +1,33 @@
+{
+  "data": {
+    "name": "hellbound",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hellbound.jpg",
+    "desc": "Un jour, des créatures surnaturelles surgissent dans les rues de Séoul et condamnent un homme en plein jour et au milieu de la rue. Face à cet évènement effrayant, une secte, la Nouvelle Vérité mené par le charismatique et mystérieux Jeong Jin Su, voit le jour et interprète ces phénomènes comme des signes de Dieu censés mener au Jugement. Les pécheurs reçoivent un jugement leur annonçant le jour de leur mort puis s'en suit une démonstration à l'heure prévue. Trois créatures frappent à mort la victime avant d'envoyer son âme en Enfer et de calciner le corps.\nSi une grande majorité de la population se laisse convaincre par ces interprétations, plusieurs personnes dont des policiers et l'avocate Min Hye Jin tentent de dénoncer cette nouvelle religion et leur vision peut-être pas si correcte... Mais c'est sans compter la branche extrémiste de la Nouvelle Vérité, la Pointe de Flèche, qui use de la violence pour découvrir les péchés des condamnés, les afficher au grand public et se débarrasser des personnes se mettant sur leur chemin et, ainsi, selon eux, refusant la volonté de Dieu.",
+    "genres": "Drame, Fantastique, Horreur, Epouvante, Mystère, Suspense, Thriller, Anges, Monstres, Paranormal, Religion",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/stgrz7bbaaywmnmcoco9fmre8a",
+            "https://www.myvi.top/embed/ocez8uohi99rdrmjqkcj7h3eze",
+            "https://www.myvi.top/embed/ri3odjynqrmrueqy37zf6adcbh",
+            "https://www.myvi.top/embed/a7myowcjsjarxyd6ypmom9skuc",
+            "https://www.myvi.top/embed/73bp8rkbgdmrtqrbx5sqy1ku8a",
+            "https://www.myvi.top/embed/zttfyyhoy41rbpasdouejki4de"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/drbr9hkr",
+            "https://sendvid.com/embed/1zwccs3c",
+            "https://sendvid.com/embed/lfgb51vc",
+            "https://sendvid.com/embed/m1st7y8e",
+            "https://sendvid.com/embed/uz2w59ux",
+            "https://sendvid.com/embed/rcp2i0pr"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "afro-samurai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/afro-samurai.jpg",
+    "desc": "Suite à la mort de son père dans un duel contre un mystérieux personnage, le jeune Afro décida de s'entraîner dur dans le but de le venger. Pour cela il apprendra l'art du maniement du sabre, tout au long de son parcours à la recherche de cet homme, il fera la rencontre de différents individus décidés à lui mettre des bâtons dans les roues ; il règlera ses comptes dans des combats tout aussi sanglants les uns que les autres.",
+    "genres": "Action, Aventure, Fantasy, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/xonn1eum",
+            "https://sendvid.com/embed/5b6p3ga1",
+            "https://sendvid.com/embed/u6v7fj5b",
+            "https://sendvid.com/embed/4akovoj8",
+            "https://sendvid.com/embed/z50zdtrs\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4734170",
+            "https://video.sibnet.ru/shell.php?videoid=4734172",
+            "https://video.sibnet.ru/shell.php?videoid=4734173",
+            "https://video.sibnet.ru/shell.php?videoid=4734175",
+            "https://video.sibnet.ru/shell.php?videoid=4734177",
+            "https://video.sibnet.ru/shell.php?videoid=4734179"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/km7511agw3orbmz5n1f5mkekqa",
+            "https://www.myvi.tv/embed/s7t5hgc9wk7rzjkxm6whrk7i3a",
+            "https://www.myvi.tv/embed/drzb6jpkguqrxdfof5j4hhycqh",
+            "https://www.myvi.tv/embed/r334ff916mnwbj6un6e3pncuah",
+            "https://www.myvi.tv/embed/ocjnrdww537rfjt39anc3pzxie"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4734179\t"
+          ]
+        }
+      }
+    }
+  }
+}

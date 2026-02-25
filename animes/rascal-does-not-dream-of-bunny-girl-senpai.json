@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "rascal-does-not-dream-of-bunny-girl-senpai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/rascal-does-not-dream-of-bunny-girl-senpai.jpg",
+    "desc": "Il existe une rumeur, cette dernière concerne un mystérieux phénomène appelé \"syndrome de l'adolescence\".\nSakuta Azusagawa est un jeune lycéen qui fait la rencontre de Mai Sakurajima, alors qu'elle se promène dans une bibliothèque déguisée en \"bunny girl\". Pour une raison étrange, les gens autour d'elle ne peuvent plus la voir.\nMai est en fait son aînée au lycée ainsi qu'une ancienne actrice célèbre qui s'est retirée de l'industrie du cinéma suite à un désaccord avec sa mère.\nPourquoi était-elle devenue invisible et comment régler ce problème ?\nEn cherchant à résoudre ce mystère, Sakuta va commencer à comprendre la complexité des sentiments de Mai.",
+    "genres": "Comédie, Drame, Psychologique, Romance, School-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=3461401",
+            "https://video.sibnet.ru/shell.php?videoid=3470256",
+            "https://video.sibnet.ru/shell.php?videoid=3470258",
+            "https://video.sibnet.ru/shell.php?videoid=3474780",
+            "https://video.sibnet.ru/shell.php?videoid=3506096",
+            "https://video.sibnet.ru/shell.php?videoid=3483111",
+            "https://video.sibnet.ru/shell.php?videoid=3487112",
+            "https://video.sibnet.ru/shell.php?videoid=3491198",
+            "https://video.sibnet.ru/shell.php?videoid=3508233",
+            "https://video.sibnet.ru/shell.php?videoid=3499821",
+            "https://video.sibnet.ru/shell.php?videoid=3505007",
+            "https://video.sibnet.ru/shell.php?videoid=3509360",
+            "https://video.sibnet.ru/shell.php?videoid=3515349"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/xk4gkiwh",
+            "https://sendvid.com/embed/t7p9n3uy",
+            "https://sendvid.com/embed/igsoev2p",
+            "https://sendvid.com/embed/xzw3urb2",
+            "https://sendvid.com/embed/7p4leq3f",
+            "https://sendvid.com/embed/8j0g832y",
+            "https://sendvid.com/embed/7b2xokj8",
+            "https://sendvid.com/embed/g9heeziu",
+            "https://sendvid.com/embed/kn4qprjg",
+            "https://sendvid.com/embed/v0bd61wh",
+            "https://sendvid.com/embed/6wb53kku",
+            "https://sendvid.com/embed/scr2sqlg",
+            "https://sendvid.com/embed/fuovsgy3"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5290185",
+            "https://video.sibnet.ru/shell.php?videoid=5405328",
+            "https://vidmoly.to/embed-tji42dylcmx0.html"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/ngurcsrc",
+            "https://sendvid.com/embed/wzhxz2gp",
+            "https://vidmoly.to/embed-tji42dylcmx0.html"
+          ]
+        }
+      }
+    }
+  }
+}

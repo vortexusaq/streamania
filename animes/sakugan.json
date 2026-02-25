@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "sakugan",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sakugan.jpg",
+    "desc": "Dans un avenir lointain, longtemps après que le calendrier grégorien ne soit plus utilisé, les humains vivent entassés les uns sur les autres dans un endroit nommé le \"Labyrinthe\", un monde souterrain.\n\nDivisé en de nombreuses colonies, le Labyrinthe est connu pour ses températures extrêmes mais aussi pour ses filons d'or, d'argent et autres richesses.\n\nDans l'une de ces colonies, une fillette de neuf ans nommée Memempu et son père Gagumber montent à bord d'un robot de travail pour miner du minerai. Ils gagnent leur vie en occupant la plus basse profession des ouvriers.\n\nUn jour, Memempu demande à son père de la laisser partir pour devenir une marqueuse, une profession similaire à la spéléologie, pour retrouver sa mère qui a quitté la maison. Il s'agit d'un métier dangereux avec taux de survie inférieure à 5% car une mystérieuse créature rôde dans les tunnels.\n\nComme découvrir un monde inconnu est un travail dangereux, les «cartes» ont une grande valeur dans le monde du labyrinthe et sont vendues à des prix élevés sur le marché.\n\nNe pouvait la laisser partir seule, Gagumber décide d'accompagner sa fille. C'est ainsi que le voyage d'un père et de sa fille débute.",
+    "genres": "Aventure, Drame, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4926654",
+            "https://video.sibnet.ru/shell.php?videoid=4926657",
+            "https://video.sibnet.ru/shell.php?videoid=4926659",
+            "https://video.sibnet.ru/shell.php?videoid=4926663",
+            "https://video.sibnet.ru/shell.php?videoid=4926664",
+            "https://video.sibnet.ru/shell.php?videoid=4926667",
+            "https://video.sibnet.ru/shell.php?videoid=4926669",
+            "https://video.sibnet.ru/shell.php?videoid=4926673",
+            "https://video.sibnet.ru/shell.php?videoid=4926675",
+            "https://video.sibnet.ru/shell.php?videoid=4926676",
+            "https://video.sibnet.ru/shell.php?videoid=4926679",
+            "https://video.sibnet.ru/shell.php?videoid=4926683"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/rubmk1gz",
+            "https://sendvid.com/embed/gpt7kr3p",
+            "https://sendvid.com/embed/dzkw7jrh",
+            "https://sendvid.com/embed/xhbkyjz3",
+            "https://sendvid.com/embed/gqz8pswb",
+            "https://sendvid.com/embed/04q5ztny",
+            "https://sendvid.com/embed/d4b829fo",
+            "https://sendvid.com/embed/bad8ywyy",
+            "https://sendvid.com/embed/4q0bnjrw",
+            "https://sendvid.com/embed/uluig2df",
+            "https://sendvid.com/embed/5qiddgmj",
+            "https://sendvid.com/embed/wkbhm9ca"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/gpz79d7y9ucrdkzw93b3qh65iy",
+            "https://www.myvi.top/embed/7pzgj83mrbjw9qy6663j4kgc8y",
+            "https://www.myvi.top/embed/kdyed3gq961rx8i4by49ot5iko",
+            "https://www.myvi.top/embed/ktxmci8ka4kw7bm7j6oinw8j3w",
+            "https://www.myvi.top/embed/tgps1etji9twtdqi8qk1gdhnxc",
+            "https://www.myvi.top/embed/hk3ig55hwzjwjffkima5rzmbpw",
+            "https://www.myvi.top/embed/nott8zeirqyrmpdd41yzj8wkxy",
+            "https://www.myvi.top/embed/jpknxfxbuqtw7mwqbapxioyakh",
+            "https://www.myvi.top/embed/5acbfaespeirpbu3hys5da1cpo",
+            "https://www.myvi.top/embed/kkjuusz5cstrpdhzwqm48p9g4r",
+            "https://www.myvi.top/embed/n8onf9wn865w8f9cks7ixw9fkw",
+            "https://www.myvi.top/embed/9i1dz9rj5zir7bc7963uobx6se"
+          ]
+        }
+      }
+    }
+  }
+}

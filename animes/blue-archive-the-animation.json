@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "blue-archive-the-animation",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/blue-archive-the-animation.jpg",
+    "desc": "L'histoire se déroule dans une cité universitaire où chaque secteur est considéré comme indépendant. En temps ordinaire, c'est le Conseil Étudiant qui assure la coordination entre les secteurs et leur bonne entente. Le problème, c'est que la présidente du Conseil a disparu...",
+    "genres": "Comédie, Mystère, School-Life, Science-fiction, Ecole",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5525192",
+            "https://video.sibnet.ru/shell.php?videoid=5525194",
+            "https://video.sibnet.ru/shell.php?videoid=5525197",
+            "https://video.sibnet.ru/shell.php?videoid=5527135",
+            "https://video.sibnet.ru/shell.php?videoid=5540404",
+            "https://video.sibnet.ru/shell.php?videoid=5540408",
+            "https://video.sibnet.ru/shell.php?videoid=5553232",
+            "https://video.sibnet.ru/shell.php?videoid=5553242",
+            "https://video.sibnet.ru/shell.php?videoid=5559108",
+            "https://video.sibnet.ru/shell.php?videoid=5572719",
+            "https://video.sibnet.ru/shell.php?videoid=5576090",
+            "https://video.sibnet.ru/shell.php?videoid=5591914"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-e0p8uxcj1sni.html",
+            "https://vidmoly.to/embed-vh0h0qrtsldm.html",
+            "https://vidmoly.to/embed-fke4jp4ogk75.html",
+            "https://vidmoly.to/embed-rigurrg1z7cf.html",
+            "https://vidmoly.to/embed-cwuzightxcvq.html",
+            "https://vidmoly.to/embed-fys5j3msjs0l.html",
+            "https://vidmoly.to/embed-p2uxhaaa8fqp.html",
+            "https://vidmoly.to/embed-5eezupzcffoh.html",
+            "https://vidmoly.to/embed-2qupphqr30gd.html",
+            "https://vidmoly.to/embed-5i7unrrye5wt.html",
+            "https://vidmoly.to/embed-mi5s7t2vzuyb.html",
+            "https://vidmoly.to/embed-wfrfx9eeyxj2.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/lej2c5cw",
+            "https://sendvid.com/embed/i9rra0k3",
+            "https://sendvid.com/embed/vre0s5ei",
+            "https://sendvid.com/embed/hlfq5co1",
+            "https://sendvid.com/embed/jcqyjj09",
+            "https://sendvid.com/embed/i4ft14vr",
+            "https://sendvid.com/embed/nm0u7d17",
+            "https://sendvid.com/embed/9mlq3dam",
+            "https://sendvid.com/embed/iv69bxos",
+            "https://sendvid.com/embed/4fdhcbn1",
+            "https://sendvid.com/embed/86u4gybx",
+            "https://sendvid.com/embed/ake961hk"
+          ]
+        }
+      }
+    }
+  }
+}

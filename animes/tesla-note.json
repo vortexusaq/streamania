@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "tesla-note",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tesla-note.jpg",
+    "desc": "Nous suivons le quotidien de Negoro Botan, une jeune femme qui depuis son plus jeune âge s'est entrainée en tant que ninja afin de devenir une espionne talentueuse. Un jour, on lui donne une mission secrète, mission T, pour sauver le monde de la destruction, dans laquelle elle fait équipe avec un excellent espion nommé Kuruma. Ils ont pour but de récupérer le Cristal Tesla, l'héritage de l'inventeur Tesla Nikola. Ainsi, ils devront faire face à des agents d'autres pays qui souhaitent eux aussi s'emparer du Cristal Tesla.",
+    "genres": "Action, Shônen, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/umzfufyhjiprfbg6shz84pquna",
+            "https://www.myvi.top/embed/ssjc77r7qi4wdmziqxq6g6xaqw",
+            "https://www.myvi.top/embed/73gpmbjn9u3rxggzoaxxr8rcic",
+            "https://www.myvi.top/embed/obz3abzzskyrzk5khgrxd3heec",
+            "https://www.myvi.top/embed/x6x6pax3w3crfbdsjchayfge6y",
+            "https://www.myvi.top/embed/w7xrymkh4zwrty4ufsggzqmhky",
+            "https://www.myvi.top/embed/4es9qi4mdmsrujwo3i7shryp8r",
+            "https://www.myvi.top/embed/1uic73yrezirfkosibx3ne7mac",
+            "https://www.myvi.top/embed/heayaygxzggw5ej1r5fkgpngoe",
+            "https://www.myvi.top/embed/xb3rpc49suqw9pbk4gzqxkxi6o",
+            "https://www.myvi.top/embed/ttq85zyhjqfwij6m1dwxxgceor",
+            "https://www.myvi.top/embed/5pnb3wa994nw5pnzwwbb9gzxhc",
+            "https://www.myvi.top/embed/x3pj9hgkhoirdc5xepzbdx3txo"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/nkhjgx1x",
+            "https://sendvid.com/embed/tplw7lv8",
+            "https://sendvid.com/embed/gwd9doox",
+            "https://sendvid.com/embed/szh8ehgp",
+            "https://sendvid.com/embed/xnway1s9",
+            "https://sendvid.com/embed/zn9i6hi1",
+            "https://sendvid.com/embed/e5mpvbnd",
+            "https://sendvid.com/embed/vpu5e4pk",
+            "https://sendvid.com/embed/bv6o8rrr",
+            "https://sendvid.com/embed/x68808tp",
+            "https://sendvid.com/embed/oy45wurn",
+            "https://sendvid.com/embed/zowc0yfy",
+            "https://sendvid.com/embed/7u2tclbd"
+          ]
+        }
+      }
+    }
+  }
+}

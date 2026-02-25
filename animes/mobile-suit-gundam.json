@@ -1,0 +1,109 @@
+{
+  "data": {
+    "name": "mobile-suit-gundam",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mobile-suit-gundam.jpg",
+    "desc": "Année 0079 du Calendrier Universel, le Duché de Zeon déclare la guerre au gouvernement fédéral de la Terre. Une lutte acharnée entre les \"earthnoïdes\" et les \"spacenoïdes\" commence et cause la mort de la moitié de l'humanité (qui comptait onze milliards d'êtres humains). Le conflit s'enlise ensuite dans un statut, huit mois qui s'achève lorsque le Colonel Char Aznable découvre l'existence du projet fédéral -V- qui consiste à développer de nouvelles armes pour lutter contre les Mobile Suits de Zeon. Suite à une attaque du commando de Char sur la Colonie spatiale où était établit le projet -V- le Gundam, plus puissant Mobile Suit de la Fédération se lève et extermine ses assaillants en quelques secondes !",
+    "genres": "Action, Drame, Science-fiction",
+    "update": "La partie 2 est prévue pour avril 2023",
+    "saisons": {
+      "total": 2,
+      "The Witch from Mercury": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/9ixp221d",
+            "https://sendvid.com/embed/5v9cehtl\t",
+            "https://sendvid.com/embed/m6pdaijp",
+            "https://sendvid.com/embed/4jsszejr",
+            "https://sendvid.com/embed/oeos89k1",
+            "https://sendvid.com/embed/g4yhi3fl",
+            "https://sendvid.com/embed/p4r3d9b5",
+            "https://sendvid.com/embed/p40t9ez1",
+            "https://sendvid.com/embed/8cmta8pw",
+            "https://sendvid.com/embed/quevmk4z",
+            "https://sendvid.com/embed/woialo1h",
+            "https://sendvid.com/embed/ffnt6wpw",
+            "https://sendvid.com/embed/agecbpn8"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4907144",
+            "https://video.sibnet.ru/shell.php?videoid=4907145",
+            "https://video.sibnet.ru/shell.php?videoid=4912328",
+            "https://video.sibnet.ru/shell.php?videoid=4920451",
+            "https://video.sibnet.ru/shell.php?videoid=4927696",
+            "https://video.sibnet.ru/shell.php?videoid=4934782",
+            "https://video.sibnet.ru/shell.php?videoid=4943101",
+            "https://video.sibnet.ru/shell.php?videoid=4957678",
+            "https://video.sibnet.ru/shell.php?videoid=4964247",
+            "https://video.sibnet.ru/shell.php?videoid=4970026",
+            "https://video.sibnet.ru/shell.php?videoid=4975713",
+            "https://video.sibnet.ru/shell.php?videoid=4989758",
+            "https://video.sibnet.ru/shell.php?videoid=5002691"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/x8hqrf3e44mwzfgar8q9ca9g8c",
+            "https://www.myvi.tv/embed/7psbpdkgjx1rzektmthet7rana",
+            "https://www.myvi.tv/embed/7ngnyjjp7gmrfmfnxm7cp1dphr",
+            "https://www.myvi.tv/embed/5fhi6f13azjwdqra3u5oefbaor",
+            "https://www.myvi.tv/embed/ez3c83yd9xtwdeh7bj77nd89ey",
+            "https://www.myvi.tv/embed/c99ewwytznmr3ytga7fb47cxhc",
+            "https://www.myvi.tv/embed/5bau6fjr5q1r9r5i7qo17k4e5c",
+            "https://www.myvi.tv/embed/i7rrajgi55ir9jih6e1g3smgde",
+            "https://www.myvi.tv/embed/g4j1ptbt6fxr3md7mw86efmxma",
+            "https://www.myvi.tv/embed/yu8ndc6cbnawzc39jdd8s4na1y",
+            "https://www.myvi.tv/embed/by3i7j8b8kor8ymm43f8ye97ph",
+            "https://www.myvi.tv/embed/tnfo36niattrjytjp48qoc4buy",
+            "https://www.myvi.tv/embed/ei3rp8odqx7rfda4a4wjajxgea"
+          ]
+        }
+      },
+      "The Witch from Mercury Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/y2z15os8",
+            "https://sendvid.com/embed/zhsb2pcn",
+            "https://sendvid.com/embed/93f31adq",
+            "https://sendvid.com/embed/6y2ejm4n",
+            "https://sendvid.com/embed/eptkd2rc",
+            "https://sendvid.com/embed/tbeipowc",
+            "https://sendvid.com/embed/t46o8ovz",
+            "https://sendvid.com/embed/xi2kpmgs",
+            "https://sendvid.com/embed/s2cg9dfi",
+            "https://sendvid.com/embed/11mnhxxt",
+            "https://sendvid.com/embed/x2tsl42o",
+            "https://sendvid.com/embed/hfkix6j4"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5100738",
+            "https://video.sibnet.ru/shell.php?videoid=5107263",
+            "https://video.sibnet.ru/shell.php?videoid=5114875",
+            "https://video.sibnet.ru/shell.php?videoid=5121834",
+            "https://video.sibnet.ru/shell.php?videoid=5128631",
+            "https://video.sibnet.ru/shell.php?videoid=5147684",
+            "https://video.sibnet.ru/shell.php?videoid=5154679",
+            "https://video.sibnet.ru/shell.php?videoid=5161593",
+            "https://video.sibnet.ru/shell.php?videoid=5167854",
+            "https://video.sibnet.ru/shell.php?videoid=5175261",
+            "https://video.sibnet.ru/shell.php?videoid=5180837",
+            "https://video.sibnet.ru/shell.php?videoid=5185937"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/kaau6p5spbbr5bktjwgbrh6j6e",
+            "https://www.myvi.tv/embed/6iws48w7o8cwbrfueuj8jswhbw",
+            "https://www.myvi.tv/embed/dxmk1977gqzwikfkoybckzwc7h",
+            "https://www.myvi.tv/embed/8guzp6htrwxrppnzreaojkmeba",
+            "https://www.myvi.tv/embed/dq9o7onahuswjx3a95gb6m9i5e",
+            "https://www.myvi.tv/embed/si3yrqa5uokrmjhfguadox8owc",
+            "https://www.myvi.tv/embed/8wsyyxnxor7r38yao61qhg4eeh",
+            "https://www.myvi.tv/embed/g58qeet7zs3rtxiztg1q77esda",
+            "https://www.myvi.tv/embed/eefjq4sbjohwm84sogs3w7o3gr",
+            "https://www.myvi.tv/embed/81x9pgciq6drdf8kt7zxuiqmxe",
+            "https://www.myvi.tv/embed/moxn8ji6y7gwbextmmpahc3uae",
+            "https://www.myvi.tv/embed/z37mj6yb8adr5jxyx558g9y8uh"
+          ]
+        }
+      }
+    }
+  }
+}

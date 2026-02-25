@@ -1,0 +1,68 @@
+{
+  "data": {
+    "name": "eromanga-sensei",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/eromanga-sensei.jpg",
+    "desc": "Masamune Izumi est un lycéen qui écrit des light novels. Il vit seul avec sa petite sœur mais cette dernière ne sort jamais de sa chambre. Un jour, Masamune est résigné à la faire sortir. Mais quand il rentre dans la chambre de Sagiri, sa sœur, il découvre qu'elle est en réalité son illustrateur, Eromanga Sensei !",
+    "genres": "Comédie, Drame, Ecchi, Romance, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/7cutfd7kac3rzqm8maziwqnjzc",
+            "https://www.myvi.top/embed/1ihowesme4prjnhmnwcyjkdq3r",
+            "https://www.myvi.top/embed/t3rgzxawtodwtrx5qopwepwr6c",
+            "https://www.myvi.top/embed/ia5d86kdajdrxfnayx6tbc61kc",
+            "https://www.myvi.top/embed/e131cn13o5nwdcpwsxr38r5y8w",
+            "https://www.myvi.top/embed/sodh1iz6y96rzkx93rp41p3ouo",
+            "https://www.myvi.top/embed/67bt61bhdmnwixdez1wrefsobe",
+            "https://www.myvi.top/embed/x6q3zfotrd6rxysa6rprt8zzuh",
+            "https://www.myvi.top/embed/c5o99cshsn9w5p69s1e3g5yace",
+            "https://www.myvi.top/embed/ndekb7ankbmrx8zra3ibyirimo",
+            "https://www.myvi.top/embed/s6k6u6xaoxxwux8dh38kujcb3w",
+            "https://www.myvi.top/embed/zphzgtxwzggrjy6z7u1uw7196r"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4712478",
+            "https://video.sibnet.ru/shell.php?videoid=4712479",
+            "https://video.sibnet.ru/shell.php?videoid=4712480",
+            "https://video.sibnet.ru/shell.php?videoid=4712483",
+            "https://video.sibnet.ru/shell.php?videoid=4712485",
+            "https://video.sibnet.ru/shell.php?videoid=4712487",
+            "https://video.sibnet.ru/shell.php?videoid=4712489",
+            "https://video.sibnet.ru/shell.php?videoid=4712491",
+            "https://video.sibnet.ru/shell.php?videoid=4712492",
+            "https://video.sibnet.ru/shell.php?videoid=4712495",
+            "https://video.sibnet.ru/shell.php?videoid=4712498",
+            "https://video.sibnet.ru/shell.php?videoid=4712500"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/399zv4xj",
+            "https://sendvid.com/embed/w7f162ub",
+            "https://sendvid.com/embed/fprsam3o",
+            "https://sendvid.com/embed/gggqvyl6",
+            "https://sendvid.com/embed/wcbchnlr",
+            "https://sendvid.com/embed/dk7yre9m",
+            "https://sendvid.com/embed/bg6llkao",
+            "https://sendvid.com/embed/ij41cfrs",
+            "https://sendvid.com/embed/vyigacou",
+            "https://sendvid.com/embed/0xwpem2l",
+            "https://sendvid.com/embed/gwtiu0lr",
+            "https://sendvid.com/embed/01y2y7hf"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=3532705",
+            "https://video.sibnet.ru/shell.php?videoid=3540992"
+          ]
+        }
+      }
+    }
+  }
+}

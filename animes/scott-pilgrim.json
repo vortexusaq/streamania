@@ -1,0 +1,37 @@
+{
+  "data": {
+    "name": "scott-pilgrim",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/scott-pilgrim.jpg",
+    "desc": "Scott Pilgrim, 23 ans, est bassiste dans le groupe indépendant Sex Bob-omb, et vit au dépend de son coloc Wallace Wells. Il sort avec une lycéenne de 17 ans, Knives Chau. Durant une soirée, il rencontre la fille qu'il voit toutes les nuits dans ses rêves : Ramona Flowers. Mais pour pouvoir sortir avec elle, il va devoir battre la ligue des sept exs maléfiques de Ramona.",
+    "genres": "Action, Aventure, Comédie, Fantastique, Amour, Apprentissage, Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/6d8t1jto",
+            "https://sendvid.com/embed/oo8uc2oi",
+            "https://sendvid.com/embed/7pfwhjcw",
+            "https://sendvid.com/embed/e6cvd300",
+            "https://sendvid.com/embed/qqyaouuq",
+            "https://sendvid.com/embed/yqp8twmv",
+            "https://sendvid.com/embed/2e956c5n",
+            "https://sendvid.com/embed/056rysdp"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5367375",
+            "https://video.sibnet.ru/shell.php?videoid=5367377",
+            "https://video.sibnet.ru/shell.php?videoid=5367378",
+            "https://video.sibnet.ru/shell.php?videoid=5367385",
+            "https://video.sibnet.ru/shell.php?videoid=5367393",
+            "https://video.sibnet.ru/shell.php?videoid=5367408",
+            "https://video.sibnet.ru/shell.php?videoid=5367410",
+            "https://video.sibnet.ru/shell.php?videoid=5367413"
+          ]
+        }
+      }
+    }
+  }
+}

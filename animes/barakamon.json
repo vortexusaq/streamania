@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "barakamon",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/barakamon.jpg",
+    "desc": "Seishuu Handa, calligraphe de talent, est envoyé sur une île en pleine campagne pour avoir littéralement mis une gifle à un directeur d'exposition, non-content de ses œuvres. Alors qu'il traîne des pieds pour y aller, il finit par s'attacher petit à petit aux villageois : enfants, parents, grands-parents... tous ont une histoire à raconter et une expérience à apporter à Seishuu.",
+    "genres": "Comédie, Slice-of-Life, Apprentissage, Famille, Quotidien, Voyage",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/sz2lmtyp",
+            "https://sendvid.com/embed/re7yv9z4",
+            "https://sendvid.com/embed/d7itiu2t",
+            "https://sendvid.com/embed/b2kr0eb4",
+            "https://sendvid.com/embed/erld43ee",
+            "https://sendvid.com/embed/5u1cpavf",
+            "https://sendvid.com/embed/jrxkzupc",
+            "https://sendvid.com/embed/fuqhhv98",
+            "https://sendvid.com/embed/akkeuk8z",
+            "https://sendvid.com/embed/2ypcs23p",
+            "https://sendvid.com/embed/vbunfpha",
+            "https://sendvid.com/embed/183s288a"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4955990",
+            "https://video.sibnet.ru/shell.php?videoid=4955991",
+            "https://video.sibnet.ru/shell.php?videoid=4955992",
+            "https://video.sibnet.ru/shell.php?videoid=4955993",
+            "https://video.sibnet.ru/shell.php?videoid=4955994",
+            "https://video.sibnet.ru/shell.php?videoid=4955995",
+            "https://video.sibnet.ru/shell.php?videoid=4955997",
+            "https://video.sibnet.ru/shell.php?videoid=4955998",
+            "https://video.sibnet.ru/shell.php?videoid=4955999",
+            "https://video.sibnet.ru/shell.php?videoid=4956000",
+            "https://video.sibnet.ru/shell.php?videoid=4956001",
+            "https://video.sibnet.ru/shell.php?videoid=4956002"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/rjtgrs3kmabr8c9d9se7i93zko",
+            "https://www.myvi.tv/embed/9i8usc18rm9wjfonch3ep7fqoc",
+            "https://www.myvi.tv/embed/urps7eoi8hfrfy9t4kd8cmtyme",
+            "https://www.myvi.tv/embed/omsw1cgoagdw5ezxpooe5qhtry",
+            "https://www.myvi.tv/embed/743iret66gnwxfa5o33m4b5yyw",
+            "https://www.myvi.tv/embed/jqa7u5o9ertr3qwb3z6gphq4sy",
+            "https://www.myvi.tv/embed/tc9zx37kt3ertd7gusob71pbpo",
+            "https://www.myvi.tv/embed/8j8grseapm1w3gwna3iokejdja",
+            "https://www.myvi.tv/embed/5nou4rwrpymwmj69fcaztgh78w",
+            "https://www.myvi.tv/embed/rf556grrx6rrxpnafgdjqxcwzr",
+            "https://www.myvi.tv/embed/dmdyo33otwzw8fp5ma88r51bje",
+            "https://www.myvi.tv/embed/z85iqgi4d79rjgu3cte65r7wdw"
+          ]
+        }
+      }
+    }
+  }
+}

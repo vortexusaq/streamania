@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "onigamiden",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/onigamiden.jpg",
+    "desc": "Jun Tendo, jeune réservé et craintif, mène une vie normale, sans rien de particulier. Jusqu'au jour où il est attaqué par un démon. Transportsé dans le temps, Jun atterrit à la période Heian (IXè, Xiè siècle). Là, un moine, Gen'un, attend le jeune garçon pour réveiller Orochi, un dragon légendaire, qui pourrait vaincre les démons. Mais Jun ne comprend pas et refuse son devoir. Il s'enfuit et trouve le village des démons, où la vérité sur la guerre entre eux et les humains lui est révélée sous une autre facette. Jun va devoir choisir son camp et combattre s'il veut rentrer chez lui, dans son époque.",
+    "genres": "Aventure, Historique, Shônen, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4801893\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/onrxs7ab993rzxi96oxyhgnsiw"
+          ]
+        }
+      }
+    }
+  }
+}

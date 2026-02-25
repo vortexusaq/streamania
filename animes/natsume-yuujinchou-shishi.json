@@ -1,0 +1,131 @@
+{
+  "data": {
+    "name": "natsume-yuujinchou-shishi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/natsume-yuujinchou-shishi.jpg",
+    "desc": "Il s'agit de la 7è saison, qui fête les 15 ans de la première adaptation.",
+    "genres": "Comédie, Drame, Surnaturel, Folklore, Yokai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 12,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5706362",
+            "https://video.sibnet.ru/shell.php?videoid=5716127",
+            "https://video.sibnet.ru/shell.php?videoid=5724740",
+            "https://video.sibnet.ru/shell.php?videoid=5733178",
+            "https://video.sibnet.ru/shell.php?videoid=5741417",
+            "https://video.sibnet.ru/shell.php?videoid=5748696",
+            "https://video.sibnet.ru/shell.php?videoid=5755070",
+            "https://video.sibnet.ru/shell.php?videoid=5762584",
+            "https://video.sibnet.ru/shell.php?videoid=5766773",
+            "https://video.sibnet.ru/shell.php?videoid=5770865",
+            "https://video.sibnet.ru/shell.php?videoid=5775534",
+            "https://video.sibnet.ru/shell.php?videoid=5781886"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-lllr41t3w288.html",
+            "https://vidmoly.to/embed-pgdfpqvwit89.html",
+            "https://vidmoly.to/embed-h4at0usai1pv.html",
+            "https://vidmoly.to/embed-s1mjo5gak0ga.html",
+            "https://vidmoly.to/embed-x1t8yg746aak.html",
+            "https://vidmoly.to/embed-3fkcjpwvpj2y.html",
+            "https://vidmoly.to/embed-6hckacbmrdy6.html",
+            "https://vidmoly.to/embed-3uipv9gi56z7.html",
+            "https://vidmoly.to/embed-ivmg6b7yi7kn.html",
+            "https://vidmoly.to/embed-qh64lkxtw1sw.html",
+            "https://vidmoly.to/embed-wiztaf9aouqy.html",
+            "https://vidmoly.to/embed-e38t6ololclw.html"
+          ],
+          "lec3": [
+            "https://oneupload.to/embed-1s71k5dgxyrw.html",
+            "https://oneupload.to/embed-0yaswqw7bis1.html",
+            "https://oneupload.to/embed-g437zc6yrbmj.html",
+            "https://oneupload.to/embed-urkkq4m4cz2w.html",
+            "https://oneupload.to/embed-0hufcbnyv4i1.html",
+            "https://oneupload.to/embed-5moezvengpts.html",
+            "https://oneupload.to/embed-qkij86xbxjhc.html",
+            "https://oneupload.to/embed-v6urnek76o28.html",
+            "https://oneupload.to/embed-b89mtb10icli.html",
+            "https://oneupload.to/embed-ofq5ow3197mu.html",
+            "https://oneupload.to/embed-upmpjetqoezz.html",
+            "https://oneupload.to/embed-9s4pifj7fsec.html"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/95jtmaxm",
+            "https://sendvid.com/embed/mpr4hml8",
+            "https://video.sibnet.ru/shell.php?videoid=5724740",
+            "https://sendvid.com/embed/bzrq9mnb",
+            "https://sendvid.com/embed/6j3ko362",
+            "https://sendvid.com/embed/0nviidq5",
+            "https://sendvid.com/embed/judiuknv",
+            "https://sendvid.com/embed/km0fna8e",
+            "https://sendvid.com/embed/9e22o5od",
+            "https://sendvid.com/embed/mm0ry4ws",
+            "https://sendvid.com/embed/cub2ac4e",
+            "https://sendvid.com/embed/ynpj428i"
+          ],
+          "lec5": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456240483&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240535&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240605&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240669&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240718&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240776&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240833&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240885&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240930&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456240983&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241024&hd=3",
+            "https://vkvideo.ru/video_ext.php?oid=751474887&id=456241067&hd=3"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {}
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {}
+      },
+      "Saison 4": {
+        "url": "saison4/vostfr",
+        "eps": {}
+      },
+      "Saison 5": {
+        "url": "saison5/vostfr",
+        "eps": {}
+      },
+      "Saison 6": {
+        "url": "saison6/vostfr",
+        "eps": {}
+      },
+      "Saison 7": {
+        "url": "saison7/vostfr",
+        "eps": {}
+      },
+      "Saison 8": {
+        "url": "saison8/vostfr",
+        "eps": {}
+      },
+      "Saison 9": {
+        "url": "saison9/vostfr",
+        "eps": {}
+      },
+      "Saison 10": {
+        "url": "saison10/vostfr",
+        "eps": {}
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {}
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

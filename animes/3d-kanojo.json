@@ -1,0 +1,92 @@
+{
+  "data": {
+    "name": "3d-kanojo",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/3d-kanojo.jpg",
+    "desc": "Hikari Tsutsui est un otaku tout ce qu'il y a de plus basique. Il déteste avoir affaire avec les autres et tout particulièrement avec sa classe. À cause de cela, il est moqué par ses camarades. Un jour, il doit nettoyer la piscine en compagnie d'Iroha Igarashi, une jolie fille. Elle est d'ailleurs tout ce qu'il déteste chez les vraies filles ; elle sèche les cours, n'a aucune amies du sexe féminin et bien plus encore. Pourtant, elle est gentille avec lui et l'aidera même quand il sera de nouveau embêté par des élèves. Iroha pourrait bien changer la vie monotone d'Hikari...",
+    "genres": "Comédie, Drame, Romance, School-Life, Shôjo, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/7oy1a06v",
+            "https://sendvid.com/embed/zp2tuoi9",
+            "https://sendvid.com/embed/q8m4of7d",
+            "https://sendvid.com/embed/00yf6lhk",
+            "https://sendvid.com/embed/fragvxs9",
+            "https://sendvid.com/embed/4v2bsxjv",
+            "https://sendvid.com/embed/21j80mrl",
+            "https://sendvid.com/embed/31rxw9ij",
+            "https://sendvid.com/embed/xxezsepm",
+            "https://sendvid.com/embed/a3dv4mqd",
+            "https://sendvid.com/embed/soleskt2",
+            "https://sendvid.com/embed/q4dp56iq\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4734128",
+            "https://video.sibnet.ru/shell.php?videoid=4734129",
+            "https://video.sibnet.ru/shell.php?videoid=4734130",
+            "https://video.sibnet.ru/shell.php?videoid=4734131",
+            "https://video.sibnet.ru/shell.php?videoid=4734133",
+            "https://video.sibnet.ru/shell.php?videoid=4734134",
+            "https://video.sibnet.ru/shell.php?videoid=4734135",
+            "https://video.sibnet.ru/shell.php?videoid=5476539",
+            "https://video.sibnet.ru/shell.php?videoid=4734137",
+            "https://video.sibnet.ru/shell.php?videoid=4734138",
+            "https://video.sibnet.ru/shell.php?videoid=4734140",
+            "https://video.sibnet.ru/shell.php?videoid=4734141"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/p8st0u4o",
+            "https://sendvid.com/embed/n9xn1n8w",
+            "https://sendvid.com/embed/67oak14i",
+            "https://sendvid.com/embed/1h2ocknj",
+            "https://sendvid.com/embed/l8oinpqj",
+            "https://sendvid.com/embed/mjlx2rcg",
+            "https://sendvid.com/embed/ltikp3s5",
+            "https://sendvid.com/embed/6zpxl0a9",
+            "https://sendvid.com/embed/3xs6z45l",
+            "https://sendvid.com/embed/goltxfru",
+            "https://sendvid.com/embed/ncm44wt6",
+            "https://sendvid.com/embed/fxxr8jq5\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4734149",
+            "https://video.sibnet.ru/shell.php?videoid=4734152",
+            "https://video.sibnet.ru/shell.php?videoid=4734153",
+            "https://video.sibnet.ru/shell.php?videoid=4734155",
+            "https://video.sibnet.ru/shell.php?videoid=4734157",
+            "https://video.sibnet.ru/shell.php?videoid=4734158",
+            "https://video.sibnet.ru/shell.php?videoid=4734159",
+            "https://video.sibnet.ru/shell.php?videoid=4734161",
+            "https://video.sibnet.ru/shell.php?videoid=4734162",
+            "https://video.sibnet.ru/shell.php?videoid=4734163",
+            "https://video.sibnet.ru/shell.php?videoid=4734165",
+            "https://video.sibnet.ru/shell.php?videoid=4734166"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/tmu8p4jspttrxypmsugxw6pfdr",
+            "https://www.myvi.tv/embed/1stsztwx48mrmdkykn6mauuu6a",
+            "https://www.myvi.tv/embed/154enusmux4wxe31br3hwfbjgy",
+            "https://www.myvi.tv/embed/5y1fsffnzodrbpxy85ceorarso",
+            "https://www.myvi.tv/embed/qyk1m7qj1uhr5fxs5kpmbjb89e",
+            "https://www.myvi.tv/embed/xei5b1efduiwjcrcfr3z1fz6qr",
+            "https://www.myvi.tv/embed/ycb8mft8ctswzqgwpwk98msc7y",
+            "https://www.myvi.tv/embed/qdxic1umxdowtrkwg1qa6o9cfe",
+            "https://www.myvi.tv/embed/wdhdscup9ffr7qupt3dmujwtaa",
+            "https://www.myvi.tv/embed/iqhfaakkzjswtkgqk6361qyfry",
+            "https://www.myvi.tv/embed/3yey59utojurimaigrrxwtqisw",
+            "https://www.myvi.tv/embed/8thq7nookzcrjrji8oometwt8y"
+          ]
+        }
+      }
+    }
+  }
+}

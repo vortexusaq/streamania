@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "konohana-kitan",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/konohana-kitan.jpg",
+    "desc": "Dans une auberge située à la frontière entre le monde des humains et celui des yôkais, de jeunes kitsunes à l'apparence humaine font de leur mieux pour servir leurs clients.",
+    "genres": "Comédie, Fantasy, Surnaturel, Yokai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/ozdyzgd81mbwzfpnfhi5ftw7ya",
+            "https://www.myvi.top/embed/jxezipj9cm9r8kzyn4fai5r8oe",
+            "https://www.myvi.top/embed/5fcazrtxyfxwifj3xtkx4k18fy",
+            "https://www.myvi.top/embed/q18eabi37uawzyfchmpzxcu48o",
+            "https://www.myvi.top/embed/eq1dpd98cx5r3eqbkh9otkisca",
+            "https://www.myvi.top/embed/uqjxbo1ic1fw8rk5uu1ba7qmmo",
+            "https://www.myvi.top/embed/6ek68mbjd8drdqn5bq95ydqusr",
+            "https://www.myvi.top/embed/c991nsda9i6rix1zaydi8d5qyw",
+            "https://www.myvi.top/embed/pbk64yiaw1brxx4ps3dkbnq56r",
+            "https://www.myvi.top/embed/6b53zozy6ytw3ff3r6515onu5w",
+            "https://www.myvi.top/embed/35tqk37qbknrid8gyi58mh9w1a",
+            "https://www.myvi.top/embed/9zrxynjj8ujwikw8aqt3m1on9o"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3412558",
+            "https://video.sibnet.ru/shell.php?videoid=3412561",
+            "https://video.sibnet.ru/shell.php?videoid=3412563",
+            "https://video.sibnet.ru/shell.php?videoid=3573390",
+            "https://video.sibnet.ru/shell.php?videoid=3412582",
+            "https://video.sibnet.ru/shell.php?videoid=3412587",
+            "https://video.sibnet.ru/shell.php?videoid=3412595",
+            "https://video.sibnet.ru/shell.php?videoid=3412598",
+            "https://video.sibnet.ru/shell.php?videoid=3412600",
+            "https://video.sibnet.ru/shell.php?videoid=3412601",
+            "https://video.sibnet.ru/shell.php?videoid=3412602",
+            "https://video.sibnet.ru/shell.php?videoid=3412603"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/7oug6ksw",
+            "https://sendvid.com/embed/xzie0dk6",
+            "https://sendvid.com/embed/oftx4ysl",
+            "https://sendvid.com/embed/74w5nu78",
+            "https://sendvid.com/embed/z357n4mf",
+            "https://sendvid.com/embed/sotrurvq",
+            "https://sendvid.com/embed/458pg9uq",
+            "https://sendvid.com/embed/wr6uh4s2",
+            "https://sendvid.com/embed/i1wl1ztz",
+            "https://sendvid.com/embed/f7i1s57w",
+            "https://sendvid.com/embed/hb0ihybg",
+            "https://sendvid.com/embed/k2z2otqb"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "kabukibu",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kabukibu.jpg",
+    "desc": "Kurogo Kurusu est un lycéen fanatique de kabuki (théâtre japonais traditionnel). Kurogo est bien décidé à pratiquer le kabuki dans son lycée, malheureusement, le club n'existe pas. Ne reculant devant rien, il décide de créer lui-même ce club, pour se faire, il doit trouver d'autre lycéens aussi passionnés que lui pour rejoindre son club.",
+    "genres": "Comédie, School-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/yru8czya7e9w9n4j5jotizt3uc",
+            "https://www.myvi.top/embed/i3g3djj3tt7wfx5isewsyj55fr",
+            "https://www.myvi.top/embed/nykbyoik6amrueadrsds537s4w",
+            "https://www.myvi.top/embed/eh5kyazhj4gr9f6srtmcdrrscy",
+            "https://www.myvi.top/embed/4ytuuzby83prbkzsn4gmr4kuty",
+            "https://www.myvi.top/embed/fh7hrechu8hwuqwh36k6gp7fzo",
+            "https://www.myvi.top/embed/ejqjniy5x1zwxf4414wto7fzqo",
+            "https://www.myvi.top/embed/ynbwapaph14w9mq9pg4prxq3th",
+            "https://www.myvi.top/embed/xe3xyzmh4aiw7gr3xycn4cr1ow",
+            "https://www.myvi.top/embed/63rmc9qmyrurtj3kxa4fo1qxsy",
+            "https://www.myvi.top/embed/gxb3mmr8wnwriqsjxxchht79ca",
+            "https://www.myvi.top/embed/gygcbcunaifr5d88ekxsp8qosc"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/gr1cf3q5",
+            "https://sendvid.com/embed/spphcrcv",
+            "https://sendvid.com/embed/vslcomwb",
+            "https://sendvid.com/embed/clrju9sw",
+            "https://sendvid.com/embed/016d4zfb",
+            "https://sendvid.com/embed/i8zifti9",
+            "https://sendvid.com/embed/dfzeer80",
+            "https://sendvid.com/embed/855x0jnf",
+            "https://sendvid.com/embed/v00vrb83",
+            "https://sendvid.com/embed/d0jfwukn",
+            "https://sendvid.com/embed/rhv8k7k4",
+            "https://sendvid.com/embed/2cfc4nse"
+          ]
+        }
+      }
+    }
+  }
+}

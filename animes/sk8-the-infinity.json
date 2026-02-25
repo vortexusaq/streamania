@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "sk8-the-infinity",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sk8-the-infinity.jpg",
+    "desc": "Au Japon, il existe une course mythique et secrète, baptisée \"S\", au cours de laquelle les meilleurs skateurs s'affrontent.\nReki, lycéen, skateur et concepteur de planches à ses heures, est un adepte de la course en tant que spectateur, mais aussi en tant que participant. Malheureusement, sa dernière participation s'est plutôt mal terminée puisqu'il a perdu face à Shadow. Une humiliation qu'il a mal vécue.\nLanga, canadien par son père et japonais par sa mère, a grandi au Canada, où il pratiquait assidûment le snowboard. Obligé de déménager après le décès de son père, il arrive au Japon où il découvre le skate par l'intermédiaire de Reki, ainsi que la course \"S\". Il y participe pour la première fois par défi et s'y illustre particulièrement, attisant la curiosité des autres skateurs.",
+    "genres": "Comédie, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/tr0p5imo",
+            "https://sendvid.com/embed/8k2ama6s",
+            "https://sendvid.com/embed/8mn01kbh",
+            "https://sendvid.com/embed/9kanw50o",
+            "https://sendvid.com/embed/o0gc5i9r",
+            "https://sendvid.com/embed/jzo0fawe",
+            "https://sendvid.com/embed/4fur3sbh",
+            "https://sendvid.com/embed/w6anf2ek",
+            "https://sendvid.com/embed/avjb0nbh",
+            "https://sendvid.com/embed/ci3k7hb9",
+            "https://sendvid.com/embed/mrrp03cf",
+            "https://sendvid.com/embed/4biqbk5a"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4205524",
+            "https://video.sibnet.ru/shell.php?videoid=4211252",
+            "https://video.sibnet.ru/shell.php?videoid=4215453",
+            "https://video.sibnet.ru/shell.php?videoid=4221525",
+            "https://video.sibnet.ru/shell.php?videoid=4226707",
+            "https://video.sibnet.ru/shell.php?videoid=4232817",
+            "https://video.sibnet.ru/shell.php?videoid=4241371",
+            "https://video.sibnet.ru/shell.php?videoid=4247939",
+            "https://video.sibnet.ru/shell.php?videoid=4254399",
+            "https://video.sibnet.ru/shell.php?videoid=4265577",
+            "https://video.sibnet.ru/shell.php?videoid=4276295",
+            "https://video.sibnet.ru/shell.php?videoid=4286069"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-pyj961voifgf.html",
+            "https://vidmoly.to/embed-uf0lhkayceve.html",
+            "https://vidmoly.to/embed-1c20xcqcz8k4.html",
+            "https://vidmoly.to/embed-ft8ijg773k5m.html",
+            "https://vidmoly.to/embed-iob9zcaud3d5.html",
+            "https://vidmoly.to/embed-h1vc70u5ladc.html",
+            "https://vidmoly.to/embed-b0a55szkitl3.html",
+            "https://vidmoly.to/embed-wy1n303app6f.html",
+            "https://vidmoly.to/embed-00wk9jx2bh51.html",
+            "https://vidmoly.to/embed-vmaacq16smm4.html",
+            "https://vidmoly.to/embed-uwapxrae9e36.html",
+            "https://vidmoly.to/embed-xb0j3iw3pxx3.html"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "data": {
+    "name": "uzumaki",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/spirale.jpg",
+    "desc": "La petite ville de Kurouzu peut sembler bien tranquille, mais une mystérieuse obsession concernant les spirales va commencer à rendre les habitants de ce village fous à lier. Kirie et son petit ami Shuichi vont en subir les conséquences et perdre tour à tour des êtres qui leur sont chers, finissant complètement consumés par la malédiction qui touche le village. Quel abominable secret peut-il se cacher derrière ces mystérieuses spirales qui font perdre la raison à tous ceux qui les contemplent ?",
+    "genres": "Seinen, Horreur, Gore",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5699612",
+            "https://video.sibnet.ru/shell.php?videoid=5704417",
+            "https://video.sibnet.ru/shell.php?videoid=5714366",
+            "https://video.sibnet.ru/shell.php?videoid=5722774"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-bcfib25hulnh.html",
+            "https://vidmoly.to/embed-e8tsu4nqya0n.html",
+            "https://vidmoly.to/embed-4s43bpofq0hs.html",
+            "https://vidmoly.to/embed-vwmeozz899yy.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/5vhwuvr9",
+            "https://sendvid.com/embed/rxbpfwz3",
+            "https://sendvid.com/embed/9tfsb4ls",
+            "https://sendvid.com/embed/kkhx85e0"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456240436&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240471&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240526&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240591&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

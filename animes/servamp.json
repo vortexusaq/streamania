@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "servamp",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/servamp.jpg",
+    "desc": "Mahiru Shirota, lycéen, croise un jour la route d'un chat abandonné et décide de le ramener chez lui. Mais quand il se rend compte que cet adorable petit chat est en réalité un vampire servant qu'on appelle Servamp, la vie tranquille de Mahiru est désormais terminée ! En effet, il devient alors le 'maître' de Kuro aka Sleepy Ash et se retrouve mêlé à une lutte entre vampires !",
+    "genres": "Action, Comédie, Josei, Surnaturel, Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/437y272y",
+            "https://sendvid.com/embed/25rnk7qy",
+            "https://sendvid.com/embed/6otev14q",
+            "https://sendvid.com/embed/co60uwe8",
+            "https://sendvid.com/embed/9x4nrrp3",
+            "https://sendvid.com/embed/5ywu61pc",
+            "https://sendvid.com/embed/jjb72jmp",
+            "https://sendvid.com/embed/vfx3vo6y",
+            "https://sendvid.com/embed/z8zxac9i",
+            "https://sendvid.com/embed/fh72y7vm",
+            "https://sendvid.com/embed/fqssz609",
+            "https://sendvid.com/embed/d07m7bpg\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4857176",
+            "https://video.sibnet.ru/shell.php?videoid=4857180",
+            "https://video.sibnet.ru/shell.php?videoid=4857184",
+            "https://video.sibnet.ru/shell.php?videoid=4857190",
+            "https://video.sibnet.ru/shell.php?videoid=4857193",
+            "https://video.sibnet.ru/shell.php?videoid=4857195",
+            "https://video.sibnet.ru/shell.php?videoid=4857198",
+            "https://video.sibnet.ru/shell.php?videoid=4857202",
+            "https://video.sibnet.ru/shell.php?videoid=4857206",
+            "https://video.sibnet.ru/shell.php?videoid=4857209",
+            "https://video.sibnet.ru/shell.php?videoid=4857212",
+            "https://video.sibnet.ru/shell.php?videoid=4857216"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/cwi94jso4etw8qebfgnsjhqb6e",
+            "https://www.myvi.tv/embed/ykxahdmodtowbde5ffgx6ka1ay",
+            "https://www.myvi.tv/embed/cdbp3dsknd8w8r9g535sf9sbiw",
+            "https://www.myvi.tv/embed/q8h3pofue55wpcsrszwmrpgmoh",
+            "https://www.myvi.tv/embed/t7m5xf6ot5erzekmba437tgqeh",
+            "https://www.myvi.tv/embed/jebskza8y68wdpy8yhxdiqor8a",
+            "https://www.myvi.tv/embed/uqj6pote1mowmcm6c49aibqqky",
+            "https://www.myvi.tv/embed/sdzeiiupaeyrpc1n9jchfbrsdy",
+            "https://www.myvi.tv/embed/magwrbtm6ewrmcn6s6g15cdoka",
+            "https://www.myvi.tv/embed/4g5edb4wcwewpqhpx6gd4kua7a",
+            "https://www.myvi.tv/embed/fmamh5qkn8ywbeij1w91wubnmr",
+            "https://www.myvi.tv/embed/rfjba7x6urbrx89yhpc8phnm8r"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4857220\t"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/435sp1r9"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/x8ys9f5r6nwwjcu344zehi6noy"
+          ]
+        }
+      }
+    }
+  }
+}

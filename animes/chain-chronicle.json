@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "chain-chronicle",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/chain-chronicle.jpg",
+    "desc": "Après avoir réunie une gigantesque armée dans le seul but de s'opposer au Roi Sombre (Kuro no Ô) et à son armée de démons, Yuri et son groupe infiltrent le château du souverain afin de l'éliminer. Mais malgré leur acharnement, ils sont vaincus et doivent battre en retraite. Pire : le Chain Chronicle est scindé en deux et le Roi en obtient une partie, teintant le monde de ténèbres. Après cette cinglante défaite, le groupe repart sur les routes et rencontre par hasard le jeune Aram, dont Yuri perçoit rapidement le potentiel. Un nouvel espoir semble né.",
+    "genres": "Action, Aventure, Fantastique, Fantasy, Autre monde, Combats, Magie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ckq2kl2u",
+            "https://sendvid.com/embed/am50or9a",
+            "https://sendvid.com/embed/dqzq57jx",
+            "https://sendvid.com/embed/l2adon98",
+            "https://sendvid.com/embed/a3q4sx8g",
+            "https://sendvid.com/embed/rfu0bg61",
+            "https://sendvid.com/embed/azxngeh1",
+            "https://sendvid.com/embed/wsdl4xa1",
+            "https://sendvid.com/embed/n5fj9jjf",
+            "https://sendvid.com/embed/wxyz1smg",
+            "https://sendvid.com/embed/ivnp26gc",
+            "https://sendvid.com/embed/ptsa536a"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5367342",
+            "https://video.sibnet.ru/shell.php?videoid=5367343",
+            "https://video.sibnet.ru/shell.php?videoid=5367345",
+            "https://video.sibnet.ru/shell.php?videoid=5367347",
+            "https://video.sibnet.ru/shell.php?videoid=5367348",
+            "https://video.sibnet.ru/shell.php?videoid=5367351",
+            "https://video.sibnet.ru/shell.php?videoid=5367353",
+            "https://video.sibnet.ru/shell.php?videoid=5367354",
+            "https://video.sibnet.ru/shell.php?videoid=5367356",
+            "https://video.sibnet.ru/shell.php?videoid=5367359",
+            "https://video.sibnet.ru/shell.php?videoid=5367361",
+            "https://video.sibnet.ru/shell.php?videoid=5367365"
+          ]
+        }
+      }
+    }
+  }
+}

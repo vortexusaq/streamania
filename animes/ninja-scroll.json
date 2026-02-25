@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "ninja-scroll",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ninja-scroll.jpg",
+    "desc": "Quatorze ans après avoir défait le guerrier immortel Himuro Genma, Jubei se voit à nouveau malgré lui investi d'une mission. Alors que deux clans de démons ninja s'affrontent pour posséder une pierre sacrée, le Hougyoku, celle-ci échoue aux mains de Jubei qui jure de la remettre à la prêtresse de la lumière, gardienne de son pouvoir. Son chemin croise alors celui de la princesse Shigure, seule survivante d'un village dévasté. Mais la destinée de cette dernière semble irrémédiablement lié à la pierre détenue par Jubei. Aidée du vieux moine Dakuan et d'un jeune voleur, Shigure va alors entreprendre la quête de ses origines pour percer le mystère de la pierre de Dragon...",
+    "genres": "Action - Aventure - Comédie - Ecchi - Horreur - Épouvante - Surnaturel - Arts-martiaux - Ninjas - Samouraïs",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/kjvxrrht"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5091499"
+          ]
+        }
+      },
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/gwmbr5f6",
+            "https://sendvid.com/embed/6ol4001k",
+            "https://sendvid.com/embed/8ed6eoyp",
+            "https://sendvid.com/embed/orzlo6bv",
+            "https://sendvid.com/embed/ktsjq0pl",
+            "https://sendvid.com/embed/biib399a",
+            "https://sendvid.com/embed/rwir6b0b",
+            "https://sendvid.com/embed/lft4w2d1",
+            "https://sendvid.com/embed/7d5uzgyn",
+            "https://sendvid.com/embed/ouu6un8g",
+            "https://sendvid.com/embed/gasq4uf0",
+            "https://sendvid.com/embed/oxar0jrz",
+            "https://sendvid.com/embed/08pmxtxn"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5091486",
+            "https://video.sibnet.ru/shell.php?videoid=5091487",
+            "https://video.sibnet.ru/shell.php?videoid=5091488",
+            "https://video.sibnet.ru/shell.php?videoid=5091489",
+            "https://video.sibnet.ru/shell.php?videoid=5091490",
+            "https://video.sibnet.ru/shell.php?videoid=5091491",
+            "https://video.sibnet.ru/shell.php?videoid=5091492",
+            "https://video.sibnet.ru/shell.php?videoid=5091493",
+            "https://video.sibnet.ru/shell.php?videoid=5091494",
+            "https://video.sibnet.ru/shell.php?videoid=5091495",
+            "https://video.sibnet.ru/shell.php?videoid=5091496",
+            "https://video.sibnet.ru/shell.php?videoid=5091497",
+            "https://video.sibnet.ru/shell.php?videoid=5091498"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/zsryqirwt91w88jk5ubmcfitwr",
+            "https://www.myvi.tv/embed/qdxdnfy5yk4r7ngdicten8yr3r",
+            "https://www.myvi.tv/embed/458tz8uwee9ri8owp1jcemehnh",
+            "https://www.myvi.tv/embed/4xfxtsob5cow8x1d83a3heo5kr",
+            "https://www.myvi.tv/embed/zn8hbmrwba4wpd7ccj8donaciy",
+            "https://www.myvi.tv/embed/wdoiz7i4z5jrddq1ktwtb4k5wc",
+            "https://www.myvi.tv/embed/tnu9qkgxophrjj76zdqah6h8ne",
+            "https://www.myvi.tv/embed/w5jxazzejy9wujj8g3po1hgoro",
+            "https://www.myvi.tv/embed/7ckbixyqf8qwfkdusopnnighhe",
+            "https://www.myvi.tv/embed/mxtr4wkzr4rw5kq1z1wrwxuxqc",
+            "https://www.myvi.tv/embed/r6p8fkp1ssrwdfcfsn1t1tct5y",
+            "https://www.myvi.tv/embed/yrowxkw96oqw389qsd6qsafs1w",
+            "https://www.myvi.tv/embed/xxtkn9jrcbgwfcoq7srabqtc6h"
+          ]
+        }
+      }
+    }
+  }
+}

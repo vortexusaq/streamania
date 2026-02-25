@@ -1,0 +1,41 @@
+{
+  "data": {
+    "name": "tekken",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tekken.jpg",
+    "desc": "Dès son plus jeune âge, Jin Kazama a appris les arts martiaux aux côtés de sa mère, qui a fait tout son possible pour lui transmettre le style ancestral des Kazama. Toutefois, face à un mystérieux adversaire démoniaque, apparu de nulle part et ayant détruit tout ce à quoi il tenait, Jin s’est avéré parfaitement impuissant. En rage contre sa propre faiblesse, le garçon s’est alors mis en quête de la puissance absolue, avec comme objectif d’un jour parvenir à prendre sa revanche sur celui qui lui a tout pris. Dans sa quête pour arriver à ses fins, un célèbre tournoi d’arts martiaux semble incontournable : le King of Iron Fist Tournament. Là-bas, Jin rencontrera les plus puissants combatstants que porte ce monde.",
+    "genres": "Action, Combats, Drame, Science-fiction, Fantastique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/obl649r5",
+            "https://sendvid.com/embed/ahf5feoh",
+            "https://sendvid.com/embed/lxxi4hmf",
+            "https://sendvid.com/embed/2wnu1rx9",
+            "https://sendvid.com/embed/p34axl5v",
+            "https://sendvid.com/embed/np6t9536\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4834632",
+            "https://video.sibnet.ru/shell.php?videoid=4834635",
+            "https://video.sibnet.ru/shell.php?videoid=4834637",
+            "https://video.sibnet.ru/shell.php?videoid=4834643",
+            "https://video.sibnet.ru/shell.php?videoid=4834648",
+            "https://video.sibnet.ru/shell.php?videoid=4834650"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/raimpqjuqwrw9fjczjbid9ysar",
+            "https://www.myvi.tv/embed/hbhde53k7a4wzraaapw6a8tsur",
+            "https://www.myvi.tv/embed/6hyexw1317wridcz75ijsm1r8w",
+            "https://www.myvi.tv/embed/wwyq19urp88wdnq4xuz5t3hjzo",
+            "https://www.myvi.tv/embed/ysxqgx3os4fwirc9x1dabez6he",
+            "https://www.myvi.tv/embed/r1gbotoei9bri8echmm9oqteyy"
+          ]
+        }
+      }
+    }
+  }
+}

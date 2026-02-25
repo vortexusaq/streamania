@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "yoru-no-kurage-wa-oyogenai",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yoru-no-kurage-wa-oyogenai.jpg",
+    "desc": "Dans les rues de Shibuya erre une fille cherchant à devenir quelqu'un, jusqu'à ce qu'elle fasse une rencontre un peu particulière.",
+    "genres": "Drame, Société",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5502883",
+            "https://video.sibnet.ru/shell.php?videoid=5503741",
+            "https://video.sibnet.ru/shell.php?videoid=5511753",
+            "https://video.sibnet.ru/shell.php?videoid=5518033",
+            "https://video.sibnet.ru/shell.php?videoid=5524991",
+            "https://video.sibnet.ru/shell.php?videoid=5533033",
+            "https://video.sibnet.ru/shell.php?videoid=5538997",
+            "https://video.sibnet.ru/shell.php?videoid=5545285",
+            "https://video.sibnet.ru/shell.php?videoid=5551675",
+            "https://video.sibnet.ru/shell.php?videoid=5557101",
+            "https://video.sibnet.ru/shell.php?videoid=5564006",
+            "https://video.sibnet.ru/shell.php?videoid=5572122"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-n3hpwoe5ip46.html",
+            "https://vidmoly.to/embed-fr2tx49z5ptl.html",
+            "https://vidmoly.to/embed-5200e3nrki4z.html",
+            "https://vidmoly.to/embed-peurzdbc57bv.html",
+            "https://vidmoly.to/embed-wfa67zypez55.html",
+            "https://vidmoly.to/embed-a4ptwpanrt8s.html",
+            "https://vidmoly.to/embed-f7uspz7zpsjk.html",
+            "https://vidmoly.to/embed-5kmja26k7j51.html",
+            "https://vidmoly.to/embed-7o8j0dlf7avx.html",
+            "https://vidmoly.to/embed-rp9vk71sykni.html",
+            "https://vidmoly.to/embed-xlhwvr5u4h3o.html",
+            "https://vidmoly.to/embed-9xvxary4kvm1.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/3l1528za",
+            "https://sendvid.com/embed/4l4m28sy",
+            "https://sendvid.com/embed/eubt1ol4",
+            "https://sendvid.com/embed/l65fdjcj",
+            "https://sendvid.com/embed/o6l02qjs",
+            "https://sendvid.com/embed/h6jrqfre",
+            "https://sendvid.com/embed/vmx37hkc",
+            "https://sendvid.com/embed/wuejpij7",
+            "https://sendvid.com/embed/pwlzu1cr",
+            "https://sendvid.com/embed/8jx3ynkp",
+            "https://sendvid.com/embed/1gw3irqn",
+            "https://sendvid.com/embed/lkqj8lv8"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239457&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239467&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239516&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239054&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239581&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239624&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239663&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239680&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239719&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239763&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239803&hd=3",
+            "https://vidmoly.to/embed-xlhwvr5u4h3o.html"
+          ]
+        }
+      }
+    }
+  }
+}

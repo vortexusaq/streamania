@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "ano-natsu-de-matteru",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ano-natsu-de-matteru.jpg",
+    "desc": "Lors des vacances d'été, des amis souhaitent faire un film sur le déroulement de leur temps libre jusqu'à la rentrée scolaire. Au cours de cette expérience, tous apprendront des choses sur le domaine du cinéma, mais obtiendront aussi des révélations sur leurs camarades et eux-mêmes. Cette idée de réaliser un film est tout d'abord entreprise afin d'éviter l'ennui perpétuel des vacances. Cependant, cette occupation va prendre une tournure inattendue, et construire des relations complexes et matures entre les personnes du groupe... Comment tout cela va-t-il se terminer ?",
+    "genres": "Comédie, Drame, Romance, School-Life, Science-fiction, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/2ylkzh9l",
+            "https://sendvid.com/embed/d13z9t9o",
+            "https://sendvid.com/embed/a4nv17mh",
+            "https://sendvid.com/embed/0ygapbjf",
+            "https://sendvid.com/embed/05gsgwsb",
+            "https://sendvid.com/embed/6oxtarmh",
+            "https://sendvid.com/embed/c9zka97d",
+            "https://sendvid.com/embed/87s4nmu7",
+            "https://sendvid.com/embed/ntml2exa",
+            "https://sendvid.com/embed/ggq3p5wq",
+            "https://sendvid.com/embed/z61rp3k6",
+            "https://sendvid.com/embed/1vuhed49",
+            "https://sendvid.com/embed/0qoas7sr\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4928246",
+            "https://video.sibnet.ru/shell.php?videoid=4928248",
+            "https://video.sibnet.ru/shell.php?videoid=4928250",
+            "https://video.sibnet.ru/shell.php?videoid=4928252",
+            "https://video.sibnet.ru/shell.php?videoid=4928253",
+            "https://video.sibnet.ru/shell.php?videoid=4928254",
+            "https://video.sibnet.ru/shell.php?videoid=4928257",
+            "https://video.sibnet.ru/shell.php?videoid=4928263",
+            "https://video.sibnet.ru/shell.php?videoid=4928267",
+            "https://video.sibnet.ru/shell.php?videoid=4928270",
+            "https://video.sibnet.ru/shell.php?videoid=4928272",
+            "https://video.sibnet.ru/shell.php?videoid=4928273",
+            "https://video.sibnet.ru/shell.php?videoid=4928276"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ugw4aurikrzrdx3aa959whw7ah",
+            "https://www.myvi.tv/embed/wt3wisuficgwfrypogfkesumqr",
+            "https://www.myvi.tv/embed/cd4a7zi6goiwfr3y74gfoto1dy",
+            "https://www.myvi.tv/embed/73rhfk56ohgr7fpu9993keucre",
+            "https://www.myvi.tv/embed/cfo7dt7z7giwjfu391jp4awkqr",
+            "https://www.myvi.tv/embed/a67a47u1st5rmqxntyj8cmxp8e",
+            "https://www.myvi.tv/embed/ifc4mig8b1xw7nzzi6phcafwcw",
+            "https://www.myvi.tv/embed/576ktyztmrfrzb6hgkuy5691ua",
+            "https://www.myvi.tv/embed/qnoaiofydo1wzj7xhfpw9cwbjc",
+            "https://www.myvi.tv/embed/ri3mutduxrawu854qpcbzkjg4o",
+            "https://www.myvi.tv/embed/hsoziwwmodjwinz48fcj6qrwdh",
+            "https://www.myvi.tv/embed/jxoar4fjoemr3ng9jsnxuxn8tw",
+            "https://www.myvi.tv/embed/r1zicbdxoj6r3pqac4ufmhgf6w"
+          ]
+        }
+      }
+    }
+  }
+}

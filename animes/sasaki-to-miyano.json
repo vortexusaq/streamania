@@ -1,0 +1,70 @@
+{
+  "data": {
+    "name": "sasaki-to-miyano",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sasaki-to-miyano.jpg",
+    "desc": "Miyano est un lycéen complexé par ses traits efféminés. Il a aussi une passion peu avouable : il est fan de mangas Boy's Love. Un jour, en assistant à une bagarre, il fait la connaissance d'un senpai nommé Sasaki qui surgit soudainement pour intervenir. Les deux garçons commencent à passer du temps ensemble. Sasaki éprouve beaucoup d'affection pour Miyano et, un jour, pour mieux connaître ses goûts, il le questionne sur le type de mangas qu'il aime lire. Miyano se retrouve à prêter ses BL à Sasaki qui ignore tout de ce genre si particulier.",
+    "genres": "Comédie, School-Life, Shônen, Slice-of-Life, Amour, Ecole, Homosexualité, Manga, Yaoi",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/hdx9qoxzmucw9mzt4aydw33ruy",
+            "https://www.myvi.top/embed/t9dseqf3h5wrpnhewdnyhcqa5r",
+            "https://www.myvi.top/embed/4c7x11yyjt3wjgk9cqx56coc3c",
+            "https://www.myvi.top/embed/9w636c3ajztwieopeqwtphknmo",
+            "https://www.myvi.top/embed/trbx5xzwj3jr3f1ujp4cpx6oda",
+            "https://www.myvi.top/embed/rb4rrw6zr1awzk1zruuk665bsa",
+            "https://www.myvi.top/embed/gqzorcg8hsdwxnew8xxe7isdqy",
+            "https://www.myvi.top/embed/don16z5fmyfr7gebuhwg61x61y",
+            "https://www.myvi.top/embed/hdowufi6n6br7fxxzh8bz6kona",
+            "https://www.myvi.tv/embed/mhbejzjrpn6w78k3u7fcea5b9h",
+            "https://www.myvi.tv/embed/pjkwubmbqygw5xxz7jhufwqh3y",
+            "https://www.myvi.tv/embed/ffsg533gmpkwpx44f3oc4x8wrc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4926494",
+            "https://video.sibnet.ru/shell.php?videoid=4926496",
+            "https://video.sibnet.ru/shell.php?videoid=4926497",
+            "https://video.sibnet.ru/shell.php?videoid=4926498",
+            "https://video.sibnet.ru/shell.php?videoid=4926499",
+            "https://video.sibnet.ru/shell.php?videoid=4926501",
+            "https://video.sibnet.ru/shell.php?videoid=4926505",
+            "https://video.sibnet.ru/shell.php?videoid=4926507",
+            "https://video.sibnet.ru/shell.php?videoid=4926508",
+            "https://video.sibnet.ru/shell.php?videoid=4926509",
+            "https://video.sibnet.ru/shell.php?videoid=4926510",
+            "https://video.sibnet.ru/shell.php?videoid=4926511"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/ja8hgc2y",
+            "https://sendvid.com/embed/rqhtbmhv",
+            "https://sendvid.com/embed/5oa17mys",
+            "https://sendvid.com/embed/9qqqxoee",
+            "https://sendvid.com/embed/ozh0d9p6",
+            "https://sendvid.com/embed/cxrrz6ds",
+            "https://sendvid.com/embed/7lvtia6w",
+            "https://sendvid.com/embed/rz01ofvq",
+            "https://sendvid.com/embed/mhnvxhkr",
+            "https://sendvid.com/embed/zgp9vcjs",
+            "https://sendvid.com/embed/g2j25r4q",
+            "https://sendvid.com/embed/niluedkr"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/tq5nyhbz"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5263919"
+          ]
+        }
+      }
+    }
+  }
+}

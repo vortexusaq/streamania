@@ -1,0 +1,16 @@
+{
+  "data": {
+    "name": "grancrest-senki",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/grancrest-senki.jpg",
+    "desc": "L'histoire se passe sur un continent gouverné par le chaos. Les seules personnes capables de contrer cette menace et d'apaiser le peuple sont les Lords, des seigneurs possédant le Crest, un sceau sacré. Cependant, avant que tout le monde ne s'en rende compte, les Lords ont commencé petit à petit à rejeter leur devoir pour se disputer des parties de territoires. Cette série se centre sur Shiruka, une mage isolée qui déteste les Lords et d'un chevalier errant nommé Theo, qui recherche de la puissance pour libérer son village natale des griffes des Lords. Shiruka et Theo font le serment de reformer ce continent dominé par les guerres et le chaos.",
+    "genres": "Action - Aventure - Fantasy - Romance - Autre-monde - Guerre - Politique - Isekai",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

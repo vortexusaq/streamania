@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "maoyuu-maou-yuusha",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/maoyuu-maou-yuusha.jpg",
+    "desc": "Dans un monde où les démons et les humains sont en guerre, Yuusha, un héros humain, arrive après un long voyage au château du Roi démon dans le but de le mettre à mort. Yuusha se rend alors compte que le Roi démon est en faite une Reine du nom de Maou. Elle lui explique que la guerre donne une raison aux êtres humains de travailler main dans la main et d'améliorer leur société dans son ensemble. Maou le convainc que les humains tomberont dans une guerre civile sanglante sans ce conflit avec les démons. Le Héros décide donc d'unir ses forces avec elle pour éviter cette catastrophe.",
+    "genres": "Aventure, Comédie, Fantastique, Fantasy, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/62dz1l7t",
+            "https://sendvid.com/embed/5qqs70vo",
+            "https://sendvid.com/embed/ld9ifumi",
+            "https://sendvid.com/embed/brkngplq",
+            "https://sendvid.com/embed/egsko89o",
+            "https://sendvid.com/embed/vctm9r2a",
+            "https://sendvid.com/embed/djnve1h9",
+            "https://sendvid.com/embed/mww8xoov",
+            "https://sendvid.com/embed/bwrzviz2",
+            "https://sendvid.com/embed/y4j59iw7",
+            "https://sendvid.com/embed/1n86zy5l",
+            "https://sendvid.com/embed/ohx4v3qp"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4960823",
+            "https://video.sibnet.ru/shell.php?videoid=4960828",
+            "https://video.sibnet.ru/shell.php?videoid=4960830",
+            "https://video.sibnet.ru/shell.php?videoid=4960832",
+            "https://video.sibnet.ru/shell.php?videoid=4960835",
+            "https://video.sibnet.ru/shell.php?videoid=4960838",
+            "https://video.sibnet.ru/shell.php?videoid=4960841",
+            "https://video.sibnet.ru/shell.php?videoid=4960844",
+            "https://video.sibnet.ru/shell.php?videoid=4960848",
+            "https://video.sibnet.ru/shell.php?videoid=4960850",
+            "https://video.sibnet.ru/shell.php?videoid=4960851",
+            "https://video.sibnet.ru/shell.php?videoid=4960854"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/6hrxj1ixbjfr9fdfehamhf7cxo",
+            "https://www.myvi.tv/embed/fkk6izfy1t9wtna4nyc3osqp9r",
+            "https://www.myvi.tv/embed/g8rdu36st9yr9qfbdc7w5nnx5w",
+            "https://www.myvi.tv/embed/z7cu6ddazr6w3dp7yycfe6cwaw",
+            "https://www.myvi.tv/embed/jhrxt594ptcrbjacabasikmidr",
+            "https://www.myvi.tv/embed/gensqje4kaywzncgstm3588fqe",
+            "https://www.myvi.tv/embed/w6stist9sy6w8847xsjkg6osbw",
+            "https://www.myvi.tv/embed/ts1189w5t9iwbqqgbayinb1hkc",
+            "https://www.myvi.tv/embed/8w51yohzd7nrbnm4jpx59rh4oo",
+            "https://www.myvi.tv/embed/kuew87wd46kw8j1cawwcmy4kay",
+            "https://www.myvi.tv/embed/tkpyg9zs15jrdpk4n8ksh3w4po",
+            "https://www.myvi.tv/embed/z9cu1on6khyrxymbs9abcst1xw"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "data": {
+    "name": "lance-dur",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/lance-dur.jpg",
+    "desc": "Ancien aventurier, le vieux Lance Dur reprend les armes suite à l'enlèvement de sa petite-fille Ozie. Avec ses vieux camarades, il se lance dans sa dernière quête.",
+    "genres": "Action - Aventure - Comédie - Drame - Fantasy - Amitié - Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vf",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/bigst3ww",
+            "https://sendvid.com/embed/wgqrgpeq",
+            "https://sendvid.com/embed/rr1x5ib7",
+            "https://sendvid.com/embed/rg3lyvb6",
+            "https://sendvid.com/embed/32ui64pe",
+            "https://sendvid.com/embed/bevir08c",
+            "https://sendvid.com/embed/4bmuiute"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5093253",
+            "https://video.sibnet.ru/shell.php?videoid=5093254",
+            "https://video.sibnet.ru/shell.php?videoid=5093255",
+            "https://video.sibnet.ru/shell.php?videoid=5093256",
+            "https://video.sibnet.ru/shell.php?videoid=5093257",
+            "https://video.sibnet.ru/shell.php?videoid=5097252",
+            "https://video.sibnet.ru/shell.php?videoid=5103398"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/8oeyix9oz3xwmrfodybpxrigzw",
+            "https://www.myvi.tv/embed/azgutuugsg6wjxbqka9661czyh",
+            "https://www.myvi.tv/embed/is99wzuyrwfrxgkad7qum4nuoc",
+            "https://www.myvi.tv/embed/t8e5d43gqgir5pxuq5zh8iz9cc",
+            "https://www.myvi.tv/embed/c15jkhgfhmjrze3ntj7ku6macy",
+            "https://www.myvi.tv/embed/f4hwfpix9ykwt89ztcc8rdtddw",
+            "https://www.myvi.tv/embed/ybjrmrtuuumr3j5j5mcmuwgwxe"
+          ]
+        }
+      }
+    }
+  }
+}

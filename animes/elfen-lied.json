@@ -1,0 +1,65 @@
+{
+  "data": {
+    "name": "elfen-lied",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/elfen-lied.jpg",
+    "desc": "Lucy, une diclonius (génération spontanée de mutants annonçant un événement), est gardée dans un laboratoire de haute sécurité dans lequel des expériences sont réalisées sur ces êtres surhumains. Suite à un accident, elle parvient à s'échapper en tuant sauvagement toute personne entravant son chemin, grâce à ses vecteurs (ce sont des \"mains\" extrêmement tranchantes, invisibles et d'au moins 2 mètres de long). Une fois à l'extérieur du bâtiment, un garde sniper réussit à la toucher en pleine tête et la fait tomber dans la mer.\n\nLe lendemain, Kouta un jeune garçon qui revient dans la ville où il est né, Kamakura, donne un rendez-vous à sa cousine Yuka qu'il n'a pas vu depuis son accident : depuis son enfance. Ils décident alors d'aller à la plage, où ils jouaient quand ils étaient enfants avec la petite sœur de Kouta, Kanae, qui est morte d'une grave maladie. Là-bas, ils rencontrent une jeune fille mystérieuse qui, apparemment, a perdu la mémoire. Sans savoir où elle habite, Kouta et Yuka l'emmènent chez eux et lui donne un nom : Nyu, c'est le seul mot qu'elle arrive a prononcer !\n\nMais suite à l'évasion qui s'est produite au laboratoire, l'Unité d'Assaut Spécial (S.A.T.) a reçu le feu vert pour éliminer la fugitive, Lucy qui se révèle en réalité être la mystérieuse Nyu...",
+    "genres": "Action, Drame, Ecchi, Fantasy, Horreur, Épouvante, Psychologique, Romance, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4796692",
+            "https://video.sibnet.ru/shell.php?videoid=4796694",
+            "https://video.sibnet.ru/shell.php?videoid=4796698",
+            "https://video.sibnet.ru/shell.php?videoid=4796699",
+            "https://video.sibnet.ru/shell.php?videoid=4796701",
+            "https://video.sibnet.ru/shell.php?videoid=4796703",
+            "https://video.sibnet.ru/shell.php?videoid=4796706",
+            "https://video.sibnet.ru/shell.php?videoid=4796709",
+            "https://video.sibnet.ru/shell.php?videoid=4796711",
+            "https://video.sibnet.ru/shell.php?videoid=4796714",
+            "https://video.sibnet.ru/shell.php?videoid=4796690",
+            "https://video.sibnet.ru/shell.php?videoid=4796716",
+            "https://video.sibnet.ru/shell.php?videoid=4796718",
+            "https://video.sibnet.ru/shell.php?videoid=4796721"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-dhxwfch71jp2.html",
+            "https://vidmoly.to/embed-9zc76b2nb6b5.html",
+            "https://vidmoly.to/embed-jk6m7bz09w76.html",
+            "https://vidmoly.to/embed-ffl1nl384ihd.html",
+            "https://vidmoly.to/embed-c6q6rdrpp9n0.html",
+            "https://vidmoly.to/embed-2zxndnt7ujsj.html",
+            "https://vidmoly.to/embed-48jcuenwytj7.html",
+            "https://vidmoly.to/embed-bgzfleceqn86.html",
+            "https://vidmoly.to/embed-1ssdpc7rm4rz.html",
+            "https://vidmoly.to/embed-lqg7kt54pb0s.html",
+            "https://vidmoly.to/embed-gxayjsk00njx.html",
+            "https://vidmoly.to/embed-2nohpq1ufw71.html",
+            "https://vidmoly.to/embed-l60p7wkcj435.html",
+            "https://vidmoly.to/embed-d2jwdv950brr.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/iy7t4awl",
+            "https://sendvid.com/embed/yww6h6nn",
+            "https://sendvid.com/embed/h0tz3z3s",
+            "https://sendvid.com/embed/jv8a5sqm",
+            "https://sendvid.com/embed/hf7ioctk",
+            "https://sendvid.com/embed/q1qgurrx",
+            "https://sendvid.com/embed/8d2g704c",
+            "https://sendvid.com/embed/m0bigmfo",
+            "https://sendvid.com/embed/rdxigruq",
+            "https://sendvid.com/embed/n056pz0p",
+            "https://sendvid.com/embed/rg03ql9e",
+            "https://sendvid.com/embed/r74z2v3o",
+            "https://sendvid.com/embed/ckqzhl7o",
+            "https://sendvid.com/embed/tdjgzt21"
+          ]
+        }
+      }
+    }
+  }
+}

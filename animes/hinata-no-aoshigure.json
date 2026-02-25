@@ -1,0 +1,16 @@
+{
+  "data": {
+    "name": "hinata-no-aoshigure",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hinata-no-aoshigure.jpg",
+    "desc": "Dans Hinata no Aoshigure, on suit l'histoire d'amour de Hinata, un garçon en quatrième année de primaire qui tente d'avouer ses sentiments amoureux à Shigure, l'une de ses camarades de classe visiblement assez populaire.",
+    "genres": "Drame, Romance, School-Life, Ecole, Magie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {}
+      }
+    }
+  }
+}

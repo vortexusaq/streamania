@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "pretty-boy-detective-club",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pretty-boy-detective-club.jpg",
+    "desc": "La série suit un groupe de séduisants détectives se trouvant à l'académie privée Yubiwa. Ces derniers proposent leur aide à ceux qui en ont besoin, à condition que la demande soit jugée \"belle\" par le chef d'équipe Manabu Soutouin.\nUn jour, Mayumi Doujima vient à la rencontre du club afin que le groupe l'aide à retrouver \"une étoile\" qu'elle a vu étant enfant.",
+    "genres": "Comédie, Fantasy, Mystère, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/rjqcyr0q",
+            "https://sendvid.com/embed/74rjjbdc",
+            "https://sendvid.com/embed/ekl6dxhh",
+            "https://sendvid.com/embed/f42jyca5",
+            "https://sendvid.com/embed/48lmw92c",
+            "https://sendvid.com/embed/cj51pw7v",
+            "https://sendvid.com/embed/yakogmq8",
+            "https://sendvid.com/embed/vwuagaya",
+            "https://sendvid.com/embed/lgw50752",
+            "https://sendvid.com/embed/mqa3fnbg",
+            "https://sendvid.com/embed/jbn0511z",
+            "https://sendvid.com/embed/0x371hkn"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4291286",
+            "https://video.sibnet.ru/shell.php?videoid=4296105",
+            "https://video.sibnet.ru/shell.php?videoid=4301493",
+            "https://video.sibnet.ru/shell.php?videoid=4307976",
+            "https://video.sibnet.ru/shell.php?videoid=4311070",
+            "https://video.sibnet.ru/shell.php?videoid=4316233",
+            "https://video.sibnet.ru/shell.php?videoid=4320091",
+            "https://video.sibnet.ru/shell.php?videoid=4324750",
+            "https://video.sibnet.ru/shell.php?videoid=4333092",
+            "https://video.sibnet.ru/shell.php?videoid=4333087",
+            "https://video.sibnet.ru/shell.php?videoid=4337202",
+            "https://video.sibnet.ru/shell.php?videoid=4340254"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/qjoyfq8nouuwp81derbgnyomby",
+            "https://www.myvi.top/embed/z1cs5gaa1wyr8nszug1ix8cs9e",
+            "https://www.myvi.top/embed/ds6rf4uh8bfru8b3jxhmzyqatr",
+            "https://www.myvi.top/embed/7x6cpw9x7wmwpptzrocginc3sy",
+            "https://www.myvi.top/embed/89n3oa9nsqiwdm9sk3g5gtgzhr",
+            "https://www.myvi.top/embed/8zxtkawu7fzwj8diekmckitsqa",
+            "https://www.myvi.top/embed/kujfffmzammrxmt5hyqjda5xeh",
+            "https://www.myvi.top/embed/ea8u698u96aw9m9g7wppxqdzka",
+            "https://www.myvi.top/embed/hiit1kx471ewjepszua68bhzqy",
+            "https://www.myvi.top/embed/8ukrkshdhyswucpg71r4xpybxa",
+            "https://www.myvi.top/embed/5a58g5sryymwdd5urpwritrhmh",
+            "https://www.myvi.top/embed/38d9gyjd5riwtfytr3hhp89w5h"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "bouryaku-no-zvezda",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/bouryaku-no-zvezda.jpg",
+    "desc": "L'histoire suit Zvezda, une organisation secrète dirigée par une petite fille, Venera, qui est bien résolue à conquérir le monde.",
+    "genres": "Action, Comédie, Fantasy, Science-fiction, Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/bb5cj7nr",
+            "https://sendvid.com/embed/bicb7cny",
+            "https://sendvid.com/embed/s6kqvst0",
+            "https://sendvid.com/embed/ryvdp8vc",
+            "https://sendvid.com/embed/nlp34aao",
+            "https://sendvid.com/embed/izojvjec",
+            "https://sendvid.com/embed/uq1w74kn",
+            "https://sendvid.com/embed/53d17p77",
+            "https://sendvid.com/embed/xgu24duo",
+            "https://sendvid.com/embed/zfb028do",
+            "https://sendvid.com/embed/ph3z93rl",
+            "https://sendvid.com/embed/owqpkx6n",
+            "https://sendvid.com/embed/9p5p0uvh\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4862288",
+            "https://video.sibnet.ru/shell.php?videoid=4862290",
+            "https://video.sibnet.ru/shell.php?videoid=4862292",
+            "https://video.sibnet.ru/shell.php?videoid=4862295",
+            "https://video.sibnet.ru/shell.php?videoid=4862299",
+            "https://video.sibnet.ru/shell.php?videoid=4862302",
+            "https://video.sibnet.ru/shell.php?videoid=4862305",
+            "https://video.sibnet.ru/shell.php?videoid=4862307",
+            "https://video.sibnet.ru/shell.php?videoid=4862310",
+            "https://video.sibnet.ru/shell.php?videoid=4862313",
+            "https://video.sibnet.ru/shell.php?videoid=4862316",
+            "https://video.sibnet.ru/shell.php?videoid=4862319",
+            "https://video.sibnet.ru/shell.php?videoid=4862321"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/gknd6tk3rnwrtpgqur34wmbyfy",
+            "https://www.myvi.tv/embed/mxfgaek4o9br3byy7atfm1bphy",
+            "https://www.myvi.tv/embed/jn3rttjnxjswbyoebrkqm49p3e",
+            "https://www.myvi.tv/embed/u46z37zt8b1w9nykui1mdhyiar",
+            "https://www.myvi.tv/embed/tmoypbyc5nnwmpbyq3tfpw3b8w",
+            "https://www.myvi.tv/embed/7ofwce5c3d1w8qu864e1tfweth",
+            "https://www.myvi.tv/embed/pu4zfi7jb1hw9psnb5fapwe5oe",
+            "https://www.myvi.tv/embed/r6od7uojruardxaawzdcqjcn7w",
+            "https://www.myvi.tv/embed/puxw3wnj4k9r8fod5rq1sg856y",
+            "https://www.myvi.tv/embed/xujwfu578g4rfqacw1d6wf5dsw",
+            "https://www.myvi.tv/embed/dfat3nm4ebcw5be9mdrf753kyc",
+            "https://www.myvi.tv/embed/3uk877pgyzzwp8kk3g19ek7aac",
+            "https://www.myvi.tv/embed/tzx65ermpkgw9mpy6mnofzfw5h"
+          ]
+        }
+      }
+    }
+  }
+}

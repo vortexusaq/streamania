@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "hitorijime-my-hero",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hitorijime-my-hero.jpg",
+    "desc": "Nous suivons la relation entre Kôsuke Ôshiba, professeur de lycée et frère de Kensuke, et Masahiro Setagawa, un délinquant.",
+    "genres": "Comédie, Drame, Romance, School-Life, Shônen-Ai, Ecole, Homosexualité, LGBT+",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/7kmx6g3c",
+            "https://sendvid.com/embed/cs515y7n",
+            "https://sendvid.com/embed/teukvxd1",
+            "https://sendvid.com/embed/mwr5jmmh",
+            "https://sendvid.com/embed/7x33r8hz",
+            "https://sendvid.com/embed/i00gnp9b",
+            "https://sendvid.com/embed/tp6yb678",
+            "https://sendvid.com/embed/xbnu6xzq",
+            "https://sendvid.com/embed/e8hmw1la",
+            "https://sendvid.com/embed/gepv1hi5",
+            "https://sendvid.com/embed/1d2pbngv",
+            "https://sendvid.com/embed/xjspvpha"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5474032",
+            "https://video.sibnet.ru/shell.php?videoid=5474034",
+            "https://video.sibnet.ru/shell.php?videoid=5474035",
+            "https://video.sibnet.ru/shell.php?videoid=5474038",
+            "https://video.sibnet.ru/shell.php?videoid=5474039",
+            "https://video.sibnet.ru/shell.php?videoid=5474040",
+            "https://video.sibnet.ru/shell.php?videoid=5474041",
+            "https://video.sibnet.ru/shell.php?videoid=5474042",
+            "https://video.sibnet.ru/shell.php?videoid=5474043",
+            "https://video.sibnet.ru/shell.php?videoid=5474044",
+            "https://video.sibnet.ru/shell.php?videoid=5474045",
+            "https://video.sibnet.ru/shell.php?videoid=5474046"
+          ]
+        }
+      }
+    }
+  }
+}

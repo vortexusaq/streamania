@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "shinobi-no-ittoki",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shinobi-no-ittoki.jpg",
+    "desc": "L'histoire se déroule dans un monde où deux puissants clans ninjas, les Iga et les Koga, se livrent à une lutte sans merci dans l'ombre. Ichiji Sakuraba est un lycéen comme tant d'autres, persuadé que les ninjas ne sont que des légendes. Sa vie bascule le jour où il est pris pour cible par des ninjas du clan Koga. Il apprend alors qu'il est l'héritier légitime du clan Iga, ce qui fait de lui une cible. Son quotidien tranquille est terminé.",
+    "genres": "Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/3k735ao4",
+            "https://sendvid.com/embed/w54z2k4y",
+            "https://sendvid.com/embed/0hkm9lai",
+            "https://sendvid.com/embed/3be9ovek",
+            "https://sendvid.com/embed/crtbxlod",
+            "https://sendvid.com/embed/9dexlmfx",
+            "https://sendvid.com/embed/z6mkp08c",
+            "https://sendvid.com/embed/d7rv33on",
+            "https://sendvid.com/embed/x47022sy",
+            "https://sendvid.com/embed/hsrknw0c",
+            "https://sendvid.com/embed/xx39ylxq",
+            "https://sendvid.com/embed/t6b4lewl"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4905263",
+            "https://video.sibnet.ru/shell.php?videoid=4914812",
+            "https://video.sibnet.ru/shell.php?videoid=4923929",
+            "https://video.sibnet.ru/shell.php?videoid=4930077",
+            "https://video.sibnet.ru/shell.php?videoid=4937072",
+            "https://video.sibnet.ru/shell.php?videoid=4946353",
+            "https://video.sibnet.ru/shell.php?videoid=4953370",
+            "https://video.sibnet.ru/shell.php?videoid=4959920",
+            "https://video.sibnet.ru/shell.php?videoid=4965971",
+            "https://video.sibnet.ru/shell.php?videoid=4971737",
+            "https://video.sibnet.ru/shell.php?videoid=4977846",
+            "https://video.sibnet.ru/shell.php?videoid=4984278"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/je5oqrws59qw8cgnt6iq1b4kny",
+            "https://www.myvi.tv/embed/ne43ucumyxowtcjau4bybwbaar",
+            "https://www.myvi.tv/embed/16ihdmp76biwjqwwzdz6br917c",
+            "https://www.myvi.tv/embed/7yfwgksn3k6rtrg457zihijwsc",
+            "https://www.myvi.tv/embed/khayc4ey6ktwfpyoqgxsja59tc",
+            "https://www.myvi.tv/embed/tdupd1stk7irfkmiawqqxrqqrc",
+            "https://www.myvi.tv/embed/n5wue9ipbkdrbfnrjtpfe83y4h",
+            "https://www.myvi.tv/embed/a5gfphmzrgzwzg1ixazpga99fo",
+            "https://www.myvi.tv/embed/m48zsqrebadrurgtysam5prjia",
+            "https://www.myvi.tv/embed/iwmm8ureq4er3qexsoomwnzkry",
+            "https://www.myvi.tv/embed/ot4968ydo7owpdm4dxeftrryja",
+            "https://www.myvi.tv/embed/wdyw8awtx99w5nbrh9etbmkqbw"
+          ]
+        }
+      }
+    }
+  }
+}

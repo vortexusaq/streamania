@@ -1,0 +1,55 @@
+{
+  "data": {
+    "name": "mahou-shoujo-madoka-magica",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mahou-shoujo-madoka-magica.jpg",
+    "desc": "Madoka Kaname est une jeune collégienne de 14 ans, fréquentant l'établissement de la ville Mitakihara. Elle a une vie ordinaire : sa famille, de proches amis, des moments de joie et des moments de tristesse. Un jour ordinaire comme les autres, elle fait une extraordinaire rencontre. Celle-ci est-elle due au hasard ou était-elle inéluctable ? Elle ne connaît pas encore la réponse, mais cette rencontre va changer sa vie et son destin. C'est ainsi que commence l'histoire d'une nouvelle magical-girl.",
+    "genres": "Drame, Psychologique, Thriller, Amitié, Magical-girl, Magie, Mort, Sorcières",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5295781",
+            "https://video.sibnet.ru/shell.php?videoid=5295786",
+            "https://video.sibnet.ru/shell.php?videoid=5295787",
+            "https://video.sibnet.ru/shell.php?videoid=5295790",
+            "https://video.sibnet.ru/shell.php?videoid=5295791",
+            "https://video.sibnet.ru/shell.php?videoid=5295793",
+            "https://video.sibnet.ru/shell.php?videoid=5295796",
+            "https://video.sibnet.ru/shell.php?videoid=5295797",
+            "https://video.sibnet.ru/shell.php?videoid=5295798",
+            "https://video.sibnet.ru/shell.php?videoid=5295801",
+            "https://video.sibnet.ru/shell.php?videoid=5295805",
+            "https://video.sibnet.ru/shell.php?videoid=5295807"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/k4vbua38",
+            "https://sendvid.com/embed/zxgoxdra",
+            "https://sendvid.com/embed/n382u15y",
+            "https://sendvid.com/embed/h6olu2f3",
+            "https://sendvid.com/embed/iealu3l5",
+            "https://sendvid.com/embed/sfspu8tp",
+            "https://sendvid.com/embed/bxb3sgs6",
+            "https://sendvid.com/embed/sdtwmyh1",
+            "https://sendvid.com/embed/d0aj136e",
+            "https://sendvid.com/embed/bl71xc1m",
+            "https://sendvid.com/embed/ojkbg2h9",
+            "https://sendvid.com/embed/6ak6sv9u"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5333165",
+            "https://video.sibnet.ru/shell.php?videoid=5333170",
+            "https://video.sibnet.ru/shell.php?videoid=4837937"
+          ]
+        }
+      }
+    }
+  }
+}

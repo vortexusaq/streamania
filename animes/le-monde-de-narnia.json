@@ -1,0 +1,22 @@
+{
+  "data": {
+    "name": "le-monde-de-narnia",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/le-monde-de-narnia.jpg",
+    "desc": "Le Monde de Narnia : chapitre 1 conte la lutte entre le bien et le mal qui oppose le magnifique lion Aslan aux forces des ténèbres dans le monde magique de Narnia. Grâce à ses sombres pouvoirs, la Sorcière Blanche a plongé Narnia dans un hiver qui dure depuis un siècle, mais une prédiction révèle que quatre enfants aideront Aslan à rompre la malédiction. Lorsque Lucy, Susan, Edmund et Peter Pevensie, quatre frères et soeurs, découvrent ce monde enchanté en y pénétrant à travers une armoire, tout est en place pour une bataille de proportions épiques...",
+    "genres": "Fantastique, Aventure, Famille",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4757694",
+            "https://video.sibnet.ru/shell.php?videoid=4757703",
+            "https://video.sibnet.ru/shell.php?videoid=4757706\t"
+          ]
+        }
+      }
+    }
+  }
+}

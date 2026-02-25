@@ -1,0 +1,83 @@
+{
+  "data": {
+    "name": "given",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/given.jpg",
+    "desc": "L'histoire se centre sur Ritsuka Uenoyama, un jeune lycéen jouant de la guitare mais qui a perdu tout intérêt pour cet instrument.\n\nUn jour, il fait la rencontre de Mafuyu Sato possédant une guitare dont les cordes sont usées. Pour pouvoir récupérer son endroit où faire la sieste, Ritsuka lui propose de réparer sa guitare. Toutefois, lorsque Ritsuka se met à tester sa guitare, Mafuyu est émerveillé et souhaite qu'il lui apprenne à jouer.\n\nAinsi, il va présenter, sans grande conviction, Mafuyu à son groupe de musique. Cependant, lorsqu'il entend Mafuyu chanter pour la première fois, Ritsuka souhaite qu'il rejoigne son groupe.",
+    "genres": "Comédie, Drame, Romance, Shônen-Ai, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/6dswghzyr67rje87nkna49tuaw",
+            "https://www.myvi.top/embed/6w17m74gnbmrjnx8kdu9nwd8jy",
+            "https://www.myvi.top/embed/od8749ej3qrrj8k9fr7989ca6o",
+            "https://www.myvi.top/embed/1zzmj3m4kmzwzf5qb6ci4ajxfr",
+            "https://www.myvi.top/embed/i85488tsnu3wtx57an3ponc1ma",
+            "https://www.myvi.top/embed/67epydpngnbw5cqrcetphuubce",
+            "https://www.myvi.top/embed/ukm7b9e6s4trz83bb6wyg979iy",
+            "https://www.myvi.top/embed/yixqpnwa9cbwjqm46cbxaj9qaa",
+            "https://www.myvi.top/embed/kn64x4fwjk6wfe5t6cwykpfcey",
+            "https://www.myvi.top/embed/z7ro4pqyrqdrjx731sc8i6n7fy",
+            "https://www.myvi.top/embed/1mbmcj9en8uwmdczqq381bh6hy"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3649495",
+            "https://video.sibnet.ru/shell.php?videoid=3653208",
+            "https://video.sibnet.ru/shell.php?videoid=3658149",
+            "https://video.sibnet.ru/shell.php?videoid=3665831",
+            "https://video.sibnet.ru/shell.php?videoid=3670076",
+            "https://video.sibnet.ru/shell.php?videoid=3674135",
+            "https://video.sibnet.ru/shell.php?videoid=3679006",
+            "https://video.sibnet.ru/shell.php?videoid=3693745",
+            "https://video.sibnet.ru/shell.php?videoid=3693342",
+            "https://video.sibnet.ru/shell.php?videoid=3698975",
+            "https://video.sibnet.ru/shell.php?videoid=3704468"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/6x4g3mdm",
+            "https://sendvid.com/embed/9u0elcex",
+            "https://sendvid.com/embed/zjqcneid",
+            "https://sendvid.com/embed/kiahmy77",
+            "https://sendvid.com/embed/kv953t1s",
+            "https://sendvid.com/embed/xn32rn0n",
+            "https://sendvid.com/embed/tprddi0k",
+            "https://sendvid.com/embed/9b1cxg4m",
+            "https://sendvid.com/embed/itsdtv3c",
+            "https://sendvid.com/embed/f36e5cvl",
+            "https://sendvid.com/embed/qmv1iiah"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ccb7w12q",
+            "https://video.sibnet.ru/shell.php?videoid=5780421"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5399918",
+            "https://vidmoly.to/embed-mywypupdbr01.html"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5586715"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-9cb4widxmeyw.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/gid39npj"
+          ]
+        }
+      }
+    }
+  }
+}

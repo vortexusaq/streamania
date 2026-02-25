@@ -1,0 +1,37 @@
+{
+  "data": {
+    "name": "pluto",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pluto.jpg",
+    "desc": "Mont-Blanc, un célèbre robot qui a combattu lors de la dernière guerre asiatique, a été assassiné. Cette mort plonge le monde de le deuil. L'inspecteur Gesicht, robot fatigué et déprimé, ne tarde pas à découvrir une piste, mais l'enquête s'avère difficile faute d'indices et l'adversaire, un autre robot, trop puissant... Gesicht décide de partir en voyage afin de rencontrer d'anciens camarades de guerre de Mont-Blanc susceptibles d'être à leur tour attaqués par l'ennemi. Mais Pluto, le robot tueur, ne perd pas de temps...",
+    "genres": "Seinen, Science-fiction, Crime, Cyborgs, Détective, Robots, Scientifique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/lidmwn5x",
+            "https://sendvid.com/embed/qmpo3zw0",
+            "https://sendvid.com/embed/fm1gci3m",
+            "https://sendvid.com/embed/hshbhgi4",
+            "https://sendvid.com/embed/g4s0kfei",
+            "https://sendvid.com/embed/2jofxac8",
+            "https://sendvid.com/embed/l4lf0onh",
+            "https://sendvid.com/embed/ifcuzehu"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5297537",
+            "https://video.sibnet.ru/shell.php?videoid=5297540",
+            "https://video.sibnet.ru/shell.php?videoid=5297542",
+            "https://video.sibnet.ru/shell.php?videoid=5297544",
+            "https://video.sibnet.ru/shell.php?videoid=5297546",
+            "https://video.sibnet.ru/shell.php?videoid=5297549",
+            "https://video.sibnet.ru/shell.php?videoid=5297551",
+            "https://video.sibnet.ru/shell.php?videoid=5297552"
+          ]
+        }
+      }
+    }
+  }
+}

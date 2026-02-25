@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "magic-kyun-renaissance",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/magic-kyun-renaissance.jpg",
+    "desc": "L'histoire se déroule dans un monde où certaines personnes, les Artistas, peuvent transformer l'art, quel qu'il soit, en magie. Kohana Aigasaki, fille d'une célèbre Artistas, a toujours rêvé d'intégrer le lycée privé Hoshinomori, où sont formés ces artistes exceptionnels, mais n'a malheureusement pas pu passer l'examen d'entrée. Un an plus tard, elle réussit l'examen de transfert et intègre l'établissement en tant que deuxième année, une première dans l'histoire de l'école. Dès lors, Kohana va devoir faire ses preuves, car tous attendent de grandes choses d'elle. Épaulée par 6 garçons, membres comme elle du comité d'organisation du Summer Festival, elle compte bien faire de son mieux pour être digne de sa mère.",
+    "genres": "Comédie, Romance, School-Life, Ecole, Harem inversé, Magie, Musique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ikjro8oj",
+            "https://sendvid.com/embed/2rezwh5i",
+            "https://sendvid.com/embed/1w1kco80",
+            "https://sendvid.com/embed/5dghvogp",
+            "https://sendvid.com/embed/o262orlg",
+            "https://sendvid.com/embed/rz2pi8xa",
+            "https://sendvid.com/embed/7ljq51fi",
+            "https://sendvid.com/embed/j3pknc3h",
+            "https://sendvid.com/embed/0uz16jql",
+            "https://sendvid.com/embed/00j59ove",
+            "https://sendvid.com/embed/0qc6yvk0",
+            "https://sendvid.com/embed/6o8oiuct",
+            "https://sendvid.com/embed/9s7xa57j"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5306596",
+            "https://video.sibnet.ru/shell.php?videoid=5306598",
+            "https://video.sibnet.ru/shell.php?videoid=5306600",
+            "https://video.sibnet.ru/shell.php?videoid=5306601",
+            "https://video.sibnet.ru/shell.php?videoid=5306603",
+            "https://video.sibnet.ru/shell.php?videoid=5306604",
+            "https://video.sibnet.ru/shell.php?videoid=5306607",
+            "https://video.sibnet.ru/shell.php?videoid=5306608",
+            "https://video.sibnet.ru/shell.php?videoid=5306609",
+            "https://video.sibnet.ru/shell.php?videoid=5306610",
+            "https://video.sibnet.ru/shell.php?videoid=5306611",
+            "https://video.sibnet.ru/shell.php?videoid=5306612",
+            "https://video.sibnet.ru/shell.php?videoid=5306614"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "data": {
+    "name": "noucome",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/noucome.jpg",
+    "desc": "L'histoire est centrée sur Amakusa Kanade, le héros de la série, un garçon maudit avec le pouvoir mental : 'Zettai Sentakushi' (le QCM absolu ). Un quiz à choix multiple apparaît dans sa tête, et le choix qu'il choisit se réalise alors. Il est obligé de choisir l'une des propositions sans quoi le choix ne disparaîtra pas de sa tête.",
+    "genres": "Comédie, Romance, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/j74htgdmpu5wjbc734tndg1hqh",
+            "https://www.myvi.top/embed/h9izraindonr7ph7xnjk7mptbe",
+            "https://www.myvi.top/embed/o5is5x959e4wbmxjtig48eskuc",
+            "https://www.myvi.top/embed/eeukxgzpjkprin1juk5w3tu9ia",
+            "https://www.myvi.top/embed/3u1bi3q8kkjwuxk7dzqmgdu88o",
+            "https://www.myvi.top/embed/dbauqbi3zq7wpcdz7mkxud4iay",
+            "https://www.myvi.top/embed/ha7p65dtq65w9n883d1oa6qmda",
+            "https://www.myvi.top/embed/z6gbnm3whs9wxmjzg9h3gj4d4w",
+            "https://www.myvi.top/embed/t6tb1dwxq5ar38yy65n3wisbqh",
+            "https://www.myvi.top/embed/ntfi9jgm4uorupju1111xsbqxr"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/e16pwo8x",
+            "https://sendvid.com/embed/bsuuvh2d",
+            "https://sendvid.com/embed/ccv582x5",
+            "https://sendvid.com/embed/g05dd64v",
+            "https://sendvid.com/embed/a5ess7oa",
+            "https://sendvid.com/embed/2c1tzmi6",
+            "https://sendvid.com/embed/iv5a4mdn",
+            "https://sendvid.com/embed/j4zrt41r",
+            "https://sendvid.com/embed/4lkhev3z",
+            "https://sendvid.com/embed/1676860v"
+          ]
+        }
+      }
+    }
+  }
+}

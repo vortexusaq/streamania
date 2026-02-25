@@ -1,0 +1,124 @@
+{
+  "data": {
+    "name": "made-in-abyss",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/made-in-abyss.jpg",
+    "desc": "\"Abyss\", un lieu intriguant et nimbé de mystère. Un trou béant, seul lieu inexploré du monde. Un endroit fascinant et dangereux.\n\nRiko, jeune orpheline, a grandi dans une petite ville située au bord du gouffre tout en rêvant de devenir exploratrice, comme sa mère.\nUn jour, alors qu'elle explore le premier niveau de l'Abyss, elle rencontre un étrange robot qui ressemble à s'y méprendre à un être humain.",
+    "genres": "Aventure, Drame, Fantasy, Mystère, Psychologique, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-9kizmev64k71.html",
+            "https://vidmoly.to/embed-i72q1e9uwdq1.html",
+            "https://vidmoly.to/embed-qkmiak5zxx73.html",
+            "https://vidmoly.to/embed-8ek9dugfontq.html",
+            "https://vidmoly.to/embed-yac42vjdp1p3.html",
+            "https://vidmoly.to/embed-d283uxk2seeo.html",
+            "https://vidmoly.to/embed-p1p48l6fhfwk.html",
+            "https://vidmoly.to/embed-rm1zyl2rrzg5.html",
+            "https://vidmoly.to/embed-1v4voehdrclt.html",
+            "https://vidmoly.to/embed-3zw9aur126g8.html",
+            "https://vidmoly.to/embed-06yovuadhwnp.html",
+            "https://vidmoly.to/embed-1zqdfqvf3vt3.html",
+            "https://vidmoly.to/embed-txhcdpsv2zzu.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3058827",
+            "https://video.sibnet.ru/shell.php?videoid=3058828",
+            "https://video.sibnet.ru/shell.php?videoid=3058832",
+            "https://video.sibnet.ru/shell.php?videoid=3058835",
+            "https://video.sibnet.ru/shell.php?videoid=3058836",
+            "https://video.sibnet.ru/shell.php?videoid=3058838",
+            "https://video.sibnet.ru/shell.php?videoid=3058843",
+            "https://video.sibnet.ru/shell.php?videoid=4692180",
+            "https://video.sibnet.ru/shell.php?videoid=3058848",
+            "https://video.sibnet.ru/shell.php?videoid=3058851",
+            "https://video.sibnet.ru/shell.php?videoid=3072310",
+            "https://video.sibnet.ru/shell.php?videoid=3559461",
+            "https://video.sibnet.ru/shell.php?videoid=3515435"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/ug24vrie",
+            "https://sendvid.com/embed/ce69pvl9",
+            "https://sendvid.com/embed/2px4cf16",
+            "https://sendvid.com/embed/920vh3be",
+            "https://sendvid.com/embed/mm3bvkbv",
+            "https://sendvid.com/embed/8zssiwgw",
+            "https://sendvid.com/embed/dz5jao7k",
+            "https://sendvid.com/embed/cjn0g1ix",
+            "https://sendvid.com/embed/qw9mpb9p",
+            "https://sendvid.com/embed/uhmq5jmm",
+            "https://sendvid.com/embed/i2g81v26",
+            "https://sendvid.com/embed/hkecqdpm",
+            "https://sendvid.com/embed/rup0awqb"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4876041",
+            "https://video.sibnet.ru/shell.php?videoid=4876043",
+            "https://video.sibnet.ru/shell.php?videoid=4876046"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-s69mbfzla5zh.html",
+            "https://vidmoly.to/embed-7wyk4tc4dc83.html",
+            "https://vidmoly.to/embed-2s0xmddbvf36.html"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4779794",
+            "https://video.sibnet.ru/shell.php?videoid=4796416",
+            "https://video.sibnet.ru/shell.php?videoid=4796417",
+            "https://video.sibnet.ru/shell.php?videoid=4803295",
+            "https://video.sibnet.ru/shell.php?videoid=4812353",
+            "https://video.sibnet.ru/shell.php?videoid=4820718",
+            "https://video.sibnet.ru/shell.php?videoid=4832724",
+            "https://video.sibnet.ru/shell.php?videoid=4843116",
+            "https://video.sibnet.ru/shell.php?videoid=4852572",
+            "https://video.sibnet.ru/shell.php?videoid=4862088",
+            "https://video.sibnet.ru/shell.php?videoid=4871065",
+            "https://video.sibnet.ru/shell.php?videoid=4887204"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/118uc8iv",
+            "https://sendvid.com/embed/za64b36h",
+            "https://sendvid.com/embed/280aho53",
+            "https://sendvid.com/embed/crk8kf9k",
+            "https://sendvid.com/embed/40ahwh0u",
+            "https://sendvid.com/embed/34hlpa25",
+            "https://sendvid.com/embed/5e0pqcia",
+            "https://sendvid.com/embed/3gofosv2",
+            "https://sendvid.com/embed/jumyatx2",
+            "https://sendvid.com/embed/qb21sh6o",
+            "https://sendvid.com/embed/3pfhyhz6",
+            "https://sendvid.com/embed/uyk83rjs"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-6yk2mzyz325x.html",
+            "https://vidmoly.to/embed-3c2wgk8ak4cu.html",
+            "https://vidmoly.to/embed-4sfgtrhctvjl.html",
+            "https://vidmoly.to/embed-6k5yaa0rdxza.html",
+            "https://vidmoly.to/embed-xvwye9mzdmsp.html",
+            "https://vidmoly.to/embed-zdfixxmryp4l.html",
+            "https://vidmoly.to/embed-5gq3qqb1qvmw.html",
+            "https://vidmoly.to/embed-3w0j34rkzwe2.html",
+            "https://vidmoly.to/embed-l9cdlo9g76l8.html",
+            "https://vidmoly.to/embed-0g7a69f1timt.html",
+            "https://vidmoly.to/embed-e06j0g56sq0g.html",
+            "https://vidmoly.to/embed-m4mho68cwd3e.html"
+          ]
+        }
+      }
+    }
+  }
+}

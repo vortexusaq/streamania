@@ -1,0 +1,63 @@
+{
+  "data": {
+    "name": "wotaku-ni-koi-wa-muzukashii",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/wotaku-ni-koi-wa-muzukashii.jpg",
+    "desc": "L'histoire nous entraîne dans le quotidien de Narumi, une employée de bureau qui fait tout pour cacher son côté fujoshi et de son ami d'enfance, Hirotaka, un hardcore gamer. Ces deux personnes travaillant dans la même entreprise semblent fait l'un pour l'autre, cependant, l'amour est quelque chose de très compliqué.",
+    "genres": "Comédie, Josei, Romance, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4722290",
+            "https://video.sibnet.ru/shell.php?videoid=4722295",
+            "https://video.sibnet.ru/shell.php?videoid=4722298",
+            "https://video.sibnet.ru/shell.php?videoid=4722301",
+            "https://video.sibnet.ru/shell.php?videoid=4722303",
+            "https://video.sibnet.ru/shell.php?videoid=4722305",
+            "https://video.sibnet.ru/shell.php?videoid=4722310",
+            "https://video.sibnet.ru/shell.php?videoid=4722313",
+            "https://video.sibnet.ru/shell.php?videoid=4722315",
+            "https://video.sibnet.ru/shell.php?videoid=4722318",
+            "https://video.sibnet.ru/shell.php?videoid=4722320"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-kw4g4ge491tm.html",
+            "https://vidmoly.to/embed-egs3pzteh0ha.html",
+            "https://vidmoly.to/embed-n0nwv1ozb6vr.html",
+            "https://vidmoly.to/embed-cklsgju2r3l4.html",
+            "https://vidmoly.to/embed-rj1ze4fu6dnn.html",
+            "https://vidmoly.to/embed-338kh25jk8ut.html",
+            "https://vidmoly.to/embed-be2ps8kadtuz.html",
+            "https://vidmoly.to/embed-jpd43koqq71z.html",
+            "https://vidmoly.to/embed-3gg80gyuim2e.html",
+            "https://vidmoly.to/embed-1mg89fdfmlpa.html",
+            "https://vidmoly.to/embed-hiyyw2s7jyxy.html"
+          ]
+        }
+      },
+      "OAV": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/b67iefi1oqrwzr165kwjfjiukr",
+            "https://www.myvi.top/embed/k3rw1czkqgerufijxdh3rtywue",
+            "https://www.myvi.top/embed/pm5jbadqgwcwxp4fnj1xfznfxc"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4722324",
+            "https://video.sibnet.ru/shell.php?videoid=4722325",
+            "https://video.sibnet.ru/shell.php?videoid=4722328"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/xb2336z8",
+            "https://sendvid.com/embed/um8v40lc",
+            "https://sendvid.com/embed/2pngbg6s"
+          ]
+        }
+      }
+    }
+  }
+}

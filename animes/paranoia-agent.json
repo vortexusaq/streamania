@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "paranoia-agent",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/paranoia-agent.jpg",
+    "desc": "Tsukiko Sagi est créatrice dans une grande entreprise et a connu le succès grâce à une de ses peluches, Maromi. En rentrant de son travail, elle est attaquée par un mystérieux personnage, armé d'une batte de base-ball et de rollers : Shônen Bat (littéralement : le gamin à la batte). Le coup est si violent qu'elle se renferme dans son mutisme et qu'elle commence à avoir de drôles d'hallucinations... Et tous ceux qui s'intéressent à l'affaire sont eux aussi victimes de cet étrange voyou.",
+    "genres": "Drame, Horreur, Épouvante, Mystère, Psychologique, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://embed/.com/88c01tzj",
+            "https://embed/.com/vkjpibff",
+            "https://embed/.com/lwfjrczd",
+            "https://embed/.com/n63gk3yk",
+            "https://embed/.com/flp3rzgo",
+            "https://embed/.com/lgy80e5b",
+            "https://embed/.com/4offev36",
+            "https://embed/.com/31xopxa2",
+            "https://embed/.com/e5vei8kr",
+            "https://embed/.com/0lvv0lnz",
+            "https://embed/.com/kqsptmdx",
+            "https://embed/.com/xvv4lqkn",
+            "https://embed/.com/w1qf7yab\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4776788",
+            "https://video.sibnet.ru/shell.php?videoid=4776789",
+            "https://video.sibnet.ru/shell.php?videoid=4776790",
+            "https://video.sibnet.ru/shell.php?videoid=4776791",
+            "https://video.sibnet.ru/shell.php?videoid=4776792",
+            "https://video.sibnet.ru/shell.php?videoid=4776793",
+            "https://video.sibnet.ru/shell.php?videoid=4776795",
+            "https://video.sibnet.ru/shell.php?videoid=4776798",
+            "https://video.sibnet.ru/shell.php?videoid=4776801",
+            "https://video.sibnet.ru/shell.php?videoid=4776806",
+            "https://video.sibnet.ru/shell.php?videoid=4776809",
+            "https://video.sibnet.ru/shell.php?videoid=4776810",
+            "https://video.sibnet.ru/shell.php?videoid=4776811"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/eenjkpz87twr8g6wf3sgucphih",
+            "https://www.myvi.tv/embed/c993e6tzdpaw5raoieci51sy7r",
+            "https://www.myvi.tv/embed/75a8d9pigkkr9k8u69cq6b6h5o",
+            "https://www.myvi.tv/embed/s8pce7z993fw8mrqn5utndhs3a",
+            "https://www.myvi.tv/embed/osp91bx1gcew7xn5whfiuygnmw",
+            "https://www.myvi.tv/embed/h411kk5mowmw3m6rkd9b97x4zw",
+            "https://www.myvi.tv/embed/dfoppwmwiupr3rojhicpeacgme",
+            "https://www.myvi.tv/embed/e9d8xst4or3w8yiwbargcjss7w",
+            "https://www.myvi.tv/embed/xu34nr9ehksrfp56rhzqos53pr",
+            "https://www.myvi.tv/embed/8to6x1hwbapwjqiqjfb31s7cpc",
+            "https://www.myvi.tv/embed/cq6n8388p9jrbeesdexy4f8yba",
+            "https://www.myvi.tv/embed/jye6tufbuhyrx8115rrq6xpyaa",
+            "https://www.myvi.tv/embed/r8ddhj5h8ofwzyfn4oya314dpw"
+          ]
+        }
+      }
+    }
+  }
+}

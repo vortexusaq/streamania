@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "brave-10",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/brave-10.jpg",
+    "desc": "En l'an 1599, le Japon est divisé en plusieurs parties dictinct qui s'oppose entre elles une guerre sans merci pour le pouvoir. La brutalité ne laisse aucune personne libre, et même la jeune prêtresse Isanami n'a d'autre choix que de prendre la fuite pour échapper aux ennemis qui ont ravagé son temple. Elle découvre par hasard dans une forêt le rônin Saizô Kirigakure, il escorte la jeune fille jusqu'au château d'Ueda dont le propriétaire de ce château est le puissant seigneur Yukimura Sanada. Au début, Saizô ignorant à la demande d'Isanami de sa protection, Yukimura Sanada ayant besoin de 10 Braves recrute alors Saizô et Isanami comme membre. Saizô se voit alors obligé d'être le garde du corps de la jeune prêtresse.",
+    "genres": "Action, Aventure, Comédie, Historique, Surnaturel, Ninjas, Samouraïs",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ypi72b8f",
+            "https://sendvid.com/embed/vgpw8wuv",
+            "https://sendvid.com/embed/borbltk4",
+            "https://sendvid.com/embed/u1jqacnw",
+            "https://sendvid.com/embed/o94bf15i",
+            "https://sendvid.com/embed/wj60m308",
+            "https://sendvid.com/embed/utbv4oql",
+            "https://sendvid.com/embed/ijbnibvu",
+            "https://sendvid.com/embed/brg6mbom",
+            "https://sendvid.com/embed/ryhncu0d",
+            "https://sendvid.com/embed/m8p6tjz4",
+            "https://sendvid.com/embed/lg21xka4"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4935366",
+            "https://video.sibnet.ru/shell.php?videoid=4935369",
+            "https://video.sibnet.ru/shell.php?videoid=4935372",
+            "https://video.sibnet.ru/shell.php?videoid=4935373",
+            "https://video.sibnet.ru/shell.php?videoid=4935374",
+            "https://video.sibnet.ru/shell.php?videoid=4935377",
+            "https://video.sibnet.ru/shell.php?videoid=4935378",
+            "https://video.sibnet.ru/shell.php?videoid=4935379",
+            "https://video.sibnet.ru/shell.php?videoid=4935381",
+            "https://video.sibnet.ru/shell.php?videoid=4935382",
+            "https://video.sibnet.ru/shell.php?videoid=4935384",
+            "https://video.sibnet.ru/shell.php?videoid=4935386"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/c7oakzxfcz5r3pew1k1we41zor",
+            "https://www.myvi.tv/embed/3seyy99eyq7wueywoc6zrc3gor",
+            "https://www.myvi.tv/embed/8jgb93pforur9n17gtdx3uh63e",
+            "https://www.myvi.tv/embed/mt19c7p1nxuw5yek6m48ba37or",
+            "https://www.myvi.tv/embed/aemy6z1o1mqrpx98fhwskqz7go",
+            "https://www.myvi.tv/embed/8xdac3a6sefwbekq596dckz36o",
+            "https://www.myvi.tv/embed/knwrkcd8qeiwuqb4iu75xxbwsy",
+            "https://www.myvi.tv/embed/tjtdnuw6uddr7bsn3dqkk3j6ee",
+            "https://www.myvi.tv/embed/s58jo7oejwxrb8woymhyf7qizy",
+            "https://www.myvi.tv/embed/ph76gz5e1pswbjahxudmhbamio",
+            "https://www.myvi.tv/embed/zmcu5e344y1rpx78cwzj5xquie",
+            "https://www.myvi.tv/embed/dit1prphcnar9enwmgctgxg7xy"
+          ]
+        }
+      }
+    }
+  }
+}

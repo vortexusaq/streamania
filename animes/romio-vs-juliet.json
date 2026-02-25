@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "romio-vs-juliet",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/romio-vs-juliet.jpg",
+    "desc": "Kishuku Gakkou no Juliet est un manga qui s'inspire très librement de l'histoire de Roméo et Juliette de l'auteur britannique William Shakespeare. L'académie de Grigio. Les élèves venant étudier dans cet établissement viennent de deux pays différents et résident ainsi dans deux dortoirs séparés. Romeo Inudzuka et Juliet Percia, sont les représentants rivaux des deux dortoirs, cependant ils éprouvent et vivent une relation amoureuse en secret. Ils vont ainsi devoir vivre leur relation à l'abri des regards ou de mauvaise choses pourraient leur arriver.",
+    "genres": "Action, Comédie, Romance, Shônen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/cdx567jy",
+            "https://sendvid.com/embed/qo3v3234",
+            "https://sendvid.com/embed/91sttpll",
+            "https://sendvid.com/embed/7q5iomhy",
+            "https://sendvid.com/embed/047tizs5",
+            "https://sendvid.com/embed/snxnbpew",
+            "https://sendvid.com/embed/34bc72k6",
+            "https://sendvid.com/embed/1dv4ftg3",
+            "https://sendvid.com/embed/a80msrrm",
+            "https://sendvid.com/embed/f4w7cooi",
+            "https://sendvid.com/embed/wxmqbqo3",
+            "https://sendvid.com/embed/33vw413s\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4831843",
+            "https://video.sibnet.ru/shell.php?videoid=4831847",
+            "https://video.sibnet.ru/shell.php?videoid=4831850",
+            "https://video.sibnet.ru/shell.php?videoid=4831854",
+            "https://video.sibnet.ru/shell.php?videoid=4831857",
+            "https://video.sibnet.ru/shell.php?videoid=4831865",
+            "https://video.sibnet.ru/shell.php?videoid=4831870",
+            "https://video.sibnet.ru/shell.php?videoid=4831873",
+            "https://video.sibnet.ru/shell.php?videoid=4831878",
+            "https://video.sibnet.ru/shell.php?videoid=4831882",
+            "https://video.sibnet.ru/shell.php?videoid=4831884",
+            "https://video.sibnet.ru/shell.php?videoid=4831889"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/m4butbefn68w5r56on4r1pzn7o",
+            "https://www.myvi.tv/embed/1co313k5ynoruq558b36fkikoc",
+            "https://www.myvi.tv/embed/ectop74y8mrr8bod93pwkhygaa",
+            "https://www.myvi.tv/embed/woufwuakrenrzx1hrwcto18t6r",
+            "https://www.myvi.tv/embed/g1rd9wn7ixurdm3hz8zsxmsp6w",
+            "https://www.myvi.tv/embed/fxfcdrh3c94r7c6wmbyeahtgpc",
+            "https://www.myvi.tv/embed/cxzsn3h6d9rrmre3ts7fz31jdc",
+            "https://www.myvi.tv/embed/cfecb69tpt1rzp14orkbu41oty",
+            "https://www.myvi.tv/embed/1dr4o5u5opmwtbx9qdmouctwgc",
+            "https://www.myvi.tv/embed/xb6tt3xux6drfqfd7qfbkzycby",
+            "https://www.myvi.tv/embed/ai8jwct7hrcrff7ntzsuxbgm1a",
+            "https://www.myvi.tv/embed/pax5mkcw7cirjnwde5awshb8mc"
+          ]
+        }
+      }
+    }
+  }
+}

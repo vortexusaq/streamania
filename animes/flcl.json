@@ -1,0 +1,99 @@
+{
+  "data": {
+    "name": "flcl",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/flcl.jpg",
+    "desc": "Naota, un jeune garçon sans histoire, vit une existence un peu morose dans une ville surplombée par une usine gigantesque et polluante, jusqu'au jour où une jeune fille le percute en Vespa. Cette dernière, bien loin de sembler désolée de son geste, assénera en plus sur la tête du pauvre Naota un formidable coup de basse après être descendue de son véhicule... Le cauchemar pourrait s'arrêter là mais, après s'être remis de ses émotions, le pauvre garçon découvre que la fille qui l'a si sauvagement agressé, Haruko, va habiter chez lui en tant que gouvernante ! Une nouvelle finalement assez peu effrayante lorsqu'on la compare au fait que, depuis qu'il a une blessure sur le front, Naota voit des choses lui sortir de la tête, et notamment un énorme robot...",
+    "genres": "Seinen, Aventure, Comédie, Romance, School-Life, Mechas, Parodie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 3,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5546887",
+            "https://video.sibnet.ru/shell.php?videoid=5546889",
+            "https://video.sibnet.ru/shell.php?videoid=5546890",
+            "https://video.sibnet.ru/shell.php?videoid=5546892",
+            "https://video.sibnet.ru/shell.php?videoid=5546894",
+            "https://video.sibnet.ru/shell.php?videoid=5546896"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-k6cr2fnl9fn9.html",
+            "https://vidmoly.to/embed-ea0jrk5u7jiv.html",
+            "https://vidmoly.to/embed-35lt7ef8eih6.html",
+            "https://vidmoly.to/embed-yxoewe30hlgq.html",
+            "https://vidmoly.to/embed-2z5gl25g6hnz.html",
+            "https://vidmoly.to/embed-smf230le85lh.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/t4o0bbes",
+            "https://sendvid.com/embed/9szpauyr",
+            "https://sendvid.com/embed/gubiwdst",
+            "https://sendvid.com/embed/fay6869l",
+            "https://sendvid.com/embed/r6zpke90",
+            "https://sendvid.com/embed/rpkozdgu"
+          ]
+        }
+      },
+      "FLCL Progressive": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5546898",
+            "https://video.sibnet.ru/shell.php?videoid=5546901",
+            "https://video.sibnet.ru/shell.php?videoid=5546903",
+            "https://video.sibnet.ru/shell.php?videoid=5546905",
+            "https://sendvid.com/embed/vm98nyd8",
+            "https://video.sibnet.ru/shell.php?videoid=5546909"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-g8xl1ch37t5b.html",
+            "https://vidmoly.to/embed-cb72vqj4z8db.html",
+            "https://vidmoly.to/embed-udwouunynw35.html",
+            "https://vidmoly.to/embed-v0s4fchsi1ls.html",
+            "https://vidmoly.to/embed-unld4hndo9qw.html",
+            "https://vidmoly.to/embed-bjq5xbivxqqv.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/owwxl5vt",
+            "https://sendvid.com/embed/a519sxzr",
+            "https://sendvid.com/embed/i6abdmfr",
+            "https://sendvid.com/embed/t3xn77wt",
+            "https://sendvid.com/embed/vm98nyd8",
+            "https://sendvid.com/embed/ibs8px6x"
+          ]
+        }
+      },
+      "FLCL Alternative": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5546881",
+            "https://video.sibnet.ru/shell.php?videoid=5546882",
+            "https://video.sibnet.ru/shell.php?videoid=5546883",
+            "https://video.sibnet.ru/shell.php?videoid=5546884",
+            "https://video.sibnet.ru/shell.php?videoid=5546885",
+            "https://video.sibnet.ru/shell.php?videoid=5546886"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-6manexrbvutn.html",
+            "https://vidmoly.to/embed-meqg41x5if91.html",
+            "https://vidmoly.to/embed-r68tbq12z5kp.html",
+            "https://vidmoly.to/embed-vztxkyema18z.html",
+            "https://vidmoly.to/embed-6ik0pbxs37k8.html",
+            "https://vidmoly.to/embed-yhol5vpv9mn7.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/0psqlcgs",
+            "https://sendvid.com/embed/jufyi0nc",
+            "https://sendvid.com/embed/xazy1qvf",
+            "https://sendvid.com/embed/h2cjcusa",
+            "https://sendvid.com/embed/x4lccpid",
+            "https://sendvid.com/embed/6gna9m7u"
+          ]
+        }
+      }
+    }
+  }
+}

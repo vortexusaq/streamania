@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "maboroshi",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/maboroshi.jpg",
+    "desc": "Il s'agit de l'histoire de jeunes personnes qui se démènent dans un monde instable et qui luttent contre le destin avec l'amour comme arme.",
+    "genres": "Drame, Surnaturel, Adolescence, Amour, Ecole, Triangle amoureux",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5407924"
+          ]
+        }
+      }
+    }
+  }
+}

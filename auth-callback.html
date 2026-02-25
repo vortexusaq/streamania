@@ -1,0 +1,509 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Connexion Discord - STREAMANIA</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700;800;900&family=Plus+Jakarta+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎬</text></svg>">
+  <style>
+    /* Styles spécifiques pour la page de callback */
+    .callback-container {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      background: var(--bg-primary);
+      padding: var(--space-6);
+    }
+
+    .callback-card {
+      background: var(--gradient-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-2xl);
+      padding: var(--space-10);
+      max-width: 480px;
+      width: 100%;
+      text-align: center;
+      box-shadow: var(--shadow-2xl);
+      position: relative;
+      overflow: hidden;
+    }
+
+    .callback-card::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: linear-gradient(135deg, rgba(139, 92, 246, 0.05), transparent);
+      z-index: 0;
+    }
+
+    .callback-content {
+      position: relative;
+      z-index: 1;
+    }
+
+    .discord-icon {
+      width: 80px;
+      height: 80px;
+      background: linear-gradient(135deg, #5865F2 0%, #404EED 100%);
+      border-radius: var(--radius-2xl);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      margin: 0 auto var(--space-6);
+      box-shadow: var(--shadow-glow);
+      animation: pulse 2s ease-in-out infinite;
+    }
+
+    .discord-icon svg {
+      width: 40px;
+      height: 40px;
+      color: white;
+    }
+
+    .callback-title {
+      font-family: var(--font-display);
+      font-size: var(--text-3xl);
+      font-weight: 800;
+      color: var(--text-primary);
+      margin-bottom: var(--space-3);
+      background: linear-gradient(135deg, #fff 0%, var(--primary-200) 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .callback-message {
+      font-size: var(--text-lg);
+      color: var(--text-secondary);
+      margin-bottom: var(--space-8);
+      line-height: var(--leading-relaxed);
+    }
+
+    .callback-status {
+      display: inline-flex;
+      align-items: center;
+      gap: var(--space-2);
+      padding: var(--space-2) var(--space-4);
+      background: var(--bg-card);
+      border: 1px solid var(--border-subtle);
+      border-radius: var(--radius-full);
+      font-size: var(--text-sm);
+      font-weight: 600;
+      margin-bottom: var(--space-8);
+    }
+
+    .status-dot {
+      width: 10px;
+      height: 10px;
+      border-radius: var(--radius-full);
+      animation: pulse-dot 1.5s ease-in-out infinite;
+    }
+
+    .status-dot.loading {
+      background: var(--accent-warning);
+    }
+
+    .status-dot.success {
+      background: var(--accent-success);
+      animation: none;
+    }
+
+    .status-dot.error {
+      background: var(--accent-error);
+      animation: pulse-error 1s ease-in-out infinite;
+    }
+
+    .callback-loader {
+      width: 60px;
+      height: 4px;
+      background: var(--bg-elevated);
+      border-radius: var(--radius-full);
+      overflow: hidden;
+      margin: 0 auto var(--space-8);
+      position: relative;
+    }
+
+    .loader-progress {
+      position: absolute;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 0%;
+      background: var(--gradient-primary);
+      border-radius: var(--radius-full);
+      animation: load-progress 2s ease-in-out;
+    }
+
+    .callback-actions {
+      display: flex;
+      gap: var(--space-3);
+      justify-content: center;
+    }
+
+    .btn-callback {
+      padding: var(--space-3) var(--space-6);
+      border-radius: var(--radius-xl);
+      font-weight: 600;
+      transition: all var(--transition-fast);
+      cursor: pointer;
+      border: none;
+      font-family: inherit;
+      font-size: var(--text-sm);
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      gap: var(--space-2);
+      min-width: 140px;
+    }
+
+    .btn-primary-callback {
+      background: var(--gradient-primary);
+      color: white;
+    }
+
+    .btn-primary-callback:hover {
+      transform: translateY(-2px);
+      box-shadow: var(--shadow-glow);
+    }
+
+    .btn-secondary-callback {
+      background: rgba(255, 255, 255, 0.05);
+      color: var(--text-primary);
+      border: 1px solid var(--border-default);
+    }
+
+    .btn-secondary-callback:hover {
+      background: rgba(255, 255, 255, 0.1);
+      border-color: var(--border-strong);
+    }
+
+    /* Animations */
+    @keyframes pulse {
+      0%, 100% {
+        transform: scale(1);
+        box-shadow: var(--shadow-glow);
+      }
+      50% {
+        transform: scale(1.05);
+        box-shadow: var(--shadow-glow-strong);
+      }
+    }
+
+    @keyframes pulse-dot {
+      0%, 100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.5;
+      }
+    }
+
+    @keyframes pulse-error {
+      0%, 100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.3;
+      }
+    }
+
+    @keyframes load-progress {
+      0% {
+        width: 0%;
+      }
+      100% {
+        width: 100%;
+      }
+    }
+
+    /* Responsive */
+    @media (max-width: 768px) {
+      .callback-card {
+        padding: var(--space-6);
+        margin: var(--space-4);
+      }
+
+      .callback-title {
+        font-size: var(--text-2xl);
+      }
+
+      .callback-message {
+        font-size: var(--text-base);
+      }
+
+      .callback-actions {
+        flex-direction: column;
+      }
+
+      .btn-callback {
+        width: 100%;
+      }
+    }
+
+    /* Background effects (comme dans index.html) */
+    .background-effects {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: -1;
+      overflow: hidden;
+    }
+
+    .gradient-orb {
+      position: absolute;
+      border-radius: 50%;
+      filter: blur(100px);
+      opacity: 0.4;
+      animation: float 20s ease-in-out infinite;
+    }
+
+    .gradient-orb-1 {
+      width: 600px;
+      height: 600px;
+      background: var(--primary-700);
+      top: -200px;
+      right: -100px;
+      animation-delay: 0s;
+    }
+
+    .gradient-orb-2 {
+      width: 500px;
+      height: 500px;
+      background: var(--accent-pink);
+      bottom: -150px;
+      left: -100px;
+      animation-delay: -7s;
+      opacity: 0.25;
+    }
+
+    .noise-overlay {
+      position: absolute;
+      inset: 0;
+      background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 256 256' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noise'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.9' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noise)'/%3E%3C/svg%3E");
+      opacity: 0.03;
+      mix-blend-mode: overlay;
+    }
+  </style>
+</head>
+<body>
+  <!-- Background Effects -->
+  <div class="background-effects">
+    <div class="gradient-orb gradient-orb-1"></div>
+    <div class="gradient-orb gradient-orb-2"></div>
+    <div class="noise-overlay"></div>
+  </div>
+
+  <div class="callback-container">
+    <div class="callback-card">
+      <div class="callback-content">
+        <div class="discord-icon">
+          <svg viewBox="0 0 24 24" fill="currentColor">
+            <path d="M20.317 4.3698a19.7913 19.7913 0 00-4.8851-1.5152.0741.0741 0 00-.0785.0371c-.211.3753-.4447.8648-.6083 1.2495-1.8447-.2762-3.68-.2762-5.4868 0-.1636-.3933-.4058-.8742-.6177-1.2495a.077.077 0 00-.0785-.037 19.7363 19.7363 0 00-4.8852 1.515.0699.0699 0 00-.0321.0277C.5334 9.0458-.319 13.5799.0992 18.0578a.0824.0824 0 00.0312.0561c2.0528 1.5076 4.0413 2.4228 5.9929 3.0294a.0777.0777 0 00.0842-.0276c.4616-.6304.8731-1.2952 1.226-1.9942a.076.076 0 00-.0416-.1057c-.6528-.2476-1.2743-.5495-1.8722-.8923a.077.077 0 01-.0076-.1277c.1258-.0943.2517-.1923.3718-.2914a.0743.0743 0 01.0776-.0105c3.9278 1.7933 8.18 1.7933 12.0614 0a.0739.0739 0 01.0785.0095c.1202.099.246.1981.3728.2924a.077.077 0 01-.0066.1276 12.2986 12.2986 0 01-1.873.8914.0766.0766 0 00-.0407.1067c.3604.698.7719 1.3628 1.225 1.9932a.076.076 0 00.0842.0286c1.961-.6067 3.9495-1.5219 6.0023-3.0294a.077.077 0 00.0313-.0552c.5004-5.177-.8382-9.6739-3.5485-13.6604a.061.061 0 00-.0312-.0286zM8.02 15.3312c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9555-2.4189 2.157-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.9555 2.4189-2.1569 2.4189zm7.9748 0c-1.1825 0-2.1569-1.0857-2.1569-2.419 0-1.3332.9554-2.4189 2.1569-2.4189 1.2108 0 2.1757 1.0952 2.1568 2.419 0 1.3332-.946 2.4189-2.1568 2.4189Z"/>
+          </svg>
+        </div>
+
+        <h1 class="callback-title" id="title">Connexion Discord</h1>
+        <p class="callback-message" id="message">Connexion en cours, veuillez patienter...</p>
+        
+        <div class="callback-status" id="status">
+          <span class="status-dot loading" id="statusDot"></span>
+          <span id="statusText">Chargement...</span>
+        </div>
+
+        <div class="callback-loader">
+          <div class="loader-progress"></div>
+        </div>
+
+        <div class="callback-actions" id="actions" style="display: none;">
+          <button class="btn-callback btn-primary-callback" id="continueBtn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M5 12h14"></path>
+              <path d="m12 5 7 7-7 7"></path>
+            </svg>
+            Continuer vers STREAMANIA
+          </button>
+          <button class="btn-callback btn-secondary-callback" id="retryBtn">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"></path>
+              <path d="M3 3v5h5"></path>
+            </svg>
+            Réessayer
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    // Gestion du callback Discord
+    document.addEventListener('DOMContentLoaded', () => {
+      const hash = window.location.hash.substring(1);
+      const params = new URLSearchParams(hash);
+      const token = params.get('access_token');
+      const error = params.get('error');
+      
+      const title = document.getElementById('title');
+      const message = document.getElementById('message');
+      const status = document.getElementById('status');
+      const statusDot = document.getElementById('statusDot');
+      const statusText = document.getElementById('statusText');
+      const actions = document.getElementById('actions');
+      const continueBtn = document.getElementById('continueBtn');
+      const retryBtn = document.getElementById('retryBtn');
+
+      // Fonction pour afficher un état
+      function showState(state, customMessage = '') {
+        switch(state) {
+          case 'loading':
+            title.textContent = 'Connexion Discord';
+            message.textContent = customMessage || 'Connexion en cours, veuillez patienter...';
+            statusText.textContent = 'Chargement...';
+            statusDot.className = 'status-dot loading';
+            actions.style.display = 'none';
+            break;
+            
+          case 'success':
+            title.textContent = 'Connexion réussie !';
+            message.textContent = customMessage || 'Votre compte Discord a été connecté avec succès.';
+            statusText.textContent = 'Connecté';
+            statusDot.className = 'status-dot success';
+            actions.style.display = 'flex';
+            break;
+            
+          case 'error':
+            title.textContent = 'Erreur de connexion';
+            message.textContent = customMessage || 'Une erreur est survenue lors de la connexion.';
+            statusText.textContent = 'Erreur';
+            statusDot.className = 'status-dot error';
+            actions.style.display = 'flex';
+            break;
+        }
+      }
+
+      // Fonction pour envoyer le token à la fenêtre principale
+      function sendTokenToParent(token, userData = null) {
+        if (window.opener && !window.opener.closed) {
+          window.opener.postMessage({
+            type: 'DISCORD_AUTH_SUCCESS',
+            token: token,
+            user: userData,
+            timestamp: Date.now()
+          }, '*');
+          
+          // Donner le temps au message d'être reçu
+          setTimeout(() => {
+            window.close();
+          }, 1000);
+        } else {
+          // Fenêtre principale fermée, rediriger vers la page d'accueil
+          localStorage.setItem('discord_token', token);
+          if (userData) {
+            localStorage.setItem('discord_user', JSON.stringify(userData));
+          }
+          
+          // Afficher le bouton continuer
+          showState('success', 'Fenêtre principale non trouvée. Cliquez sur "Continuer" pour retourner à STREAMANIA.');
+          
+          continueBtn.addEventListener('click', () => {
+            window.location.href = 'index.html';
+          });
+        }
+      }
+
+      // Fonction pour récupérer les infos utilisateur
+      async function fetchUserInfo(token) {
+        try {
+          showState('loading', 'Récupération de vos informations Discord...');
+          
+          const response = await fetch('https://discord.com/api/v10/users/@me', {
+            headers: {
+              'Authorization': `Bearer ${token}`
+            }
+          });
+          
+          if (!response.ok) {
+            throw new Error(`Erreur HTTP ${response.status}`);
+          }
+          
+          const userData = await response.json();
+          console.log('Données utilisateur récupérées:', userData);
+          
+          // Stocker les données localement
+          localStorage.setItem('discord_token', token);
+          localStorage.setItem('discord_user', JSON.stringify(userData));
+          
+          // Envoyer à la fenêtre principale
+          sendTokenToParent(token, userData);
+          
+          showState('success', `Bienvenue ${userData.username} ! Votre compte a été connecté.`);
+          
+        } catch (error) {
+          console.error('Erreur:', error);
+          showState('error', 'Impossible de récupérer vos informations Discord.');
+          
+          // Stocker juste le token quand même
+          localStorage.setItem('discord_token', token);
+          sendTokenToParent(token);
+        }
+      }
+
+      // Gérer le bouton réessayer
+      retryBtn.addEventListener('click', () => {
+        window.location.href = 'index.html';
+      });
+
+      // Gérer le bouton continuer
+      continueBtn.addEventListener('click', () => {
+        if (window.opener && !window.opener.closed) {
+          window.close();
+        } else {
+          window.location.href = 'index.html';
+        }
+      });
+
+      // Traiter le callback
+      if (error) {
+        // Erreur de Discord
+        showState('error', `Erreur Discord: ${error}`);
+        console.error('Erreur Discord:', error);
+        
+        // Afficher les boutons d'action
+        actions.style.display = 'flex';
+        
+      } else if (token) {
+        // Token reçu avec succès
+        console.log('Token Discord reçu');
+        
+        // Récupérer les infos utilisateur
+        fetchUserInfo(token);
+        
+      } else {
+        // Aucun token ni erreur
+        showState('error', 'Aucune information de connexion reçue.');
+        actions.style.display = 'flex';
+      }
+
+      // Fermer automatiquement après 5 secondes si tout est bon
+      setTimeout(() => {
+        if (token && !error) {
+          if (window.opener && !window.opener.closed) {
+            window.close();
+          }
+        }
+      }, 5000);
+    });
+
+    // Empêcher la fermeture si le message n'a pas été envoyé
+    window.addEventListener('beforeunload', (e) => {
+      if (localStorage.getItem('discord_token') && window.opener) {
+        // Ne rien faire, laisser fermer
+      }
+    });
+  </script>
+</body>
+</html>

@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "belle",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/belle.jpg",
+    "desc": "L'histoire d'une adolescente de 17 ans, Suzu, dont le quotidien se partage entre le petit village où elle vit avec son père et \"U\", un monde virtuel aux cinq milliards d'abonnés dont elle est l'une des icônes, la chanteuse Belle. Lorsqu'elle rencontre une mystérieuse créature, elle se lance dans une quête pleine d'aventures.",
+    "genres": "Comédie, Drame, Monde virtuel, Musique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4667175"
+          ]
+        }
+      }
+    }
+  }
+}

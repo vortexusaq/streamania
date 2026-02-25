@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "viral-hit",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/viral-hit0.jpg",
+    "desc": "Le lycéen tout maigre et fragile Yoo Ho Bin est probablement le dernier gars qu'on s'attendrait de voir sur une chaîne Newtube qui tourne autour des combats. Mais après avoir suivi les conseils d'une mystérieuse chaîne Newtube, Ho Bin assomme des gars plus forts que lui et engrange plus d'argent qu'il n'aurait jamais pu rêver. Ho Bin pourra-t-il continuer comme ça ou finira-t-il par rencontrer son égal ?",
+    "genres": "Manhwa, Webcomic, Action, Comédie, Drame, Romance, School-Life, Adolescence, Arts martiaux, Combats, Ecole, Vengeance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5500609",
+            "https://video.sibnet.ru/shell.php?videoid=5508185",
+            "https://video.sibnet.ru/shell.php?videoid=5514583",
+            "https://video.sibnet.ru/shell.php?videoid=5522151",
+            "https://video.sibnet.ru/shell.php?videoid=5529756",
+            "https://video.sibnet.ru/shell.php?videoid=5536483",
+            "https://video.sibnet.ru/shell.php?videoid=5542901",
+            "https://video.sibnet.ru/shell.php?videoid=5549026",
+            "https://video.sibnet.ru/shell.php?videoid=5555175",
+            "https://video.sibnet.ru/shell.php?videoid=5561286",
+            "https://video.sibnet.ru/shell.php?videoid=5568944",
+            "https://video.sibnet.ru/shell.php?videoid=5576398"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-c1ttyo085hul.html",
+            "https://vidmoly.to/embed-36k0xl2q7ygl.html",
+            "https://vidmoly.to/embed-9rhyj3fzjp5k.html",
+            "https://vidmoly.to/embed-zvendjfyj783.html",
+            "https://vidmoly.to/embed-ge7duhliyvzv.html",
+            "https://vidmoly.to/embed-jgkfj4t76zhg.html",
+            "https://vidmoly.to/embed-53e59cy58px8.html",
+            "https://vidmoly.to/embed-mqfdichz64xr.html",
+            "https://vidmoly.to/embed-2rd3dtc0wugu.html",
+            "https://vidmoly.to/embed-orrr63tft2dt.html",
+            "https://vidmoly.to/embed-3ysophz94rym.html",
+            "https://vidmoly.to/embed-j0u1tdz8058d.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/vh7vzg9u",
+            "https://sendvid.com/embed/f34ymk8b",
+            "https://sendvid.com/embed/9evk2yqj",
+            "https://sendvid.com/embed/8dufca61",
+            "https://sendvid.com/embed/9a51lf50",
+            "https://sendvid.com/embed/radkufgi",
+            "https://sendvid.com/embed/t1zhjt2c",
+            "https://sendvid.com/embed/hn0w24r3",
+            "https://sendvid.com/embed/a87vmmad",
+            "https://sendvid.com/embed/4z1rncbv",
+            "https://sendvid.com/embed/1m909azq",
+            "https://sendvid.com/embed/k9qjze5n"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239445&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239496&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239539&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239567&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239607&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239650&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239077&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239707&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239747&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239788&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239087&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239858&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

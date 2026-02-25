@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "katsute-kami-datta-kemono-tachi-e",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/katsute-kami-datta-kemono-tachi-e.jpg",
+    "desc": "Au cours d'une guerre civile opposant le Nord et le Sud du pays, les habitants du Nord, moins nombreux, ont utilisé la magie noire pour créer des super-soldats monstrueux nommés 'Divins' (Incarnates). Bien que leurs terres aient été sauvées, certains ont commencé à craindre ces Bêtes Sacrées. Elles sont ainsi traquées car tôt ou tard ils perdent la raison et deviennent une menace. Nancy Charlotte Bancroft, la fille d'un de ces Divins, se lance à la recherche de la personne ayant tué son père : Hank, un Chasseur de Bêtes. Après l'avoir retrouvé, Charlotte va faire la découverte de dures vérités à propos de ces Divins. Mais quelles vérités se cachent derrière l'existence de ces Bêtes Sacrées ?",
+    "genres": "Action, Aventure, Drame, Fantasy",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/n03mwag5",
+            "https://sendvid.com/embed/ehvhppv9",
+            "https://sendvid.com/embed/wmfskzle",
+            "https://sendvid.com/embed/h7l5pknn",
+            "https://sendvid.com/embed/8o0j934o",
+            "https://sendvid.com/embed/e1frcgns",
+            "https://sendvid.com/embed/zuoyv637",
+            "https://sendvid.com/embed/e81rnme7",
+            "https://sendvid.com/embed/5g8mi4tm",
+            "https://sendvid.com/embed/wp5m5fxr",
+            "https://sendvid.com/embed/9klzq2m4",
+            "https://sendvid.com/embed/dobl31tr"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5272117",
+            "https://video.sibnet.ru/shell.php?videoid=5272118",
+            "https://video.sibnet.ru/shell.php?videoid=5272122",
+            "https://video.sibnet.ru/shell.php?videoid=5272129",
+            "https://video.sibnet.ru/shell.php?videoid=5272130",
+            "https://video.sibnet.ru/shell.php?videoid=5272133",
+            "https://video.sibnet.ru/shell.php?videoid=5272134",
+            "https://video.sibnet.ru/shell.php?videoid=5272136",
+            "https://video.sibnet.ru/shell.php?videoid=5272138",
+            "https://video.sibnet.ru/shell.php?videoid=5272143",
+            "https://video.sibnet.ru/shell.php?videoid=5272146",
+            "https://video.sibnet.ru/shell.php?videoid=5272150"
+          ]
+        }
+      }
+    }
+  }
+}

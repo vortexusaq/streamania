@@ -1,0 +1,147 @@
+{
+  "data": {
+    "name": "high-card",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/high-card.jpg",
+    "desc": "High Card est un projet multimédia centré sur le Poker et est basé sur un scénario écrit par l'auteur du manga Kakegurui, Homura Kawamoto, ainsi que son petit frère, Hikaru Muno. Au royaume de Fourland, il existe 52 cartes de jeu spéciales, les cartes X, qui peuvent donner des pouvoirs surnaturels aux joueurs qui les détiennent. Ces 52 cartes se sont éparpillées à travers le pays, causant de nombreux problèmes sur leur passage. L'histoire suit Finn Oldman et ses collègues, chargés de récupérer les cartes à travers le pays.",
+    "genres": "Psychologique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5005656",
+            "https://video.sibnet.ru/shell.php?videoid=5011069",
+            "https://video.sibnet.ru/shell.php?videoid=5018242",
+            "https://video.sibnet.ru/shell.php?videoid=5026260",
+            "https://video.sibnet.ru/shell.php?videoid=5033100",
+            "https://video.sibnet.ru/shell.php?videoid=5041822",
+            "https://video.sibnet.ru/shell.php?videoid=5051935",
+            "https://video.sibnet.ru/shell.php?videoid=5060456",
+            "https://video.sibnet.ru/shell.php?videoid=5068932",
+            "https://video.sibnet.ru/shell.php?videoid=5074882",
+            "https://video.sibnet.ru/shell.php?videoid=5081256",
+            "https://video.sibnet.ru/shell.php?videoid=5088639"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-wwjn0oerhbf6.html",
+            "https://vidmoly.to/embed-6zuhs3oixybf.html",
+            "https://vidmoly.to/embed-pwdh9oua140z.html",
+            "https://vidmoly.to/embed-nrvu3zkdcgg3.html",
+            "https://vidmoly.to/embed-o2cf14aa5b90.html",
+            "https://vidmoly.to/embed-0xslqedyd7ll.html",
+            "https://vidmoly.to/embed-1cc2axqq590r.html",
+            "https://vidmoly.to/embed-01m25xb6bjqg.html",
+            "https://vidmoly.to/embed-6tqr4ymizra2.html",
+            "https://vidmoly.to/embed-j06n7tw2e9sq.html",
+            "https://vidmoly.to/embed-4fb6woax5w1l.html",
+            "https://vidmoly.to/embed-34lfoq25ut3i.html"
+          ],
+          "lec3": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239167&hash=85fee61940881b9a&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239270&hash=36302bad5ad17661&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239269&hash=aaacd9a57ab13fd5&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239213&hash=a0929cf4facdcd7f&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239257&hash=5582f1607edf53f0&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239296&hash=5af41566f810b654&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239335&hash=6fdd92b74ff7e95b&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239373&hash=fb1cd41be969ddb2&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239413&hash=91112fc4632f3118&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239455&hash=8e290dcb99d6231e&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239487&hash=d8466aaa5eb89fac&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456239519&hash=be3d13f0175ece2e&hd=3"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/jxp3oqth",
+            "https://sendvid.com/embed/b7ttasfu",
+            "https://sendvid.com/embed/zpx8qe0s",
+            "https://sendvid.com/embed/imc2h8tb",
+            "https://sendvid.com/embed/fz5jrcw5",
+            "https://sendvid.com/embed/wldy7hgq",
+            "https://sendvid.com/embed/s7y2b7fe",
+            "https://sendvid.com/embed/x81cgy0b",
+            "https://sendvid.com/embed/vqavkl1m",
+            "https://sendvid.com/embed/xic44t42",
+            "https://sendvid.com/embed/mts97rc4",
+            "https://sendvid.com/embed/vs9auqxu"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%201/High_Card_12_VOSTFR.mp4"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/l5g1367j",
+            "https://sendvid.com/embed/o7h2ybgi",
+            "https://sendvid.com/embed/a3uzlbem",
+            "https://sendvid.com/embed/fwdenmpj",
+            "https://sendvid.com/embed/ouag3wq6",
+            "https://sendvid.com/embed/u7xxwwsi",
+            "https://sendvid.com/embed/vb9snj4x",
+            "https://sendvid.com/embed/arm6ln4o",
+            "https://sendvid.com/embed/kvz2o4n2",
+            "https://sendvid.com/embed/lv06a4ul",
+            "https://sendvid.com/embed/9fzr7m7s",
+            "https://video.sibnet.ru/shell.php?videoid=5481757"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-cbantgcz6g55.html",
+            "https://vidmoly.to/embed-qaiwqolkbhth.html",
+            "https://vidmoly.to/embed-kk6ooczh8uzv.html",
+            "https://vidmoly.to/embed-8zds517hmtug.html",
+            "https://vidmoly.to/embed-hdb6o8bx4d5d.html",
+            "https://vidmoly.to/embed-bk1bvhsnkotu.html",
+            "https://vidmoly.to/embed-gtsju651hl87.html",
+            "https://vidmoly.to/embed-7sjk7z0u5nev.html",
+            "https://vidmoly.to/embed-daq4eu870e5f.html",
+            "https://vidmoly.to/embed-nbvg8xqbgsuw.html",
+            "https://vidmoly.to/embed-t8or4fd2t4rd.html",
+            "https://vidmoly.to/embed-82ac0vxb0krd.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=5391246",
+            "https://video.sibnet.ru/shell.php?videoid=5399825",
+            "https://video.sibnet.ru/shell.php?videoid=5408889",
+            "https://video.sibnet.ru/shell.php?videoid=5416914",
+            "https://video.sibnet.ru/shell.php?videoid=5423466",
+            "https://video.sibnet.ru/shell.php?videoid=5430058",
+            "https://video.sibnet.ru/shell.php?videoid=5437757",
+            "https://video.sibnet.ru/shell.php?videoid=5447337",
+            "https://video.sibnet.ru/shell.php?videoid=5455462",
+            "https://video.sibnet.ru/shell.php?videoid=5464189",
+            "https://video.sibnet.ru/shell.php?videoid=5473175",
+            "https://video.sibnet.ru/shell.php?videoid=5481757"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_7_VVOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/High%20Card/Saison%202/High_Card_S2_11_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "denkigai-no-honya-san",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/denkigai-no-honya-san.jpg",
+    "desc": "Umio est un étudiant réservé et timide qui travaille à mi-temps dans une librairie de mangas. À cause de sa personnalité, il a peu d'amis et son seul véritable entourage est constitué de ses collègues de travail, une belle brochette de personnages tous aussi uniques les uns que les autres...",
+    "genres": "Comédie, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/l10wvjko",
+            "https://sendvid.com/embed/zxcci2fn",
+            "https://sendvid.com/embed/ibrcbqxt",
+            "https://sendvid.com/embed/7rilnsug",
+            "https://sendvid.com/embed/gwxmt3hm",
+            "https://sendvid.com/embed/vduiczgk",
+            "https://sendvid.com/embed/y1j68tbk",
+            "https://sendvid.com/embed/6nj7w8x4",
+            "https://sendvid.com/embed/g14koe0g",
+            "https://sendvid.com/embed/a6njzrbl",
+            "https://sendvid.com/embed/5qcnpgqr",
+            "https://sendvid.com/embed/w6nfl1uz\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4776632",
+            "https://video.sibnet.ru/shell.php?videoid=4776634",
+            "https://video.sibnet.ru/shell.php?videoid=4776636",
+            "https://video.sibnet.ru/shell.php?videoid=4776638",
+            "https://video.sibnet.ru/shell.php?videoid=4776639",
+            "https://video.sibnet.ru/shell.php?videoid=4776641",
+            "https://video.sibnet.ru/shell.php?videoid=4776643",
+            "https://video.sibnet.ru/shell.php?videoid=4776645",
+            "https://video.sibnet.ru/shell.php?videoid=4776646",
+            "https://video.sibnet.ru/shell.php?videoid=4776647",
+            "https://video.sibnet.ru/shell.php?videoid=4776648",
+            "https://video.sibnet.ru/shell.php?videoid=4776650"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ifr3jgecpofrmku3mbw6ut9mro",
+            "https://www.myvi.tv/embed/9dq9pkfo9z6rtb4ghtzzfsxbir",
+            "https://www.myvi.tv/embed/nc7wtzehp4yr3dqgond8hibdfr",
+            "https://www.myvi.tv/embed/kbwku4miyxdr3emapu4wy7mnxe",
+            "https://www.myvi.tv/embed/qgxsinarpwqwzx8xwimfrq1gdc",
+            "https://www.myvi.tv/embed/skz1ehsdbj7wmrnsgiwz8qef1h",
+            "https://www.myvi.tv/embed/jp5gwfghn5brtparhktfstfyjo",
+            "https://www.myvi.tv/embed/jxm3uybbiixr78yhjosoceutac",
+            "https://www.myvi.tv/embed/zaf3ssixj4sr88m7eok8gwrh6a",
+            "https://www.myvi.tv/embed/o43smgyi83sr7diwgnms5ikhdy",
+            "https://www.myvi.tv/embed/z3aph65ed7qw3ep6hcben16fso",
+            "https://www.myvi.tv/embed/dqkx4nedj3ewfrgiewpg8figzr"
+          ]
+        }
+      }
+    }
+  }
+}

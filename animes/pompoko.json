@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "pompoko",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/pompoko.jpg",
+    "desc": "Dans les années 1960, le Japon connaît une forte croissance et les logements font défaut. De vastes programmes de construction sont lancés, destinés à transformer les campagnes en villes nouvelles, en particulier la haute vallée de la Tama, à l'est de Tōkyō.\nDans les bois vivent des animaux, les tanuki. Ce sont à la fois des animaux réels et des animaux mythiques assimilés aux kitsune. La destruction quotidienne de leur espace vital inquiète les tanuki. Ils décident de s'unir et d'enrayer la progression nuisible des travaux...",
+    "genres": "Aventure, Comédie, Surnaturel\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5366078"
+          ]
+        }
+      }
+    }
+  }
+}

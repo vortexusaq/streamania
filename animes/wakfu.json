@@ -1,0 +1,28 @@
+{
+  "data": {
+    "name": "wakfu",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/wakfu.jpg",
+    "desc": "Deux cents ans ont passé depuis le grand déluge qui a mis fin à l'âge des Dofus et transformé les continents de l'époque en archipels. Les eaux montent, la nature devient folle. Des choses se sont passées, d'autres se sont terminées, mais le Wakfu, l'énergie primordiale créatrice du monde est fortement perturbée par un être mystérieux. Sur une petite île au large de la nation d'Amakna, se trouve un petit village perdu dans la forêt : Emelka. Dans ce petit village, démarrent les épopées d'un jeune garçon du nom de Yugo, qui vient de découvrir ses pouvoirs, mais aussi ses origines. C'est ici que tout commence.",
+    "genres": "Action, Aventure, Comédie, Drame, Fantasy, Amitié, Combats",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 4,
+      "Saison 1": {
+        "url": "https://www.france.tv/france-3/wakfu/#season-france-3-wakfu-saison-1",
+        "eps": {}
+      },
+      "Saison 2": {
+        "url": "https://www.france.tv/france-3/wakfu/#season-france-3-wakfu-saison-2",
+        "eps": {}
+      },
+      "Saison 3": {
+        "url": "https://www.france.tv/france-3/wakfu/#season-france-3-wakfu-saison-3",
+        "eps": {}
+      },
+      "Saison 4": {
+        "url": "https://www.france.tv/france-3/wakfu/#season-france-3-wakfu-saison-4",
+        "eps": {}
+      }
+    }
+  }
+}

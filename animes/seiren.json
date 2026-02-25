@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "seiren",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/seiren.jpg",
+    "desc": "L'histoire prend place en été, durant la deuxième année du lycée des personnages principaux. Kamita Shouichi, un jeune lycéen, a peur de grandir. Un jour, sa professeur principale le convoque pour parler de ses plans de carrières. En chemin, Shouichi va rencontrer différents femmes qui vont le mener vers un futur inconnu.",
+    "genres": "Comédie, Romance, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/k58ngfs5",
+            "https://sendvid.com/embed/c697rr9g",
+            "https://sendvid.com/embed/8arrg1oi",
+            "https://sendvid.com/embed/bb01q8w2",
+            "https://sendvid.com/embed/3uzecbg5",
+            "https://sendvid.com/embed/y007lpk0",
+            "https://sendvid.com/embed/h86hf6u7",
+            "https://sendvid.com/embed/0znlucx1",
+            "https://sendvid.com/embed/c2zl017n",
+            "https://sendvid.com/embed/giqovsdx",
+            "https://sendvid.com/embed/6ywyay85",
+            "https://sendvid.com/embed/ki1i41vv\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4842245",
+            "https://video.sibnet.ru/shell.php?videoid=4842249",
+            "https://video.sibnet.ru/shell.php?videoid=4842253",
+            "https://video.sibnet.ru/shell.php?videoid=4842257",
+            "https://video.sibnet.ru/shell.php?videoid=4842262",
+            "https://video.sibnet.ru/shell.php?videoid=4842266",
+            "https://video.sibnet.ru/shell.php?videoid=4842269",
+            "https://video.sibnet.ru/shell.php?videoid=4842272",
+            "https://video.sibnet.ru/shell.php?videoid=4842274",
+            "https://video.sibnet.ru/shell.php?videoid=4842276",
+            "https://video.sibnet.ru/shell.php?videoid=4842279",
+            "https://video.sibnet.ru/shell.php?videoid=4842283"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/57ggbbkcwkewjcx7b11ewe1z7o",
+            "https://www.myvi.tv/embed/asztf8716nrrbygak7hfk3htkw",
+            "https://www.myvi.tv/embed/miazqdaap94rzbgrinb6ikcp6y",
+            "https://www.myvi.tv/embed/thhmyrgqew5wjckcf9sayehnza",
+            "https://www.myvi.tv/embed/z9q8bp84737rmxmbf1o3c8sxge",
+            "https://www.myvi.tv/embed/hhqifbmabsqr8yeckgbrek6buo",
+            "https://www.myvi.tv/embed/quob3jupzx3w38cjo578zutghr",
+            "https://www.myvi.tv/embed/zjdu9unnnzdw8pp8uaddb5s84a",
+            "https://www.myvi.tv/embed/c6fi8w5e9emwinnwa78wu665be",
+            "https://www.myvi.tv/embed/6dkpw7jh1w4r8jg6psw7bgusmy",
+            "https://www.myvi.tv/embed/xz31cp64y8uwmp5jecm9csnnic",
+            "https://www.myvi.tv/embed/9yaw63cokozr7c4qnn9dcnkxne"
+          ]
+        }
+      }
+    }
+  }
+}

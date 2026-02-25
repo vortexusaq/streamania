@@ -1,0 +1,49 @@
+{
+  "data": {
+    "name": "spriggan",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/spriggan.jpg",
+    "desc": "Il y a de nombreuses années, une ancienne civilisation connue pour ses artefacts et machines avancées régnait autrefois sur la Terre. Cependant, elle a été détruite pour avoir mal utilisé ses créations. Avant leur destruction, cette civilisation a écrit des messages en hébreu sur des plaques indestructibles pour prévenir les prochaines générations que si elles ne peuvent pas utiliser correctement leurs créations, elles devront être détruites. Après la fin de guerre froide, diverses entités telles que les paramilitaires, les armées nationales ou encore les forces armées privées ont commencé à rechercher secrètement les 'mystérieux' artefacts afin de les utiliser contre leurs ennemis. Cette histoire se centre sur Yu Ominae, un agent d'élite faisant partie de ARCAM, une organisation qui a pour but d'empêcher des personnes mal attentionnées d'utiliser ces 'machines avancées'.",
+    "genres": "Action, Aventure, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/drrrl8b0",
+            "https://sendvid.com/embed/nibuhsk3",
+            "https://sendvid.com/embed/7kxd8h1e",
+            "https://sendvid.com/embed/m58p8c7z",
+            "https://sendvid.com/embed/qcu6gd5n",
+            "https://sendvid.com/embed/3akxql0w\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4757288",
+            "https://video.sibnet.ru/shell.php?videoid=4757289",
+            "https://video.sibnet.ru/shell.php?videoid=4757290",
+            "https://video.sibnet.ru/shell.php?videoid=4757291",
+            "https://video.sibnet.ru/shell.php?videoid=4757293",
+            "https://video.sibnet.ru/shell.php?videoid=4757295"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/p46hhpdffnmru83h9uq19dkyzy",
+            "https://www.myvi.tv/embed/pwuioabuceqrimwfdurscrcnde",
+            "https://www.myvi.tv/embed/w6chhymn977w78bzkzawdn77eh",
+            "https://www.myvi.tv/embed/wi6ij16txnwrxb93bgxhhtppkh",
+            "https://www.myvi.tv/embed/ctakw9puecurxrw3uybfzs4ech",
+            "https://www.myvi.tv/embed/g1inmp6xu8hwzeyp41i3f89wsh"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456239826&hash=cf2c0def6770ecf2&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "paradox-live",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/paradox-live.jpg",
+    "desc": "Projet d'animation faisant partie du projet transmedia Paradox Live.",
+    "genres": "Slice-of-Life, Musique, Rap",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5273953",
+            "https://video.sibnet.ru/shell.php?videoid=5275228",
+            "https://video.sibnet.ru/shell.php?videoid=5285312",
+            "https://video.sibnet.ru/shell.php?videoid=5294804",
+            "https://video.sibnet.ru/shell.php?videoid=5303768",
+            "https://video.sibnet.ru/shell.php?videoid=5321498",
+            "https://video.sibnet.ru/shell.php?videoid=5331747",
+            "https://video.sibnet.ru/shell.php?videoid=5341950",
+            "https://video.sibnet.ru/shell.php?videoid=5352248",
+            "https://video.sibnet.ru/shell.php?videoid=5362022",
+            "https://video.sibnet.ru/shell.php?videoid=5370157",
+            "https://video.sibnet.ru/shell.php?videoid=5378071"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456240224&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240235&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240283&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240332&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240378&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240457&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240500&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240530&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240560&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240592&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240620&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240647&hd=3"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/nnvonrw7",
+            "https://sendvid.com/embed/zqltmu7s",
+            "https://sendvid.com/embed/fsozqlmb",
+            "https://sendvid.com/embed/wdqymmqe",
+            "https://sendvid.com/embed/m7ze9dt8",
+            "https://sendvid.com/embed/5bbzrbbl",
+            "https://sendvid.com/embed/7x3cgasx",
+            "https://sendvid.com/embed/tc8la6mk",
+            "https://sendvid.com/embed/1yeo1m33",
+            "https://sendvid.com/embed/g14kwtv0",
+            "https://sendvid.com/embed/wjqi93x3",
+            "https://sendvid.com/embed/0qorbcsx"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Paradox%20Live/Paradox_Live_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

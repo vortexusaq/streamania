@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "stardust-telepath",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/stardust-telepath.jpg",
+    "desc": "Umika Konohoshi est une lycéenne qui a beaucoup de mal à communiquer avec les autres. Elle se sent comme une extraterrestre piégée sur Terre qui n'a rien à faire ici. Un jour, elle rencontre une fille avec qui elle devient amie qui prétend être une vraie extraterrestre ?!",
+    "genres": "Comédie, Science-fiction, Slice-of-Life, Aliens, Extra-terrestres, Amitié, Ecole",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5274289",
+            "https://video.sibnet.ru/shell.php?videoid=5283504",
+            "https://video.sibnet.ru/shell.php?videoid=5293447",
+            "https://video.sibnet.ru/shell.php?videoid=5302663",
+            "https://video.sibnet.ru/shell.php?videoid=5310793",
+            "https://video.sibnet.ru/shell.php?videoid=5320214",
+            "https://video.sibnet.ru/shell.php?videoid=5329981",
+            "https://video.sibnet.ru/shell.php?videoid=5340495",
+            "https://video.sibnet.ru/shell.php?videoid=5350766",
+            "https://video.sibnet.ru/shell.php?videoid=5360414",
+            "https://video.sibnet.ru/shell.php?videoid=5369258",
+            "https://video.sibnet.ru/shell.php?videoid=5376738"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456240228&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240277&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240326&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240370&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240414&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240454&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240495&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240527&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240554&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240586&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240616&hd=3",
+            "https://vk.com/video_ext.php?oid=755747641&id=456240640&hd=3"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/v3j1ly4r",
+            "https://sendvid.com/embed/2x0c275g",
+            "https://sendvid.com/embed/gp5867fm",
+            "https://sendvid.com/embed/af7x9cg5",
+            "https://sendvid.com/embed/swjg2k3v",
+            "https://sendvid.com/embed/8tc6qbpm",
+            "https://sendvid.com/embed/s1csb7f9",
+            "https://sendvid.com/embed/lzbs2r3k",
+            "https://sendvid.com/embed/q7v3afqd",
+            "https://sendvid.com/embed/glhb0eu2",
+            "https://sendvid.com/embed/oxklxrbv",
+            "https://sendvid.com/embed/9nvxvb9r"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_3_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_4_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_5_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_6_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_7_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_8_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_9_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Stardust%20Telepath/Stardust_Telepath_12_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

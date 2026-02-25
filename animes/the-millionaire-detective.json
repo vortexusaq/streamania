@@ -1,0 +1,56 @@
+{
+  "data": {
+    "name": "the-millionaire-detective",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-millionaire-detective.jpg",
+    "desc": "L'histoire se centre sur Daisuke Kanbe, un millionnaire résolvant des affaires de manière non conventionnelle. Dans ce cadre, il se retrouve affecté à l'unité opérationnelle des crimes modernes, une unité créée pour éloigner les officiers problématiques des autres.\n\nC'est ainsi qu'il fait la rencontre de Haru Kato, son nouveau partenaire. Alors qu'ils doivent travailler ensemble, Kato repousse Kanbe car il ne partage sa vision des choses.\n\nPendant ce temps, de mystérieux incidents se produisent. Comment ces personnes que tout semble opposer vont réussir à résoudre des affaires ?",
+    "genres": "Drame, Mystère, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/9wib1mm7",
+            "https://sendvid.com/embed/038yx0h0",
+            "https://sendvid.com/embed/5zv4c78h",
+            "https://sendvid.com/embed/j2mqtfzu",
+            "https://sendvid.com/embed/3y9afed7",
+            "https://sendvid.com/embed/b311sw8w",
+            "https://sendvid.com/embed/gj7v339v",
+            "https://sendvid.com/embed/70e0x26b",
+            "https://sendvid.com/embed/bjm00wvm",
+            "https://sendvid.com/embed/84tuqhtj",
+            "https://sendvid.com/embed/xiu3son4"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3901241",
+            "https://video.sibnet.ru/shell.php?videoid=3910531",
+            "https://video.sibnet.ru/shell.php?videoid=4026313",
+            "https://video.sibnet.ru/shell.php?videoid=4032412",
+            "https://video.sibnet.ru/shell.php?videoid=4039496",
+            "https://video.sibnet.ru/shell.php?videoid=4048517",
+            "https://video.sibnet.ru/shell.php?videoid=4055720",
+            "https://video.sibnet.ru/shell.php?videoid=4063804",
+            "https://video.sibnet.ru/shell.php?videoid=4073538",
+            "https://video.sibnet.ru/shell.php?videoid=4086628",
+            "https://video.sibnet.ru/shell.php?videoid=4092334"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/yt5kwfuc87twfe9bpdqm541j9r",
+            "https://www.myvi.top/embed/afcum88xchgwdeq5imxp9d5bdo",
+            "https://www.myvi.top/embed/6su8ehc8rb7wtg7ny85x8r7uio",
+            "https://www.myvi.top/embed/x3onr6ucc8uruk13u8j6sornmo",
+            "https://www.myvi.top/embed/ro1dcwkkpmiwxq6s3ba9jymsjc",
+            "https://www.myvi.top/embed/nea3dafakqbrppgbysrmfqs1yr",
+            "https://www.myvi.top/embed/r5t6jbnhii1wfxzxicrsd7ht5r",
+            "https://www.myvi.top/embed/xfz3ce4g848wbmaso3f8nbt3rr",
+            "https://www.myvi.top/embed/79bitsc5dfawtgmhazqtwc7pke",
+            "https://www.myvi.top/embed/gqc4cgt7kf8w5e1yrjise54m9y",
+            "https://www.myvi.top/embed/5693uu7hhhnr8c98iuy6dxs7qe"
+          ]
+        }
+      }
+    }
+  }
+}

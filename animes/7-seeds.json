@@ -1,0 +1,78 @@
+{
+  "data": {
+    "name": "7-seeds",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/7-seeds.jpg",
+    "desc": "Une gigantesque météorite est entrée en collision avec la Terre. De nombreuses espèces, y compris l'humanité, ont été rayés de la surface de la planète. Le gouvernement japonais, qui avait prévu cette catastrophe, a prit des mesures pour essayer de contrer le pire des scénarios. Le projet \"7SEEDS\", l'une de ces mesures, comporte cinq groupes de sept jeunes hommes et femmes soigneusement sélectionnés et classés en équipes : printemps, été A, été B, automne et hiver. Chaque participant a ensuite été plongé dans un sommeil cryogénique dans l'espoir de préserver la survie de l'humanité.\n\nLorsque ces hommes et femmes se sont réveillés, ils se sont soudainement retrouvés plongés dans un monde cruel. Bien qu'anéantis par la perte de leurs proches, ils vont commencer à chercher des solutions pour survivre.",
+    "genres": "Action, Aventure, Drame, Mystère, Psychologique, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/9e6wu9oed7prfgrboqwm9tc7qa",
+            "https://www.myvi.top/embed/chxhfix46kjr5kziatih1yhija",
+            "https://www.myvi.top/embed/eehzk673o18rzxhsomg16xf3iy",
+            "https://www.myvi.top/embed/q4afbtz83qqr7jcyuhw96wfkkr",
+            "https://www.myvi.top/embed/q5joomszz3ir9fm6rpizby6une",
+            "https://www.myvi.top/embed/g4rhpwddbm8r5nrhztb6n517zy",
+            "https://www.myvi.top/embed/44u64mqsd4uw3rruted8so6qba",
+            "https://www.myvi.top/embed/g5my84z7ya6wpydgaegr5ykxky",
+            "https://www.myvi.top/embed/u8mgqbk5zfhruy18bfpauipgdc",
+            "https://www.myvi.top/embed/16aqfqrcsq6rjg87q1jxju5j1y",
+            "https://www.myvi.top/embed/s46b39bjtkhwfmkzd8wyhgt8iw",
+            "https://www.myvi.top/embed/8q6w7o5pqq3wukih6ow858tjfc"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/arlkalh5",
+            "https://sendvid.com/embed/jqprloue",
+            "https://sendvid.com/embed/i7358j66",
+            "https://sendvid.com/embed/1q5xfif3",
+            "https://sendvid.com/embed/akd8tz50",
+            "https://sendvid.com/embed/9uvpiw7j",
+            "https://sendvid.com/embed/vc8fadqu",
+            "https://sendvid.com/embed/8v3z6ozo",
+            "https://sendvid.com/embed/enrn66oi",
+            "https://sendvid.com/embed/cm548l1u",
+            "https://sendvid.com/embed/ypturlmr",
+            "https://sendvid.com/embed/j55mw2iv"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/esbmgs754smwif73psiai3mkhr",
+            "https://www.myvi.top/embed/1iqisq3sq5rw9nidojtssnxzgr",
+            "https://www.myvi.top/embed/3raftbj4faewbdn8aw46dedasw",
+            "https://www.myvi.top/embed/tzkxwyu8fiiw8ninqpsrewquso",
+            "https://www.myvi.top/embed/1quzh9pduoer8g36euky7nk1xr",
+            "https://www.myvi.top/embed/xjyfnsheb4brzjmj6kweo8yrxc",
+            "https://www.myvi.top/embed/gz9gcdzcpcuwuygxune7wjz8ew",
+            "https://www.myvi.top/embed/wkthcmjixnerufiu1adiez4g5h",
+            "https://www.myvi.top/embed/whmrjszyzr3r8xp7f9f1rxs1rc",
+            "https://www.myvi.top/embed/kr35ru6dkx7w3fufop1eigc39h",
+            "https://www.myvi.top/embed/wndee3g4sopr7kd4r731gwwwro",
+            "https://www.myvi.top/embed/tmepfo9eea7w3epem8rybt6hqr"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/lsfbvki4",
+            "https://sendvid.com/embed/i137cs49",
+            "https://sendvid.com/embed/h79wh3vu",
+            "https://sendvid.com/embed/sjbre5sq",
+            "https://sendvid.com/embed/ff4epv4s",
+            "https://sendvid.com/embed/202ys9lz",
+            "https://sendvid.com/embed/bp3nitoe",
+            "https://sendvid.com/embed/oxc0uv5n",
+            "https://sendvid.com/embed/djh70jzt",
+            "https://sendvid.com/embed/bohdrb6m",
+            "https://sendvid.com/embed/nn9vmm9l",
+            "https://sendvid.com/embed/rgf6eztu"
+          ]
+        }
+      }
+    }
+  }
+}

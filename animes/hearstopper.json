@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "hearstopper",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/hearstopper.jpg",
+    "desc": "Partageant une passion commune pour le rugby, les deux adolescents Charlie et Nick deviennent vite amis. Le premier tombe bientôt amoureux de son camarade, même s’il pense qu’il n’a aucune chance.",
+    "genres": "Drame, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/oyx8z9xzjjow7me7kd63xntfsa",
+            "https://www.myvi.tv/embed/61ej9h78oonr8j3uhich9eiroc",
+            "https://www.myvi.tv/embed/m61oj6jfhufrdqeyarccj9sxbw",
+            "https://www.myvi.tv/embed/mnu3gb6rgpyrfgbpju8xqfdi1y",
+            "https://www.myvi.tv/embed/cajrzy96cwwr7ka7h5usumghgh",
+            "https://www.myvi.tv/embed/j3xh48jrohjwppb8hp84p4anfw",
+            "https://www.myvi.tv/embed/jhafu7sf7d3w8eikmzih15a3mr",
+            "https://www.myvi.tv/embed/gboy4y1wyuaw3kudopqqseozye\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4742292",
+            "https://video.sibnet.ru/shell.php?videoid=4742297",
+            "https://video.sibnet.ru/shell.php?videoid=4742301",
+            "https://video.sibnet.ru/shell.php?videoid=4742306",
+            "https://video.sibnet.ru/shell.php?videoid=4742309",
+            "https://video.sibnet.ru/shell.php?videoid=4742311",
+            "https://video.sibnet.ru/shell.php?videoid=4742314",
+            "https://video.sibnet.ru/shell.php?videoid=4742316"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/e4eiqjty",
+            "https://sendvid.com/embed/3rn2987h",
+            "https://sendvid.com/embed/fftd5p27",
+            "https://sendvid.com/embed/6q9ds7ho",
+            "https://sendvid.com/embed/48jp58ml",
+            "https://sendvid.com/embed/hyr5ppjk",
+            "https://sendvid.com/embed/705sy8cz",
+            "https://sendvid.com/embed/vh5bnzbl"
+          ]
+        }
+      }
+    }
+  }
+}

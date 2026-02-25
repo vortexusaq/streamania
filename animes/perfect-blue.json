@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "perfect-blue",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/perfect-blue.jpg",
+    "desc": "C'est sans regret que la chanteuse pop Mima quitte son groupe déjà très populaire, les Cham, pour se lancer dans une carrière d'actrice. Pour ses débuts, elle accepte un petit rôle dans une série télévisée. Mais ce brusque changement de carrière ne plaît pas à tout ses fans et l'un d'entre eux fera savoir sa rancœur à Mima en dévoilant d'abord sa vie privée sur un site internet. Par la suite, plusieurs incidents très graves émaillent la vie de Mima. La jeune femme se rend compte que son existence se confond de façon malsaine avec la série qu'elle tourne, la plongeant dans un état de schizophrénie avancée.",
+    "genres": "Drame, Horreur, Épouvante, Mystère, Psychologique, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239110&hash=e528e89f46ed6734&hd=3"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/3fg5ccyz"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/mxpc6uh3zjewdpa5go19unidby"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "mahoutsukai-reimeiki",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mahoutsukai-reimeiki.jpg",
+    "desc": "Il y a quelques années, une terrible guerre de cinq siècles opposant l'Eglise aux sorcières s'est achevée par la paix. Cependant, dans les zones d'ombre du monde, les braises de ce conflit séculaire brûlent toujours. A l'Académie royale de magie du royaume de Wenias, un élève en difficulté nommé Sable n'a aucun souvenir d'avant son inscription. Sur ordre du directeur Albus, il quitte le royaume avec un groupe d'individus talentueux pour se rendre dans les contrées méridionales du continent dans le cadre d'un programme d'entraînement spécial. Dans ce groupe, il y a Roux Cristasse, alias la Sorcière de l'Aurore, qui recherche le savoir interdit de la magie originelle dans Le Grimoire de Zero, mais aussi Holt, une génie, ainsi que Kudo, la seule bête de l'école. Quelle vérité découvriront-ils durant leur voyage vers le sud ?",
+    "genres": "Action, Aventure, Comédie, Fantasy, Magie",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/1ryhh8ky",
+            "https://sendvid.com/embed/7w5bsn3i",
+            "https://sendvid.com/embed/v8d3a9al",
+            "https://sendvid.com/embed/mzgt8bwg",
+            "https://sendvid.com/embed/r5skeqhd",
+            "https://sendvid.com/embed/1hhgsdt0",
+            "https://sendvid.com/embed/p80jy0qd",
+            "https://sendvid.com/embed/z5c34qjp",
+            "https://sendvid.com/embed/2jtxpouf",
+            "https://sendvid.com/embed/dqrbp3mx",
+            "https://sendvid.com/embed/6deallue",
+            "https://sendvid.com/embed/j2in2mvh"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4665125",
+            "https://video.sibnet.ru/shell.php?videoid=4672966",
+            "https://video.sibnet.ru/shell.php?videoid=4680587",
+            "https://video.sibnet.ru/shell.php?videoid=4693010",
+            "https://video.sibnet.ru/shell.php?videoid=4703802",
+            "https://video.sibnet.ru/shell.php?videoid=4710417",
+            "https://video.sibnet.ru/shell.php?videoid=4729173",
+            "https://video.sibnet.ru/shell.php?videoid=4736768",
+            "https://video.sibnet.ru/shell.php?videoid=4745042",
+            "https://video.sibnet.ru/shell.php?videoid=4754394",
+            "https://video.sibnet.ru/shell.php?videoid=4762630",
+            "https://video.sibnet.ru/shell.php?videoid=4773054"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/hsyen3nc65qrugec44acnf5q4w",
+            "https://www.myvi.tv/embed/fwr1o559a5cw7x8rsohb7a4yah",
+            "https://www.myvi.tv/embed/dy3ttmperiawxjhewq3xpnu9bh",
+            "https://www.myvi.tv/embed/qj7t8e85uqjwjrak9xbobub5ia",
+            "https://www.myvi.tv/embed/5fxicchn7qurtxdj43yrgn6hta",
+            "https://www.myvi.tv/embed/ei8uanj7c74r9ysh1h7bntq1cr",
+            "https://www.myvi.tv/embed/87gkzeijzotrxmmj5mfzsygxyc",
+            "https://www.myvi.tv/embed/ifubda5hso8wdj3eojf49q8xyh",
+            "https://www.myvi.tv/embed/iofzrxdybbwrxnbeap5moh88te",
+            "https://www.myvi.tv/embed/4inrmakuo8jw9et73n7xd554ae",
+            "https://www.myvi.tv/embed/ntazozkwcryrucwndepqhr51ay",
+            "https://www.myvi.tv/embed/ju88oy166xmwpxhkz5zx9ehy8h"
+          ]
+        }
+      }
+    }
+  }
+}

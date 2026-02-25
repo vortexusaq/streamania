@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "weathering-with-you",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/weathering-with-you.jpg",
+    "desc": "L'histoire se déroule dans un futur proche où la météo est complètement désordonnée.\n\nUn jour, Hodaka Morishima, un jeune lycéen, fui sa petite île natale pour tenter sa chance à Tokyo. Très vite, il va se rendre compte de la difficulté d'y vivre en tant que mineur. Keisuke Suga, un écrivain, va cependant l'aider en lui proposant un petit job pour un magazine dédié au paranormal.\n\nChargé d'enquêter sur les \"prêtresses du temps\", Hodaka va faire la rencontre de Hina Amano, une jeune fille joyeuse et volontaire vivant avec son petit frère. Et contre toute attente, elle est dotée d'un étrange pouvoir : celui d'éclaircir le ciel...",
+    "genres": "Drame, Fantastique, Fantasy, Mystère, Romance, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4831762"
+          ]
+        }
+      }
+    }
+  }
+}

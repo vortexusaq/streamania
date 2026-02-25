@@ -1,0 +1,26 @@
+{
+  "data": {
+    "name": "on-gaku",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/on-gaku.jpg",
+    "desc": "On-Gaku : Our Sound est un projet de film d'animation adapté du manga éponyme de Hiroyuki Ohashi. L'histoire suit un groupe de lycéens qui fonde un groupe de rock.",
+    "genres": "Comédie, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4842240\t"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/2izq6978"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/cqjyadunn7swfmukc8yzrxjcua"
+          ]
+        }
+      }
+    }
+  }
+}

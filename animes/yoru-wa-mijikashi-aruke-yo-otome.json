@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "yoru-wa-mijikashi-aruke-yo-otome",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yoru-wa-mijikashi-aruke-yo-otome.jpg",
+    "desc": "L'histoire tourne autour d'un lycéen qui essaie maladroitement d'attirer l'attention de celle qu'il aime.",
+    "genres": "Comédie, Psychologique, Romance, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4813399\t"
+          ],
+          "lec2": [
+            "https://www.myvi.tv/embed/fq8h4bk9wdawfbs5z53wz751oe"
+          ]
+        }
+      }
+    }
+  }
+}

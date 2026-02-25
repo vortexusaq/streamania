@@ -1,0 +1,45 @@
+{
+  "data": {
+    "name": "mononoke",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mononoke.jpg",
+    "desc": "Mononoke est la suite de l'histoire du héros de l'arc \"Bakeneko\" de la série \"Ayakashi, Samurai Horror Tales\". Cette série retrace les aventures d'un apothicaire-vagabond qui utilise sa connaissance du surnaturel pour combattre les Mononoké, créatures pouvant être nuisibles, en les poussant à révéler leur véritable forme ainsi que les raisons qui les poussent à agir...",
+    "genres": "Mystère, Surnaturel, Démons",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/y1nfmvw9",
+            "https://sendvid.com/embed/2skcwtei",
+            "https://sendvid.com/embed/9t5im7fy",
+            "https://sendvid.com/embed/k178kg0f",
+            "https://sendvid.com/embed/yia539rr",
+            "https://sendvid.com/embed/wjyysr62",
+            "https://sendvid.com/embed/juv1jf65",
+            "https://sendvid.com/embed/vjjr2i1x",
+            "https://sendvid.com/embed/ymsmes7y",
+            "https://sendvid.com/embed/spcr4w5g",
+            "https://sendvid.com/embed/6w6yjjm7",
+            "https://sendvid.com/embed/c6zuo9bv"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5306617",
+            "https://video.sibnet.ru/shell.php?videoid=5306619",
+            "https://video.sibnet.ru/shell.php?videoid=5306622",
+            "https://video.sibnet.ru/shell.php?videoid=5306625",
+            "https://video.sibnet.ru/shell.php?videoid=5306628",
+            "https://video.sibnet.ru/shell.php?videoid=5306631",
+            "https://video.sibnet.ru/shell.php?videoid=5306634",
+            "https://video.sibnet.ru/shell.php?videoid=5306636",
+            "https://video.sibnet.ru/shell.php?videoid=5306642",
+            "https://video.sibnet.ru/shell.php?videoid=5306643",
+            "https://video.sibnet.ru/shell.php?videoid=5306644",
+            "https://video.sibnet.ru/shell.php?videoid=5306647"
+          ]
+        }
+      }
+    }
+  }
+}

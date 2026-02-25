@@ -1,0 +1,33 @@
+{
+  "data": {
+    "name": "yasuke",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/yasuke.jpg",
+    "desc": "L'histoire se base sur un personnage historique du nom de Yasuke. Il était un ancien esclave africain qui a vécu au XVIe siècle et qui est devenu samouraï au Japon. Originaire du territoire des Bakongos, Yasuke a servi sous le règne d'Oda Nobunaga.\nDans un Japon féodal déchiré par la guerre, un ronin à la retraite doit de nouveau dégainer son épée afin de protéger un enfant que les forces des ténèbres veulent éliminer.",
+    "genres": "Action, Aventure, Drame, Fantastique, Historique, Science-fiction",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5658108",
+            "https://video.sibnet.ru/shell.php?videoid=5658111",
+            "https://video.sibnet.ru/shell.php?videoid=5658112",
+            "https://video.sibnet.ru/shell.php?videoid=5658113",
+            "https://video.sibnet.ru/shell.php?videoid=5658115",
+            "https://video.sibnet.ru/shell.php?videoid=5658116"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-76ihi6odlit8.html",
+            "https://vidmoly.to/embed-qhuw930vna8h.html",
+            "https://vidmoly.to/embed-74hx8azatb15.html",
+            "https://vidmoly.to/embed-0jh9gq6bc15z.html",
+            "https://vidmoly.to/embed-amun872memym.html",
+            "https://vidmoly.to/embed-usz50bk41zat.html"
+          ]
+        }
+      }
+    }
+  }
+}

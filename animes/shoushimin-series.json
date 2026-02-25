@@ -1,0 +1,65 @@
+{
+  "data": {
+    "name": "shoushimin-series",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/shoushimin-series.jpg",
+    "desc": "L'histoire est centrée sur Jōgorō Kobato, un jeune homme qui souhaite vivre une vie tranquille et ordinaire après une expérience douloureuse. Lui et Yuki Osanai développent une \"relation mutuellement bénéfique\" car Yuki souhaite la même chose. Ils commencent le lycée en tant que camarades de classe avec le projet de passer des journées paisibles comme des gens ordinaires. Malheureusement, ils ne cessent d'être impliqués dans des mystères et des catastrophes qui se produisent les uns après les autres.",
+    "genres": "Mystère, Slice-of-Life, Quotidien",
+    "update": "La saison 2 est prévue pour 2025",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5588307",
+            "https://video.sibnet.ru/shell.php?videoid=5595432",
+            "https://video.sibnet.ru/shell.php?videoid=5602927",
+            "https://video.sibnet.ru/shell.php?videoid=5619894",
+            "https://video.sibnet.ru/shell.php?videoid=5630976",
+            "https://video.sibnet.ru/shell.php?videoid=5640894",
+            "https://video.sibnet.ru/shell.php?videoid=5650863",
+            "https://video.sibnet.ru/shell.php?videoid=5658487",
+            "https://video.sibnet.ru/shell.php?videoid=5667134",
+            "https://video.sibnet.ru/shell.php?videoid=5676708"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-j9ughv0fpqct.html",
+            "https://vidmoly.to/embed-hrph8l1b66gl.html",
+            "https://vidmoly.to/embed-rfjwtk82s5du.html",
+            "https://vidmoly.to/embed-lqelcurefhdc.html",
+            "https://vidmoly.to/embed-k1aeyr7ztw3a.html",
+            "https://vidmoly.to/embed-6ef2ieg6tlb7.html",
+            "https://vidmoly.to/embed-enoi9vuky8l8.html",
+            "https://vidmoly.to/embed-f4187wtpgh5s.html",
+            "https://vidmoly.to/embed-8o1ssmhwxgw4.html",
+            "https://vidmoly.to/embed-z6taul05ruly.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/pnf28wcc",
+            "https://sendvid.com/embed/dygui54g",
+            "https://sendvid.com/embed/vnaorvoj",
+            "https://video.sibnet.ru/shell.php?videoid=5619894",
+            "https://sendvid.com/embed/xsgyth9v",
+            "https://sendvid.com/embed/m05x30pf",
+            "https://sendvid.com/embed/nuqz2s3f",
+            "https://sendvid.com/embed/8bnr2fa4",
+            "https://sendvid.com/embed/ufrir1t5",
+            "https://sendvid.com/embed/yu4xenxp"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239905&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239950&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456239994&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240079&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240119&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240166&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240215&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240267&hd=3",
+            "https://video.sibnet.ru/shell.php?videoid=5667134",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240370&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

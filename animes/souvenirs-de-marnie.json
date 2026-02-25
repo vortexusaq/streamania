@@ -1,0 +1,20 @@
+{
+  "data": {
+    "name": "souvenirs-de-marnie",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/souvenirs-de-marnie.jpg",
+    "desc": "Anna, fille unique de 12 ans, timide et réservée, en conflit avec ses parents adoptifs, est envoyée au bord de la mer chez de la famille pour soigner son asthme. Elle y fait la connaissance d'une mystérieuse fillette de son âge : Marnie. Alors que les deux fillettes sympathisent, Marnie disparaît soudainement. Le lendemain, une nouvelle famille emménage dans la maison où habitait son amie. Sayaka, la nouvelle occupante interpelle Anna, la confondant avec Marnie, pour lui rendre son journal intime qu'elle a découvert dans sa nouvelle chambre.\nQui est réellement Marnie ?",
+    "genres": "Aventure, Slice-of-Life, Surnaturel\n",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5366095"
+          ]
+        }
+      }
+    }
+  }
+}

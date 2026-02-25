@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "sword-of-the-stranger",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/sword-of-the-stranger.jpg",
+    "desc": "Période Senkoku : un ronin appelé Nanashi sauve Kotarou, un jeune orphelin et son chien Tobimaru près d'un temple abandonné. Il loue Nanashi pour sauver son chien qui a été blessé pendant la bataille. Kotarou est en fait poursuivi par une mystérieuse milice chinoise, qui obéit à un vieil homme appelé Byakuran. C'est alors que commence un merveilleux voyage, jonché par de nombreux combats...",
+    "genres": "Action, Drame, Samouraïs",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.tv/embed/rbix9z9gt9fwdy8dhj5ux3wyjw"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4972032"
+          ]
+        }
+      }
+    }
+  }
+}

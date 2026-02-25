@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "healer-girl",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/healer-girl.jpg",
+    "desc": "L'histoire se déroule dans un monde où il est possible d'être soigné grâce au chant. Il s'agit d'une médecine reconnue au même titre que les autres et dont les praticiennes sont connues sous le nom de 'guéri-sœur'. Kana Fujii, en première année de lycée, est l'une des trois apprenties d'une praticienne renommée.",
+    "genres": "Drame, School-Life, Slice-of-Life, Surnaturel, Ecole, Magie, Musique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/uuu59om7",
+            "https://sendvid.com/embed/xbxaxtfw",
+            "https://sendvid.com/embed/wxb3zomy",
+            "https://sendvid.com/embed/1mgls89i",
+            "https://sendvid.com/embed/ajck3nty",
+            "https://sendvid.com/embed/05orpm7x",
+            "https://sendvid.com/embed/bcn2t6cv",
+            "https://sendvid.com/embed/1byli9zo",
+            "https://sendvid.com/embed/f3g1rklf",
+            "https://sendvid.com/embed/um8aa6a9",
+            "https://sendvid.com/embed/emkdl620",
+            "https://sendvid.com/embed/0sq2pbki"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4666228",
+            "https://video.sibnet.ru/shell.php?videoid=4668431",
+            "https://video.sibnet.ru/shell.php?videoid=4676945",
+            "https://video.sibnet.ru/shell.php?videoid=4686819",
+            "https://video.sibnet.ru/shell.php?videoid=4699668",
+            "https://video.sibnet.ru/shell.php?videoid=4706764",
+            "https://video.sibnet.ru/shell.php?videoid=4714752",
+            "https://video.sibnet.ru/shell.php?videoid=4725639",
+            "https://video.sibnet.ru/shell.php?videoid=4733545",
+            "https://video.sibnet.ru/shell.php?videoid=4741185",
+            "https://video.sibnet.ru/shell.php?videoid=4750565",
+            "https://video.sibnet.ru/shell.php?videoid=4758235"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/8mtjhqjem5kwte567hwznpseoo",
+            "https://www.myvi.tv/embed/7pehdcuefqfwfpfirgmtxm1rpw",
+            "https://www.myvi.tv/embed/6hzgcx8cyyhw5cxjrg5u41b9zo",
+            "https://www.myvi.tv/embed/ydwy4kqeac5wmbu5ac1ks815wo",
+            "https://www.myvi.tv/embed/wiawjpmttt7w8eupw4nw5pcoso",
+            "https://www.myvi.tv/embed/wo3bs3tfbkswufrai71ut7a1eo",
+            "https://www.myvi.tv/embed/uzqk9cxo7kgw3j9az1wo3n6a3c",
+            "https://www.myvi.tv/embed/h73bfk7c34sw7kp1jg9qhe9ser",
+            "https://www.myvi.tv/embed/1pg9rydx4xfwjjztcrmotnrtec",
+            "https://www.myvi.tv/embed/n536fexiknnw5njs4jzer61a7a",
+            "https://www.myvi.tv/embed/c5sbs6659sar5b9raz5tieneuo",
+            "https://www.myvi.tv/embed/a9k4953og1tw3cc9t7uyfmn18o"
+          ]
+        }
+      }
+    }
+  }
+}

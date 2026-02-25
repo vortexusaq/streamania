@@ -1,0 +1,62 @@
+{
+  "data": {
+    "name": "engage-kiss",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/engage-kiss.jpg",
+    "desc": "L'histoire se déroule dans la cité de Baylong, construite sur une île artificielle en plein cœur du Pacifique. Shû est à la tête d'une petite entreprise mais il est toujours fauché à cause de son côté dépensier. Kisara, qui fréquente les locaux de la société, est constamment inquiète pour son bien-être et s'immisce peu à peu dans sa vie, ce qui ne semble pas vraiment plaire à Ayano, l'ex-petite amie et collègue de Shû.",
+    "genres": "Comédie, Romance",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=4781462",
+            "https://video.sibnet.ru/shell.php?videoid=4783463",
+            "https://video.sibnet.ru/shell.php?videoid=4796431",
+            "https://video.sibnet.ru/shell.php?videoid=4799164",
+            "https://video.sibnet.ru/shell.php?videoid=4806677",
+            "https://video.sibnet.ru/shell.php?videoid=4815941",
+            "https://video.sibnet.ru/shell.php?videoid=4824959",
+            "https://video.sibnet.ru/shell.php?videoid=4836911",
+            "https://video.sibnet.ru/shell.php?videoid=4847649",
+            "https://video.sibnet.ru/shell.php?videoid=4856065",
+            "https://video.sibnet.ru/shell.php?videoid=4865445",
+            "https://video.sibnet.ru/shell.php?videoid=4875026",
+            "https://video.sibnet.ru/shell.php?videoid=4882938"
+          ],
+          "lec2": [
+            "https://sendvid.com/embed/e8qfo1sz",
+            "https://sendvid.com/embed/rpo2ihsc",
+            "https://sendvid.com/embed/wv7rr1ww",
+            "https://sendvid.com/embed/oipuv0u6",
+            "https://sendvid.com/embed/pjcth5b9",
+            "https://sendvid.com/embed/s2w3qxt1",
+            "https://sendvid.com/embed/lvcvvuly",
+            "https://sendvid.com/embed/vpl8fpmz",
+            "https://sendvid.com/embed/gjrwkn16",
+            "https://sendvid.com/embed/sjdhdro2",
+            "https://sendvid.com/embed/bnx0iqtu",
+            "https://sendvid.com/embed/73hnh8h9",
+            "https://sendvid.com/embed/u35y0qkf"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/ctajyts9pkpwmfz45banch7f5o",
+            "https://www.myvi.tv/embed/mdrp9uji64twxyd41kkr4a3kpo",
+            "https://www.myvi.tv/embed/eiygt7afu3iwpkdygwswbeuu5w",
+            "https://www.myvi.tv/embed/993zh4a3k8yrmm3nojj815dh1a",
+            "https://www.myvi.top/embed/jusu95dcr1ar9dctip3gbpm7qe",
+            "https://www.myvi.tv/embed/xyyf6xkh7garj8cy9ghjnizruh",
+            "https://www.myvi.tv/embed/fnnwd4sdjxoribmhpa3qxoraor",
+            "https://www.myvi.tv/embed/st46kwj1soqr3ecpa89ps46r3c",
+            "https://www.myvi.tv/embed/fojys6urigxw5yaue47z4emhpc",
+            "https://www.myvi.tv/embed/uq8h6cjjgzww9b6eo7qr3m9dte",
+            "https://www.myvi.tv/embed/8p8o94xa9dnrbyikj16s9g8hxh",
+            "https://www.myvi.tv/embed/zrdwsko455kru8ex8wfb5j815h",
+            "https://www.myvi.tv/embed/buf3ububsu1rimhjs71bnzoe1e"
+          ]
+        }
+      }
+    }
+  }
+}

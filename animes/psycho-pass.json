@@ -1,0 +1,191 @@
+{
+  "data": {
+    "name": "psycho-pass",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/psycho-pass.jpg",
+    "desc": "L'histoire se déroule dans un futur où il est désormais possible de quantifier l'état mental d'une personne, ceci est désigné par le terme Psycho-Pass. Grâce à ce système, il est possible de repérer les criminels en devenir.\n\nLa Section d'Investigation Criminelle pour laquelle travaille Shinya Kogami est chargée d'appliquer les mesures lorsqu'un individu est jugé dangereux. Akane Tsunemori est une fraîche recrue qui intègre tout juste la section et qui se rendra vite compte que sur le terrain, les choses ne sont pas comme elle les a apprises.",
+    "genres": "Action, Drame, Psychologique, Science-fiction, Thriller",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 5,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/thyxqu34isbrixd67e9nbj741c",
+            "https://www.myvi.top/embed/6yc46ah5z3nr5dxk8nwndjp8yr",
+            "https://www.myvi.top/embed/gfjzwge7y51wbjqup1yfceoyur",
+            "https://www.myvi.top/embed/oyyde3own8gwxycg7pqs6p483h",
+            "https://www.myvi.top/embed/msgk39dfuahwiqrh7haj3mmf5a",
+            "https://www.myvi.top/embed/9inpqbdrci8wun5muremn79o4c",
+            "https://www.myvi.top/embed/byfn9cux8kiwumyd1j4wf7j1hw",
+            "https://www.myvi.top/embed/4a3gj78t6c4rdggz1zsn9kcdge",
+            "https://www.myvi.top/embed/pwx359ridcxr3yqqcmfb37wmor",
+            "https://www.myvi.top/embed/wokhidokoz4rib5nesbgeb6zcc",
+            "https://www.myvi.top/embed/5xu5ta9smsjwzgwtffgtxq7foo",
+            "https://www.myvi.top/embed/a3pq6f3riipr7fdgwnzdycqqna",
+            "https://www.myvi.top/embed/p3z4q3fcssxwx8ppmzng9phu9o",
+            "https://www.myvi.top/embed/t183drn63dgwxjafzr4p3a9h7o",
+            "https://www.myvi.top/embed/kjnwnoafm9tr8b6iy7s6ner6fh",
+            "https://www.myvi.top/embed/isn3394d6fxrupu8w6emyd1e3w",
+            "https://www.myvi.top/embed/mxhosjhuurwruei4ez761toktr",
+            "https://www.myvi.top/embed/qk7z79cmurrrugjt1gftszyndo",
+            "https://www.myvi.top/embed/owm89fhber7r8mmcc5oogdrxir",
+            "https://www.myvi.top/embed/fujr3udizjbwmgaiqu1eegqz4e",
+            "https://www.myvi.top/embed/557snrmpnqgwuxa314j7f8gtjw",
+            "https://www.myvi.top/embed/99neuj1kxrkr3bpkiher8anz9c"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3731681",
+            "https://video.sibnet.ru/shell.php?videoid=3731683",
+            "https://video.sibnet.ru/shell.php?videoid=3731686",
+            "https://video.sibnet.ru/shell.php?videoid=3731687",
+            "https://video.sibnet.ru/shell.php?videoid=3731688",
+            "https://video.sibnet.ru/shell.php?videoid=3731689",
+            "https://video.sibnet.ru/shell.php?videoid=3731690",
+            "https://video.sibnet.ru/shell.php?videoid=3731692",
+            "https://video.sibnet.ru/shell.php?videoid=3731695",
+            "https://video.sibnet.ru/shell.php?videoid=3731702",
+            "https://video.sibnet.ru/shell.php?videoid=3731706",
+            "https://video.sibnet.ru/shell.php?videoid=3731708",
+            "https://video.sibnet.ru/shell.php?videoid=3731710",
+            "https://video.sibnet.ru/shell.php?videoid=3731712",
+            "https://video.sibnet.ru/shell.php?videoid=3731713",
+            "https://video.sibnet.ru/shell.php?videoid=3731714",
+            "https://video.sibnet.ru/shell.php?videoid=3731715",
+            "https://video.sibnet.ru/shell.php?videoid=3731716",
+            "https://video.sibnet.ru/shell.php?videoid=3731717",
+            "https://video.sibnet.ru/shell.php?videoid=3731718",
+            "https://video.sibnet.ru/shell.php?videoid=3731721",
+            "https://video.sibnet.ru/shell.php?videoid=3731722"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/bf0qkrl4",
+            "https://sendvid.com/embed/4wbrf7jd",
+            "https://sendvid.com/embed/he99akdg",
+            "https://sendvid.com/embed/lbhq0uxx",
+            "https://sendvid.com/embed/alnc6wrc",
+            "https://sendvid.com/embed/ph4hjeid",
+            "https://sendvid.com/embed/a8vim62a",
+            "https://sendvid.com/embed/ncz82qgk",
+            "https://sendvid.com/embed/ygekbr59",
+            "https://sendvid.com/embed/1up8dey4",
+            "https://sendvid.com/embed/31ej3h8h",
+            "https://sendvid.com/embed/stshrsvb",
+            "https://sendvid.com/embed/ve63rdu3",
+            "https://sendvid.com/embed/i6gjx4wd",
+            "https://sendvid.com/embed/8qnj7wpu",
+            "https://sendvid.com/embed/yyn9mmvo",
+            "https://sendvid.com/embed/ifpofw57",
+            "https://sendvid.com/embed/nnbq4apo",
+            "https://sendvid.com/embed/9faysmc0",
+            "https://sendvid.com/embed/akupbzpb",
+            "https://sendvid.com/embed/nyw1l3vt",
+            "https://sendvid.com/embed/jt8wy1cx"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/5s1h6k4tg4irxmrcephn375y5e",
+            "https://www.myvi.top/embed/is3izyccuk9wxmzsenic1was1o",
+            "https://www.myvi.top/embed/98tzg4cpw3kwjg9tp6wxf6x18h",
+            "https://www.myvi.top/embed/s4wzi5ehsmxrujgcxnhafs8ruw",
+            "https://www.myvi.top/embed/8arbospm9iawxer4f59b3bbich",
+            "https://www.myvi.top/embed/ap8o97zrecfwzxgqzezc11zyac",
+            "https://www.myvi.top/embed/8fa9ogh7j6yrbjbhrtztdo959y",
+            "https://www.myvi.top/embed/pp6dhkmqwmyrmepiew1k7hc31w",
+            "https://www.myvi.top/embed/n353kgqhzear9dwgwn8hncymje",
+            "https://www.myvi.top/embed/s3xjazi3cbrr8m1wawts6hqe5e",
+            "https://www.myvi.top/embed/o5dom8c6g7frucwoxcnh94tu9o"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3731838",
+            "https://video.sibnet.ru/shell.php?videoid=3731839",
+            "https://video.sibnet.ru/shell.php?videoid=3731840",
+            "https://video.sibnet.ru/shell.php?videoid=3731841",
+            "https://video.sibnet.ru/shell.php?videoid=3731843",
+            "https://video.sibnet.ru/shell.php?videoid=3731845",
+            "https://video.sibnet.ru/shell.php?videoid=3731846",
+            "https://video.sibnet.ru/shell.php?videoid=3731847",
+            "https://video.sibnet.ru/shell.php?videoid=3731848",
+            "https://video.sibnet.ru/shell.php?videoid=3731850",
+            "https://video.sibnet.ru/shell.php?videoid=3731851"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/9l9rebq7",
+            "https://sendvid.com/embed/qkdml36w",
+            "https://sendvid.com/embed/odtxp6gr",
+            "https://sendvid.com/embed/ai1ml5a4",
+            "https://sendvid.com/embed/hyn9aebn",
+            "https://sendvid.com/embed/7owod1p9",
+            "https://sendvid.com/embed/9ieswd1y",
+            "https://sendvid.com/embed/udwpiuqv",
+            "https://sendvid.com/embed/5o4qe130",
+            "https://sendvid.com/embed/a3sauyxh",
+            "https://sendvid.com/embed/ivsdjh61"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5240610",
+            "https://video.sibnet.ru/shell.php?videoid=5241525",
+            "https://video.sibnet.ru/shell.php?videoid=5241527",
+            "https://video.sibnet.ru/shell.php?videoid=5241530",
+            "https://video.sibnet.ru/shell.php?videoid=5364785"
+          ]
+        }
+      },
+      "Saison 3": {
+        "url": "saison3/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/h3s5jkupz6bwikrx4r1wrc373h",
+            "https://www.myvi.top/embed/69h8fz3dtgdrfya1xhzpjyw9dy",
+            "https://www.myvi.top/embed/xrmozpjpzhiwtmhyd3orz3jzxw",
+            "https://www.myvi.top/embed/hwx54cb9z33r9e9se1d1t4knke",
+            "https://www.myvi.top/embed/aw71mdo5w14rtbwiri5yjmto8e",
+            "https://www.myvi.top/embed/acg97dunob8w3r6pwpog5a93gr",
+            "https://www.myvi.top/embed/ze3qi4rnksewfrnz8cg8z5x3to",
+            "https://www.myvi.top/embed/jz9ggh3jhk7r5duokkfrdnwese"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=3729829",
+            "https://video.sibnet.ru/shell.php?videoid=3735580",
+            "https://video.sibnet.ru/shell.php?videoid=3740854",
+            "https://video.sibnet.ru/shell.php?videoid=3746971",
+            "https://video.sibnet.ru/shell.php?videoid=3755456",
+            "https://video.sibnet.ru/shell.php?videoid=3761243",
+            "https://video.sibnet.ru/shell.php?videoid=3766190",
+            "https://video.sibnet.ru/shell.php?videoid=3770632"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/9bw5091j",
+            "https://sendvid.com/embed/f0dsetok",
+            "https://sendvid.com/embed/uuiowinm",
+            "https://sendvid.com/embed/5xff30dg",
+            "https://sendvid.com/embed/0at9ju4c",
+            "https://sendvid.com/embed/gwd1ohjf",
+            "https://sendvid.com/embed/wbccrxb4",
+            "https://sendvid.com/embed/33q5r6yi"
+          ]
+        }
+      },
+      "First Inspector": {
+        "url": "saison4/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239187&hash=1bb0f37f29e1c134&hd=3"
+          ],
+          "lec2": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456239187&hash=1bb0f37f29e1c134&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

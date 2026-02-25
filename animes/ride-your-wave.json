@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "ride-your-wave",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ride-your-wave.jpg",
+    "desc": "À son entrée à l'université, Hinako déménage dans une ville côtière. Elle adore le surf et quand elle est sur les vagues, elle n'a peur de rien. Cependant, elle ne sait toujours pas quoi faire quand elle rentrera dans la vie active.\n\nUn jour, alors qu'un incendie ravage sa ville, Hinako fait la rencontre de Minato, un jeune pompier.\n\nDepuis cette rencontre, ils surfent et passent plus de temps ensemble. Hinako se sent de plus en plus attiré par Minato et la façon dont il se consacre à aider les autres.\n\nAlors que ses sentiments commencent à grandir, elle ne sait pas qu'elle occupe également une place particulière dans le cœur de Minato.",
+    "genres": "Drame, Romance, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-basv9naee3gb.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4813973"
+          ]
+        }
+      }
+    }
+  }
+}

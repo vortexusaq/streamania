@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": "the-light-of-a-firefly-forest",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/the-light-of-a-firefly-forest.jpg",
+    "desc": "Alors qu'elle n'avait que six ans, Hotaru se perdit dans une forêt pendant ses vacances d'été.\nElle sera secourue par une personne portant un masque de youkai prénommée Gin. Il dit être un esprit de la forêt et que si on venait à le toucher, il disparaîtrait.\nHotaru, intriguée par cette personne, décide de passer ses vacances d'été avec lui. Une amitié naît alors entre eux.\nDepuis ce jour, Hotaru vient rendre visite à Gin chaque année à la même période.\n\nLe film nous raconte les moments passés entre Hotaru et Gin durant dix étés.",
+    "genres": "Drame, Romance, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://www.myvi.top/embed/8jaqgq8ounorubbeskymtdny4e"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5088785"
+          ]
+        }
+      }
+    }
+  }
+}

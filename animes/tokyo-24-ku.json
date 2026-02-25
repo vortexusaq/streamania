@@ -1,0 +1,65 @@
+{
+  "data": {
+    "name": "tokyo-24-ku",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/tokyo-24-ku.jpg",
+    "desc": "L'histoire se déroule à \"Kyokutō Hōreigai Tokubetsu Chiku\" (Far East Special District Outside of the Law), une île artificielle flottante située dans la baie de Tokyo plus communément appelée \"District 24\". Nous allons y suivre le quotidien de trois amis d'enfance nés et élevés sur l'île : Ran, Koki et Shûta. Même s'ils proviennent de différentes classes sociales et qu'ils ont tous les trois des personnalités et des hobbies différents, ils traînent toujours ensemble. Cependant, leurs relations vont radicalement changer après un certain incident.\n\nLors d'une cérémonie commémorative, un an après l'incident, les trois amis se retrouvent et leurs téléphones se mettent à sonner en même temps. L'appel provient d'un ami qu'ils croyaient mort et qui les oblige à faire un choix qui s'apprête à changer radicalement leurs vies...\n\nChacun d'entre eux devra protéger l'avenir des habitants du District 24 de la façon qu'il juge juste.",
+    "genres": "Drame, Mystère, Science-fiction, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/ot0eqxp2",
+            "https://sendvid.com/embed/awtdsgnq",
+            "https://sendvid.com/embed/44oxgoze",
+            "https://sendvid.com/embed/eqsl670b",
+            "https://sendvid.com/embed/o990xom3",
+            "https://sendvid.com/embed/7ufqc0tu",
+            "https://sendvid.com/embed/42l5ztam",
+            "https://sendvid.com/embed/9izuzyn6",
+            "https://sendvid.com/embed/wecc5gob",
+            "https://sendvid.com/embed/2eluv3k0",
+            "https://sendvid.com/embed/564hwen0",
+            "https://sendvid.com/embed/gluyuwt3",
+            "https://sendvid.com/embed/naiqwsgw",
+            "https://sendvid.com/embed/86fb53xq"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4668423",
+            "https://video.sibnet.ru/shell.php?videoid=4668425",
+            "https://video.sibnet.ru/shell.php?videoid=4574061",
+            "https://video.sibnet.ru/shell.php?videoid=4581791",
+            "https://video.sibnet.ru/shell.php?videoid=4589084",
+            "https://video.sibnet.ru/shell.php?videoid=4594885",
+            "https://video.sibnet.ru/shell.php?videoid=4601354",
+            "https://video.sibnet.ru/shell.php?videoid=4614464",
+            "https://video.sibnet.ru/shell.php?videoid=4623325",
+            "https://video.sibnet.ru/shell.php?videoid=4629843",
+            "https://video.sibnet.ru/shell.php?videoid=4668426",
+            "https://video.sibnet.ru/shell.php?videoid=4645974",
+            "https://video.sibnet.ru/shell.php?videoid=4652364",
+            "https://video.sibnet.ru/shell.php?videoid=4660989"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/tsqjaxoff5qrfn5iidfg1zbxse",
+            "https://www.myvi.top/embed/kc5middewiqw9jynr58yiprb8a",
+            "https://www.myvi.top/embed/6438jfzkbpgrjksu871jmk8yqh",
+            "https://www.myvi.top/embed/ndx9gs4n84mrmrer5eyq863p3a",
+            "https://www.myvi.top/embed/w4x3jku4snfw5nukiawx7dzifc",
+            "https://www.myvi.top/embed/fosmfuopx6krbbong3xo77ykka",
+            "https://www.myvi.top/embed/qahu75ct4dewjp6k1ytkbdtxxy",
+            "https://www.myvi.top/embed/8sgn7kwjcpqrfps93pgkirwguo",
+            "https://www.myvi.top/embed/rstaq5u6sgzwmeip99tmuwskdo",
+            "https://www.myvi.top/embed/hb1grw517fywzdjt77xksdf4wa",
+            "https://www.myvi.tv/embed/nagykrkrwfmw3ganrtf9dmo31h",
+            "https://www.myvi.top/embed/86rpw477i45w8yf5k7ca455mpa",
+            "https://www.myvi.tv/embed/briruytzrfiwxn9z41j4qg7iro",
+            "https://www.myvi.tv/embed/czqfg5w44uawdnz1mf1jjgqyow"
+          ]
+        }
+      }
+    }
+  }
+}

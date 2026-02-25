@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "akudama-drive",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/akudama-drive.jpg",
+    "desc": "Kanto et Kansai, deux régions adjacentes, se sont autrefois déchirées à l'occasion d'une guerre particulièrement violente. Le conflit prit fin lorsqu'une bombe fût lâchée sur Kansai, créant un dôme infranchissable autour de la région. Désormais, le seul moyen de quitter les lieux est d'emprunter le Shinkansen, devenu un objet sacré et révéré à Kansai.\nCoupée du monde, affaiblie par la guerre, la région de Kansai est progressivement devenue une zone de non-droit où les criminels, surnommés Akudama, prolifèrent.\nUn jour, alors qu'elle est au commissariat à la suite d'une erreur judiciaire, une citoyenne ordinaire est entrainée bien malgré elle par un groupe d'Akudama. Leur but ? Attaquer le Shinkansen et récupérer un coffre-fort qui s'y trouve.",
+    "genres": "Cyberpunk, Action, Drame, Mystère, Crime, Aventure, Seinen",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/tzna6t0e",
+            "https://sendvid.com/embed/q58wnjfk",
+            "https://sendvid.com/embed/t9dxwi67",
+            "https://sendvid.com/embed/9c68a3h8",
+            "https://sendvid.com/embed/457n4zv9",
+            "https://sendvid.com/embed/h4x97lot",
+            "https://sendvid.com/embed/p993tf2u",
+            "https://sendvid.com/embed/xgsbbcqc",
+            "https://sendvid.com/embed/xcwz6wkl",
+            "https://sendvid.com/embed/ymdzszzg",
+            "https://sendvid.com/embed/dg6u2gt0",
+            "https://sendvid.com/embed/73avyhf9"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4113996",
+            "https://video.sibnet.ru/shell.php?videoid=4121876",
+            "https://video.sibnet.ru/shell.php?videoid=4121877",
+            "https://video.sibnet.ru/shell.php?videoid=4124111",
+            "https://video.sibnet.ru/shell.php?videoid=4131827",
+            "https://video.sibnet.ru/shell.php?videoid=4138651",
+            "https://video.sibnet.ru/shell.php?videoid=4145600",
+            "https://video.sibnet.ru/shell.php?videoid=4154555",
+            "https://video.sibnet.ru/shell.php?videoid=4162621",
+            "https://video.sibnet.ru/shell.php?videoid=4168934",
+            "https://video.sibnet.ru/shell.php?videoid=4175750",
+            "https://video.sibnet.ru/shell.php?videoid=4189420"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-8291q33c4bvg.html",
+            "https://vidmoly.to/embed-ssvnnefeab92.html",
+            "https://vidmoly.to/embed-hgo7z3a67ayc.html",
+            "https://vidmoly.to/embed-oka42i8n67hm.html",
+            "https://vidmoly.to/embed-n6zzom91b5kw.html",
+            "https://vidmoly.to/embed-zwk1i62xll9h.html",
+            "https://vidmoly.to/embed-a4qr751uo5ge.html",
+            "https://vidmoly.to/embed-0yuclo9he271.html",
+            "https://vidmoly.to/embed-5iwj3oc71uep.html",
+            "https://vidmoly.to/embed-ss4ce96g0scg.html",
+            "https://vidmoly.to/embed-iiu3iy9cg9ga.html",
+            "https://vidmoly.to/embed-ui8kwgyco8xz.html"
+          ]
+        }
+      }
+    }
+  }
+}

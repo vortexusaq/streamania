@@ -1,0 +1,47 @@
+{
+  "data": {
+    "name": "kubikiri-cycle",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/kubikiri-cycle.jpg",
+    "desc": "L'histoire se déroule sur l'île de Wet Crow's Feather, où vit Iria Akagami, héritière d'une puissante famille. La jeune fille a été exilée sur l'île par le dirigeant de la Fondation Akagami, et y vit en compagnie de ses domestiques et de personnalités prestigieuses qui ont répondu à ses invitations. C'est ainsi que Ii et Tomo Kunagisa se sont retrouvés sur l'île. Mais alors que chacun profite de la vie, un terrible meurtre est commis.",
+    "genres": "Drame, Fantastique, Mystère, Psychologique",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/okyni4wk",
+            "https://sendvid.com/embed/dbykjy52",
+            "https://sendvid.com/embed/54e8klf6",
+            "https://sendvid.com/embed/q357a7jo",
+            "https://sendvid.com/embed/tevbz0s1",
+            "https://sendvid.com/embed/684p3izy",
+            "https://sendvid.com/embed/wfq62w83",
+            "https://sendvid.com/embed/ccb5mdhu\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4813105",
+            "https://video.sibnet.ru/shell.php?videoid=4813108",
+            "https://video.sibnet.ru/shell.php?videoid=4813112",
+            "https://video.sibnet.ru/shell.php?videoid=4813114",
+            "https://video.sibnet.ru/shell.php?videoid=4813116",
+            "https://video.sibnet.ru/shell.php?videoid=4813119",
+            "https://video.sibnet.ru/shell.php?videoid=4813121",
+            "https://video.sibnet.ru/shell.php?videoid=4813124"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/5pnhogiikhpw7yzj85d6f5fm8w",
+            "https://www.myvi.tv/embed/a6kwcoqfpnrr9myi1m78p7p5qw",
+            "https://www.myvi.tv/embed/f7tuowwcjinwbns5o5ec85edzh",
+            "https://www.myvi.tv/embed/gbtmcfj8n83rjxdbhexpfea1no",
+            "https://www.myvi.tv/embed/in6d41irj3crfby9pc4amenx1o",
+            "https://www.myvi.tv/embed/ng719r9uzyywmfmwtt8euse8nc",
+            "https://www.myvi.tv/embed/qrttseaecf7wbna6ocg55x84qo",
+            "https://www.myvi.tv/embed/n9zq3x6hw59rznsdnbkd8yseha"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "dragon-ie-wo-kau",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/dragon-ie-wo-kau.jpg",
+    "desc": "Letty, un jeune dragon couard qui a été rejeté par sa famille à cause de son incompétence, part en quête d'un foyer sécurisé et rassurant dans lequel il pourra vivre en paix. Au cours de sa longue aventure semée d'embûches, il va croiser le chemin d'un elfe, agent immobilier, qui va lui faire visiter de nombreux biens tels que des donjons lugubres ou des manoirs hantés.",
+    "genres": "Aventure, Comédie, Fantasy, Shônen, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/w4qm0p5r",
+            "https://sendvid.com/embed/f6hpyg8t",
+            "https://sendvid.com/embed/w3xee3ff",
+            "https://sendvid.com/embed/jn5zb1hr",
+            "https://sendvid.com/embed/ob03suct",
+            "https://sendvid.com/embed/ber2o1m1",
+            "https://sendvid.com/embed/o7bshvvg",
+            "https://sendvid.com/embed/bk5h4e7f",
+            "https://sendvid.com/embed/m54rp3rm",
+            "https://sendvid.com/embed/nsn5dcxy",
+            "https://sendvid.com/embed/qckb5qwt",
+            "https://sendvid.com/embed/m7d4vbom\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4830470",
+            "https://video.sibnet.ru/shell.php?videoid=4830471",
+            "https://video.sibnet.ru/shell.php?videoid=4830472",
+            "https://video.sibnet.ru/shell.php?videoid=4830475",
+            "https://video.sibnet.ru/shell.php?videoid=4830482",
+            "https://video.sibnet.ru/shell.php?videoid=4830493",
+            "https://video.sibnet.ru/shell.php?videoid=4830498",
+            "https://video.sibnet.ru/shell.php?videoid=4830504",
+            "https://video.sibnet.ru/shell.php?videoid=4830515",
+            "https://video.sibnet.ru/shell.php?videoid=4830523",
+            "https://video.sibnet.ru/shell.php?videoid=4830533",
+            "https://video.sibnet.ru/shell.php?videoid=4830538"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/5648qbp45k7wtjow7uy1k6pswc",
+            "https://www.myvi.tv/embed/rrbpej4muxirzxgkqyrs1nnt7h",
+            "https://www.myvi.tv/embed/qjhrb1q54ibrtdxg4qf3fnjage",
+            "https://www.myvi.tv/embed/pdfz43twc3nw3py9qwma4r4fdc",
+            "https://www.myvi.tv/embed/d3s9irnmsijr7mx51asemapyaa",
+            "https://www.myvi.tv/embed/rd8porhxo6hrtka6rk8z17ifce",
+            "https://www.myvi.tv/embed/5xs4nzodn56wjkhscmin97ypkc",
+            "https://www.myvi.tv/embed/ws91fnj9f37w3yu5seuniibm8h",
+            "https://www.myvi.tv/embed/tf81xzt3mq9r7bhyj7jn5uspxw",
+            "https://www.myvi.tv/embed/ry5uyxjr93ewi8qiuh9patb3ho",
+            "https://www.myvi.tv/embed/rmfck9mpopmwpmbhq6z4ej3ebo",
+            "https://www.myvi.tv/embed/ucpx3g4qczxw9gsg8yx6y53ozr"
+          ]
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "re-main",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/re-main.jpg",
+    "desc": "L'histoire se centre sur Minato Kiyomizu, un garçon ayant arrêté de pratiquer le water-polo à cause d'un incident survenu pendant l'hiver de sa troisième année de collège. En arrivant au lycée, il décide de reprendre ce sports avec une nouvelle équipe. Cependant, la jeune équipe va rencontrer de nombreux problèmes...",
+    "genres": "Comédie, School-Life, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/letyysnd",
+            "https://sendvid.com/embed/nnh5b64d",
+            "https://sendvid.com/embed/z0m30zjt",
+            "https://sendvid.com/embed/cs75fehj",
+            "https://sendvid.com/embed/zukecrlm",
+            "https://sendvid.com/embed/1vgu8aec",
+            "https://sendvid.com/embed/7jzfjz02",
+            "https://sendvid.com/embed/aheqxu5m",
+            "https://sendvid.com/embed/mdpzwipx",
+            "https://sendvid.com/embed/xbr38i4q",
+            "https://sendvid.com/embed/3dly3prw",
+            "https://sendvid.com/embed/bhadufym"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4345378",
+            "https://video.sibnet.ru/shell.php?videoid=4352560",
+            "https://video.sibnet.ru/shell.php?videoid=4367486",
+            "https://video.sibnet.ru/shell.php?videoid=4375124",
+            "https://video.sibnet.ru/shell.php?videoid=4380690",
+            "https://video.sibnet.ru/shell.php?videoid=4386994",
+            "https://video.sibnet.ru/shell.php?videoid=4399778",
+            "https://video.sibnet.ru/shell.php?videoid=4407187",
+            "https://video.sibnet.ru/shell.php?videoid=4413875",
+            "https://video.sibnet.ru/shell.php?videoid=4420460",
+            "https://video.sibnet.ru/shell.php?videoid=4427127",
+            "https://video.sibnet.ru/shell.php?videoid=4435841"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/wwimg8k8nqow78tuc51bpc57sw",
+            "https://www.myvi.top/embed/n7tk9hcoeicrtfwhzq3bbqoikc",
+            "https://www.myvi.top/embed/dcmojqscpxurzbyg66gcfrsjay",
+            "https://www.myvi.top/embed/ohpqie4gjmwrmbde5egdxok7eh",
+            "https://www.myvi.top/embed/yoowgiureb4w5fj8zacczdtora",
+            "https://www.myvi.top/embed/hxtepmho9imrumobtaurjso5fr",
+            "https://www.myvi.top/embed/trh3r4c1pofwmfham39xy648ao",
+            "https://www.myvi.top/embed/bbi5naaqa5prungmxh9mwnh9wa",
+            "https://www.myvi.top/embed/9xqcn9ynw8srpjeka3pqxhy83c",
+            "https://www.myvi.top/embed/zn8fgjxmmhwwfywcq4qdbh3h4o",
+            "https://www.myvi.top/embed/e8h5skj3trfrz8e75cxjf9teer",
+            "https://www.myvi.top/embed/pgbki15qjs4wie5jqyy6upnyre"
+          ]
+        }
+      }
+    }
+  }
+}

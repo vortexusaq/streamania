@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "to-be-hero",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/to-be-hero.jpg",
+    "desc": "Ossan est un drôle de personnage. Carrément indiscipliné, divorcé, il travaille dans une boîte au sein de laquelle il conçoit des WC. Il vit avec sa fille dont il a la garde, Min-chan, une petite aussi bonne dans les livres que sur les terrains de sport. Un jour, alors qu'il travaille, il est littéralement aspiré par un WC et devient une espèce de super-héros, destiné à sauver le monde et surtout à protéger Min-chan !",
+    "genres": "Action, Comédie, Slice-of-Life, Super-héros",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-lawh4p7ay87u.html",
+            "https://vidmoly.to/embed-c2v7bhpjjpm1.html",
+            "https://vidmoly.to/embed-dsho1eqkpv18.html",
+            "https://vidmoly.to/embed-246czepdomih.html",
+            "https://vidmoly.to/embed-taj8b2j3swgu.html",
+            "https://vidmoly.to/embed-9nvbh5k900o7.html",
+            "https://vidmoly.to/embed-oih6t1o007vo.html",
+            "https://vidmoly.to/embed-1ogfzcb85zr5.html",
+            "https://vidmoly.to/embed-rrl09n5g5pfu.html",
+            "https://vidmoly.to/embed-14axbszl03gk.html",
+            "https://vidmoly.to/embed-tpibs4q6rwbx.html",
+            "https://vidmoly.to/embed-fhlp65y2wm64.html"
+          ],
+          "lec2": [
+            "https://oneupload.to/embed-7vfo7vose1lr.html",
+            "https://oneupload.to/embed-lmc29ws6gxib.html",
+            "https://oneupload.to/embed-smbtp57kzave.html",
+            "https://oneupload.to/embed-ucoa9su8hj2p.html",
+            "https://oneupload.to/embed-ntbnn251rjr2.html",
+            "https://oneupload.to/embed-maivojpzyedl.html",
+            "https://oneupload.to/embed-43c9ya7i3n09.html",
+            "https://oneupload.to/embed-tsygqmxmjcgn.html",
+            "https://oneupload.to/embed-hru90sz5chef.html",
+            "https://oneupload.to/embed-9d2h0wh9b5e2.html",
+            "https://oneupload.to/embed-fr5eeth6l792.html",
+            "https://oneupload.to/embed-6ldk2zr11vo7.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=5732725",
+            "https://video.sibnet.ru/shell.php?videoid=5732729",
+            "https://video.sibnet.ru/shell.php?videoid=5732730",
+            "https://video.sibnet.ru/shell.php?videoid=5732731",
+            "https://video.sibnet.ru/shell.php?videoid=5732732",
+            "https://video.sibnet.ru/shell.php?videoid=5732733",
+            "https://video.sibnet.ru/shell.php?videoid=5732735",
+            "https://video.sibnet.ru/shell.php?videoid=5732736",
+            "https://video.sibnet.ru/shell.php?videoid=5732737",
+            "https://video.sibnet.ru/shell.php?videoid=5732739",
+            "https://video.sibnet.ru/shell.php?videoid=5732742",
+            "https://video.sibnet.ru/shell.php?videoid=5732743"
+          ]
+        }
+      }
+    }
+  }
+}

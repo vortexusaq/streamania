@@ -1,0 +1,57 @@
+{
+  "data": {
+    "name": "burn-the-witch",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/burn-the-witch.jpg",
+    "desc": "Cette œuvre prend place douze ans après l'arc Thousand-Year Blood War et deux ans après le dernier chapitre du manga Bleach.\n\nL'histoire se déroule dans un Londres fictif, où les humains vivent en harmonie avec les dragons et les sorcières. Un jour, les dragons sont devenus hostiles et ont commencé à attaquer les humains, les privant ainsi de leurs foyers.\n\nPour contrer cette menace, Wing Bind, une organisation composée de puissant sorciers est créée. C'est dans ce cadre que nous suivons le quotidien de Niihashi Noel et Nini Spangle, deux sorcières que tout oppose.",
+    "genres": "Action, Comédie, Fantasy",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/c0ezpw0m",
+            "https://sendvid.com/embed/mscn4gv2",
+            "https://sendvid.com/embed/qgin3drr"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4099399",
+            "https://video.sibnet.ru/shell.php?videoid=4099400",
+            "https://video.sibnet.ru/shell.php?videoid=4099610"
+          ],
+          "lec3": [
+            "https://vidmoly.to/embed-9w1cw2yn364m.html",
+            "https://vidmoly.to/embed-co9jk6qxifbn.html",
+            "https://vidmoly.to/embed-s12s83t1hs68.html"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/Burn%20the%20Witch/Burn_the_Witch_1_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Burn%20the%20Witch/Burn_the_Witch_2_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Burn%20the%20Witch/Burn_the_Witch_3_VOSTFR.mp4"
+          ]
+        }
+      },
+      "Burn the Witch #0.8": {
+        "url": "oav/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5380759"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-1wkmjbf04s1x.html"
+          ],
+          "lec3": [
+            "https://vk.com/video_ext.php?oid=755747641&id=456240649&hd=3"
+          ],
+          "lec4": [
+            "https://sendvid.com/embed/tqg05nod"
+          ],
+          "lec5": [
+            "https://s22.anime-sama.fr/videos/Burn%20the%20Witch/Burn_the_Witch_S0_1_VOSTFR.mp4"
+          ]
+        }
+      }
+    }
+  }
+}

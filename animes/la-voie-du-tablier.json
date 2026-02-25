@@ -1,0 +1,79 @@
+{
+  "data": {
+    "name": "la-voie-du-tablier",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/la-voie-du-tablier.jpg",
+    "desc": "Notre homme est ancien yakuza devenu homme au foyer... Il se faisait appeler « Tatsu, l'immortel » ! Aujourd'hui, il est l'homme idéal : il prépare des bentô à tomber, il repère les meilleurs promotions et il aide même d'anciens collègues (?) dans leur quotidien...\nMais malgré son adorable tablier, il ne peut totalement gommer son air patibulaire et son regard de tueur... Pour notre plus grand plaisir !",
+    "genres": "Comédie, Slice-of-Life",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/caljya73",
+            "https://sendvid.com/embed/fs47u6li",
+            "https://sendvid.com/embed/ilknhmj0",
+            "https://sendvid.com/embed/geuxt8xq",
+            "https://sendvid.com/embed/0rb88x2w",
+            "https://sendvid.com/embed/thde0c0f",
+            "https://sendvid.com/embed/x3elswub",
+            "https://sendvid.com/embed/6rl2mdvj",
+            "https://sendvid.com/embed/ezelxv8a",
+            "https://sendvid.com/embed/rhe4bzf4"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4959424",
+            "https://video.sibnet.ru/shell.php?videoid=4959427",
+            "https://video.sibnet.ru/shell.php?videoid=4959430",
+            "https://video.sibnet.ru/shell.php?videoid=4959433",
+            "https://video.sibnet.ru/shell.php?videoid=4959437",
+            "https://video.sibnet.ru/shell.php?videoid=4959440",
+            "https://video.sibnet.ru/shell.php?videoid=4959441",
+            "https://video.sibnet.ru/shell.php?videoid=4959444",
+            "https://video.sibnet.ru/shell.php?videoid=4959445",
+            "https://video.sibnet.ru/shell.php?videoid=4959448"
+          ],
+          "lec3": [
+            "https://www.myvi.top/embed/e1jar98u4btr7e4wp53bcn4hgw",
+            "https://www.myvi.top/embed/zymaeowcoecwdn6t1xidtos4za",
+            "https://www.myvi.top/embed/nxpm8aa1ba5rfp3tw6t1xqxofc",
+            "https://www.myvi.top/embed/pwmyckpc66mrtfe171686s61hr",
+            "https://www.myvi.top/embed/69pebc16te1rzbjqnurijby4ny",
+            "https://www.myvi.top/embed/cpr6zc1nphgwxrxnscqmj7s8jy",
+            "https://www.myvi.top/embed/wafrq8qea96rij8aq3ew5kmete",
+            "https://www.myvi.top/embed/y5kgwriyezyrpcrshg3y963tne",
+            "https://www.myvi.top/embed/mp9s4wbyerorfcsiyozprmhomc",
+            "https://www.myvi.top/embed/hg77jy7kdtbwx8d8oqwfcj63oo"
+          ]
+        }
+      },
+      "Saison 2": {
+        "url": "saison2/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/f6h0vcou",
+            "https://sendvid.com/embed/78uo66uu",
+            "https://sendvid.com/embed/pllgu3ux",
+            "https://sendvid.com/embed/2y34pqd8",
+            "https://sendvid.com/embed/xp63pcka"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4996133",
+            "https://video.sibnet.ru/shell.php?videoid=4996134",
+            "https://video.sibnet.ru/shell.php?videoid=4996136",
+            "https://video.sibnet.ru/shell.php?videoid=4996137",
+            "https://video.sibnet.ru/shell.php?videoid=4996138"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/g54u73ke54krmrk4mmkiozuhfo",
+            "https://www.myvi.tv/embed/kjh87h3889arbdgh8yx1jtkt5h",
+            "https://www.myvi.tv/embed/g7ew9g6anobw5pyon8kub53q4e",
+            "https://www.myvi.tv/embed/oj8aw364s8brzyq3gpg6armgnh",
+            "https://www.myvi.tv/embed/jcrppacmnkxrfpuxgs3onqpqqa"
+          ]
+        }
+      }
+    }
+  }
+}

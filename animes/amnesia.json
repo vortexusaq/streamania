@@ -1,0 +1,59 @@
+{
+  "data": {
+    "name": "amnesia",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/amnesia.jpg",
+    "desc": "L'héroïne (qui n'a pas de nom) fait un jour un malaise au café où elle travaille. A son réveil, elle ne se souvient plus de rien, mais peut désormais voir un être étrange du nom d'Orion. Ce dernier réussit à la convaincre de ne parler de son problème de mémoire à personne, afin de pouvoir retrouver ses souvenirs grâce à des situations déjà vécues. Le problème, c'est que les garçons travaillant avec elle ne sont pas dupes et se posent rapidement des questions. L'un d'entre eux, Shin, est particulièrement suspicieux et essaie de comprendre ce qui ne va pas chez elle. Mais l'héroïne se méfie de lui, surtout depuis qu'elle se souvient qu'il lui a avoué avoir tué quelqu'un ! Mais est-ce bien un souvenir ?",
+    "genres": "Drame, Fantastique, Mystère, Romance, Harem inversé, Voyage temporel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/2hop7rro",
+            "https://sendvid.com/embed/1apua22j",
+            "https://sendvid.com/embed/cwtnjeb7",
+            "https://sendvid.com/embed/zwatxkx7",
+            "https://sendvid.com/embed/diu5klxe",
+            "https://sendvid.com/embed/p0wry6ik",
+            "https://sendvid.com/embed/d95ds589",
+            "https://sendvid.com/embed/5q81g0ol",
+            "https://sendvid.com/embed/xf2topwe",
+            "https://sendvid.com/embed/hgievuya",
+            "https://sendvid.com/embed/carmh3gr",
+            "https://sendvid.com/embed/6h1nzvxq"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=5255664",
+            "https://video.sibnet.ru/shell.php?videoid=5255665",
+            "https://video.sibnet.ru/shell.php?videoid=5255666",
+            "https://video.sibnet.ru/shell.php?videoid=5255667",
+            "https://video.sibnet.ru/shell.php?videoid=5255668",
+            "https://video.sibnet.ru/shell.php?videoid=5255670",
+            "https://video.sibnet.ru/shell.php?videoid=5255674",
+            "https://video.sibnet.ru/shell.php?videoid=5255675",
+            "https://video.sibnet.ru/shell.php?videoid=5255676",
+            "https://video.sibnet.ru/shell.php?videoid=5255677",
+            "https://video.sibnet.ru/shell.php?videoid=5255679",
+            "https://video.sibnet.ru/shell.php?videoid=5255680"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/tg14rjnw6gfr7jsek5ymray81w",
+            "https://www.myvi.tv/embed/giwrhzmtpahrmnuuk3upwnko7r",
+            "https://www.myvi.tv/embed/ajpgopqu6pqwbyzwupwac5gkrw",
+            "https://www.myvi.tv/embed/9twjdkb48bwruktz9u1h1toybw",
+            "https://www.myvi.tv/embed/mwm76duu7m6rtmswr9b9drxq5o",
+            "https://www.myvi.tv/embed/xmjg9eoxnj6wbpsh4nmxj6xxyw",
+            "https://www.myvi.tv/embed/foouuqu5zgdwifzdtn8drf88jo",
+            "https://www.myvi.tv/embed/aa4cx5b1yq8rbkcauo3wmuoouy",
+            "https://www.myvi.tv/embed/b7jcn4x8jqow3cfyaftyuegb1y",
+            "https://www.myvi.tv/embed/x4r6ybhskqbr9yocrshuxf7jfw",
+            "https://www.myvi.tv/embed/zj1eah1bnmhr9pb7pbebgbzmoh",
+            "https://www.myvi.tv/embed/kfzb1n6k5gfwzg84hq6a9g4n6e"
+          ]
+        }
+      }
+    }
+  }
+}

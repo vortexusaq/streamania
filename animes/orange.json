@@ -1,0 +1,91 @@
+{
+  "data": {
+    "name": "orange",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/orange.jpg",
+    "desc": "Un jour de printemps, Naho Takamiya, âgée de 16 ans, reçoit une étrange lettre signée de son propre nom, datant de dix ans dans le futur. Elle croit d'abord bien sûr à une plaisanterie. Cependant, en commençant à lire la lettre et les détails qui y sont écrits, elle se rend compte au fur et à mesure que des évènements relatés se sont réalisés tels que l'arrivée du nouvel étudiant, Kakeru Naruse, qui est assis à côté d'elle en classe.\n\nDans la lettre, la Naho du futur parle de ses nombreux regrets, sous-entendant à la Naho du présent de prendre de meilleures décisions, en particulier concernant Kakeru. En effet, le jeune garçon n'est plus de ce monde dans le futur. La Naho du futur lui demande donc de veiller sur lui...",
+    "genres": "Drame, Mystère, Romance, School-Life, Shôjo, Slice-of-Life, Surnaturel",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 2,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://vidmoly.to/embed-pd5hkz68feho.html",
+            "https://vidmoly.to/embed-76nt5l5o09e2.html",
+            "https://vidmoly.to/embed-krpx9xkpihxo.html",
+            "https://vidmoly.to/embed-5yfxdukeffwr.html",
+            "https://vidmoly.to/embed-g3gc7wpckix8.html",
+            "https://vidmoly.to/embed-g9i5zbt52y20.html",
+            "https://vidmoly.to/embed-n8d5c8ug9ibn.html",
+            "https://vidmoly.to/embed-w1oorj6mbu9l.html",
+            "https://vidmoly.to/embed-8yrpzxjm4leg.html",
+            "https://vidmoly.to/embed-d3ze01onbzb4.html",
+            "https://vidmoly.to/embed-3tmqukovibiy.html",
+            "https://vidmoly.to/embed-9huxouvxnqc8.html",
+            "https://vidmoly.to/embed-p97cuwait124.html"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4712519",
+            "https://video.sibnet.ru/shell.php?videoid=4712523",
+            "https://video.sibnet.ru/shell.php?videoid=4712530",
+            "https://video.sibnet.ru/shell.php?videoid=4712536",
+            "https://video.sibnet.ru/shell.php?videoid=4712543",
+            "https://video.sibnet.ru/shell.php?videoid=4712557",
+            "https://video.sibnet.ru/shell.php?videoid=4712571",
+            "https://video.sibnet.ru/shell.php?videoid=4712580",
+            "https://video.sibnet.ru/shell.php?videoid=4712589",
+            "https://video.sibnet.ru/shell.php?videoid=4712598",
+            "https://video.sibnet.ru/shell.php?videoid=4712601",
+            "https://video.sibnet.ru/shell.php?videoid=4712605",
+            "https://video.sibnet.ru/shell.php?videoid=4712612"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/tla27dre",
+            "https://sendvid.com/embed/6bkqxsrz",
+            "https://sendvid.com/embed/nltp9wm7",
+            "https://sendvid.com/embed/9ifaak3r",
+            "https://sendvid.com/embed/8q8hovzv",
+            "https://sendvid.com/embed/3nkd6u0q",
+            "https://sendvid.com/embed/6v7crei7",
+            "https://sendvid.com/embed/c5lkq5ka",
+            "https://sendvid.com/embed/5r8r8swx",
+            "https://sendvid.com/embed/8l248ii8",
+            "https://sendvid.com/embed/pn5kaneo",
+            "https://sendvid.com/embed/jisatimf",
+            "https://sendvid.com/embed/hshbeaqz"
+          ],
+          "lec4": [
+            "https://s22.anime-sama.fr/videos/Orange/Orange_01_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_02_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_03_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_04_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_05_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_06_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_07_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_08_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_09_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_10_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_11_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_12_VOSTFR.mp4",
+            "https://s22.anime-sama.fr/videos/Orange/Orange_13_VOSTFR.mp4"
+          ]
+        }
+      },
+      "Film": {
+        "url": "film/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/tyqewb6n"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-j50p2gunbtfd.html"
+          ],
+          "lec3": [
+            "https://video.sibnet.ru/shell.php?videoid=5030157"
+          ]
+        }
+      }
+    }
+  }
+}

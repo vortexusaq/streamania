@@ -1,0 +1,73 @@
+{
+  "data": {
+    "name": "mayonaka-punch",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/mayonaka-punch.jpg",
+    "desc": "Ancienne membre du groupe de NewTubers, les Harikiri Sisters, Masaki connaît un revers dans jeune carrière. En réalité, elle s'est tout bonnement faite virer lors d'un livestream ! Elle s'associe désormais à Live, une partenaire aux capacités surhumaines. Ensemble, elles veulent créer du contenu sensationnel et atteindre le million d'abonnés. Parviendront-elles à réaliser leurs rêves ou seront-elles sanctionnées par le blocage des viewers ?",
+    "genres": "Comédie, Surnaturel, Monde virtuel, Quotidien, Réseaux sociaux, Technologies, Vampires",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://video.sibnet.ru/shell.php?videoid=5640281",
+            "https://video.sibnet.ru/shell.php?videoid=5640282",
+            "https://video.sibnet.ru/shell.php?videoid=5640284",
+            "https://video.sibnet.ru/shell.php?videoid=5640286",
+            "https://video.sibnet.ru/shell.php?videoid=5640289",
+            "https://video.sibnet.ru/shell.php?videoid=5640290",
+            "https://video.sibnet.ru/shell.php?videoid=5644102",
+            "https://video.sibnet.ru/shell.php?videoid=5652826",
+            "https://video.sibnet.ru/shell.php?videoid=5661064",
+            "https://video.sibnet.ru/shell.php?videoid=5669889",
+            "https://video.sibnet.ru/shell.php?videoid=5678762",
+            "https://video.sibnet.ru/shell.php?videoid=5688611"
+          ],
+          "lec2": [
+            "https://vidmoly.to/embed-95uoh8wy3tbs.html",
+            "https://vidmoly.to/embed-g0oqz4yv5jit.html",
+            "https://vidmoly.to/embed-knkcwwe5k054.html",
+            "https://vidmoly.to/embed-qeim2mi2tar7.html",
+            "https://vidmoly.to/embed-mr5sxc4cgx1y.html",
+            "https://vidmoly.to/embed-x4chij8pleb9.html",
+            "https://vidmoly.to/embed-lu6notu5tmm4.html",
+            "https://vidmoly.to/embed-v0ksgc5xbnc6.html",
+            "https://vidmoly.to/embed-up9y5fxcjkij.html",
+            "https://vidmoly.to/embed-6m5nm565n8vp.html",
+            "https://vidmoly.to/embed-2f5swkre6dr7.html",
+            "https://vidmoly.to/embed-ycs2iajlrtd3.html"
+          ],
+          "lec3": [
+            "https://sendvid.com/embed/3rkcmcni",
+            "https://sendvid.com/embed/p59td0x5",
+            "https://sendvid.com/embed/o5wtztmh",
+            "https://sendvid.com/embed/scb1nw3s",
+            "https://sendvid.com/embed/x2d6tkef",
+            "https://sendvid.com/embed/y1sz1ymx",
+            "https://sendvid.com/embed/8418mfg3",
+            "https://sendvid.com/embed/dqj9b389",
+            "https://sendvid.com/embed/9krryx8d",
+            "https://sendvid.com/embed/m3lgfjz9",
+            "https://sendvid.com/embed/s6jbdm62",
+            "https://sendvid.com/embed/trf67kmg"
+          ],
+          "lec4": [
+            "https://vk.com/video_ext.php?oid=751474887&id=456240154&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240155&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240156&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240157&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240158&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240159&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240178&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240223&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240276&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240325&hd=3",
+            "https://vk.com/video_ext.php?oid=751474887&id=456240380&hd=3",
+            "https://vk.com/video_ext.php?oid=790085849&id=456239088&hd=3"
+          ]
+        }
+      }
+    }
+  }
+}

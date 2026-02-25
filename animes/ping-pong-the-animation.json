@@ -1,0 +1,56 @@
+{
+  "data": {
+    "name": "ping-pong-the-animation",
+    "coverUrl": "https://cdn.statically.io/gh/Anime-Sama/IMG/img/contenu/ping-pong-the-animation.jpg",
+    "desc": "Makoto Tsukimoto (surnommé Smile) et Yutaka Hoshino (surnommé Peko) sont amis en dépit du fait qu'ils aient un caractère très différent : Smile est calme et réservé tandis que Peko est vif et énergique. Mais les deux amis sont réunis par une passion : le tennis de table (ou Ping Pong).",
+    "genres": "Ping-pong, Seinen, Tournois, Sports, Sports",
+    "update": "Aucune donnée.",
+    "saisons": {
+      "total": 1,
+      "Saison 1": {
+        "url": "saison1/vostfr",
+        "eps": {
+          "lec1": [
+            "https://sendvid.com/embed/eunaml1j",
+            "https://sendvid.com/embed/l54oh23l",
+            "https://sendvid.com/embed/wm2laxwd",
+            "https://sendvid.com/embed/xgl2zisl",
+            "https://sendvid.com/embed/shg3yuz9",
+            "https://sendvid.com/embed/1a5yguxt",
+            "https://sendvid.com/embed/zmgauecs",
+            "https://sendvid.com/embed/abv2c2l1",
+            "https://sendvid.com/embed/0rs7acse",
+            "https://sendvid.com/embed/s9sg56g1",
+            "https://sendvid.com/embed/bcccq8d9\t"
+          ],
+          "lec2": [
+            "https://video.sibnet.ru/shell.php?videoid=4857149",
+            "https://video.sibnet.ru/shell.php?videoid=4857150",
+            "https://video.sibnet.ru/shell.php?videoid=4857153",
+            "https://video.sibnet.ru/shell.php?videoid=4857155",
+            "https://video.sibnet.ru/shell.php?videoid=4857157",
+            "https://video.sibnet.ru/shell.php?videoid=4857159",
+            "https://video.sibnet.ru/shell.php?videoid=4857160",
+            "https://video.sibnet.ru/shell.php?videoid=4857161",
+            "https://video.sibnet.ru/shell.php?videoid=4857164",
+            "https://video.sibnet.ru/shell.php?videoid=4857166",
+            "https://video.sibnet.ru/shell.php?videoid=4857167"
+          ],
+          "lec3": [
+            "https://www.myvi.tv/embed/4u8ds94o5uywmer7ysifabtw6c",
+            "https://www.myvi.tv/embed/mxf4ghiaapyw9g3k4czu7m4zno",
+            "https://www.myvi.tv/embed/umtt75d8kohrmmxkpztnxwp66w",
+            "https://www.myvi.tv/embed/pa4gb7mui6jr8cx56ojyxz1baa",
+            "https://www.myvi.tv/embed/gezpnhxriprw8cdyec55e9raih",
+            "https://www.myvi.tv/embed/8w4gt6ryndgrfm4yusqbofmioe",
+            "https://www.myvi.tv/embed/c5bda7t9486wubsrnxgjmkk45h",
+            "https://www.myvi.tv/embed/bp3agbmwr7zrzpxag5mkh48yho",
+            "https://www.myvi.tv/embed/7ozek9y8rwprtyskf4qadgjqgr",
+            "https://www.myvi.tv/embed/kxrxpdzed59wufaquyudidt5wa",
+            "https://www.myvi.tv/embed/hycaj7eyx1pwifwiqjy7hbdpww"
+          ]
+        }
+      }
+    }
+  }
+}
